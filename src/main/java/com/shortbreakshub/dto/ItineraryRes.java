@@ -25,9 +25,10 @@ public record ItineraryRes(
         String worstTimeNote,
         List<String> tips,
         List<String> withKids,
-        List<Map<String,String>> airportToCity,
+        List<Map<String,String>> arrival,
         List<String> gettingAround,
         List<Map<String,String>> dayTrips,
+        List<Map<String,String>> dayMoves,
         List<String> practical
 ) {
     public static ItineraryRes toRes(Itinerary itinerary,
@@ -57,6 +58,7 @@ public record ItineraryRes(
                 transportTip.getArrival(),
                 transportTip.getGettingAround(),
                 transportTip.getDayTrips(),
+                transportTip.getDayMoves(),
                 transportTip.getPractical()
         );
     }

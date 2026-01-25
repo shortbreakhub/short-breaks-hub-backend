@@ -2,16 +2,11 @@ package com.shortbreakshub.seeder;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.shortbreakshub.model.DayPlan;
-import com.shortbreakshub.model.Itinerary;
-import com.shortbreakshub.model.ItineraryPlanningSnapshot;
-import com.shortbreakshub.model.ItineraryTransportTip;
+import com.shortbreakshub.model.*;
+import com.shortbreakshub.repository.ItineraryFoodRecommendationRepository;
 import com.shortbreakshub.repository.ItineraryPlanningSnapshotRepository;
 import com.shortbreakshub.repository.ItineraryTransportTipRepository;
-import com.shortbreakshub.seeder.dto.SeedDayDTO;
-import com.shortbreakshub.seeder.dto.SeedItineraryDTO;
-import com.shortbreakshub.seeder.dto.SeedPlanningDTO;
-import com.shortbreakshub.seeder.dto.SeedTransportTipDTO;
+import com.shortbreakshub.seeder.dto.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
@@ -31,15 +26,18 @@ public class ItinerarySeeder implements CommandLineRunner {
     private final ObjectMapper objectMapper;
     private final ItineraryPlanningSnapshotRepository snapshotRepository;
     private final ItineraryTransportTipRepository transportTipRepository;
+    private final ItineraryFoodRecommendationRepository foodRecommendationRepository;
 
     public ItinerarySeeder(ItineraryRepository itineraryRepository,
                            ObjectMapper objectMapper,
                            ItineraryPlanningSnapshotRepository snapshotRepository,
-                           ItineraryTransportTipRepository transportTipRepository) {
+                           ItineraryTransportTipRepository transportTipRepository,
+                           ItineraryFoodRecommendationRepository foodRecommendationRepository) {
         this.itineraryRepository = itineraryRepository;
         this.objectMapper = objectMapper;
         this.snapshotRepository = snapshotRepository;
         this.transportTipRepository = transportTipRepository;
+        this.foodRecommendationRepository = foodRecommendationRepository;
     }
 
     @Override
@@ -67,13 +65,19 @@ public class ItinerarySeeder implements CommandLineRunner {
             int created = 0;
             for (SeedItineraryDTO dto : seedItineraries) {
 
-                if (dto.getPlanning() == null && dto.getTransport() == null) continue;
+                if (dto.getFoodRecommendation() == null) {
+                    System.out.println("❌ Food is NULL for itinerary: " + dto.getSlug());
+                    continue; // or handle later
+                }
+
+                if (dto.getPlanning() == null && dto.getTransport() == null && dto.getFoodRecommendation() == null) continue;
 
                 Itinerary itinerary = itineraryBySlug.get(dto.getSlug());
                 if (itinerary == null) continue;
 
                 ItineraryPlanningSnapshot snap = toSnapshotEntity(dto.getPlanning(), itinerary);
                 ItineraryTransportTip transportTip = toTransportTipEntity(dto.getTransport(), itinerary);
+                ItineraryFoodRecommendation foodRecommendation = toFoodRecommendation(dto.getFoodRecommendation(), itinerary);
 
                 if (!snapshotRepository.existsByItinerary_Id(itinerary.getId())){
                     snapshotRepository.save(snap);
@@ -81,6 +85,10 @@ public class ItinerarySeeder implements CommandLineRunner {
                 if (!transportTipRepository.existsByItinerary_Id(itinerary.getId())){
                     transportTipRepository.save(transportTip);
                 }
+                if(!foodRecommendationRepository.existsByItinerary_Id(itinerary.getId())){
+                    foodRecommendationRepository.save(foodRecommendation);
+                }
+
                 created++;
             }
             System.out.println("Seeded snapshots = " + created);
@@ -119,7 +127,9 @@ public class ItinerarySeeder implements CommandLineRunner {
     }
 
     private ItineraryPlanningSnapshot toSnapshotEntity(SeedPlanningDTO planning, Itinerary itinerary) {
+
         ItineraryPlanningSnapshot snap = new ItineraryPlanningSnapshot();
+
         snap.setItinerary(itinerary);
 
         snap.setCity(planning.getCity());
@@ -137,6 +147,7 @@ public class ItinerarySeeder implements CommandLineRunner {
     }
 
     private ItineraryTransportTip toTransportTipEntity(SeedTransportTipDTO transport, Itinerary itinerary) {
+
         ItineraryTransportTip transportTip = new ItineraryTransportTip();
 
         transportTip.setItinerary(itinerary);
@@ -154,4 +165,18 @@ public class ItinerarySeeder implements CommandLineRunner {
         return transportTip;
     }
 
+    private ItineraryFoodRecommendation toFoodRecommendation(SeedFoodRecommendationDTO food, Itinerary itinerary) {
+
+        ItineraryFoodRecommendation foodRecommendation = new ItineraryFoodRecommendation();
+
+        foodRecommendation.setItinerary(itinerary);
+
+        foodRecommendation.setMustTry(food.getMustTry());
+
+        foodRecommendation.setAreas(food.getAreas());
+
+        foodRecommendation.setPlaces(food.getPlaces());
+
+        return foodRecommendation;
+    }
 }

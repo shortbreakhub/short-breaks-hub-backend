@@ -1,7 +1,6 @@
 package com.shortbreakshub.repository;
 
 
-import com.shortbreakshub.model.ItineraryPlanningSnapshot;
 import com.shortbreakshub.model.ItineraryTransportTip;
 import org.springframework.data.jpa.repository.JpaRepository;
 

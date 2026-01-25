@@ -25,4 +25,6 @@ public class SeedItineraryDTO {
     private SeedPlanningDTO planning;
 
     private SeedTransportTipDTO transport;
+
+    private SeedFoodRecommendationDTO foodRecommendation;
 }
