@@ -8,6 +8,7 @@ import com.shortbreakshub.repository.ItineraryPlanningSnapshotRepository;
 import com.shortbreakshub.repository.ItineraryTransportTipRepository;
 import com.shortbreakshub.seeder.dto.*;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.context.annotation.Profile;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
 import com.shortbreakshub.repository.ItineraryRepository;
@@ -20,6 +21,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 @Component
+@Profile("!prod")
 public class ItinerarySeeder implements CommandLineRunner {
 
     private final ItineraryRepository itineraryRepository;
@@ -43,50 +45,129 @@ public class ItinerarySeeder implements CommandLineRunner {
     @Override
     @Transactional
     public void run(String... args) throws Exception {
-        ClassPathResource resource = new ClassPathResource("seed/itineraries.json");
-        try (InputStream in =  resource.getInputStream() ) {
+        ClassPathResource resource =
+                new ClassPathResource("seed/itineraries.json");
+
+        try (InputStream in = resource.getInputStream()) {
             List<SeedItineraryDTO> seedItineraries =
-                    objectMapper.readValue(in, new TypeReference<>() {
-                    });
+                    objectMapper.readValue(
+                            in,
+                            new TypeReference<>() {}
+                    );
 
+            long itineraryCount = itineraryRepository.count();
+            long snapshotCount = snapshotRepository.count();
+            long transportCount = transportTipRepository.count();
+            long foodCount = foodRecommendationRepository.count();
 
-            if (itineraryRepository.count() == 0) {
+            int expectedCount = seedItineraries.size();
+
+            System.out.println("================================");
+            System.out.println("Expected JSON: " + expectedCount);
+            System.out.println("Itineraries : " + itineraryCount);
+            System.out.println("Planning    : " + snapshotCount);
+            System.out.println("Transport   : " + transportCount);
+            System.out.println("Food        : " + foodCount);
+            System.out.println("================================");
+
+            boolean seedDataComplete =
+                    itineraryCount == expectedCount
+                            && snapshotCount == expectedCount
+                            && transportCount == expectedCount
+                            && foodCount == expectedCount;
+
+            if (seedDataComplete) {
+                System.out.println(
+                        "All itinerary seed data already exists. Skipping seed."
+                );
+                return;
+            }
+
+            if (itineraryCount == 0) {
                 List<Itinerary> itineraries = seedItineraries.stream()
                         .map(this::toItineraryEntity)
                         .toList();
+
                 itineraryRepository.saveAll(itineraries);
-            } else {
-                System.out.println("Itinerary Already Exists (" + itineraryRepository.count() + ")");
             }
 
-            Map<String, Itinerary> itineraryBySlug = itineraryRepository.findAll().stream()
-                    .collect(Collectors.toMap(Itinerary::getSlug, Function.identity(),(a,b)->a));
+            Map<String, Itinerary> itineraryBySlug =
+                    itineraryRepository.findAll().stream()
+                            .collect(
+                                    Collectors.toMap(
+                                            Itinerary::getSlug,
+                                            Function.identity(),
+                                            (a, b) -> a
+                                    )
+                            );
 
             int created = 0;
+
             for (SeedItineraryDTO dto : seedItineraries) {
-
-                if (dto.getPlanning() == null && dto.getTransport() == null && dto.getFoodRecommendation() == null) continue;
-
-                Itinerary itinerary = itineraryBySlug.get(dto.getSlug());
-                if (itinerary == null) continue;
-
-                ItineraryPlanningSnapshot snap = toSnapshotEntity(dto.getPlanning(), itinerary);
-                ItineraryTransportTip transportTip = toTransportTipEntity(dto.getTransport(), itinerary);
-                ItineraryFoodRecommendation foodRecommendation = toFoodRecommendation(dto.getFoodRecommendation(), itinerary);
-
-                if (!snapshotRepository.existsByItinerary_Id(itinerary.getId())){
-                    snapshotRepository.save(snap);
-                }
-                if (!transportTipRepository.existsByItinerary_Id(itinerary.getId())){
-                    transportTipRepository.save(transportTip);
-                }
-                if(!foodRecommendationRepository.existsByItinerary_Id(itinerary.getId())){
-                    foodRecommendationRepository.save(foodRecommendation);
+                if (
+                        dto.getPlanning() == null
+                                && dto.getTransport() == null
+                                && dto.getFoodRecommendation() == null
+                ) {
+                    continue;
                 }
 
-                created++;
+                Itinerary itinerary =
+                        itineraryBySlug.get(dto.getSlug());
+
+                if (itinerary == null) {
+                    continue;
+                }
+
+                if (
+                        dto.getPlanning() != null
+                                && !snapshotRepository.existsByItinerary_Id(
+                                itinerary.getId()
+                        )
+                ) {
+                    snapshotRepository.save(
+                            toSnapshotEntity(
+                                    dto.getPlanning(),
+                                    itinerary
+                            )
+                    );
+                    created++;
+                }
+
+                if (
+                        dto.getTransport() != null
+                                && !transportTipRepository.existsByItinerary_Id(
+                                itinerary.getId()
+                        )
+                ) {
+                    transportTipRepository.save(
+                            toTransportTipEntity(
+                                    dto.getTransport(),
+                                    itinerary
+                            )
+                    );
+                    created++;
+                }
+
+                if (
+                        dto.getFoodRecommendation() != null
+                                && !foodRecommendationRepository.existsByItinerary_Id(
+                                itinerary.getId()
+                        )
+                ) {
+                    foodRecommendationRepository.save(
+                            toFoodRecommendation(
+                                    dto.getFoodRecommendation(),
+                                    itinerary
+                            )
+                    );
+                    created++;
+                }
             }
-            System.out.println("Seeded snapshots = " + created);
+
+            System.out.println(
+                    "Created missing itinerary seed records = " + created
+            );
         }
     }
 
