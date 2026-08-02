@@ -1,0 +1,1758 @@
+
+  {
+    "slug": "3-days-boston-ideas-stone-and-walked-time",
+    "region": "americas",
+    "country": "United States",
+    "city": "Boston",
+    "title": "Boston en 3 jours : idées, pierre et le temps parcouru à pied",
+    "days": 3,
+    "priceFrom": 290,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-boston-ideas-stone-and-walked-time.jpg",
+    "summary": "Cet itinéraire de 3 jours à Boston explore l’une des villes les plus profondément ancrées dans la vie intellectuelle des États-Unis, façonnée par l’éducation, la Révolution et une continuité qui se découvre à pied. Construite à échelle humaine et enrichie par des siècles de mémoire civique, Boston se révèle avant tout en marchant. Conçu pour équilibrer itinéraires historiques, universités et sérénité du front de mer, cet itinéraire présente Boston non comme une ville-musée, mais comme un lieu où les idées continuent d’être mises en pratique chaque jour.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Freedom Trail et une histoire révolutionnaire encore vécue",
+      "Beacon Hill et son échelle résidentielle historique",
+      "Harvard et le rythme universitaire de Cambridge",
+      "La Charles River et ses promenades propices à la réflexion",
+      "Les cafés de quartier et les discussions tranquilles",
+      "Une ville façonnée par l’apprentissage et la continuité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, chemins de briques et premier contexte",
+        "summary": "Entrer dans l’histoire à pied.",
+        "details": "Arrivez à Boston et commencez par parcourir une partie du Freedom Trail, en suivant ses briques rouges à travers les plus anciens quartiers de la ville. Ici, l’histoire accompagne les déplacements quotidiens plutôt que d’être enfermée derrière des barrières.\n\nDans l’après-midi, flânez à Beacon Hill, où rues étroites, lampadaires à gaz et façades de briques instaurent un rythme résidentiel profondément humain.\n\nTerminez la journée près du Boston Common ou du Public Garden, en observant les habitants évoluer dans des espaces conçus pour la réflexion plutôt que pour la mise en scène."
+      },
+      {
+        "day": 2,
+        "title": "Idées, campus et savoir vécu",
+        "summary": "Comprendre le cœur intellectuel de Boston.",
+        "details": "Passez la matinée à Cambridge en traversant vers Harvard Yard et les rues voisines, où l’apprentissage se mêle naturellement à la vie quotidienne. Les espaces universitaires y semblent ouverts et continus plutôt que cérémoniels.\n\nFaites régulièrement une pause : cafés et bancs invitent à lire, discuter ou simplement observer.\n\nDans l’après-midi, promenez-vous le long de la Charles River, dont l’eau apporte à la fois ouverture physique et respiration mentale.\n\nLa soirée reste paisible, privilégiant les conversations au spectacle."
+      },
+      {
+        "day": 3,
+        "title": "Front de mer, retour et départ",
+        "summary": "Partir avec clarté.",
+        "details": "Consacrez la dernière matinée au front de mer de Boston, en parcourant les quais ou les promenades du port où la ville s’ouvre sur l’Atlantique.\n\nRevenez dans une rue ou un café déjà découvert, en choisissant la familiarité plutôt que la nouveauté.\n\nProfitez d’un dernier déjeuner avant le départ.\n\nBoston laisse une impression durable : une ville qui valorise la réflexion, la continuité et le progrès obtenu en marchant plutôt qu’en se précipitant."
+      }
+    ],
+    "planning": {
+      "city": "Boston, USA",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), sept.–oct. (début de l’automne)",
+        "note": "Des températures douces, une lumière nette et des rues animées rendent particulièrement agréables les longues promenades, les campus et les berges."
+      },
+      "worstTime": {
+        "months": "Janv.–févr. (froid et verglas), juil.–août (chaud et humide)",
+        "note": "La neige et le verglas compliquent les déplacements à pied en hiver, tandis que l’humidité estivale fatigue lors des longues explorations extérieures."
+      },
+      "tips": [
+        "Laissez la marche guider vos journées : l’échelle de Boston récompense les déplacements continus à pied.",
+        "Suivez une fois le Freedom Trail, puis écartez-vous-en ; les rues secondaires révèlent la véritable texture de la ville.",
+        "Acceptez les irrégularités : pavés, îlots courts et virages soudains font partie du rythme de Boston.",
+        "Utilisez la Charles River comme respiration entre les quartiers historiques.",
+        "Harvard et le MIT méritent du temps sans programme précis.",
+        "Les soirées sont calmes ; un dîner tôt suivi d’une promenade au crépuscule correspond parfaitement à l’atmosphère."
+      ],
+      "withKids": [
+        "Les berges plates et les parcs offrent des pauses entre les sites historiques.",
+        "De courtes promenades racontant une histoire captent mieux l’attention que de longues visites de musées.",
+        "Les transports publics facilitent les trajets lorsque la fatigue se fait sentir.",
+        "L’automne est particulièrement agréable grâce aux couleurs saisonnières."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport international Logan est situé tout près du centre-ville et est rapidement accessible en métro, taxi ou navette maritime. L’arrivée donne immédiatement une impression de proximité plutôt que d’étalement."
+        },
+        {
+          "title": "Arrivée → Centre historique",
+          "note": "Les transferts vers le centre plongent rapidement dans des rues de briques et des quartiers propices à la marche, soulignant dès les premiers instants l’échelle humaine de Boston."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir le centre historique compact de Boston.",
+        "Le métro (MBTA) est idéal pour relier Boston et Cambridge.",
+        "Les bus complètent le réseau mais sont rarement indispensables au centre.",
+        "Le vélo fonctionne très bien le long de la Charles River et dans les quartiers plats.",
+        "Les taxis et VTC sont pratiques pour les courtes distances ou par mauvais temps."
+      ],
+      "dayTrips": [
+        {
+          "title": "Cambridge (Harvard et quartiers universitaires)",
+          "note": "Accessible à pied en traversant les ponts ou en quelques stations de métro, Cambridge prolonge naturellement le rythme intellectuel de Boston."
+        },
+        {
+          "title": "Promenades de la Charles River",
+          "note": "Les chemins continus sur les deux rives offrent une respiration face à la densité historique."
+        },
+        {
+          "title": "Front de mer et port de Boston",
+          "note": "Les quais et promenades ouvrent la ville sur l’Atlantique après les quartiers intérieurs."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Promenade sur le Freedom Trail",
+          "note": "Les chemins de briques relient les sites historiques en intégrant naturellement l’histoire à la vie quotidienne."
+        },
+        {
+          "title": "Boucles de quartier",
+          "note": "De courtes promenades répétées à Beacon Hill et dans les rues voisines créent rapidement un sentiment de familiarité."
+        },
+        {
+          "title": "Traversées de la rivière",
+          "note": "Les ponts sur la Charles River relient Boston et Cambridge tout en changeant progressivement de perspective."
+        },
+        {
+          "title": "Flânerie sur les campus",
+          "note": "Déambuler librement dans les universités ralentit le rythme et favorise l’observation plutôt que la destination."
+        }
+      ],
+      "practical": [
+        "En hiver, de bonnes chaussures et l’usage flexible des transports sont importants à cause du verglas.",
+        "L’été, privilégiez les promenades le matin ou en soirée.",
+        "Les distances paraissent courtes mais les rues irrégulières ralentissent le rythme.",
+        "Les détours mènent souvent à des découvertes intéressantes.",
+        "Les berges de la rivière constituent d’excellents points de respiration.",
+        "Boston se découvre mieux lorsque les déplacements suivent la réflexion plutôt que l’horaire."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Clam chowder de Nouvelle-Angleterre",
+        "Lobster roll (froid à la mayonnaise ou chaud au beurre)",
+        "Boston baked beans",
+        "Huîtres fraîches",
+        "Pâtisseries italo-américaines",
+        "Grands classiques des steakhouses"
+      ],
+      "areas": [
+        {
+          "name": "North End",
+          "note": "Quartier italien historique de Boston, riche en boulangeries, restaurants anciens et cuisine quotidienne portée par la continuité plutôt que les modes."
+        },
+        {
+          "name": "Downtown / Waterfront",
+          "note": "Centre historique et front de mer où les traditions des fruits de mer et la cuisine des premiers temps de l’Amérique restent bien vivantes."
+        },
+        {
+          "name": "Cambridge (Harvard Square)",
+          "note": "Quartier universitaire propice à la marche, aux cafés et aux restaurants où l’on prend le temps de rester."
+        },
+        {
+          "name": "Back Bay",
+          "note": "Secteur résidentiel et commerçant réputé pour ses salles à manger classiques et ses restaurants fiables de quartier."
+        }
+      ],
+      "places": [
+        {
+          "name": "Union Oyster House",
+          "area": "Downtown",
+          "reason": "L’un des plus anciens restaurants en activité continue des États-Unis, réputé pour ses huîtres et les spécialités traditionnelles de fruits de mer de Nouvelle-Angleterre.",
+          "imageUrl": "/src/assets/itineraries/united-states/boston-food/union-oyster-house.jpg",
+          "lat": 42.3613,
+          "lng": -71.0576
+        },
+        {
+          "name": "Neptune Oyster",
+          "area": "North End",
+          "reason": "Très apprécié pour ses lobster rolls et son bar à huîtres, alliant techniques classiques et régularité moderne.",
+          "imageUrl": "/src/assets/itineraries/united-states/boston-food/neptune-oyster.jpg",
+          "lat": 42.3636,
+          "lng": -71.056
+        },
+        {
+          "name": "Mike’s Pastry",
+          "area": "North End",
+          "reason": "Boulangerie italienne emblématique célèbre pour ses cannoli, symbole de la tradition pâtissière du quartier.",
+          "imageUrl": "/src/assets/itineraries/united-states/boston-food/mikes-pastry.jpg",
+          "lat": 42.3639,
+          "lng": -71.0547
+        },
+        {
+          "name": "Oleana",
+          "area": "Cambridge",
+          "reason": "Restaurant influent de cuisine méditerranéenne orientale, reconnu pour ses plats centrés sur les légumes et son ambiance calme.",
+          "imageUrl": "/src/assets/itineraries/united-states/boston-food/oleana.jpg",
+          "lat": 42.3713,
+          "lng": -71.0824
+        },
+        {
+          "name": "Atlantic Fish Co.",
+          "area": "Back Bay",
+          "reason": "Restaurant de fruits de mer historique près du Public Garden, proposant avec constance les grands classiques de la Nouvelle-Angleterre.",
+          "imageUrl": "/src/assets/itineraries/united-states/boston-food/atlantic-fish.jpg",
+          "lat": 42.3517,
+          "lng": -71.0756
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-chicago-lines-water-and-calm-strength",
+    "region": "americas",
+    "country": "United States",
+    "city": "Chicago",
+    "title": "Chicago en 3 jours : lignes, eau et force tranquille",
+    "days": 3,
+    "priceFrom": 290,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-chicago-lines-water-and-calm-strength.jpg",
+    "summary": "Cet itinéraire de 3 jours à Chicago explore une ville définie par la structure et la clarté. Construite sur une trame plane au bord d’un vaste horizon d’eau douce, Chicago exprime sa puissance par l’ordre plutôt que par le spectacle. Conçu pour équilibrer profondeur architecturale, ouverture du lac et rythme des quartiers, l’itinéraire aborde Chicago comme un lieu où la forme crée le calme — et où le calme soutient l’échelle.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le rivage du lac Michigan et son horizon ouvert",
+      "La rivière Chicago et l’héritage architectural",
+      "Millennium Park et le design civique",
+      "Le Loop et le mouvement du métro aérien",
+      "Les rues de quartier et le rythme local",
+      "Une ville façonnée par la structure et la retenue"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, quadrillage et première orientation",
+        "summary": "Comprendre la ville à travers l’ordre.",
+        "details": "Arrivez à Chicago et commencez par parcourir à pied le quadrillage du centre-ville, où les larges rues, les lignes affirmées et l’échelle cohérente créent une lisibilité immédiate. La ville se présente avec clarté.\n\nDans l’après-midi, marchez le long du Chicago Riverwalk, en observant la manière dont l’architecture borde l’eau avec intention plutôt qu’avec domination. Ici, les bâtiments semblent conçus pour être lus.\n\nTerminez la journée près de la rivière ou dans le Loop, en regardant la lumière se déposer uniformément sur le verre et la pierre."
+      },
+      {
+        "day": 2,
+        "title": "Eau, architecture et espace civique",
+        "summary": "Voir la force sans le bruit.",
+        "details": "Commencez la journée au bord du lac Michigan, en suivant le rivage là où la ville s’ouvre entièrement sur l’eau. Le lac agit comme un horizon, et non comme une frontière.\n\nRevenez ensuite vers l’intérieur pour explorer Millennium Park et les espaces civiques voisins, où le design invite à la pause plutôt qu’au spectacle.\n\nDans l’après-midi, envisagez une promenade consacrée à l’architecture ou une croisière sur la rivière afin d’approfondir votre compréhension de la logique bâtie de Chicago.\n\nGardez la soirée sans précipitation, en privilégiant un dîner de quartier plutôt que la recherche des adresses tendance."
+      },
+      {
+        "day": 3,
+        "title": "Rythme des quartiers et départ",
+        "summary": "Partir avec clarté.",
+        "details": "Passez la dernière matinée dans un quartier au-delà du centre, en observant comment la vie quotidienne se déploie à une échelle plus lente et plus humaine.\n\nEmpruntez brièvement le métro aérien afin de voir la ville au-dessus du niveau de la rue et depuis l’intérieur de son système de circulation.\n\nProfitez d’un dernier déjeuner avant le départ.\n\nChicago laisse une impression stable — celle d’une ville qui tient debout grâce à la structure, à l’équilibre et à la confiance plutôt qu’à l’excès."
+      }
+    ],
+    "planning": {
+      "city": "Chicago, USA",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), sept. (début de l’automne)",
+        "note": "Des températures agréables, de longues journées et une vie active au bord du lac rendent les promenades dans le quadrillage urbain, le Riverwalk et les parcs plaisantes sans l’humidité de l’été."
+      },
+      "worstTime": {
+        "months": "Janv.–févr. (très froid et venteux), juil.–août (chaud et humide)",
+        "note": "Le vent hivernal venu du lac Michigan peut être éprouvant, tandis que la chaleur et l’humidité du cœur de l’été épuisent rapidement lors des longues marches."
+      },
+      "tips": [
+        "Faites confiance au quadrillage : Chicago est logique — marchez droit, tournez nettement et laissez l’orientation alléger la charge mentale.",
+        "Retrouvez l’eau chaque jour : le lac Michigan et le Riverwalk rééquilibrent l’échelle entre les architectures denses.",
+        "L’architecture est vécue, pas mise en scène — une seule croisière sur la rivière apporte du contexte sans provoquer de fatigue muséale.",
+        "Associez la hauteur au niveau de la rue : après les vues sur la skyline, revenez dans les rues de quartier pour garder une perspective humaine.",
+        "Prévoyez le vent : les vêtements superposables sont utiles toute l’année, surtout près du lac.",
+        "Les soirées sont sociales mais sans effort — les repas de quartier valent mieux que la course aux destinations."
+      ],
+      "withKids": [
+        "Les sentiers et les parcs du bord du lac offrent de l’espace pour bouger et faire des pauses.",
+        "Les excursions en bateau sont captivantes et demandent peu d’effort.",
+        "Les rues plates réduisent la fatigue liée à la marche.",
+        "Les musées intérieurs constituent de bons refuges lorsque la météo change."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "Chicago est desservie par les aéroports O’Hare et Midway, tous deux directement reliés à la ville par le train. L’arrivée introduit immédiatement la clarté qui définit Chicago — terrain plat, vaste ciel et ordre instantané du quadrillage."
+        },
+        {
+          "title": "Arrivée → Centre-ville / Quartiers",
+          "note": "Les transferts vers la ville suivent clairement de longs axes rectilignes, renforçant la lisibilité de Chicago et l’absence d’ambiguïté spatiale."
+        }
+      ],
+      "gettingAround": [
+        "La marche est particulièrement efficace grâce au terrain plat et à la structure régulière des îlots.",
+        "Les trains aériens du « L » offrent des déplacements rapides et lisibles ainsi qu’une perspective unique au-dessus du niveau de la rue.",
+        "Les bus suivent le quadrillage de manière prévisible et complètent les espaces laissés entre les lignes ferroviaires.",
+        "Les taxis et les services de VTC sont simples et efficaces pour les trajets courts.",
+        "La conduite est possible, mais inutile dans le centre grâce à la couverture des transports et aux difficultés de stationnement."
+      ],
+      "dayTrips": [
+        {
+          "title": "Rivage du lac Michigan",
+          "note": "Accessible directement à pied, à vélo ou en transports publics, le front du lac s’étend sans interruption et constitue la principale échappée de Chicago hors de la densité urbaine."
+        },
+        {
+          "title": "Croisière architecturale sur la rivière",
+          "note": "Au départ de la rivière Chicago, les itinéraires en bateau offrent la lecture la plus claire de la logique architecturale et du développement historique de la ville."
+        },
+        {
+          "title": "Exploration des quartiers",
+          "note": "Les secteurs situés au-delà du Loop sont facilement accessibles par les lignes du « L », révélant le rythme plus lent et résidentiel de Chicago sans créer de désorientation spatiale."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Marche guidée par le quadrillage",
+          "note": "Les déplacements en ligne droite simplifient l’orientation et réduisent la charge cognitive — Chicago se lit par ses îlots plutôt que par ses monuments."
+        },
+        {
+          "title": "Transitions rivière ↔ lac",
+          "note": "Passer du corridor de la rivière au front du lac alterne espace contenu et ouverture, réinitialisant l’échelle et l’attention."
+        },
+        {
+          "title": "Perspective du métro aérien",
+          "note": "De courts trajets à bord du « L » élèvent la ville dans le champ de vision, révélant sa circulation, sa densité et sa structure depuis l’intérieur même du système."
+        },
+        {
+          "title": "Ancrage dans les quartiers",
+          "note": "Le temps passé dans les rues résidentielles équilibre la monumentalité du centre-ville par un rythme et des habitudes à échelle humaine."
+        }
+      ],
+      "practical": [
+        "Le vent venu du lac Michigan modifie fortement la température ressentie en toute saison.",
+        "Les conditions hivernales peuvent être sévères ; les transports publics et les passages intérieurs comptent alors davantage que la distance à pied.",
+        "La chaleur et l’humidité estivales favorisent les départs tôt le matin et les itinéraires proches du lac.",
+        "Le quadrillage rend la navigation intuitive — les cartes sont rarement nécessaires.",
+        "Des chaussures confortables conviennent aux longues journées de marche sur terrain plat.",
+        "Chicago récompense un rythme régulier plutôt que la compression des visites."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pizza deep-dish",
+        "Hot-dog à la chicagoane",
+        "Sandwich à l’Italian beef",
+        "Grands classiques des steakhouses",
+        "Saucisse polonaise",
+        "Desserts réconfortants du Midwest"
+      ],
+      "areas": [
+        {
+          "name": "The Loop / River North",
+          "note": "Central, architectural et bien organisé. Idéal pour découvrir les institutions classiques de Chicago et faire une première approche de l’identité culinaire de la ville."
+        },
+        {
+          "name": "West Loop",
+          "note": "Ancien quartier d’entrepôts devenu pôle gastronomique, connu pour une cuisine assurée et centrée sur les ingrédients plutôt que sur la nostalgie."
+        },
+        {
+          "name": "Lincoln Park",
+          "note": "Résidentiel et régulier, le quartier propose des restaurants de proximité et un rythme détendu après l’intensité du centre-ville."
+        },
+        {
+          "name": "Pilsen",
+          "note": "Quartier mexico-américain où la culture culinaire est quotidienne, sociale et enracinée dans une vie communautaire établie de longue date."
+        }
+      ],
+      "places": [
+        {
+          "name": "Lou Malnati’s Pizzeria",
+          "area": "The Loop",
+          "reason": "L’un des noms les plus établis de la pizza deep-dish à Chicago, connu pour sa pâte beurrée et son approche mesurée et équilibrée.",
+          "imageUrl": "/src/assets/itineraries/united-states/chicago-food/lou-malnatis.jpg",
+          "lat": 41.8856,
+          "lng": -87.6289
+        },
+        {
+          "name": "Portillo’s",
+          "area": "River North",
+          "reason": "Institution classique de Chicago pour les sandwichs à l’Italian beef et les hot-dogs, représentant la culture culinaire directe et sans prétention de la ville.",
+          "imageUrl": "/src/assets/itineraries/united-states/chicago-food/portillos.jpg",
+          "lat": 41.8924,
+          "lng": -87.6317
+        },
+        {
+          "name": "Girl & the Goat",
+          "area": "West Loop",
+          "reason": "Restaurant influent du West Loop, connu pour ses saveurs affirmées et ses plats à partager, reflétant la restauration moderne de Chicago sans excès.",
+          "imageUrl": "/src/assets/itineraries/united-states/chicago-food/girl-and-the-goat.jpg",
+          "lat": 41.8842,
+          "lng": -87.6477
+        },
+        {
+          "name": "Au Cheval",
+          "area": "West Loop",
+          "reason": "Largement réputé pour proposer l’un des burgers les plus emblématiques de Chicago, en privilégiant simplicité, qualité et régularité.",
+          "imageUrl": "/src/assets/itineraries/united-states/chicago-food/au-cheval.jpg",
+          "lat": 41.884,
+          "lng": -87.6474
+        },
+        {
+          "name": "Carnitas Uruapan",
+          "area": "Pilsen",
+          "reason": "Restaurant mexicain établi de longue date, connu pour ses carnitas traditionnelles et fréquenté par les familles du quartier plutôt que par une clientèle guidée par les tendances.",
+          "imageUrl": "/src/assets/itineraries/united-states/chicago-food/carnitas-uruapan.jpg",
+          "lat": 41.8456,
+          "lng": -87.6633
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-las-vegas-controlled-excess-and-illusion",
+    "region": "americas",
+    "country": "United States",
+    "city": "Las Vegas",
+    "title": "Las Vegas en 2 jours : excès maîtrisé et illusion",
+    "days": 2,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/2-days-las-vegas-controlled-excess-and-illusion.jpg",
+    "summary": "Cet itinéraire de 2 jours à Las Vegas explore une ville presque entièrement conçue comme une expérience. Construite dans le désert et alimentée par la répétition, la lumière et la simulation, Las Vegas fonctionne comme une illusion maîtrisée — précise, artificielle et résolument excessive. L’itinéraire équilibre l’immersion sur le Strip avec de courts moments de contraste et de recul.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Strip comme spectacle conçu",
+      "Lumière, répétition et surcharge sensorielle",
+      "Casinos emblématiques et espaces thématiques",
+      "Rythme nocturne et culture du spectacle",
+      "Les néons du centre-ville et le Las Vegas historique",
+      "Le contraste du désert (optionnel)"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, immersion sur le Strip et maîtrise de la nuit",
+        "summary": "Entrer dans le système.",
+        "details": "Arrivez à Las Vegas et rejoignez directement le Strip, où l’échelle, la lumière et la simulation remplacent les repères habituels. Marchez lentement entre les grands complexes hôteliers en observant comment les espaces intérieurs effacent la notion du temps : ni fenêtres, ni horloges, mais une stimulation permanente.\n\nReposez-vous un moment dans l’après-midi afin de préparer la soirée, lorsque la ville s’anime pleinement.\n\nÀ la tombée de la nuit, découvrez le Strip entre casinos, spectacles publics et fontaines du Bellagio. Restez assez longtemps pour que la répétition atténue la nouveauté : c’est alors que la logique de la ville apparaît.\n\nLes repas tardifs font partie intégrante du rythme local."
+      },
+      {
+        "day": 2,
+        "title": "Néons, recul et départ",
+        "summary": "Voir l’illusion de l’extérieur.",
+        "details": "Commencez la matinée tranquillement, lorsque la lumière du jour révèle la structure de la ville. Visitez Downtown Las Vegas ou Fremont Street pour découvrir les premières couches de son identité. Si le temps le permet, faites un court trajet vers Red Rock Canyon ou les abords du désert afin de retrouver le silence et une nouvelle perspective. Revenez pour un dernier déjeuner avant le départ.\n\nLas Vegas laisse une impression claire : un lieu qui tient exactement ses promesses, sans chercher à être autre chose."
+      }
+    ],
+    "planning": {
+      "city": "Las Vegas, USA",
+      "bestTime": {
+        "months": "Mars–mai, oct.–nov.",
+        "note": "Des températures agréables facilitent les promenades sur le Strip, les spectacles et les courtes escapades dans le désert."
+      },
+      "worstTime": {
+        "months": "Juin–sept., déc.–janv.",
+        "note": "La chaleur estivale peut rendre les déplacements extérieurs difficiles, tandis que l’hiver connaît des périodes très fréquentées."
+      },
+      "tips": [
+        "Considérez Las Vegas comme une succession de scènes.",
+        "Les distances sur le Strip sont trompeuses.",
+        "Choisissez un seul grand moment fort chaque soir.",
+        "Hydratez-vous régulièrement.",
+        "Utilisez les VTC de façon stratégique.",
+        "Alternez illusion et réalité avec une sortie vers le désert ou Downtown."
+      ],
+      "withKids": [
+        "Les activités de jour conviennent mieux aux familles.",
+        "Évitez les longues marches sous la chaleur.",
+        "Red Rock Canyon offre une pause bienvenue.",
+        "Privilégiez les débuts de soirée."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport international Harry Reid est situé juste à côté du Strip, réduisant presque à néant la transition entre les infrastructures et le spectacle."
+        },
+        {
+          "title": "Aéroport → Strip",
+          "note": "Les transferts rapides mènent directement aux complexes hôteliers, soulignant la conception fermée de la ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche convient pour de courtes portions du Strip.",
+        "Les VTC et taxis sont les plus efficaces.",
+        "Le monorail dessert une partie du Strip.",
+        "Les bus parcourent le Strip mais sont plus lents.",
+        "La voiture est surtout utile pour le désert ou Downtown."
+      ],
+      "dayTrips": [
+        {
+          "title": "",
+          "note": "Downtown Las Vegas révèle une échelle plus intime et les premières couches historiques de la ville."
+        },
+        {
+          "title": "",
+          "note": "Un court trajet vers l’ouest offre le contraste du désert, du silence et des paysages naturels."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Segmentation du Strip",
+          "note": "Divisez le Strip en zones plutôt que de tout parcourir à pied."
+        },
+        {
+          "title": "Transitions intérieur-extérieur",
+          "note": "Alternez les casinos et les espaces ouverts pour éviter la surcharge sensorielle."
+        },
+        {
+          "title": "Point d’ancrage nocturne",
+          "note": "Choisissez un seul grand spectacle ou panorama par soirée."
+        },
+        {
+          "title": "Distance matinale",
+          "note": "La lumière du jour révèle comment l’illusion est construite."
+        }
+      ],
+      "practical": [
+        "La chaleur est la principale contrainte.",
+        "Buvez régulièrement de l’eau.",
+        "Les casinos sont conçus pour désorienter les visiteurs.",
+        "Traverser un complexe peut prendre plus de temps que prévu.",
+        "Prévoyez du temps pour rejoindre les points de prise en charge VTC.",
+        "Las Vegas récompense autant les moments de recul que l’immersion."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cuisine nocturne des casinos",
+        "Steaks classiques",
+        "Menus de chefs célèbres",
+        "Cuisine fusion asiatique",
+        "Culture des buffets",
+        "Desserts spectaculaires"
+      ],
+      "areas": [
+        {
+          "name": "The Strip (Central & South)",
+          "note": "Restaurants des grands complexes où la gastronomie fait partie du spectacle."
+        },
+        {
+          "name": "The Strip (North)",
+          "note": "Secteurs un peu plus calmes avec des restaurants de destination."
+        },
+        {
+          "name": "Downtown / Fremont Street",
+          "note": "Cuisine du vieux Las Vegas avec steakhouses classiques et ambiance locale nocturne."
+        }
+      ],
+      "places": [
+        {
+          "name": "Gordon Ramsay Hell’s Kitchen",
+          "area": "The Strip (Central)",
+          "reason": "Restaurant emblématique associant cuisine connue et énergie spectaculaire du Strip.",
+          "imageUrl": "/src/assets/itineraries/united-states/las-vegas-food/hells-kitchen.jpg",
+          "lat": 36.1126,
+          "lng": -115.1767
+        },
+        {
+          "name": "Joël Robuchon",
+          "area": "The Strip (North)",
+          "reason": "L’une des tables les plus raffinées de Las Vegas.",
+          "imageUrl": "/src/assets/itineraries/united-states/las-vegas-food/joel-robuchon.jpg",
+          "lat": 36.1351,
+          "lng": -115.1645
+        },
+        {
+          "name": "Lotus of Siam",
+          "area": "Downtown / Off-Strip",
+          "reason": "Restaurant thaïlandais réputé pour son authenticité.",
+          "imageUrl": "/src/assets/itineraries/united-states/las-vegas-food/lotus-of-siam.jpg",
+          "lat": 36.1426,
+          "lng": -115.1543
+        },
+        {
+          "name": "Bouchon",
+          "area": "The Strip (North)",
+          "reason": "Bistrot français classique offrant une parenthèse plus sereine.",
+          "imageUrl": "/src/assets/itineraries/united-states/las-vegas-food/bouchon.jpg",
+          "lat": 36.1356,
+          "lng": -115.1636
+        },
+        {
+          "name": "Carson Kitchen",
+          "area": "Downtown / Fremont Street",
+          "reason": "Restaurant moderne contrastant avec l’exubérance du Strip.",
+          "imageUrl": "/src/assets/itineraries/united-states/las-vegas-food/carson-kitchen.jpg",
+          "lat": 36.1688,
+          "lng": -115.1395
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-los-angeles-distance-light-and-image",
+    "region": "americas",
+    "country": "United States",
+    "city": "Los Angeles",
+    "title": "Los Angeles en 4 jours : distance, lumière et image",
+    "days": 4,
+    "priceFrom": 310,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/4-days-los-angeles-distance-light-and-image.jpg",
+    "summary": "Cet itinéraire de 4 jours à Los Angeles explore une ville définie davantage par la distance que par la densité. Déployée entre bassins, collines et littoral, Los Angeles se révèle à travers le mouvement, la lumière et l’image bien plus qu’à travers ses monuments. Conçu pour équilibrer fragments de quartiers, ouverture côtière et points de vue en hauteur, l’itinéraire aborde Los Angeles non comme un lieu unique à saisir, mais comme une succession de moments reliés par l’espace.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le littoral pacifique et son horizon ouvert",
+      "Les vues depuis les collines et la lumière changeante",
+      "Les fragments de quartiers et la vie quotidienne",
+      "Le cinéma, l’image et la projection culturelle",
+      "La conduite comme expérience vécue",
+      "Une ville façonnée par la distance et la réinvention"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, autoroutes et première perception des distances",
+        "summary": "Comprendre l’échelle de la ville par le mouvement.",
+        "details": "Arrivez à Los Angeles et commencez par vous déplacer plutôt que par vous arrêter. Traverser plusieurs quartiers en voiture ou comme passager permet de découvrir la véritable structure de la ville — vaste, stratifiée et horizontale.\n\nDans l’après-midi, marchez brièvement dans un quartier proche de votre hébergement afin de retrouver un contact direct avec la rue.\n\nTerminez la journée en observant le coucher du soleil depuis une colline ou un point de vue côtier, là où la lumière rend enfin lisible l’étendue de la ville."
+      },
+      {
+        "day": 2,
+        "title": "Lisière de l’océan et espace public",
+        "summary": "Laisser la ville respirer vers l’extérieur.",
+        "details": "Passez la matinée le long du Pacifique, en marchant du côté de Santa Monica ou de Venice, où l’ouverture remplace l’enfermement. L’air marin adoucit l’échelle de la ville.\n\nDans l’après-midi, restez assis plus longtemps que vous ne vous déplacez — Los Angeles se révèle autant dans les pauses que dans le mouvement.\n\nÀ l’approche du soir, repartez vers l’intérieur des terres en observant la manière dont la lumière se transforme sur les bâtiments bas et les rues bordées de palmiers."
+      },
+      {
+        "day": 3,
+        "title": "Hauteur, image et observation",
+        "summary": "Voir sans chercher à posséder.",
+        "details": "Commencez la journée par une marche ou un trajet en direction de l’observatoire Griffith, afin de prendre de la hauteur et d’embrasser du regard l’ensemble du bassin. Vue d’en haut, Los Angeles paraît lisible, mais jamais complète.\n\nPassez l’après-midi dans un lieu culturel consacré au cinéma, à l’art ou au design, en observant comment la production d’images façonne l’identité de la ville.\n\nGardez la soirée flexible, en laissant l’instinct guider le choix du dîner et vos déplacements."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, quartier et départ",
+        "summary": "Partir sans avoir trouvé de centre.",
+        "details": "Consacrez la dernière matinée à retrouver un quartier familier ou une portion de littoral déjà parcourue, en privilégiant la profondeur plutôt que la multiplication des lieux.\n\nProfitez d’un dernier déjeuner avant le départ, tout en observant la ville poursuivre son cours sans se soucier des arrivées ni des départs.\n\nLos Angeles laisse une impression indirecte — celle d’une ville qui n’existe pleinement que lorsqu’on accepte ses fragments reliés par la lumière."
+      }
+    ],
+    "planning": {
+      "city": "Los Angeles, USA",
+      "bestTime": {
+        "months": "Mars–mai (printemps), sept.–oct. (début de l’automne)",
+        "note": "Un ciel dégagé, une chaleur plus douce et de longues heures dorées rendent agréables et visuellement riches les matinées sur la côte, les points de vue depuis les collines et la vie de quartier en soirée."
+      },
+      "worstTime": {
+        "months": "Juil.–août (chaud et brumeux), déc.–janv. (plus frais et sujet aux pluies)",
+        "note": "La forte chaleur estivale et la brume atténuent les vues et l’énergie, tandis que les pluies hivernales peuvent perturber les trajets en voiture et les activités extérieures."
+      },
+      "tips": [
+        "Pensez en zones, pas en journées : regroupez les visites par secteur — Hollywood et Griffith, Westside, Downtown — afin d’éviter la fatigue liée aux déplacements.",
+        "Recherchez délibérément la bonne lumière : les matinées conviennent aux plages, tandis que les fins d’après-midi mettent en valeur les collines et les points de vue.",
+        "La conduite est difficilement évitable — programmez les trajets en dehors des heures de pointe, approximativement de 7 h à 10 h et de 15 h à 19 h.",
+        "La distance fait partie de l’identité de la ville : les longs trajets créent cette sensation cinématographique d’échelle pour laquelle Los Angeles est connue.",
+        "Prévoyez un seul point d’ancrage par jour — une randonnée, un musée ou un quartier — et considérez tout le reste comme secondaire.",
+        "Le confort compte davantage que l’apparence : de bonnes chaussures, de l’eau et une protection solaire sont plus utiles que de chercher à correspondre à une image."
+      ],
+      "withKids": [
+        "Les plages et les grands parcs offrent de l’espace et des pauses entre les trajets en voiture.",
+        "Limitez le nombre de déplacements quotidiens — enchaîner trop de quartiers dans une même journée devient rapidement épuisant.",
+        "Les activités extérieures le matin permettent d’éviter à la fois la chaleur et les embouteillages.",
+        "De courtes randonnées avec vue, notamment à Griffith Park, offrent une belle récompense sans exiger un effort prolongé."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport international de Los Angeles (LAX) s’inscrit dans le tissu urbain plutôt que de se trouver réellement à l’extérieur de la ville. Dès l’arrivée, l’échelle s’impose — autoroutes, bâtiments bas et longues transitions donnent le ton avant même d’avoir rejoint sa destination."
+        },
+        {
+          "title": "Arrivée → Zones de la ville",
+          "note": "Les temps de transfert depuis l’aéroport varient considérablement selon la destination — Westside, Hollywood ou Downtown. Le déplacement lui-même fait partie de l’orientation, révélant Los Angeles comme une succession de zones plutôt que comme une ville organisée autour d’un centre unique."
+        }
+      ],
+      "gettingAround": [
+        "La voiture constitue le principal mode de déplacement ; Los Angeles est conçue autour de la distance, et non de la proximité.",
+        "Les services de VTC sont très répandus et souvent plus pratiques que les transports publics pour un court séjour.",
+        "La marche fonctionne à l’intérieur de poches de quartier — Santa Monica, Venice ou certaines parties d’Hollywood — mais pas pour passer de l’une à l’autre.",
+        "Les transports publics existent, mais restent limités pour une exploration de type itinéraire touristique ; ils répondent davantage aux besoins quotidiens des habitants qu’à ceux des visiteurs.",
+        "La circulation structure la journée — le choix de l’horaire compte autant que celui de la destination."
+      ],
+      "dayTrips": [
+        {
+          "title": "Côte pacifique (Santa Monica / Venice)",
+          "note": "Facilement accessible en voiture depuis les quartiers centraux, la côte apporte ouverture, air marin et rééquilibrage horizontal face à la densité de la ville."
+        },
+        {
+          "title": "Griffith Park et observatoire",
+          "note": "Accessible en voiture ou en VTC, ce point en hauteur offre l’un des rares moments où Los Angeles devient visuellement lisible."
+        },
+        {
+          "title": "Points de vue des Hollywood Hills",
+          "note": "De courts trajets dans les collines montrent comment la lumière, l’altitude et la distance façonnent l’image de la ville davantage que ses monuments."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Transitions par les autoroutes",
+          "note": "Conduire d’un quartier à l’autre n’est pas du temps perdu — c’est ainsi que Los Angeles communique son échelle, son rythme et la séparation entre ses différentes zones."
+        },
+        {
+          "title": "Passage de la côte vers l’intérieur",
+          "note": "Quitter le bord de l’océan pour revenir vers le bassin modifie et comprime la lumière, l’air et la température, renforçant la perception de la géographie stratifiée de la ville."
+        },
+        {
+          "title": "Niveau de la rue ↔ Vues en hauteur",
+          "note": "Alterner entre les quartiers vécus au niveau de la rue et les points de vue depuis les collines ou l’observatoire crée un équilibre entre immersion et vue d’ensemble."
+        },
+        {
+          "title": "Répétition des quartiers",
+          "note": "Revenir dans une même zone approfondit la compréhension — Los Angeles récompense davantage la familiarité que l’accumulation de lieux."
+        }
+      ],
+      "practical": [
+        "Évitez de conduire pendant les heures de pointe — approximativement de 7 h à 10 h et de 15 h à 19 h — car les embouteillages transforment radicalement la perception des distances.",
+        "L’exposition au soleil est constante — eau, chapeau et pauses à l’ombre restent importants même en dehors de l’été.",
+        "La disponibilité du stationnement influence le rythme ; intégrez aux plans les frictions liées à l’arrivée et au départ.",
+        "Les distances paraissent raisonnables sur une carte, mais sont plus importantes en pratique — prévoyez moins de déplacements chaque jour.",
+        "Les trajets sont plus calmes en soirée, lorsque la lumière et la température s’adoucissent simultanément.",
+        "Los Angeles fonctionne mieux lorsque le déplacement est accepté comme une partie de l’expérience, et non comme un problème à résoudre."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Tacos de rue, notamment al pastor et carne asada",
+        "Barbecue coréen",
+        "Burgers à la californienne",
+        "Tacos et bowls aux produits de la mer frais",
+        "Cuisine fusion proposée par les food trucks",
+        "Petits-déjeuners classiques de diner américain"
+      ],
+      "areas": [
+        {
+          "name": "Downtown Los Angeles (DTLA)",
+          "note": "Un mélange dense de l’ancien et du nouveau Los Angeles, où cultures culinaires issues de l’immigration, vendeurs de rue et institutions historiques se superposent naturellement."
+        },
+        {
+          "name": "East LA & Boyle Heights",
+          "note": "Cœur de la culture culinaire mexicano-américaine, où tacos, boulangeries et établissements familiaux définissent les repas du quotidien plutôt que les tendances."
+        },
+        {
+          "name": "Koreatown",
+          "note": "L’un des quartiers gastronomiques les plus complets de la ville, réputé pour le barbecue coréen, les repas tardifs et une culture du partage organisée autour de grandes tables."
+        },
+        {
+          "name": "Westside (Santa Monica / Venice)",
+          "note": "Une culture culinaire plus légère et côtière, façonnée par la proximité de l’océan, les terrasses et un rythme décontracté."
+        }
+      ],
+      "places": [
+        {
+          "name": "Guelaguetza",
+          "area": "Koreatown",
+          "reason": "Restaurant emblématique de cuisine oaxaquénienne, célébré pour ses moles, ses plats à partager et une culture culinaire portée par la communauté plutôt que par la mode.",
+          "imageUrl": "/src/assets/itineraries/united-states/los-angeles-food/guelaguetza.jpg",
+          "lat": 34.0574,
+          "lng": -118.3004
+        },
+        {
+          "name": "Grand Central Market",
+          "area": "Downtown Los Angeles",
+          "reason": "Halle historique reflétant les différentes strates migratoires de Los Angeles, où de nombreuses cuisines coexistent sous un même toit.",
+          "imageUrl": "/src/assets/itineraries/united-states/los-angeles-food/grand-central-market.jpg",
+          "lat": 34.0505,
+          "lng": -118.2486
+        },
+        {
+          "name": "Leo’s Taco Truck",
+          "area": "East Los Angeles / Various Locations",
+          "reason": "Stand de tacos emblématique connu pour son al pastor découpé directement sur la broche, incarnant l’identité culinaire de Los Angeles au niveau de la rue.",
+          "imageUrl": "/src/assets/itineraries/united-states/los-angeles-food/leos-tacos.jpg",
+          "lat": 34.0289,
+          "lng": -118.2566
+        },
+        {
+          "name": "Howlin’ Ray’s",
+          "area": "Downtown Los Angeles (Chinatown)",
+          "reason": "Adresse culte spécialisée dans le poulet épicé de Nashville, illustrant la capacité de Los Angeles à absorber puis réinterpréter les traditions culinaires.",
+          "imageUrl": "/src/assets/itineraries/united-states/los-angeles-food/howlins-rays.jpg",
+          "lat": 34.0658,
+          "lng": -118.2367
+        },
+        {
+          "name": "Bay Cities Italian Deli",
+          "area": "Santa Monica",
+          "reason": "Épicerie-traiteur de quartier installée depuis longtemps, connue pour ses sandwichs généreux et la fidélité quotidienne de sa clientèle plutôt que pour une cuisine guidée par les tendances.",
+          "imageUrl": "/src/assets/itineraries/united-states/los-angeles-food/bay-cities.jpg",
+          "lat": 34.0395,
+          "lng": -118.4707
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-new-orleans-rhythm-memory-and-survival",
+    "region": "americas",
+    "country": "United States",
+    "city": "New Orleans",
+    "title": "La Nouvelle-Orléans en 3 jours : rythme, mémoire et résilience",
+    "days": 3,
+    "priceFrom": 285,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-new-orleans-rhythm-memory-and-survival.jpg",
+    "summary": "Cet itinéraire de trois jours à La Nouvelle-Orléans explore une ville définie par le rythme et l'endurance. Façonnée par le Mississippi, des cultures superposées et une longue histoire de résilience, elle s'exprime à travers la musique, la cuisine et les espaces publics partagés. Conçu pour équilibrer l'intensité du Quartier français, le calme des quartiers résidentiels et les moments de réflexion, cet itinéraire considère La Nouvelle-Orléans non comme une fête à consommer, mais comme une culture qui continue d'exister, bruyamment, fièrement et sans excuses.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les rues du Quartier français et la musique vivante",
+      "Le Mississippi et son front fluvial",
+      "Le jazz comme langage quotidien",
+      "Les traditions culinaires créoles et cajuns",
+      "L'architecture paisible du Garden District",
+      "Une ville façonnée par la résilience et l'expression"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, Quartier français et premiers sons",
+        "summary": "Découvrir la ville par son rythme.",
+        "details": "Arrivez à La Nouvelle-Orléans et commencez par parcourir le Quartier français, où balcons en fer forgé, ruelles étroites et musique permanente rapprochent naturellement les habitants et les visiteurs. La musique surgit des portes, des trottoirs et des coins de rue.\n\nDans l'après-midi, dirigez-vous lentement vers les berges du Mississippi, où les bateaux de travail et le large fleuve donnent son ancrage à la ville.\n\nTerminez la journée dans une petite salle de jazz, en restant suffisamment longtemps pour que la répétition remplace la nouveauté. Dînez ensuite tranquillement à proximité."
+      },
+      {
+        "day": 2,
+        "title": "Quartiers, cuisine et mémoire vivante",
+        "summary": "Comprendre la résilience à travers la culture.",
+        "details": "Commencez la journée par un brunch ou un petit-déjeuner tardif, où le repas tient lieu de rituel social.\n\nExplorez ensuite les quartiers au-delà du Quartier français afin de découvrir le quotidien loin des images les plus célèbres.\n\nL'après-midi, visitez un lieu culturel ou historique consacré à l'esclavage, aux migrations, aux inondations et à la reconstruction.\n\nLe soir, laissez la musique guider vos pas plus que votre programme."
+      },
+      {
+        "day": 3,
+        "title": "Jardins, calme et départ",
+        "summary": "Trouver le calme au cœur de l'expression.",
+        "details": "Passez votre dernière matinée dans le Garden District, en marchant sous les arbres entre demeures historiques et larges vérandas. Ici, les proportions s'adoucissent et les sons s'estompent.\n\nInstallez-vous dans un parc ou un café pour observer la ville lorsqu'elle ralentit.\n\nSavourez un dernier déjeuner avant le départ.\n\nLa Nouvelle-Orléans laisse une impression durable : une ville qui transforme la mémoire en musique et le rythme en résistance."
+      }
+    ],
+    "planning": {
+      "city": "New Orleans, USA",
+      "bestTime": {
+        "months": "Fév.–mai, nov.",
+        "note": "Les températures plus douces et la vie culturelle animée rendent les promenades et les concerts particulièrement agréables."
+      },
+      "worstTime": {
+        "months": "Juin–sept., fin août–sept.",
+        "note": "La chaleur, l'humidité et la saison des ouragans peuvent perturber les déplacements."
+      },
+      "tips": [
+        "Suivez les sons plutôt que les cartes.",
+        "Distinguez le spectacle de la culture vécue.",
+        "Prenez le temps de manger.",
+        "Privilégiez les matinées et soirées en extérieur.",
+        "Les soirées sont essentielles.",
+        "Approchez la ville avec humilité."
+      ],
+      "withKids": [
+        "Les promenades de jour conviennent mieux aux familles.",
+        "Les quais offrent de l'espace.",
+        "Préférez les concerts en journée.",
+        "Hydratez-vous et recherchez l'ombre."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L'aéroport Louis Armstrong (MSY) se situe à l'ouest de la ville, à environ 25–40 minutes du centre."
+        },
+        {
+          "title": "Arrivée → Quartier français",
+          "note": "La plupart des visiteurs rejoignent directement le Quartier français à pied depuis leur point de dépose."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans le Quartier français.",
+        "Les tramways historiques relient le Garden District.",
+        "Les VTC sont pratiques pour les longues distances.",
+        "Le vélo est possible mais limité par la chaleur.",
+        "Une voiture est inutile dans les quartiers centraux."
+      ],
+      "dayTrips": [
+        {
+          "title": "Garden District",
+          "note": "Facilement accessible en tramway."
+        },
+        {
+          "title": "Tremé",
+          "note": "À quelques minutes à pied du Quartier français."
+        },
+        {
+          "title": "Front du Mississippi",
+          "note": "Accessible à pied pour profiter du fleuve."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Quartier français ↔ Berges",
+          "note": "Des allers-retours réguliers donnent son rythme à la ville."
+        },
+        {
+          "title": "Quartier ↔ Tremé",
+          "note": "Le passage vers Tremé révèle une culture plus profonde."
+        },
+        {
+          "title": "Centre → Garden District",
+          "note": "Le tramway apporte calme et distance."
+        },
+        {
+          "title": "Jour ↔ Nuit",
+          "note": "Le rythme change après la tombée de la nuit."
+        }
+      ],
+      "practical": [
+        "Marchez surtout le matin et le soir.",
+        "Prévoyez les averses soudaines.",
+        "Acceptez le bruit et la musique.",
+        "Évitez d'enchaîner trop de déplacements.",
+        "Les VTC sont préférables la nuit.",
+        "Laissez vos mouvements suivre la musique et la météo."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Gumbo",
+        "Jambalaya",
+        "Po'boy",
+        "Haricots rouges au riz",
+        "Huîtres grillées",
+        "Beignets au sucre glace"
+      ],
+      "areas": [
+        {
+          "name": "French Quarter",
+          "note": "Le cœur historique où se concentrent cuisine créole, clubs de jazz et restaurants emblématiques."
+        },
+        {
+          "name": "Tremé",
+          "note": "L'un des plus anciens quartiers afro-américains, riche en traditions culinaires."
+        },
+        {
+          "name": "Garden District & Uptown",
+          "note": "Des rues plus calmes idéales pour des repas détendus."
+        }
+      ],
+      "places": [
+        {
+          "name": "Dooky Chase’s Restaurant",
+          "area": "Tremé",
+          "reason": "Restaurant créole emblématique lié à l'histoire culturelle et aux droits civiques de la ville.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-orleans-food/dooky-chases.jpg",
+          "lat": 29.969,
+          "lng": -90.0647
+        },
+        {
+          "name": "Commander’s Palace",
+          "area": "Garden District & Uptown",
+          "reason": "Institution proposant une cuisine créole raffinée dans un cadre élégant.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-orleans-food/commanders-palace.jpg",
+          "lat": 29.9287,
+          "lng": -90.0849
+        },
+        {
+          "name": "Cochon",
+          "area": "Warehouse District (near French Quarter)",
+          "reason": "Restaurant réputé célébrant les saveurs cajuns et les produits du Sud.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-orleans-food/cochon.jpg",
+          "lat": 29.9417,
+          "lng": -90.0676
+        },
+        {
+          "name": "Napoleon House",
+          "area": "French Quarter",
+          "reason": "Adresse historique connue pour ses muffulettas et sa cuisine créole traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-orleans-food/napoleon-house.jpg",
+          "lat": 29.9566,
+          "lng": -90.0637
+        },
+        {
+          "name": "Café du Monde",
+          "area": "French Quarter",
+          "reason": "Café historique célèbre pour ses beignets, particulièrement agréable tôt le matin ou tard le soir.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-orleans-food/cafe-du-monde.jpg",
+          "lat": 29.9574,
+          "lng": -90.0629
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-new-york-city-moving-through-everything",
+    "region": "americas",
+    "country": "United States",
+    "city": "New York City",
+    "title": "New York en 4 jours : traverser une ville en mouvement",
+    "days": 4,
+    "priceFrom": 320,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/4-days-new-york-city-moving-through-everything.jpg",
+    "summary": "Cet itinéraire de quatre jours à New York aborde la ville comme un système vivant plutôt que comme une simple liste de sites à voir. Façonnée par les migrations, la densité et les réinventions successives, New York se révèle à travers le rythme de ses quartiers, la verticalité de ses espaces et une négociation permanente avec l'espace. Conçu pour équilibrer les lieux emblématiques et les rues du quotidien, cet itinéraire invite à traverser la ville encore et encore, jusqu'à ce que ses motifs commencent à apparaître.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La trame orthogonale de Manhattan et sa verticalité",
+      "Central Park comme respiration urbaine",
+      "Les traversées vers Brooklyn et ses quartiers",
+      "Les rues historiques et l'architecture réinventée",
+      "La cuisine comme mémoire des migrations",
+      "Une ville définie par son élan et ses superpositions"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, quadrillage et première compression",
+        "summary": "Rencontrer la ville de front.",
+        "details": "Arrivez à New York et commencez à marcher immédiatement, en utilisant le quadrillage des rues comme repère plutôt que comme itinéraire. Les rues empilent sons, lumières et mouvements dans une énergie verticale ininterrompue.\n\nPassez l'après-midi à travers Midtown ou Lower Manhattan, en laissant la densité se présenter sans chercher à l'interpréter.\n\nLe soir, choisissez un restaurant de quartier. Ici, la nourriture raconte davantage l'histoire des migrations que les tendances. Promenez-vous après le dîner : New York ne se calme que brièvement la nuit."
+      },
+      {
+        "day": 2,
+        "title": "Parc, hauteur et respiration",
+        "summary": "Trouver de l'espace au cœur de la pression.",
+        "details": "Commencez la matinée à Central Park, où le paysage interrompt volontairement la grille urbaine. Marchez à l'ombre, asseyez-vous souvent et observez comment la ville se réorganise autour de cet espace vert.\n\nL'après-midi, retrouvez la verticalité de New York à travers un musée, une tour ou les rues d'un quartier.\n\nTerminez la journée depuis un point de vue élevé ou au bord de l'Hudson ou de l'East River, où l'échelle devient progressivement un motif plutôt qu'un chaos."
+      },
+      {
+        "day": 3,
+        "title": "Brooklyn, traversée et texture",
+        "summary": "Comprendre la ville horizontalement.",
+        "details": "Traversez le pont de Brooklyn tôt le matin et ressentez le changement de rythme lorsque Manhattan s'éloigne. Brooklyn offre une autre texture : des bâtiments plus bas, des habitudes locales et des conversations plus longues.\n\nExplorez les rues, cafés et petits parcs en laissant la répétition remplacer la nouveauté.\n\nRentrez à Manhattan en métro afin de découvrir la ville depuis son réseau souterrain."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, quartier et départ",
+        "summary": "Partir avec un motif, pas une conclusion.",
+        "details": "Consacrez votre dernière matinée à retrouver un lieu familier — un café, une rue ou une portion de parc — en privilégiant la profondeur plutôt que l'accumulation.\n\nMarchez une heure sans destination précise.\n\nProfitez d'un dernier déjeuner avant le départ.\n\nNew York laisse une impression inachevée : une ville qui ne se résout jamais, mais qui continue sans cesse."
+      }
+    ],
+    "planning": {
+      "city": "New York City, USA",
+      "bestTime": {
+        "months": "Avr.–juin, sept.–oct.",
+        "note": "Les températures agréables et les longues journées sont idéales pour explorer les quartiers à pied."
+      },
+      "worstTime": {
+        "months": "Juil.–août, janv.–févr.",
+        "note": "L'humidité estivale et le froid hivernal rendent les longues marches plus éprouvantes."
+      },
+      "tips": [
+        "Pensez en quartiers plutôt qu'en attractions.",
+        "Marchez d'abord, prenez ensuite le métro.",
+        "Un seul grand point fort par jour suffit.",
+        "Préservez vos matinées ou vos soirées.",
+        "L'alimentation rythme la journée.",
+        "De bonnes chaussures sont indispensables."
+      ],
+      "withKids": [
+        "Central Park et Brooklyn Bridge Park sont parfaits pour faire une pause.",
+        "Le métro limite la fatigue.",
+        "Privilégiez les activités interactives.",
+        "Commencez tôt pour éviter la foule."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "Les principaux aéroports sont situés hors du cœur de la ville, rendant l'arrivée progressive."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "Les liaisons ferroviaires, notamment vers Manhattan, reflètent le fonctionnement quotidien de New York."
+        }
+      ],
+      "gettingAround": [
+        "La marche révèle la véritable texture de la ville.",
+        "Le métro constitue la colonne vertébrale de New York.",
+        "Les bus permettent de rester en surface.",
+        "Les taxis sont surtout utiles la nuit.",
+        "Le vélo convient surtout aux parcs et aux berges."
+      ],
+      "dayTrips": [
+        {
+          "title": "Central Park",
+          "note": "Une respiration volontaire au cœur de la densité urbaine."
+        },
+        {
+          "title": "Pont de Brooklyn",
+          "note": "Une traversée vécue plutôt qu'un simple monument."
+        },
+        {
+          "title": "Brooklyn",
+          "note": "Des quartiers plus calmes offrant un contraste avec Manhattan."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Quadrillage de Manhattan",
+          "note": "Utilisez la grille pour vous orienter, sans chercher le trajet parfait."
+        },
+        {
+          "title": "Variations verticales",
+          "note": "Équilibrez les promenades avec une expérience en hauteur chaque jour."
+        },
+        {
+          "title": "Traversées",
+          "note": "Traversez au moins une rivière à pied ou en train."
+        },
+        {
+          "title": "Le métro comme réinitialisation",
+          "note": "Le métro réduit les distances sans casser le rythme."
+        },
+        {
+          "title": "Répétition",
+          "note": "Revenir dans un même lieu révèle rapidement le caractère de la ville."
+        }
+      ],
+      "practical": [
+        "Combinez marche et métro.",
+        "Portez des chaussures confortables.",
+        "Évitez les heures de pointe si possible.",
+        "Adaptez-vous à la météo.",
+        "Laissez les avenues vous guider.",
+        "À New York, s'arrêter fait aussi partie du mouvement."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pizza new-yorkaise à la part",
+        "Bagel au cream cheese",
+        "Pastrami sur pain de seigle",
+        "Assiette de riz des stands halal",
+        "Cheesecake new-yorkais",
+        "Petit-déjeuner de diner ou repas réconfortant de fin de soirée"
+      ],
+      "areas": [
+        {
+          "name": "Lower Manhattan (SoHo / Lower East Side)",
+          "note": "Quartiers marqués par les migrations, riches en adresses emblématiques."
+        },
+        {
+          "name": "Midtown Manhattan",
+          "note": "Secteur rapide où les delicatessens, pizzas et food carts accompagnent le rythme urbain."
+        },
+        {
+          "name": "Brooklyn (Williamsburg / DUMBO)",
+          "note": "Quartiers plus tranquilles réputés pour leurs cafés, boulangeries et restaurants."
+        }
+      ],
+      "places": [
+        {
+          "name": "Katz’s Delicatessen",
+          "area": "Lower Manhattan (Lower East Side)",
+          "reason": "Institution emblématique célèbre pour son sandwich au pastrami, symbole de l'héritage culinaire des immigrants.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/katzs-delicatessen.jpg",
+          "lat": 40.7223,
+          "lng": -73.9874
+        },
+        {
+          "name": "Joe’s Pizza (Carmine Street)",
+          "area": "Lower Manhattan (SoHo / West Village)",
+          "reason": "Pizzeria légendaire idéale pour une part entre deux promenades.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/joes-pizza-carmine.jpg",
+          "lat": 40.7309,
+          "lng": -74.0021
+        },
+        {
+          "name": "Ess-a-Bagel",
+          "area": "Midtown Manhattan",
+          "reason": "Adresse réputée pour ses bagels traditionnels.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/ess-a-bagel.jpg",
+          "lat": 40.7485,
+          "lng": -73.9766
+        },
+        {
+          "name": "Halal Guys (53rd Street & 6th Ave)",
+          "area": "Midtown Manhattan",
+          "reason": "Institution de la street food new-yorkaise connue pour ses assiettes halal.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/halal-guys-53rd.jpg",
+          "lat": 40.7615,
+          "lng": -73.9794
+        },
+        {
+          "name": "Juliana’s Pizza",
+          "area": "Brooklyn (DUMBO)",
+          "reason": "Excellente pizzeria près du pont de Brooklyn.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/julianas-pizza.jpg",
+          "lat": 40.7027,
+          "lng": -73.9934
+        },
+        {
+          "name": "Junior’s Restaurant & Bakery (Brooklyn)",
+          "area": "Brooklyn (Downtown)",
+          "reason": "Restaurant historique réputé pour son cheesecake new-yorkais.",
+          "imageUrl": "/src/assets/itineraries/united-states/new-york-city-food/juniors-brooklyn.jpg",
+          "lat": 40.6924,
+          "lng": -73.9865
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-san-francisco-living-on-the-edge",
+    "region": "americas",
+    "country": "United States",
+    "city": "San Francisco",
+    "title": "San Francisco en 3 jours : vivre à la lisière",
+    "days": 3,
+    "priceFrom": 305,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-san-francisco-living-on-the-edge.jpg",
+    "summary": "Cet itinéraire de 3 jours à San Francisco explore une ville façonnée par les lisières — géographiques, culturelles et psychologiques. Perchée entre l’océan Pacifique et la baie, San Francisco a toujours existé légèrement à part, se réinventant au fil des vagues d’arrivées et de départs. Conçu pour équilibrer seuils emblématiques, profondeur des quartiers et pauses contemplatives, l’itinéraire aborde San Francisco non comme un lieu qui apporte des réponses, mais comme une ville à l’aise avec les questions.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Golden Gate Bridge et les seuils côtiers",
+      "Le brouillard comme présence déterminante",
+      "Les cable cars et le mouvement vertical",
+      "La vie de quartier au-delà des cartes postales",
+      "Les lisières du front de mer et les horizons ouverts",
+      "Une ville façonnée par la réinvention"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, collines et première exposition",
+        "summary": "Rencontrer la ville par l’élévation.",
+        "details": "Arrivez à San Francisco et commencez par marcher ou circuler à travers ses collines, où les rues montent brusquement et où les vues s’ouvrent sans prévenir. L’altitude maintient une conscience constante de l’eau qui entoure la ville.\n\nDans l’après-midi, empruntez brièvement un cable car, en l’utilisant comme moyen d’orientation plutôt que comme simple attraction.\n\nTerminez la journée près du front de mer en regardant le brouillard entrer puis se retirer, adoucissant les contours et redéfinissant les distances. Dînez ensuite à proximité, simplement et assez tôt."
+      },
+      {
+        "day": 2,
+        "title": "Eau, isolement et réinvention",
+        "summary": "Comprendre la séparation.",
+        "details": "Commencez la matinée par une traversée en ferry vers Alcatraz ou par une promenade tranquille le long de la baie, en ressentant la manière dont l’eau isole et protège à la fois.\n\nRevenez en ville et passez l’après-midi dans des quartiers comme Mission, où la vie quotidienne, la cuisine et les conversations ancrent San Francisco dans son présent.\n\nGardez la soirée flexible, en laissant le brouillard, la lumière et l’instinct guider vos déplacements."
+      },
+      {
+        "day": 3,
+        "title": "Seuils, réflexion et départ",
+        "summary": "Partir sans résolution.",
+        "details": "Passez la dernière matinée près du Golden Gate, en parcourant des sentiers côtiers où la terre s’interrompt brutalement et où l’océan domine la perception.\n\nRestez assis plus longtemps que vous ne marchez, en laissant le vent et les sons remplacer le bruit intérieur.\n\nProfitez d’un dernier déjeuner avant le départ.\n\nSan Francisco laisse une impression irrésolue — celle d’une ville qui prospère en restant au bord et en refusant de s’en éloigner."
+      }
+    ],
+    "planning": {
+      "city": "San Francisco, USA",
+      "bestTime": {
+        "months": "Sept.–oct. (début de l’automne), avr.–juin (printemps)",
+        "note": "Un ciel plus dégagé, un brouillard moins dense et des températures douces rendent les promenades dans les collines, le long du front de mer et dans les rues des quartiers plus confortables et visuellement plus ouvertes."
+      },
+      "worstTime": {
+        "months": "Juil.–août (brumeux et frais), janv.–févr. (humide et venteux)",
+        "note": "Le brouillard estival peut masquer les vues et refroidir les soirées, tandis que la pluie et le vent hivernaux rendent les rues escarpées glissantes."
+      },
+      "tips": [
+        "Organisez vos journées par quartier plutôt que par distance : de faibles écarts sur la carte peuvent cacher des montées très raides.",
+        "Utilisez l’altitude avec intention — une grande montée par demi-journée suffit.",
+        "Acceptez le brouillard comme un élément du caractère de la ville : les vues peuvent être masquées le matin et se dégager dans l’après-midi.",
+        "Marchez d’abord, utilisez les transports ensuite : les cable cars et les bus permettent de franchir les collines sans casser le rythme.",
+        "Associez les lisières à la chaleur : après les côtes et les points de vue, retrouvez cafés et rues de quartier.",
+        "Les soirées se rafraîchissent rapidement — les vêtements superposables sont utiles toute l’année."
+      ],
+      "withKids": [
+        "Les cable cars transforment les collines en amusement plutôt qu’en effort.",
+        "Les parcs et les fronts de mer, notamment Golden Gate Park et l’Embarcadero, offrent de l’espace entre les montées.",
+        "Limitez les points de vue nécessitant beaucoup d’escaliers à un seul par jour.",
+        "Des couches coupe-vent sont indispensables, même en été."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport international de San Francisco (SFO) se trouve au sud de la ville et bénéficie de liaisons ferroviaires et routières directes. Dès l’arrivée, la séparation s’impose — l’eau, les ponts et la distance encadrent la ville avant même que ses rues n’apparaissent."
+        },
+        {
+          "title": "Arrivée → Quartiers de la ville",
+          "note": "Les transferts vers la ville traversent des lisières industrielles, des zones marécageuses ou des vues sur la baie, renforçant l’impression que San Francisco se tient à part plutôt qu’elle ne s’insère dans un ensemble continu."
+        }
+      ],
+      "gettingAround": [
+        "La marche est centrale mais exigeante ; les collines compriment les distances verticalement plutôt qu’horizontalement.",
+        "Les cable cars et les bus sont des outils pratiques pour gérer le dénivelé, et pas seulement des attractions.",
+        "Les services de VTC permettent de relier les zones escarpées ou noyées dans le brouillard sans rompre le rythme.",
+        "Les ferries sont à la fois des moyens de transport fonctionnels et des expériences qui modifient la perspective.",
+        "La conduite est possible, mais les difficultés de stationnement et les collines rendent souvent les transports préférables à l’intérieur de la ville."
+      ],
+      "dayTrips": [
+        {
+          "title": "Île d’Alcatraz",
+          "note": "Accessible en ferry depuis le front de mer, la traversée met en évidence l’isolement, le vent et l’eau — des thèmes essentiels de l’identité de San Francisco."
+        },
+        {
+          "title": "Sentiers côtiers du Golden Gate",
+          "note": "Accessibles en bus ou en voiture, ces sentiers vous placent directement à la lisière physique de la ville, là où la terre s’arrête et où l’échelle s’ouvre vers l’extérieur."
+        },
+        {
+          "title": "Mission District",
+          "note": "Facilement accessible en transports publics, Mission apporte chaleur au niveau de la rue, culture culinaire et vie quotidienne, loin des lisières de carte postale."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Montées et descentes",
+          "note": "Le mouvement vertical définit la journée — les montées exposent les vues, tandis que les descentes ramènent à l’intimité et à la vie de rue."
+        },
+        {
+          "title": "Passages entre l’eau et les quartiers",
+          "note": "Se déplacer entre les lisières du front de mer et les quartiers intérieurs alterne exposition et refuge, réinitialisant la perception."
+        },
+        {
+          "title": "Ajustements dictés par le brouillard",
+          "note": "Les itinéraires et les horaires changent avec le brouillard ; la souplesse permet à la ville de se révéler progressivement plutôt que sur commande."
+        },
+        {
+          "title": "Répétition des quartiers",
+          "note": "Revenir dans les mêmes rues ou les mêmes cafés crée rapidement de la familiarité — San Francisco récompense davantage la profondeur que l’accumulation."
+        }
+      ],
+      "practical": [
+        "Attendez-vous à des changements rapides de température — le brouillard et le vent peuvent faire chuter les conditions soudainement, même pendant une journée ensoleillée.",
+        "Les collines rendent les courtes distances plus longues qu’elles n’en ont l’air ; prévoyez moins de déplacements chaque jour.",
+        "Les vêtements superposables sont indispensables toute l’année.",
+        "Les transports publics et la marche sont souvent plus efficaces que la voiture dans le centre-ville.",
+        "Les zones du front de mer sont plus venteuses et plus fraîches que les quartiers intérieurs.",
+        "San Francisco fonctionne mieux lorsque le rythme suit le terrain plutôt que les horaires."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Burrito façon Mission",
+        "Pain au levain",
+        "Crabe dormeur, selon la saison",
+        "Cioppino, ragoût de fruits de mer",
+        "Dim sum",
+        "Café de troisième vague et pâtisseries"
+      ],
+      "areas": [
+        {
+          "name": "Mission District",
+          "note": "Chaleur au niveau de la rue et intensité du quotidien. Le quartier est connu pour sa cuisine mexicaine, ses boulangeries historiques et une culture du repas social profondément enracinée dans la vie locale."
+        },
+        {
+          "name": "Chinatown",
+          "note": "L’un des plus anciens quartiers chinois d’Amérique du Nord, dense en boulangeries, maisons de dim sum et cuisines chinoises régionales fréquentées chaque jour par les habitants."
+        },
+        {
+          "name": "Fisherman’s Wharf / North Beach Edge",
+          "note": "Une culture culinaire historique liée au front de mer en activité, à aborder de manière sélective pour ses traditions de produits de la mer plutôt que pour ses foules."
+        },
+        {
+          "name": "Hayes Valley",
+          "note": "Un secteur de restauration compact et agréable à parcourir à pied, façonné par la cuisine californienne contemporaine, les bars à vin décontractés et un rythme détendu."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Taqueria",
+          "area": "Mission District",
+          "reason": "Largement considérée comme l’une des institutions emblématiques du burrito de Mission, reconnue pour sa simplicité, son équilibre et sa régularité plutôt que pour la nouveauté.",
+          "imageUrl": "/src/assets/itineraries/united-states/san-francisco-food/la-taqueria.jpg",
+          "lat": 37.7502,
+          "lng": -122.4184
+        },
+        {
+          "name": "Tartine Bakery",
+          "area": "Mission District",
+          "reason": "Boulangerie emblématique représentant la culture du levain et de la pâtisserie à San Francisco, avec ses longues fermentations et sa présence quotidienne dans la vie du quartier.",
+          "imageUrl": "/src/assets/itineraries/united-states/san-francisco-food/tartine-bakery.jpg",
+          "lat": 37.7616,
+          "lng": -122.4241
+        },
+        {
+          "name": "Good Mong Kok Bakery",
+          "area": "Chinatown",
+          "reason": "Boulangerie de Chinatown fonctionnant uniquement en espèces, connue pour ses dim sum et brioches servis frais et rapidement, principalement à une clientèle locale plutôt qu’aux touristes.",
+          "imageUrl": "/src/assets/itineraries/united-states/san-francisco-food/good-mong-kok.jpg",
+          "lat": 37.7941,
+          "lng": -122.4078
+        },
+        {
+          "name": "Swan Oyster Depot",
+          "area": "North of Market / Polk Gulch",
+          "reason": "Comptoir historique de produits de la mer, réputé pour son cioppino, ses huîtres et ses repas au comptoir liés à l’héritage de la pêche de San Francisco.",
+          "imageUrl": "/src/assets/itineraries/united-states/san-francisco-food/swan-oyster-depot.jpg",
+          "lat": 37.7897,
+          "lng": -122.4209
+        },
+        {
+          "name": "Zuni Café",
+          "area": "Civic Center / Hayes Valley",
+          "reason": "Bistrot californien établi de longue date, connu pour sa cuisine au feu de bois et pour son rôle dans la formation de la culture gastronomique moderne de San Francisco.",
+          "imageUrl": "/src/assets/itineraries/united-states/san-francisco-food/zuni-cafe.jpg",
+          "lat": 37.773,
+          "lng": -122.421
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-seattle-rain-water-and-quiet-work",
+    "region": "americas",
+    "country": "United States",
+    "city": "Seattle",
+    "title": "Seattle en 3 jours : pluie, eau et travail silencieux",
+    "days": 3,
+    "priceFrom": 295,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-seattle-rain-water-and-quiet-work.jpg",
+    "summary": "Cet itinéraire de 3 jours à Seattle explore une ville façonnée par la météo, l’eau et l’effort soutenu. Tournée vers le Puget Sound et encadrée par les montagnes, Seattle affirme son identité à travers l’industrie, le savoir-faire et la contemplation plutôt que par la mise en scène. Conçu pour équilibrer déplacements au bord de l’eau, profondeur des quartiers et pauses réflexives, l’itinéraire aborde Seattle comme un lieu qui valorise davantage le fait de créer que celui de l’annoncer — et la clarté plus que la vitesse.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Puget Sound et le rythme quotidien des ferries",
+      "Pike Place Market comme espace commun en activité",
+      "Les cafés de quartier et la productivité silencieuse",
+      "Les promenades au bord de l’eau et les horizons ouverts",
+      "L’art et l’industrie côte à côte",
+      "Une ville façonnée par la pluie et la patience"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, terrain du marché et premières textures",
+        "summary": "Rencontrer la ville à travers le travail.",
+        "details": "Arrivez à Seattle et commencez tôt à Pike Place Market, lorsque les commerçants installent le rythme et que l’utilité précède la représentation. Parcourez lentement les étals en observant la manière dont le savoir-faire et le commerce se croisent.\n\nDans l’après-midi, suivez le front de mer vers le nord ou le sud, là où les quais et les promenades révèlent le rapport de la ville à l’eau et aux échanges.\n\nTerminez la journée dans un café de quartier, où les conversations restent discrètes et où l’attention demeure tournée vers l’intérieur. Seattle se présente sans bruit."
+      },
+      {
+        "day": 2,
+        "title": "Traversée de l’eau et changement de perspective",
+        "summary": "Comprendre l’échelle par le mouvement.",
+        "details": "Commencez la matinée par une traversée en ferry sur le Puget Sound, en laissant la ville s’éloigner puis réapparaître. Ici, l’eau apporte de la perspective — la distance clarifie les formes.\n\nRevenez sur la rive et passez l’après-midi à marcher dans un quartier connu pour l’artisanat, la musique ou les espaces de travail indépendants. Asseyez-vous souvent ; la pluie aiguise la concentration au lieu de la décourager.\n\nGardez la soirée flexible, guidée par la météo et la lumière plutôt que par un programme."
+      },
+      {
+        "day": 3,
+        "title": "Parcs, répétition et départ",
+        "summary": "Partir sans bruit.",
+        "details": "Passez la dernière matinée dans un parc au bord de l’eau ou le long d’un corridor vert, en marchant lentement et en laissant la pluie, le vent ou les nuages façonner l’expérience.\n\nRevenez dans un café familier ou sur une portion de promenade déjà parcourue, en choisissant la répétition plutôt que la nouveauté.\n\nProfitez d’un dernier déjeuner avant le départ.\n\nSeattle laisse une impression stable — celle d’une ville qui construit ses idées en silence et laisse le travail parler plus tard."
+      }
+    ],
+    "planning": {
+      "city": "Seattle, USA",
+      "bestTime": {
+        "months": "Juil.–sept. (été et début de l’automne)",
+        "note": "Un temps plus sec, de longues journées et des vues plus dégagées sur les montagnes rendent particulièrement gratifiantes les promenades au bord de l’eau, les traversées en ferry et l’exploration des quartiers."
+      },
+      "worstTime": {
+        "months": "Nov.–mars (humide et gris)",
+        "note": "La pluie persistante et les nuages bas limitent les panoramas et le confort en extérieur, même si la ville demeure active et pleine d’atmosphère."
+      },
+      "tips": [
+        "Acceptez la pluie comme une donnée normale : la bruine légère est fréquente — les vêtements imperméables comptent davantage qu’un parapluie.",
+        "Ancrez chaque journée autour de l’eau : les ferries du Puget Sound, Lake Union et le front de mer rééquilibrent l’humeur et l’échelle.",
+        "Commencez tôt à Pike Place Market — les matinées calmes révèlent son fonctionnement quotidien avant l’arrivée des foules.",
+        "Pensez par quartiers : Capitol Hill, Ballard et Fremont méritent chacun un temps d’exploration concentré.",
+        "Utilisez les ferries à la fois comme transport et comme pause — ils offrent une clarté que les rues ne donnent pas toujours.",
+        "Les soirées sont tournées vers l’intérieur : cafés, librairies et dîners tôt correspondent au rythme de travail de la ville."
+      ],
+      "withKids": [
+        "Les traversées en ferry sont captivantes et restent agréables malgré la météo.",
+        "Les parcs et les promenades du front de mer offrent de l’espace entre les visites intérieures.",
+        "Les marchés interactifs et les courtes promenades conviennent bien aux capacités d’attention.",
+        "Les vestes imperméables et les vêtements superposables sont indispensables toute l’année."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "À Seattle, le passage entre les infrastructures aéroportuaires et les quartiers tournés vers l’eau est rapide, ce qui renforce immédiatement le lien de la ville avec le commerce, la météo et le travail plutôt qu’avec le spectacle."
+        },
+        {
+          "title": "Arrivée → Centre-ville",
+          "note": "Les premiers déplacements placent généralement les visiteurs près du front de mer, du quartier du marché ou de quartiers bien reliés aux transports, plutôt que dans un seul centre dominant."
+        }
+      ],
+      "gettingAround": [
+        "La marche fonctionne particulièrement bien à l’intérieur des quartiers et le long du front de mer, où l’échelle et les textures récompensent un rythme plus lent.",
+        "Les transports publics, notamment le métro léger et les bus, sont pratiques pour relier des secteurs séparés par les collines et l’eau.",
+        "Les ferries traversant le Puget Sound servent à la fois de transport et de moyen d’orientation, révélant la forme de Seattle par la distance.",
+        "Le vélo est adapté aux promenades plus plates du front de mer et aux corridors verts, mais il est moins pratique dans les rues résidentielles escarpées.",
+        "Les services de VTC et les taxis sont utiles en cas de forte pluie ou tard le soir, lorsque la météo décourage les longues marches."
+      ],
+      "dayTrips": [
+        {
+          "title": "Lignes de ferry du Puget Sound",
+          "note": "De courtes traversées en ferry créent une nouvelle perspective en faisant reculer la ville dans le champ de vision, rappelant la dépendance de Seattle aux déplacements sur l’eau."
+        },
+        {
+          "title": "Quartiers de Ballard ou Fremont",
+          "note": "Ces quartiers tournés vers l’artisanat révèlent la manière dont l’industrie, la créativité et la vie quotidienne se superposent loin du centre touristique."
+        },
+        {
+          "title": "Boucles dans les parcs du front de mer",
+          "note": "Les promenades linéaires longeant la rive offrent une répétition apaisante et des horizons ouverts, même lorsque le ciel est gris."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Transitions du marché vers l’eau",
+          "note": "Marcher entre Pike Place Market et le front de mer relie le travail, le commerce et l’eau dans un mouvement continu."
+        },
+        {
+          "title": "Le ferry comme réinitialisation",
+          "note": "Prendre un ferry au milieu du séjour réajuste le rythme et la perspective plus efficacement qu’une boucle effectuée par la route."
+        },
+        {
+          "title": "Blocs de temps consacrés aux quartiers",
+          "note": "Passer une période prolongée dans un seul quartier évite la fatigue provoquée par les collines, la pluie et les distances."
+        },
+        {
+          "title": "La répétition plutôt que l’accumulation",
+          "note": "Revenir dans le même café, sur la même promenade ou dans le même parc approfondit la familiarité dans une ville façonnée par des évolutions subtiles plutôt que par une succession de sites majeurs."
+        }
+      ],
+      "practical": [
+        "La pluie est fréquente mais généralement légère — les vêtements imperméables comptent davantage que les parapluies.",
+        "Les collines amplifient les distances ; de faibles écarts sur la carte peuvent demander davantage d’effort et de temps.",
+        "Les horaires des ferries sont fiables, mais la météo peut affecter le confort — prévoyez des vêtements adaptés au vent.",
+        "Les stations de transport peuvent encore nécessiter de monter ou descendre une pente une fois revenu au niveau de la rue.",
+        "Les matinées sont plus calmes et plus dégagées, surtout autour des marchés et de l’eau.",
+        "Seattle se révèle par un mouvement soutenu plutôt que par l’optimisation des itinéraires."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Produits de la mer frais du nord-ouest du Pacifique",
+        "Saumon grillé, fumé ou cuit sur une planche de cèdre",
+        "Chowder et coquillages",
+        "Teriyaki à la manière de Seattle",
+        "Café artisanal",
+        "Plats saisonniers inspirés par le marché"
+      ],
+      "areas": [
+        {
+          "name": "Pike Place / Downtown Waterfront",
+          "note": "Une culture de marché en activité, des comptoirs de produits de la mer, des boulangeries et des institutions locales établies de longue date."
+        },
+        {
+          "name": "Capitol Hill",
+          "note": "Une offre de restauration dense à l’échelle du quartier, avec cafés, boulangeries et restaurants indépendants façonnés par la fréquentation quotidienne des habitants."
+        },
+        {
+          "name": "Ballard",
+          "note": "Ancien quartier maritime et industriel connu pour son influence nordique, ses produits de la mer et sa restauration centrée sur le savoir-faire."
+        },
+        {
+          "name": "Fremont",
+          "note": "Un secteur créatif et discret mêlant cafés de quartier, brasseries artisanales et culture culinaire décontractée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pike Place Chowder",
+          "area": "Pike Place / Downtown Waterfront",
+          "reason": "Largement reconnu pour ses chowders classiques du nord-ouest du Pacifique préparés avec des produits de la mer locaux.",
+          "imageUrl": "/src/assets/itineraries/united-states/seattle-food/pike-place-chowder.jpg",
+          "lat": 47.6097,
+          "lng": -122.3422
+        },
+        {
+          "name": "The Pink Door",
+          "area": "Pike Place / Downtown Waterfront",
+          "reason": "Restaurant établi de longue date, combinant une cuisine d’influence italienne avec la tradition gastronomique issue de l’époque du marché à Seattle.",
+          "imageUrl": "/src/assets/itineraries/united-states/seattle-food/the-pink-door.jpg",
+          "lat": 47.6101,
+          "lng": -122.3426
+        },
+        {
+          "name": "Taylor Shellfish Oyster Bar (Capitol Hill)",
+          "area": "Capitol Hill",
+          "reason": "Institution locale respectée, spécialisée dans les coquillages du nord-ouest du Pacifique issus d’un élevage durable.",
+          "imageUrl": "/src/assets/itineraries/united-states/seattle-food/taylor-shellfish-capitol-hill.jpg",
+          "lat": 47.6145,
+          "lng": -122.3203
+        },
+        {
+          "name": "Walrus and the Carpenter",
+          "area": "Ballard",
+          "reason": "Restaurant de quartier très réputé, connu pour ses huîtres et ses menus saisonniers centrés sur les produits de la mer.",
+          "imageUrl": "/src/assets/itineraries/united-states/seattle-food/walrus-and-the-carpenter.jpg",
+          "lat": 47.6686,
+          "lng": -122.3832
+        },
+        {
+          "name": "Serious Pie",
+          "area": "Downtown",
+          "reason": "Adresse bien connue de Seattle pour ses pizzas cuites au feu de bois, préparées avec des ingrédients locaux selon une exécution mesurée et centrée sur le savoir-faire.",
+          "imageUrl": "/src/assets/itineraries/united-states/seattle-food/serious-pie.jpg",
+          "lat": 47.6134,
+          "lng": -122.3418
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-washington-dc-power-memory-and-measured-steps",
+    "region": "america",
+    "country": "United States",
+    "city": "Washington, D.C.",
+    "title": "Washington, D.C. en 3 jours : pouvoir, mémoire et pas mesurés",
+    "days": 3,
+    "priceFrom": 295,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/united-states/3-days-washington-dc-power-memory-and-measured-steps.jpg",
+    "summary": "Cet itinéraire de 3 jours à Washington, D.C. explore la capitale des États-Unis comme une ville conçue pour le sens plutôt que pour l’élan. Construite autour d’axes monumentaux et de vastes espaces civiques, Washington révèle sa raison d’être à travers la marche, la symétrie et les pauses. Conçu pour équilibrer monuments, mémoriaux propices à la réflexion et quartiers habités, cet itinéraire présente Washington non comme un spectacle politique, mais comme un lieu où le pouvoir, la mémoire et la retenue coexistent.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le National Mall et son axe civique",
+      "Des monuments conçus pour la réflexion",
+      "Les musées Smithsonian comme mémoire publique",
+      "Capitol Hill et sa géométrie institutionnelle",
+      "La vie historique de Georgetown",
+      "Une ville façonnée par l’intention et la pause"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, axe du Mall et premier poids",
+        "summary": "Entrer sur un territoire symbolique.",
+        "details": "Arrivez à Washington, D.C. et commencez à pied le long du National Mall, où les distances et les grands espaces ralentissent naturellement le rythme. La ville invite à être parcourue à pied.\n\nPassez du Washington Monument aux mémoriaux voisins en observant comment l’espace, l’eau et les alignements dirigent le regard.\n\nL’après-midi, visitez un musée Smithsonian en privilégiant la profondeur plutôt que la quantité.\n\nTerminez la journée au Lincoln Memorial au coucher du soleil, lorsque l’échelle et la réflexion se rejoignent dans le calme."
+      },
+      {
+        "day": 2,
+        "title": "Institutions, mémoire et coût humain",
+        "summary": "Comprendre ce que le pouvoir conserve.",
+        "details": "Commencez près de Capitol Hill en observant comment les bâtiments expriment l’autorité par la symétrie et la retenue.\n\nConsacrez la fin de matinée aux mémoriaux liés aux conflits et à leurs conséquences, en laissant de la place au silence.\n\nL’après-midi, retournez dans un musée consacré à l’histoire ou à la culture afin de relier les politiques à l’expérience humaine.\n\nLa soirée reste paisible et privilégie un dîner de quartier."
+      },
+      {
+        "day": 3,
+        "title": "Échelle des quartiers et départ",
+        "summary": "Partir à travers la vie quotidienne.",
+        "details": "Passez la dernière matinée à Georgetown ou dans un autre quartier historique, en parcourant les rues arborées et le canal où la ville devient plus douce.\n\nInstallez-vous dans un café et observez la coexistence des habitudes quotidiennes et du symbolisme national.\n\nProfitez d’un dernier déjeuner avant le départ.\n\nWashington laisse une impression réfléchie : une ville qui s’exprime le plus clairement lorsqu’on la découvre lentement et sans agitation."
+      }
+    ],
+    "planning": {
+      "city": "Washington, D.C., USA",
+      "bestTime": {
+        "months": "Avr.–mai, sept.–oct.",
+        "note": "Des températures agréables et un ciel dégagé rendent confortables les promenades sur le Mall, les visites des mémoriaux et l’exploration des quartiers."
+      },
+      "worstTime": {
+        "months": "Juil.–août, janv.–févr.",
+        "note": "La chaleur estivale et le froid venteux de l’hiver rendent les longues marches moins agréables."
+      },
+      "tips": [
+        "Pensez en axes plutôt qu’en listes : parcourez le National Mall d’un seul élan.",
+        "Alternez mémoriaux et quartiers comme Georgetown pour retrouver de l’équilibre.",
+        "Visitez les mémoriaux tôt ou au crépuscule.",
+        "Un grand musée par jour suffit.",
+        "Prévoyez de bonnes chaussures et de l’eau.",
+        "Les soirées sont calmes et les dîners commencent relativement tôt."
+      ],
+      "withKids": [
+        "Les larges allées et pelouses offrent de l’espace.",
+        "Les musées interactifs équilibrent les visites historiques.",
+        "Commencez tôt pour éviter chaleur et foule.",
+        "Trottinettes et métro réduisent la fatigue."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "Washington est desservie par plusieurs aéroports reliés directement au centre par train ou taxi. L’arrivée passe rapidement des transports aux espaces civiques."
+        },
+        {
+          "title": "Arrivée → Centre-ville",
+          "note": "Les premiers déplacements mènent rapidement vers les monuments, musées ou quartiers historiques, révélant immédiatement l’organisation réfléchie de la ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est essentielle sur le National Mall.",
+        "Le métro est efficace entre les quartiers.",
+        "Les bus complètent le réseau.",
+        "Le vélo convient aux larges promenades.",
+        "Les taxis et VTC sont pratiques le soir ou par mauvais temps."
+      ],
+      "dayTrips": [
+        {
+          "title": "Georgetown",
+          "note": "Ses rues historiques et son canal offrent un contrepoint plus humain aux monuments."
+        },
+        {
+          "title": "Quartiers de Capitol Hill",
+          "note": "Les rues résidentielles montrent comment le pouvoir institutionnel cohabite avec la vie quotidienne."
+        },
+        {
+          "title": "Potomac et boucle des mémoriaux",
+          "note": "Les promenades au bord du fleuve créent une distance propice à la réflexion."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Promenade sur l’axe du National Mall",
+          "note": "Marcher d’un monument à l’autre crée un meilleur rythme émotionnel que les transports segmentés."
+        },
+        {
+          "title": "Association mémorial-musée",
+          "note": "Les transitions entre mémoriaux et musées équilibrent recueillement et repos."
+        },
+        {
+          "title": "Adoucissement par les quartiers",
+          "note": "Quitter les espaces civiques pour les rues résidentielles rétablit une échelle plus humaine."
+        },
+        {
+          "title": "Boucles au crépuscule",
+          "note": "Les promenades du soir autour des mémoriaux sont plus calmes et favorisent la réflexion."
+        }
+      ],
+      "practical": [
+        "Les distances sur le Mall sont plus importantes qu’elles n’y paraissent.",
+        "La chaleur rend indispensables l’eau et les pauses à l’ombre.",
+        "Les stations de métro nécessitent encore de marcher.",
+        "Vélos et trottinettes sont utiles hors heures de pointe.",
+        "Les contrôles de sécurité demandent du temps.",
+        "Washington se découvre par une progression mesurée."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Half-smoke",
+        "Plateaux d’injera éthiopiens",
+        "Crab cakes du Maryland",
+        "Classiques de la soul food",
+        "Cuisine de brasserie des déjeuners d’affaires",
+        "Pâtisseries et café des marchés fermiers"
+      ],
+      "areas": [
+        {
+          "name": "U Street / Shaw",
+          "note": "Corridor historique afro-américain où musique, droits civiques et gastronomie quotidienne se rencontrent."
+        },
+        {
+          "name": "Capitol Hill",
+          "note": "Quartier résidentiel proposant des restaurants de proximité."
+        },
+        {
+          "name": "Georgetown",
+          "note": "Rues historiques et restaurants du front de mer."
+        },
+        {
+          "name": "Adams Morgan",
+          "note": "Centre de la scène culinaire internationale de Washington, notamment éthiopienne."
+        }
+      ],
+      "places": [
+        {
+          "name": "Ben’s Chili Bowl",
+          "area": "U Street",
+          "reason": "Institution emblématique réputée pour le half-smoke et son rôle dans l’histoire sociale et politique de la ville.",
+          "imageUrl": "/src/assets/itineraries/united-states/washington-dc-food/bens-chili-bowl.jpg",
+          "lat": 38.917,
+          "lng": -77.0275
+        },
+        {
+          "name": "Busboys and Poets",
+          "area": "Shaw",
+          "reason": "Librairie-café incarnant le mélange de politique, culture et conversation propre à Washington.",
+          "imageUrl": "/src/assets/itineraries/united-states/washington-dc-food/busboys-and-poets.jpg",
+          "lat": 38.9145,
+          "lng": -77.0227
+        },
+        {
+          "name": "Zaytinya",
+          "area": "Downtown / Penn Quarter",
+          "reason": "Restaurant de mezzés méditerranéens orientaux associé à la culture diplomatique et professionnelle de la capitale.",
+          "imageUrl": "/src/assets/itineraries/united-states/washington-dc-food/zaytinya.jpg",
+          "lat": 38.8987,
+          "lng": -77.023
+        },
+        {
+          "name": "Ethiopic",
+          "area": "H Street NE",
+          "reason": "Restaurant éthiopien très apprécié représentant l’une des traditions culinaires les plus enracinées de Washington.",
+          "imageUrl": "/src/assets/itineraries/united-states/washington-dc-food/ethiopic.jpg",
+          "lat": 38.9009,
+          "lng": -76.9826
+        },
+        {
+          "name": "Old Ebbitt Grill",
+          "area": "Downtown / White House Area",
+          "reason": "Salle à manger historique fréquentée depuis longtemps par journalistes, responsables politiques et habitants.",
+          "imageUrl": "/src/assets/itineraries/united-states/washington-dc-food/old-ebbitt-grill.jpg",
+          "lat": 38.8977,
+          "lng": -77.0337
+        }
+      ]
+    }
+  }

@@ -1,0 +1,184 @@
+
+  {
+    "slug": "5-days-kenya-horizon-land-and-shared-movement",
+    "region": "africa",
+    "country": "Kenya",
+    "city": "Nairobi, vallée du Rift et Masai Mara",
+    "title": "Le Kenya en 5 jours : horizons, terres et mouvements partagés",
+    "days": 5,
+    "priceFrom": 380,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/kenya/5-days-kenya-horizon-land-and-shared-movement.jpg",
+    "summary": "Cet itinéraire de 5 jours au Kenya explore un pays défini par l'immensité de ses horizons, les migrations saisonnières et les liens profonds qui unissent les terres, la faune sauvage et les populations locales. De Nairobi, où la ville coexiste de manière étonnante avec la nature, jusqu'aux vastes savanes de la vallée du Grand Rift et du Masai Mara, le Kenya se révèle davantage par l'espace que par le spectacle. Conçu pour équilibrer découverte urbaine, transition progressive vers les grands paysages et immersion dans la savane, cet itinéraire présente le Kenya non comme une simple succession de safaris, mais comme un écosystème vivant rythmé par les migrations, la patience et l'immensité.",
+    "priceNote": "Budget estimé par personne. Vols internationaux, hébergement, droits d'entrée dans les parcs et services de guide non inclus.",
+    "highlights": [
+      "La coexistence entre la ville et la faune sauvage à Nairobi",
+      "La vallée du Grand Rift et son immense échelle géologique",
+      "Les vastes savanes aux horizons infinis",
+      "Les déplacements de la faune comme rythme partagé",
+      "La culture masaï et la préservation des terres",
+      "Un pays façonné par l'horizon plutôt que par les frontières"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à Nairobi et premiers repères",
+        "summary": "Découvrir l'Afrique à travers la coexistence.",
+        "details": "À votre arrivée à Nairobi, commencez par une visite guidée qui révèle la relation unique entre la capitale et les espaces naturels qui l'entourent. Les réserves animalières se trouvent étonnamment proches de la ville, donnant immédiatement le ton de l'équilibre propre au Kenya.\n\nPassez l'après-midi à découvrir un site culturel ou naturel situé près de Nairobi, en privilégiant la compréhension du contexte plutôt qu'une accumulation de visites.\n\nÀ la tombée de la nuit, observez comment Nairobi ralentit progressivement, tout en restant animée et chaleureuse.\n\nLe dîner se déroule dans une ambiance simple, propice aux échanges et au partage."
+      },
+      {
+        "day": 2,
+        "title": "Descente dans la vallée du Grand Rift et ouverture des paysages",
+        "summary": "Laisser la terre élargir le regard.",
+        "details": "Prenez la route vers l'ouest en direction de la vallée du Grand Rift, où le relief s'ouvre soudainement et où les changements d'altitude deviennent spectaculaires.\n\nArrêtez-vous à différents points de vue, non seulement pour admirer le paysage, mais aussi pour ressentir physiquement son immensité.\n\nPoursuivez ensuite vers une région de savane ou votre lodge, où vous arriverez dans l'après-midi.\n\nÀ mesure que le soleil descend, les sons changent : le vent, les insectes et les mouvements lointains remplacent progressivement l'agitation urbaine.\n\nLa nuit tombe dans un silence presque absolu."
+      },
+      {
+        "day": 3,
+        "title": "Le temps de la savane et les mouvements de la faune",
+        "summary": "Apprendre la patience au contact de la nature.",
+        "details": "Passez la journée dans la savane avec des guides expérimentés qui suivent les déplacements naturels des animaux plutôt qu'un itinéraire prédéfini.\n\nL'observation remplace l'action : attendre devient une partie essentielle de l'expérience.\n\nObservez la manière dont les animaux, la météo et la lumière évoluent ensemble au fil de la journée.\n\nPendant les heures les plus chaudes, accordez-vous une pause afin de respecter le rythme naturel de la savane.\n\nEn fin de journée, la lumière rasante étire les ombres et accentue encore davantage la sensation d'espace."
+      },
+      {
+        "day": 4,
+        "title": "Communautés locales, préservation et territoire partagé",
+        "summary": "Comprendre la présence humaine.",
+        "details": "Consacrez une partie de la journée à une rencontre respectueuse avec les communautés locales vivant au contact de la faune sauvage afin de mieux comprendre comment traditions, élevage et préservation des terres coexistent.\n\nLes échanges mettent l'accent sur la continuité des modes de vie plutôt que sur une simple démonstration culturelle.\n\nDans l'après-midi, retournez dans la savane pour une exploration plus courte et plus paisible.\n\nLa soirée se déroule dans une atmosphère calme, autour du feu et de conversations discrètes."
+      },
+      {
+        "day": 5,
+        "title": "Derniers horizons et départ",
+        "summary": "Quitter les lieux sans rompre l'horizon.",
+        "details": "Profitez de votre dernière matinée pour effectuer une ultime sortie dans la savane, en privilégiant des lieux déjà connus plutôt que la recherche de nouvelles observations.\n\nCommencez ensuite votre retour vers Nairobi ou poursuivez votre voyage vers une autre destination.\n\nRemarquez comment votre perception change à mesure que les grands espaces laissent progressivement place à des paysages plus densément occupés.\n\nLe Kenya laisse avant tout le souvenir d'un pays qui enseigne l'immensité, la patience et le mouvement partagé plutôt que la maîtrise."
+      }
+    ],
+    "planning": {
+      "city": "Kenya (Nairobi et Masai Mara)",
+      "bestTime": {
+        "months": "Juil.–oct. (saison sèche et grande migration), janv.–fév. (courte saison sèche)",
+        "note": "Le ciel est généralement dégagé, les routes sont plus praticables et les déplacements de la faune sont plus concentrés, offrant d'excellentes conditions pour les safaris et les voyages terrestres."
+      },
+      "worstTime": {
+        "months": "Mars–mai (grande saison des pluies), nov. (petite saison des pluies)",
+        "note": "Les fortes pluies peuvent rendre certaines routes difficiles d'accès et disperser les animaux, ce qui allonge les temps de déplacement."
+      },
+      "tips": [
+        "Commencez vos journées dès l'aube : la faune est plus active, les températures plus agréables et la lumière idéale pour l'observation.",
+        "Prévoyez un seul grand déplacement par jour : une longue route ou un safari, mais évitez d'accumuler les deux afin de préserver votre énergie.",
+        "Faites confiance aux guides et aux pisteurs, dont la lecture du terrain repose sur des années d'expérience.",
+        "Observez les paysages et les comportements plutôt que de chercher à cocher une liste d'animaux.",
+        "Les heures les plus chaudes sont faites pour le repos, l'ombre, la vie du camp et les échanges.",
+        "Les soirées se vivent autour des repas partagés et du feu, plutôt qu'à travers une vie nocturne animée."
+      ],
+      "withKids": [
+        "Les safaris plus courts maintiennent mieux l'attention des enfants que les excursions d'une journée entière.",
+        "Les lodges et camps offrent un environnement sécurisé permettant de découvrir la nature en toute tranquillité.",
+        "Les départs matinaux suivis d'une pause pendant les heures chaudes limitent la fatigue.",
+        "Une protection solaire efficace et une bonne hydratation sont indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée à Nairobi",
+          "note": "Les voyageurs internationaux arrivent à Nairobi, où la ville et les réserves naturelles coexistent à une proximité remarquable. Les premiers déplacements sont généralement encadrés et progressifs afin de faciliter l'adaptation au rythme du pays."
+        }
+      ],
+      "gettingAround": [
+        "Au Kenya, les déplacements privilégient généralement l'accompagnement par un guide, en particulier en dehors des zones urbaines.",
+        "À Nairobi, les trajets sont structurés et fonctionnels, tandis que dans les régions rurales et les savanes, le rythme dépend davantage du terrain et des conditions naturelles que de la vitesse.",
+        "Les distances se mesurent moins en kilomètres qu'en temps de trajet et en diversité des paysages traversés."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Nairobi → Vallée du Grand Rift",
+          "note": "Le trajet par la route descend progressivement vers la vallée du Grand Rift, où les changements d'altitude et l'ouverture des paysages illustrent l'immense échelle géologique du Kenya."
+        },
+        {
+          "title": "Vallée du Grand Rift → Savane / Masai Mara",
+          "note": "Le rythme ralentit à mesure que les routes deviennent plus isolées ; l'heure d'arrivée dépend davantage de la lumière, de la météo et des conditions du terrain que d'un horaire précis."
+        },
+        {
+          "title": "Déplacements dans la savane",
+          "note": "Chaque journée suit les mouvements de la faune, l'expertise des guides et les conditions naturelles plutôt qu'un itinéraire fixe."
+        },
+        {
+          "title": "Retour vers Nairobi ou poursuite du voyage",
+          "note": "Le trajet de retour réduit progressivement la sensation d'immensité, renforçant le contraste entre les grands espaces ouverts et la densité urbaine."
+        }
+      ],
+      "practical": [
+        "Les premières heures de la journée sont idéales pour observer la faune et effectuer les trajets les plus longs.",
+        "La chaleur de la mi-journée limite naturellement les déplacements ; les temps de repos font pleinement partie de l'expérience.",
+        "Les guides gèrent le rythme, les accès et la sécurité : la souplesse est plus importante qu'un planning rigide.",
+        "La poussière, la météo et l'état des pistes influencent le déroulement de la journée ; prévoyez toujours une marge de temps.",
+        "Les soirées se passent généralement dans les camps ou les lodges, limitant les déplacements nocturnes inutiles."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Le nyama choma (viande grillée à partager)",
+        "L'ugali (galette de maïs, aliment de base traditionnel)",
+        "Le sukuma wiki (légumes verts sautés avec oignons et tomates)",
+        "Le chapati d'Afrique de l'Est",
+        "Le tilapia (poisson d'eau douce, particulièrement réputé dans la vallée du Grand Rift)",
+        "Le thé kenyan et le café cultivé localement"
+      ],
+      "areas": [
+        {
+          "name": "Nairobi",
+          "note": "Centre économique et culturel du Kenya, où la cuisine du quotidien reflète la diversité des communautés, les repas partagés et la convivialité."
+        },
+        {
+          "name": "Vallée du Grand Rift",
+          "note": "Grande région agricole où la gastronomie reste étroitement liée aux terres cultivées, aux lacs et aux productions locales."
+        },
+        {
+          "name": "Région du Masai Mara",
+          "note": "Une cuisine simple et saisonnière, rythmée par la vie des camps et les repas pris en commun plutôt que par la recherche de variété."
+        }
+      ],
+      "places": [
+        {
+          "name": "Carnivore Restaurant",
+          "area": "Nairobi",
+          "reason": "Institution emblématique du nyama choma, incarnant la tradition kenyane des repas de viande grillée à partager dans une ambiance conviviale.",
+          "imageUrl": "/src/assets/itineraries/kenya/kenya-food/carnivore.jpg",
+          "lat": -1.3123,
+          "lng": 36.8016
+        },
+        {
+          "name": "Mama Oliech Restaurant",
+          "area": "Nairobi (Kilimani)",
+          "reason": "Adresse incontournable appréciée des habitants pour son tilapia frit, son ugali et ses saveurs typiquement kenyanes inspirées des lacs et des terroirs locaux.",
+          "imageUrl": "/src/assets/itineraries/kenya/kenya-food/mama-oliech.jpg",
+          "lat": -1.2929,
+          "lng": 36.7831
+        },
+        {
+          "name": "Nyama Mama",
+          "area": "Westlands, Nairobi",
+          "reason": "Une interprétation contemporaine de la cuisine familiale kenyane, qui modernise la présentation tout en préservant les saveurs traditionnelles.",
+          "imageUrl": "/src/assets/itineraries/kenya/kenya-food/nyama-mama.jpg",
+          "lat": -1.2684,
+          "lng": 36.8043
+        },
+        {
+          "name": "Fisherman’s Camp",
+          "area": "Lac Naivasha (vallée du Grand Rift)",
+          "reason": "Restaurant décontracté au bord du lac mettant à l'honneur les poissons locaux, les produits de la vallée du Grand Rift et un rythme de repas en harmonie avec la nature.",
+          "imageUrl": "/src/assets/itineraries/kenya/kenya-food/fishermans-camp.jpg",
+          "lat": -0.7116,
+          "lng": 36.4308
+        },
+        {
+          "name": "Maasai Mara Safari Camp Dining",
+          "area": "Masai Mara",
+          "reason": "Des repas pris en commun au sein du camp, où la cuisine accompagne le rythme du safari, le repos et les échanges autour des expériences de la journée plutôt qu'une recherche de gastronomie sophistiquée.",
+          "imageUrl": "/src/assets/itineraries/kenya/kenya-food/safari-camp-dining.jpg",
+          "lat": -1.4061,
+          "lng": 35.0128
+        }
+      ]
+    }
+  }

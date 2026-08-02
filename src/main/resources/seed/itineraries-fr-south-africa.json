@@ -1,0 +1,186 @@
+
+  {
+    "slug": "6-days-south-africa-contrast-memory-and-open-futures",
+    "region": "africa",
+    "country": "South Africa",
+    "city": "Cape Town, Winelands & Cape Peninsula",
+    "title": "South Africa in 6 Days: Contrast, Memory, and Open Futures",
+    "days": 6,
+    "priceFrom": 370,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/south-africa/6-days-south-africa-contrast-memory-and-open-futures.jpg",
+    "summary": "This 6-day South Africa itinerary explores a nation defined by contrast rather than conclusion. Anchored in Cape Town and extending gently into surrounding landscapes, the journey moves between beauty and history, privilege and struggle, nature and city. Designed to prioritise understanding over completion, the itinerary treats South Africa not as a destination resolved, but as one still actively becoming — a place where openness, honesty, and dialogue matter as much as scenery.",
+    "priceNote": "Estimated budget per person. Excludes flights and accommodation.",
+    "highlights": [
+      "Cape Town’s dramatic natural setting",
+      "Apartheid history and contemporary reflection",
+      "Cape Peninsula coastline and open ocean",
+      "Winelands and cultivated landscapes",
+      "Neighbourhoods shaped by contrast",
+      "A society still in conversation with itself"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrival, Cape Town & First Contrast",
+        "summary": "Meeting beauty and tension together.",
+        "details": "Arrive in Cape Town and begin with the city’s immediate visual impact — mountains rising sharply from the sea, framed by dense urban life. Walk through central neighbourhoods, noting how proximity does not equal equality.\n\nIn the afternoon, visit a cultural or historical site that introduces South Africa’s layered past.\n\nEvening brings light over the Atlantic and a sense of openness that contrasts sharply with the day’s weight."
+      },
+      {
+        "day": 2,
+        "title": "Memory, Dialogue & National Reckoning",
+        "summary": "Listening carefully.",
+        "details": "Spend the day engaging with South Africa’s recent history through museums, memorials, or guided conversations.\n\nMove slowly — this is not content to consume quickly.\n\nAllow complexity and contradiction to remain unresolved.\n\nIn the afternoon, step into everyday spaces where modern life continues alongside memory.\n\nEvening remains reflective and grounded."
+      },
+      {
+        "day": 3,
+        "title": "Cape Peninsula & Edge of the Continent",
+        "summary": "Letting geography speak.",
+        "details": "Travel along the Cape Peninsula, where land narrows and ocean expands. Stop at viewpoints that emphasise scale rather than landmarks.\n\nWalk short coastal paths, allowing wind and distance to reset perspective.\n\nNotice how nature here feels dramatic but not gentle.\n\nReturn to Cape Town by evening, where city lights soften the edge."
+      },
+      {
+        "day": 4,
+        "title": "Winelands, Land Use & Inherited Order",
+        "summary": "Understanding cultivation.",
+        "details": "Spend the day in the nearby winelands, where order, beauty, and agriculture coexist.\n\nObserve how landscape has been shaped intentionally over centuries.\n\nContrast calm surfaces with underlying labour histories.\n\nReturn to Cape Town in the afternoon with renewed awareness of contrast.\n\nEvening remains unhurried."
+      },
+      {
+        "day": 5,
+        "title": "Neighbourhoods, Daily Life & Complexity",
+        "summary": "Seeing the present clearly.",
+        "details": "Spend the day walking or driving through different neighbourhoods, guided where necessary.\n\nNotice how community, aspiration, and inequality exist simultaneously.\n\nEngage in conversation rather than explanation.\n\nThis day offers no closure — only clarity.\n\nEvening allows rest and reflection."
+      },
+      {
+        "day": 6,
+        "title": "Repetition, Openness & Farewell",
+        "summary": "Leaving without conclusion.",
+        "details": "Use the final morning revisiting a familiar place — a street, café, or viewpoint.\n\nRepetition deepens understanding.\n\nDepart South Africa knowing the experience remains open-ended.\n\nSouth Africa leaves its impression honestly — unresolved, alive, and full of possibility."
+      }
+    ],
+    "planning": {
+      "city": "South Africa (Cape Town, Cape Peninsula & Winelands)",
+      "bestTime": {
+        "months": "Mar–May (autumn), Sep–Nov (spring)",
+        "note": "Comfortable temperatures, fewer crowds, and good wildlife visibility make city exploration and short safaris well balanced."
+      },
+      "worstTime": {
+        "months": "Dec–Feb (summer heat & crowds), Jun–Aug (cooler & regional rain)",
+        "note": "Peak summer brings heat and holiday congestion; winter varies by region but shortens daylight."
+      },
+      "tips": [
+        "Choose contrast on purpose: pair coast + interior, nature + history, stillness + narrative.",
+        "Distances matter: domestic flights save time and energy—don’t overdrive.",
+        "Early starts reward both wildlife viewing and urban clarity.",
+        "Guided context deepens meaning at historical sites (Robben Island, museums).",
+        "Safety is about awareness, not fear—use local advice and plan transport deliberately.",
+        "Evenings are social and reflective: food and conversation explain the country well."
+      ],
+      "withKids": [
+        "Coastal walks and cable cars offer scale without strain.",
+        "Short safari drives keep attention high.",
+        "Museums with storytelling elements work better than abstract exhibits.",
+        "Flexible pacing helps manage long distances."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrival in Cape Town",
+          "note": "International flights arrive at Cape Town International Airport. Transfers into the city are straightforward, with travel time varying by traffic and destination neighbourhood."
+        }
+      ],
+      "gettingAround": [
+        "Cape Town is spread out; walking suits specific areas but driving is essential overall.",
+        "Ride-hailing services are commonly used within the city; longer days work best with a private car or guided transport.",
+        "Distances between coast, city, and winelands are short in kilometres but meaningful in time."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Cape Town City Movement",
+          "note": "Neighbourhood exploration is best clustered geographically and supported by local guidance where needed."
+        },
+        {
+          "title": "Cape Town → Cape Peninsula",
+          "note": "Coastal road travel follows the peninsula’s edge, where scenery and wind shape pacing more than distance."
+        },
+        {
+          "title": "Cape Town → Winelands",
+          "note": "Short inland drive through cultivated valleys; best done as a dedicated day rather than combined with city activities."
+        }
+      ],
+      "practical": [
+        "Early mornings suit coastal drives, viewpoints, and clarity before wind builds.",
+        "Midday is best for indoor sites, cafés, or shaded stops.",
+        "Use guided context for historical sites to deepen understanding and reduce cognitive fatigue.",
+        "Safety is managed through planning and awareness rather than restriction.",
+        "Evenings work well near accommodation areas, reducing unnecessary late travel."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Braai (South African barbecue culture)",
+        "Bobotie (Cape Malay spiced baked dish)",
+        "Bunny Chow (Durban-origin curry in bread, now nationwide)",
+        "Cape Malay curry",
+        "Boerewors (traditional sausage)",
+        "Malva pudding with custard"
+      ],
+      "areas": [
+        {
+          "name": "City Bowl",
+          "note": "Historic core of Cape Town with layered neighbourhoods, everyday cafés, and cultural institutions."
+        },
+        {
+          "name": "Bo-Kaap",
+          "note": "Centre of Cape Malay culture, known for spiced cooking tied to history, faith, and family kitchens."
+        },
+        {
+          "name": "Winelands (Stellenbosch / Franschhoek)",
+          "note": "Cultivated landscapes where food reflects land use, labour history, and refinement."
+        }
+      ],
+      "places": [
+        {
+          "name": "Mzoli’s Place",
+          "area": "Gugulethu",
+          "reason": "Iconic township braai experience — communal, social, and rooted in everyday South African life.",
+          "imageUrl": "/src/assets/itineraries/south-africa/south-africa-food/mzolis-place.jpg",
+          "lat": -33.9793,
+          "lng": 18.5731
+        },
+        {
+          "name": "Biesmiellah Restaurant",
+          "area": "Bo-Kaap",
+          "reason": "Long-standing family-run Cape Malay restaurant serving traditional recipes with cultural continuity.",
+          "imageUrl": "/src/assets/itineraries/south-africa/south-africa-food/biesmiellah.jpg",
+          "lat": -33.9256,
+          "lng": 18.4137
+        },
+        {
+          "name": "Gold Restaurant",
+          "area": "City Bowl",
+          "reason": "Pan-African menu presenting multiple regional dishes in a single setting, paired with cultural storytelling.",
+          "imageUrl": "/src/assets/itineraries/south-africa/south-africa-food/gold-restaurant.jpg",
+          "lat": -33.9187,
+          "lng": 18.4236
+        },
+        {
+          "name": "Kalky’s Fish & Chips",
+          "area": "Kalk Bay",
+          "reason": "Casual coastal institution reflecting Cape Peninsula fishing culture and everyday seaside eating.",
+          "imageUrl": "/src/assets/itineraries/south-africa/south-africa-food/kalkys.jpg",
+          "lat": -34.1273,
+          "lng": 18.4514
+        },
+        {
+          "name": "The Tasting Room at Le Quartier Français",
+          "area": "Franschhoek (Winelands)",
+          "reason": "Refined South African cuisine that reflects agricultural order, innovation, and modern culinary identity.",
+          "imageUrl": "/src/assets/itineraries/south-africa/south-africa-food/the-tasting-room.jpg",
+          "lat": -33.9072,
+          "lng": 19.1214
+        }
+      ]
+    }
+  }

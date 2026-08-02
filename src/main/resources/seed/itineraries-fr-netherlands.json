@@ -1,0 +1,923 @@
+
+  {
+    "slug": "4-days-amsterdam-where-water-teaches-balance",
+    "region": "europe",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "title": "Amsterdam en 4 jours : Quand l’eau enseigne l’équilibre",
+    "days": 4,
+    "priceFrom": 245,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/netherlands/4-days-amsterdam-where-water-teaches-balance.jpg",
+    "summary": "Cet itinéraire de 4 jours à Amsterdam explore une ville façonnée par l’eau, le compromis et le sens pratique du quotidien. Conçu pour équilibrer les sites culturels incontournables et le rythme des quartiers, il considère les canaux comme une infrastructure plutôt qu’un décor et les cafés comme le prolongement du salon. Amsterdam se révèle par la modération : une ville où la liberté fonctionne parce que l’équilibre est préservé.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Promenades le long des canaux tôt le matin et en soirée",
+      "La Maison d’Anne Frank et la mémoire de la guerre",
+      "Les rues du quartier du Jordaan",
+      "La culture du vélo et le partage de l’espace",
+      "Le quartier des musées",
+      "Une ville construite sur le compromis et la clarté"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, canaux et premiers repères",
+        "summary": "Découvrir la ville par l’eau.",
+        "details": "Arrivez à Amsterdam et commencez par une promenade le long de la ceinture des canaux. L’après-midi, installez-vous dans un café au bord de l’eau pour observer la vie quotidienne. Terminez la journée par un dîner dans un quartier résidentiel."
+      },
+      {
+        "day": 2,
+        "title": "Mémoire, quartiers et histoire",
+        "summary": "Une histoire vécue avec retenue.",
+        "details": "Visitez la Maison d’Anne Frank, puis promenez-vous dans le Jordaan avant d’y dîner."
+      },
+      {
+        "day": 3,
+        "title": "Musées, vélo et espace partagé",
+        "summary": "Comprendre la structure derrière la liberté.",
+        "details": "Découvrez un ou deux musées, puis observez ou essayez la culture du vélo avant de profiter d’un repas ou d’une croisière en soirée."
+      },
+      {
+        "day": 4,
+        "title": "Marchés, retour et départ",
+        "summary": "Quitter la ville avec familiarité.",
+        "details": "Revisitez vos canaux, cafés ou marchés préférés, prenez le temps de vous asseoir au bord de l’eau, puis savourez un dernier déjeuner avant votre départ."
+      }
+    ],
+    "planning": {
+      "city": "Amsterdam, Netherlands",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Le climat doux et les longues journées sont idéaux pour marcher, pédaler et profiter des canaux."
+      },
+      "worstTime": {
+        "months": "Juil.–août, déc.–févr.",
+        "note": "L’été est très fréquenté et l’hiver raccourcit les journées."
+      },
+      "tips": [
+        "Explorez progressivement la ceinture des canaux.",
+        "Alternez musées et promenades.",
+        "Familiarisez-vous avec les règles des cyclistes.",
+        "Chaque quartier possède sa propre ambiance.",
+        "Une croisière aide à mieux comprendre la ville.",
+        "Les soirées sont parfaites pour une promenade paisible."
+      ],
+      "withKids": [
+        "Les canaux et les parcs offrent de l’espace.",
+        "Les croisières plaisent aux enfants.",
+        "Le vélo est préférable dans les zones calmes.",
+        "Alternez musées et activités extérieures."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport de Schiphol est relié directement à Amsterdam-Central par des trains fréquents en 15 à 20 minutes."
+        },
+        {
+          "title": "Gare centrale → Centre-ville",
+          "note": "Depuis Amsterdam Centraal, le centre historique, les canaux et le Jordaan sont facilement accessibles à pied ou en tramway."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans le centre historique.",
+        "Le vélo est le principal moyen de transport.",
+        "Les tramways et le métro desservent efficacement les quartiers extérieurs.",
+        "Les ferries gratuits traversent l’IJ.",
+        "Les bateaux sur les canaux permettent surtout de mieux comprendre la ville."
+      ],
+      "dayTrips": [
+        {
+          "title": "Zaanse Schans",
+          "note": "Moulins à vent, canaux et paysages traditionnels."
+        },
+        {
+          "title": "Haarlem",
+          "note": "Ville historique aux canaux paisibles."
+        },
+        {
+          "title": "Utrecht",
+          "note": "Réputée pour ses canaux en contrebas et son centre médiéval."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles le long des canaux",
+          "note": "Les mêmes itinéraires révèlent des ambiances différentes selon l’heure."
+        },
+        {
+          "title": "Entre les quartiers",
+          "note": "Passez progressivement des canaux au Jordaan puis au quartier des musées."
+        },
+        {
+          "title": "Approche du quartier des musées",
+          "note": "Les larges avenues contrastent avec les ruelles historiques."
+        },
+        {
+          "title": "Changer de perspective sur l’eau",
+          "note": "Ponts, quais et une croisière offrent une autre vision de la ville."
+        }
+      ],
+      "practical": [
+        "Attention aux cyclistes, ils sont prioritaires.",
+        "Les distances sont courtes.",
+        "Réservez les grands musées à l’avance.",
+        "Prévoyez une veste légère contre le vent.",
+        "Les canaux deviennent paisibles le soir.",
+        "Amsterdam récompense un rythme modéré."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Stroopwafels frais",
+        "Tarte aux pommes néerlandaise",
+        "Hareng cru",
+        "Bitterballen à la moutarde",
+        "Rijsttafel indonésien",
+        "Dégustation de fromages (Gouda, Edam, affinés)"
+      ],
+      "areas": [
+        {
+          "name": "Ceinture des canaux",
+          "note": "Cafés et petits restaurants intégrés à la vie quotidienne."
+        },
+        {
+          "name": "Jordaan",
+          "note": "Restaurants chaleureux parfaits après une journée de marche."
+        },
+        {
+          "name": "De Pijp",
+          "note": "Cuisine internationale décontractée reflétant l’ouverture d’Amsterdam."
+        }
+      ],
+      "places": [
+        {
+          "name": "Café Winkel 43",
+          "area": "Jordaan",
+          "reason": "Réputé pour sa tarte aux pommes et son café.",
+          "imageUrl": "/src/assets/itineraries/netherlands/amsterdam-food/winkel-43.jpg",
+          "lat": 52.3756,
+          "lng": 4.8838
+        },
+        {
+          "name": "Foodhallen",
+          "area": "Oud-West",
+          "reason": "Halle gourmande conviviale à partager.",
+          "imageUrl": "/src/assets/itineraries/netherlands/amsterdam-food/foodhallen.jpg",
+          "lat": 52.3667,
+          "lng": 4.8699
+        },
+        {
+          "name": "Moeders",
+          "area": "Jordaan",
+          "reason": "Cuisine néerlandaise familiale traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/netherlands/amsterdam-food/moeders.jpg",
+          "lat": 52.3749,
+          "lng": 4.8805
+        },
+        {
+          "name": "Albert Cuyp Market Food Stalls",
+          "area": "De Pijp",
+          "reason": "Street food et stroopwafels typiques.",
+          "imageUrl": "/src/assets/itineraries/netherlands/amsterdam-food/albert-cuyp.jpg",
+          "lat": 52.3549,
+          "lng": 4.891
+        },
+        {
+          "name": "Canal-Side Brown Cafés",
+          "area": "Ceinture des canaux",
+          "reason": "Petites assiettes et ambiance détendue au bord de l’eau.",
+          "imageUrl": "/src/assets/itineraries/netherlands/amsterdam-food/brown-cafe.jpg",
+          "lat": 52.3702,
+          "lng": 4.8952
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-haarlem-where-craft-feels-enough",
+    "region": "europe",
+    "country": "Netherlands",
+    "city": "Haarlem",
+    "title": "Haarlem en 2 jours : quand le savoir-faire se suffit à lui-même",
+    "days": 2,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/netherlands/2-days-haarlem-where-craft-feels-enough.jpg",
+    "summary": "Cet itinéraire de 2 jours à Haarlem vous invite à découvrir l’une des villes les plus harmonieuses des Pays-Bas, façonnée par le savoir-faire, l’équilibre et une élégance du quotidien. Pensé comme une escapade tout en douceur, il privilégie les rues historiques, les promenades au bord de la rivière, les musées locaux et les repas pris sans précipitation. Haarlem se révèle non par sa grandeur, mais par son sentiment d’accomplissement, où chaque détail paraît réfléchi, cohérent et discrètement assuré.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le Grote Markt et le cœur civique de la ville",
+      "L’intérieur de l’église St. Bavo et sa place",
+      "Les promenades le long de la Spaarne et les vues sur les moulins",
+      "Les rues compactes de la vieille ville",
+      "Les cafés et boulangeries locales",
+      "Une ville façonnée par le savoir-faire et la sobriété"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, place centrale et premières impressions",
+        "summary": "Trouver le confort sans avoir besoin de grandeur.",
+        "details": "Arrivez à Haarlem et commencez votre découverte sur le Grote Markt, où le cœur civique de la ville offre un espace ouvert, convivial et parfaitement adapté à l’échelle humaine plutôt qu’au spectaculaire. Promenez-vous tranquillement autour de la place et observez comment cafés, églises et vie quotidienne coexistent avec une grande harmonie.\n\nDans l’après-midi, explorez les rues voisines et les petits musées à un rythme détendu, en laissant votre curiosité guider vos pas plutôt qu’un programme précis. Haarlem récompense les flâneries : les distances sont courtes et les transitions naturelles.\n\nEn fin de journée, rejoignez les berges de la Spaarne, où l’eau et les anciens entrepôts apportent encore davantage de douceur à la ville. Terminez la journée par un dîner paisible près du centre, dans une ambiance simple et familière."
+      },
+      {
+        "day": 2,
+        "title": "Rivière, retour et départ",
+        "summary": "Partir avec le sentiment que tout est déjà suffisant.",
+        "details": "Commencez votre dernière matinée par une promenade le long de la Spaarne, en passant devant le moulin De Adriaan et en regardant la lumière se déposer sur les briques et l’eau. La beauté de Haarlem ne cherche pas à attirer l’attention : elle attend simplement d’être remarquée.\n\nRetournez ensuite dans la vieille ville pour un petit-déjeuner ou un café pris sans hâte, en retrouvant des rues désormais familières. Ici, la répétition apporte de la clarté ; nul besoin de chercher sans cesse de nouvelles découvertes.\n\nProfitez d’un dernier déjeuner avant votre départ. Haarlem laisse une impression douce et durable : un lieu où le savoir-faire se suffit à lui-même et où rien n’a besoin d’être ajouté."
+      }
+    ],
+    "planning": {
+      "city": "Haarlem, Netherlands",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Le climat doux et la lumière délicate rendent les places de marché, les promenades le long de la rivière et les cours intérieures particulièrement agréables, sans l’affluence d’Amsterdam."
+      },
+      "worstTime": {
+        "months": "Juillet–août (week-ends plus fréquentés), décembre–février (froid et paisible)",
+        "note": "Les visiteurs à la journée peuvent rendre le Grote Markt plus animé en été, tandis que l’hiver raccourcit les journées et ralentit la vie en extérieur."
+      },
+      "tips": [
+        "Séjournez dans le centre : le Grote Markt, les hofjes, les musées et les cafés sont tous accessibles à pied.",
+        "Prenez le temps de découvrir les hofjes (cours intérieures cachées), qui récompensent les visiteurs patients et attentifs.",
+        "Un seul musée suffit — Frans Hals ou De Hallen — puis accordez-vous un long moment dans un café.",
+        "Suivez la Spaarne au crépuscule : la ville devient encore plus paisible lorsque la lumière quitte l’eau.",
+        "Mangez simplement mais avec qualité : Haarlem est réputée pour ses boulangeries, ses brasseries conviviales et ses bières locales.",
+        "Les soirées sont volontairement calmes : ne cherchez pas la vie nocturne, recherchez la sérénité."
+      ],
+      "withKids": [
+        "Les rues plates et les courtes distances limitent la fatigue.",
+        "Les cours intérieures et les berges de la rivière invitent à une découverte paisible.",
+        "Les places de marché offrent de nombreux endroits pour faire une pause et grignoter.",
+        "Les soirées tranquilles s’accordent parfaitement au rythme doux de la ville."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Haarlem est facilement accessible grâce aux trains fréquents au départ d’Amsterdam Centraal, avec un trajet d’environ 15 à 20 minutes. L’arrivée offre immédiatement une atmosphère calme, loin du rythme d’une grande métropole."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Depuis la gare de Haarlem, le centre historique et le Grote Markt se rejoignent facilement à pied en traversant des rues résidentielles et de petites places."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Haarlem ; la vieille ville est compacte et se prête naturellement à une exploration à pied.",
+        "Le vélo est courant et pratique, même si les distances sont suffisamment courtes pour qu’il reste facultatif.",
+        "Les bus locaux desservent les quartiers périphériques, mais sont rarement nécessaires pour un séjour dans le centre.",
+        "Les taxis sont généralement inutiles en ville et servent surtout pour les arrivées ou départs tardifs."
+      ],
+      "dayTrips": [
+        {
+          "title": "Amsterdam",
+          "note": "À seulement quelques minutes en train, elle offre un contraste marqué par son échelle et son animation avant de retrouver le calme de Haarlem."
+        },
+        {
+          "title": "Zandvoort aan Zee",
+          "note": "Un train direct vous emmène jusqu’à la mer du Nord pour profiter de promenades sur la plage et d’un vaste horizon, en complément du caractère plus intime de Haarlem."
+        },
+        {
+          "title": "Keukenhof (saisonnier)",
+          "note": "Au printemps, des bus relient Haarlem à Keukenhof et à ses célèbres champs de fleurs, apportant couleurs et mouvement sans l’agitation urbaine."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles autour du Grote Markt",
+          "note": "De courtes promenades répétées autour de la place principale permettent de mieux s’orienter tout en mettant en valeur l’échelle humaine de Haarlem."
+        },
+        {
+          "title": "Vieille ville ↔ Spaarne",
+          "note": "Les déplacements tranquilles entre les rues animées et les berges de la Spaarne définissent naturellement le rythme de la ville."
+        },
+        {
+          "title": "Promenade le long de la rivière",
+          "note": "Les chemins plats qui bordent la Spaarne invitent à marcher lentement et à prendre le temps d’observer, plutôt qu’à rejoindre une destination précise."
+        },
+        {
+          "title": "Flânerie dans les quartiers",
+          "note": "Les petits détours improvisés à travers les ruelles et les hofjes révèlent le savoir-faire et la sobriété qui caractérisent Haarlem."
+        }
+      ],
+      "practical": [
+        "Les distances sont courtes et gagnent à être parcourues plusieurs fois : inutile d’essayer de tout voir en une seule fois.",
+        "Le Grote Markt est souvent plus animé les week-ends en après-midi ; les matinées et les soirées offrent une ambiance plus équilibrée.",
+        "Les cyclistes sont prioritaires dans de nombreux secteurs ; restez attentif lorsque vous traversez les rues.",
+        "Le temps change rapidement à proximité de la côte ; des vêtements légers en plusieurs couches sont utiles toute l’année.",
+        "Les cafés et les boulangeries rythment naturellement la journée : prenez le temps de vous asseoir plutôt que de toujours avancer.",
+        "Haarlem se découvre sans précipitation : les transports sont là pour favoriser la sérénité, non la rapidité."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Hollandse Nieuwe (hareng cru) avec oignons et cornichons",
+        "Kibbeling (morceaux de cabillaud frits) avec sauce rémoulade",
+        "Bitterballen (croquettes néerlandaises à partager)",
+        "Stroopwafels (de préférence fraîches sur un marché)",
+        "Poffertjes (mini crêpes néerlandaises)",
+        "Tarte aux pommes néerlandaise (appeltaart) avec crème fouettée"
+      ],
+      "areas": [
+        {
+          "name": "Grote Markt / Old Town Core",
+          "note": "Le meilleur quartier pour découvrir la culture traditionnelle des cafés néerlandais : déjeuners en terrasse, bitterballen à l’apéritif et dîners décontractés autour de la place principale."
+        },
+        {
+          "name": "Vijfhoek & Raaks (near Jopenkerk)",
+          "note": "Des rues au caractère local et des établissements modernes. Idéal pour déguster des bières artisanales, profiter d’un dîner convivial et passer une soirée paisible, loin de l’animation d’Amsterdam."
+        },
+        {
+          "name": "Spaarne Riverfront",
+          "note": "Une agréable promenade au bord de la rivière accompagnée de restaurants détendus. Parfait pour un verre au coucher du soleil ou un déjeuner tranquille après la visite des musées et des hofjes."
+        }
+      ],
+      "places": [
+        {
+          "name": "Jopenkerk Haarlem",
+          "area": "Vijfhoek & Raaks (near Jopenkerk)",
+          "reason": "L’une des adresses les plus emblématiques de Haarlem : une brasserie installée dans une ancienne église, idéale pour découvrir les bières locales accompagnées de spécialités comme les bitterballen.",
+          "imageUrl": "/src/assets/itineraries/netherlands/haarlem-food/jopenkerk-haarlem.jpg",
+          "lat": 52.381139,
+          "lng": 4.630016
+        },
+        {
+          "name": "DeDAKKAS",
+          "area": "Grote Markt / Old Town Core",
+          "reason": "Le rooftop le plus réputé de Haarlem pour un repas ou un verre avec une belle vue sur la ville, parfait pour une expérience mémorable dans une ambiance toujours détendue.",
+          "imageUrl": "/src/assets/itineraries/netherlands/haarlem-food/dedakkas.jpg",
+          "lat": 52.37738585,
+          "lng": 4.63690537180025
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-rotterdam-where-the-city-decided-to-start-again",
+    "region": "europe",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "title": "Rotterdam en 3 jours : Là où une ville a choisi de repartir de zéro",
+    "days": 3,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/netherlands/3-days-rotterdam-where-the-city-decided-to-start-again.jpg",
+    "summary": "Cet itinéraire de 3 jours à Rotterdam explore la ville la plus tournée vers l’avenir des Pays-Bas. Presque entièrement reconstruite après la guerre, elle s’est affirmée par l’audace, l’innovation et une architecture à grande échelle. Entre quartiers modernes, port en activité et vie quotidienne, Rotterdam ne cherche pas à préserver le passé : elle en tire des leçons pour avancer.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le pont Érasme et les traversées de la Meuse",
+      "Les maisons cubiques et l’architecture expérimentale",
+      "Le Markthal et la culture culinaire du quotidien",
+      "Les quartiers portuaires",
+      "La skyline moderne",
+      "Une ville façonnée par la reconstruction et l’ambition"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, premières perspectives",
+        "summary": "Découvrir une ville sans nostalgie.",
+        "details": "Commencez par le centre-ville et traversez le pont Érasme pour prendre la mesure de Rotterdam. Explorez ensuite les maisons cubiques et le Markthal avant un dîner simple reflétant l’esprit pragmatique de la ville."
+      },
+      {
+        "day": 2,
+        "title": "Architecture et port",
+        "summary": "Comprendre la reconstruction par l’usage.",
+        "details": "Parcourez les quartiers d’architecture contemporaine puis rejoignez le port pour observer l’activité industrielle. En soirée, profitez d’un repas au bord de la Meuse."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers résidentiels et départ",
+        "summary": "Repartir avec un nouvel élan.",
+        "details": "Découvrez les quartiers résidentiels, revenez dans un lieu favori puis savourez un dernier déjeuner avant votre départ."
+      }
+    ],
+    "planning": {
+      "city": "Rotterdam, Netherlands",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Le climat agréable est idéal pour explorer les quais, les ponts et les quartiers modernes."
+      },
+      "worstTime": {
+        "months": "Déc.–févr., juil.–août",
+        "note": "L’hiver est froid et venteux, tandis que l’été attire davantage de visiteurs."
+      },
+      "tips": [
+        "Suivez les quais et les grands axes.",
+        "Accordez du temps à chaque site emblématique.",
+        "Utilisez la Meuse comme repère.",
+        "Alternez architecture et vie de quartier.",
+        "Le vélo est pratique, mais la marche révèle davantage de détails.",
+        "Les soirées sont calmes et agréables."
+      ],
+      "withKids": [
+        "Les larges espaces facilitent les déplacements.",
+        "Le Markthal plaît à toute la famille.",
+        "Les excursions en bateau dans le port sont intéressantes.",
+        "Prévoyez des vêtements contre le vent."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Rotterdam Centraal est un important nœud ferroviaire offrant un accès immédiat au centre-ville."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "L’aéroport de Rotterdam-La Haye est relié au centre par bus et métro."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans le centre.",
+        "Le tramway et le métro desservent efficacement la ville.",
+        "Le vélo convient parfaitement aux quais.",
+        "Les taxis fluviaux permettent de traverser rapidement la Meuse.",
+        "Le train et le métro facilitent les trajets plus longs."
+      ],
+      "dayTrips": [
+        {
+          "title": "Delft",
+          "note": "Ville historique aux canaux paisibles."
+        },
+        {
+          "title": "La Haye",
+          "note": "Capitale administrative proche de la mer."
+        },
+        {
+          "title": "Kinderdijk",
+          "note": "Célèbre pour ses moulins et sa gestion de l’eau."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Traversées de la Meuse",
+          "note": "Les ponts révèlent toute l’échelle de Rotterdam."
+        },
+        {
+          "title": "Centre ↔ Port",
+          "note": "Le contraste souligne le caractère industriel de la ville."
+        },
+        {
+          "title": "Axes architecturaux",
+          "note": "Les bâtiments prennent tout leur sens lorsqu’ils sont découverts ensemble."
+        },
+        {
+          "title": "Entre les quartiers",
+          "note": "Le tram et le métro montrent la continuité entre centre et zones résidentielles."
+        }
+      ],
+      "practical": [
+        "Combinez marche et transports.",
+        "Le vent est présent toute l’année.",
+        "Les transports publics sont fiables.",
+        "Restez attentif dans les zones portuaires.",
+        "Les itinéraires directs sont souvent les meilleurs.",
+        "Profitez du caractère résolument fonctionnel de la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Roti ou bara surinamais",
+        "Hareng frais ou kibbeling",
+        "Frites néerlandaises à la sauce cacahuète",
+        "Rijsttafel indonésien",
+        "Cuisine de marché",
+        "Bon café et pâtisseries simples"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville",
+          "note": "Restaurants modernes intégrés au quotidien."
+        },
+        {
+          "name": "Quartier du Markthal",
+          "note": "Une cuisine vivante et pratique au cœur de la ville."
+        },
+        {
+          "name": "Delfshaven",
+          "note": "Un quartier plus calme offrant un contraste avec le centre moderne."
+        }
+      ],
+      "places": [
+        {
+          "name": "Markthal Rotterdam",
+          "area": "Centre-ville",
+          "reason": "Le meilleur aperçu de la diversité culinaire de Rotterdam.",
+          "imageUrl": "/src/assets/itineraries/netherlands/rotterdam-food/markthal.jpg",
+          "lat": 51.9205,
+          "lng": 4.4867
+        },
+        {
+          "name": "Fenix Food Factory",
+          "area": "Katendrecht",
+          "reason": "Produits locaux et ambiance portuaire authentique.",
+          "imageUrl": "/src/assets/itineraries/netherlands/rotterdam-food/fenix-food-factory.jpg",
+          "lat": 51.9049,
+          "lng": 4.49
+        },
+        {
+          "name": "Tensai Ramen",
+          "area": "Centre-ville",
+          "reason": "Cuisine simple et internationale fidèle à l’esprit de Rotterdam.",
+          "imageUrl": "/src/assets/itineraries/netherlands/rotterdam-food/tensai-ramen.jpg",
+          "lat": 51.9219,
+          "lng": 4.4803
+        },
+        {
+          "name": "Delfshaven Cafés",
+          "area": "Delfshaven",
+          "reason": "Des cafés paisibles dans un quartier plein de charme.",
+          "imageUrl": "/src/assets/itineraries/netherlands/rotterdam-food/delfshaven.jpg",
+          "lat": 51.9101,
+          "lng": 4.4486
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-the-hague-where-power-speaks-softly",
+    "region": "europe",
+    "country": "Netherlands",
+    "city": "The Hague",
+    "title": "La Haye en 3 jours : quand le pouvoir s’exprime avec discrétion",
+    "days": 3,
+    "priceFrom": 220,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/netherlands/3-days-the-hague-where-power-speaks-softly.jpg",
+    "summary": "Cet itinéraire de 3 jours à La Haye vous invite à découvrir le siège du gouvernement néerlandais et de la justice internationale à travers la retenue, l’équilibre des proportions et la proximité de la mer. Conçu pour harmoniser monuments civiques, richesse culturelle, rythme des quartiers et escapades sur le littoral, il révèle une ville où l’autorité s’exprime avec sobriété, où l’ordre fait partie du quotidien et où l’éloignement du spectaculaire laisse place à une véritable clarté.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le Binnenhof et le cœur politique des Pays-Bas",
+      "Le Mauritshuis et ses chefs-d’œuvre concentrés",
+      "Le Palais de la Paix et la présence internationale",
+      "Les rues résidentielles et les quartiers des ambassades",
+      "La plage de Scheveningen et l’air de la mer du Nord",
+      "Une ville façonnée par la retenue et le sens des responsabilités"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, cœur civique et autorité mesurée",
+        "summary": "Comprendre le pouvoir à travers le calme.",
+        "details": "Arrivez à La Haye et commencez votre découverte dans le quartier du Binnenhof, où les bâtiments gouvernementaux s’ouvrent naturellement sur les plans d’eau et les promenades publiques. Parcourez lentement l’ensemble et observez comment accessibilité et autorité coexistent sans barrières ni mise en scène : cette ouverture définit l’identité de la ville.\n\nDans l’après-midi, visitez le Mauritshuis en privilégiant la profondeur plutôt que la quantité. Prenez le temps d’admirer un nombre limité d’œuvres afin que leur proximité et leur échelle renforcent votre attention au lieu de la disperser.\n\nEn soirée, promenez-vous dans les rues résidentielles voisines et les quartiers des ambassades, où un ordre discret et le rythme du quotidien remplacent toute monumentalité. Terminez la journée par un dîner paisible à proximité du centre, dans une atmosphère détendue et authentique."
+      },
+      {
+        "day": 2,
+        "title": "Justice, quartiers et distance du quotidien",
+        "summary": "La responsabilité sans ostentation.",
+        "details": "Commencez la journée dans le secteur du Palais de la Paix, en parcourant les rues environnantes plutôt qu’en vous concentrant uniquement sur le bâtiment lui-même. Le rôle international de La Haye se ressent davantage par sa présence que par le cérémonial.\n\nDans l’après-midi, explorez les quartiers situés au-delà du centre civique : rues bordées d’arbres, petits parcs et cafés de quartier montrent comment la ville fonctionne au quotidien. Accordez-vous le temps de vous asseoir, d’observer et de laisser les espaces respirer entre chaque étape.\n\nTerminez la soirée autour d’un repas dans un quartier résidentiel, où les conversations restent discrètes et où chacun respecte naturellement l’espace des autres. La retenue de La Haye n’est pas froide : elle est intentionnelle."
+      },
+      {
+        "day": 3,
+        "title": "Air marin, perspective et départ",
+        "summary": "Partir en gardant l’horizon devant soi.",
+        "details": "Consacrez votre dernière journée à Scheveningen en marchant le long de la plage ou de la promenade, tandis que l’air de la mer du Nord dissipe le caractère solennel de la ville. La mer offre la distance nécessaire : le poids de la politique se fond peu à peu dans le vent et le mouvement.\n\nDéjeunez près du littoral avant de retourner brièvement en ville pour quelques achats de dernière minute ou une pause dans votre café préféré.\n\nProfitez d’un départ serein. La Haye laisse une impression durable mais discrète : une ville où le pouvoir s’exprime avec douceur, et où cette douceur constitue toute son identité."
+      }
+    ],
+    "planning": {
+      "city": "The Hague, Netherlands",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les températures douces et la lumière régulière sont idéales pour découvrir le centre historique, visiter les musées et profiter du littoral sans l’affluence estivale."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et venteux), juillet–août (littoral très fréquenté)",
+        "note": "Les vents hivernaux accentuent l’ouverture des grands espaces, tandis que les foules estivales se concentrent principalement autour de Scheveningen plutôt que dans le centre civique."
+      },
+      "tips": [
+        "Jouez sur les contrastes : associez un site civique ou culturel à une pause dans un parc ou au bord de la mer à chaque demi-journée.",
+        "Le quartier du Binnenhof se prête particulièrement à une découverte paisible, surtout tôt le matin ou en soirée.",
+        "Les musées sont compacts et ciblés : une visite par jour est généralement suffisante.",
+        "Utilisez le tram de manière réfléchie : les distances entre le centre et le littoral sont plus importantes qu’elles ne le paraissent.",
+        "Prévoyez des vêtements coupe-vent toute l’année : l’air de la mer du Nord influence davantage le confort que la température.",
+        "Les soirées sont discrètes : les dîners commencent tôt, les conversations restent calmes et le rythme demeure posé."
+      ],
+      "withKids": [
+        "Les larges rues et les parcs permettent de se déplacer facilement avec des enfants.",
+        "La plage de Scheveningen constitue une excellente pause après les visites plus formelles.",
+        "Évitez les longues séries de visites en intérieur en les alternant avec des activités de plein air.",
+        "Les tramways sont faciles d’accès et adaptés aux poussettes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "La Haye est desservie par deux gares principales — Den Haag Centraal et Den Haag HS. Toutes deux proposent des liaisons ferroviaires directes depuis Amsterdam, Rotterdam et Utrecht, vous déposant à proximité du cœur civique de la ville."
+        },
+        {
+          "title": "Gare → Centre civique",
+          "note": "Depuis Den Haag Centraal, le Binnenhof, le Mauritshuis et les bâtiments gouvernementaux voisins sont facilement accessibles à pied en empruntant des rues ouvertes et des espaces publics paysagers."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir le centre historique et le cœur civique, où les distances restent modérées et les rues bien organisées.",
+        "Les tramways sont indispensables pour les trajets plus longs, notamment entre le centre-ville, les quartiers des ambassades et le littoral.",
+        "Le vélo est courant et pratique grâce au relief plat, même s’il est un peu moins omniprésent qu’à Amsterdam ou Utrecht.",
+        "Les bus complètent le réseau de tramways dans les quartiers résidentiels, mais sont rarement nécessaires pour visiter le centre.",
+        "Les taxis sont surtout utiles en soirée ou pour un retour direct depuis la côte vers votre hébergement."
+      ],
+      "dayTrips": [
+        {
+          "title": "Scheveningen",
+          "note": "Le quartier balnéaire de La Haye, facilement accessible en tram, offre des promenades sur la plage, l’air de la mer et un vaste horizon qui contraste avec le caractère formel du centre civique."
+        },
+        {
+          "title": "Delft",
+          "note": "À quelques minutes en train, cette ville historique séduit par ses rues anciennes, ses canaux et son atmosphère universitaire plus intime."
+        },
+        {
+          "title": "Leiden",
+          "note": "Facilement accessible grâce aux trains fréquents, elle combine un riche patrimoine universitaire, des canaux pittoresques et un centre compact agréable à parcourir à pied."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles dans le cœur civique",
+          "note": "De courtes promenades autour du Binnenhof, du Hofvijver et du quartier des musées mettent en valeur l’autorité sereine et l’ouverture caractéristiques de La Haye."
+        },
+        {
+          "title": "Centre → Quartiers des ambassades",
+          "note": "Une progression tranquille vers les quartiers résidentiels bordés d’arbres révèle comment la diplomatie et la vie quotidienne coexistent en toute discrétion."
+        },
+        {
+          "title": "Ville → Côte",
+          "note": "Le trajet en tram vers Scheveningen laisse progressivement place à une atmosphère plus détendue, où l’ordre civique cède la place au vent, au sable et à l’horizon."
+        },
+        {
+          "title": "Plage ↔ Promenade",
+          "note": "Les promenades plates le long du front de mer permettent de longues marches ininterrompues, rythmées davantage par la météo que par l’architecture."
+        }
+      ],
+      "practical": [
+        "Les tramways circulent fréquemment, mais les distances entre le centre et la côte sont plus importantes qu’elles ne paraissent ; prévoyez suffisamment de temps.",
+        "Le vent influence fortement le confort près de la mer ; des vêtements adaptés en plusieurs couches sont utiles toute l’année.",
+        "Les promenades offrent une impression d’espace et de solennité plutôt qu’une atmosphère intime ; le rythme ralentit naturellement.",
+        "Les cyclistes sont prioritaires dans de nombreux secteurs ; restez vigilant lorsque vous traversez les rues.",
+        "Les visites de la plage sont plus agréables en dehors des après-midis de forte affluence estivale.",
+        "La Haye se découvre au mieux avec modération : alterner déplacements et moments de pause permet d’en apprécier toute la sérénité."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Haring (hareng cru)",
+        "Kibbeling (poisson frit)",
+        "Stamppot",
+        "Erwtensoep (soupe aux pois)",
+        "Poffertjes"
+      ],
+      "areas": [
+        {
+          "name": "Binnenhof & City Centre",
+          "note": "Le cœur historique de la ville, facilement parcouru à pied, regroupe musées, bâtiments gouvernementaux et une forte concentration de restaurants de qualité."
+        },
+        {
+          "name": "Denneweg & Zeeheldenkwartier",
+          "note": "Un quartier élégant réputé pour ses restaurants indépendants et son ambiance détendue en soirée."
+        },
+        {
+          "name": "Noordeinde",
+          "note": "Une rue raffinée située près du palais royal, bordée de restaurants et de cafés élégants, idéale pour un dîner paisible."
+        }
+      ],
+      "places": [
+        {
+          "name": "Zebedeus",
+          "area": "Binnenhof & City Centre",
+          "reason": "Un restaurant néerlandais traditionnel réputé pour ses spécialités classiques comme le stamppot et sa cuisine locale de saison.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/zebedeus.jpg",
+          "lat": 52.0798,
+          "lng": 4.311
+        },
+        {
+          "name": "Restaurant 6&24",
+          "area": "Binnenhof & City Centre",
+          "reason": "Un restaurant moderne très apprécié, mettant à l’honneur des ingrédients néerlandais et européens de saison.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/restaurant-6-and-24.jpg",
+          "lat": 52.0795,
+          "lng": 4.3119
+        },
+        {
+          "name": "De Basiliek",
+          "area": "Binnenhof & City Centre",
+          "reason": "Un restaurant contemporain très populaire, offrant une ambiance animée à proximité des principaux sites culturels.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/de-basiliek.jpg",
+          "lat": 52.0801,
+          "lng": 4.3121
+        },
+        {
+          "name": "Dekxels",
+          "area": "Denneweg & Zeeheldenkwartier",
+          "reason": "L’un des restaurants les plus réputés de La Haye, apprécié pour ses petites assiettes créatives et la qualité constante de sa cuisine.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/dekxels.jpg",
+          "lat": 52.0765,
+          "lng": 4.3002
+        },
+        {
+          "name": "Restaurant Moose",
+          "area": "Denneweg & Zeeheldenkwartier",
+          "reason": "Un restaurant européen reconnu proposant une cuisine raffinée dans une atmosphère de quartier à la fois calme et conviviale.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/restaurant-moose.jpg",
+          "lat": 52.0729,
+          "lng": 4.3006
+        },
+        {
+          "name": "Restaurant Zheng",
+          "area": "Noordeinde",
+          "reason": "Un restaurant moderne très bien noté, proposant une cuisine fusion asiatique et européenne près du quartier royal, parfait pour un dîner élégant.",
+          "imageUrl": "/src/assets/itineraries/netherlands/the-hague-food/restaurant-zheng.jpg",
+          "lat": 52.0788,
+          "lng": 4.312
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-utrecht-where-closeness-creates-clarity",
+    "region": "europe",
+    "country": "Netherlands",
+    "city": "Utrecht",
+    "title": "Utrecht en 2 jours : quand la proximité apporte de la clarté",
+    "days": 2,
+    "priceFrom": 215,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/netherlands/2-days-utrecht-where-closeness-creates-clarity.jpg",
+    "summary": "Cet itinéraire de 2 jours à Utrecht vous invite à découvrir la ville la plus discrètement sûre d’elle des Pays-Bas à travers ses rues intimistes, ses canaux encaissés et son atmosphère universitaire apaisée. Conçu pour être parcouru entièrement à pied, il équilibre monuments historiques, cafés au bord des canaux et rythme du quotidien. Utrecht ne séduit pas par sa taille ou son spectaculaire, mais par la façon dont tout s’y assemble avec une remarquable harmonie.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Dom Tower et le cœur historique",
+      "Le canal Oudegracht et ses cafés sur les quais",
+      "Des itinéraires à pied dans une vieille ville compacte",
+      "L’atmosphère universitaire et la vie étudiante",
+      "Une culture du vélo à taille humaine",
+      "Une ville façonnée par la proximité et l’intelligence"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, Dom Tower et canaux",
+        "summary": "Comprendre la ville en restant proche de tout.",
+        "details": "Arrivez à Utrecht et commencez votre découverte près de la Dom Tower, dont la silhouette emblématique permet de s’orienter facilement dans le centre historique compact. Parcourez tranquillement les rues alentour et observez comment bâtiments historiques, boutiques et cafés coexistent naturellement, sans hiérarchie apparente.\n\nDans l’après-midi, descendez au niveau du canal Oudegracht, où les cafés bordent les quais encaissés situés sous le niveau de la rue. Prenez le temps de vous installer au bord de l’eau, en regardant les vélos passer au-dessus de vous et les bateaux glisser lentement sur le canal : l’organisation en plusieurs niveaux d’Utrecht montre comment la proximité peut créer une véritable sensation de calme.\n\nEn soirée, restez près du canal pour dîner. La ville offre une ambiance conviviale mais sans ostentation, où les conversations prennent naturellement la place du spectacle."
+      },
+      {
+        "day": 2,
+        "title": "Le rythme des quartiers et le départ",
+        "summary": "Partir sans avoir besoin d’aller loin.",
+        "details": "Commencez la journée par un petit-déjeuner tranquille dans un café local, puis promenez-vous dans les rues résidentielles voisines, animées par la vie étudiante et le rythme du quotidien. La présence de l’université apporte une énergie discrète, sans agitation.\n\nEn fin de matinée, revenez sur vos rues ou vos canaux préférés et remarquez à quel point les lieux vous deviennent rapidement familiers. Ici, nul besoin de se presser : tout reste à portée de main.\n\nProfitez d’un dernier déjeuner avant votre départ. Utrecht laisse une impression durable : une ville où la proximité apporte de la clarté, et où cette clarté rend chaque moment plus simple."
+      }
+    ],
+    "planning": {
+      "city": "Utrecht, Netherlands",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Le climat doux et les longues journées rendent les promenades le long des canaux, les rues cyclables et les cafés en terrasse particulièrement agréables, sans l’affluence du plein été."
+      },
+      "worstTime": {
+        "months": "Juillet–août (animé et chaud), décembre–février (froid et calme)",
+        "note": "L’été attire davantage d’étudiants et d’événements, tandis que l’hiver raccourcit les journées et limite la vie autour des canaux."
+      },
+      "tips": [
+        "Séjournez dans le centre : la Dom, les canaux, les cafés et les musées se trouvent tous à quelques minutes de marche.",
+        "Suivez tranquillement l’Oudegracht : ses quais à deux niveaux révèlent toute l’originalité de la ville lorsqu’on les découvre à pied.",
+        "Montez une seule fois à la Dom Tower : la vue est superbe, mais une ascension suffit largement pour un séjour de deux jours.",
+        "Laissez les cafés rythmer votre journée : Utrecht se découvre davantage au fil des conversations que des attractions touristiques.",
+        "Le vélo est omniprésent, mais la marche permet de mieux apprécier les dimensions et les détails de la ville.",
+        "Les soirées sont paisibles et authentiquement locales : inutile de courir après la vie nocturne."
+      ],
+      "withKids": [
+        "Les rues plates et les chemins le long des canaux sont faciles à parcourir avec des enfants.",
+        "La location de bateaux sur les canaux permet une découverte ludique et sans effort.",
+        "Les courtes distances limitent la fatigue.",
+        "Les soirées calmes conviennent parfaitement à l’ambiance de la ville."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Utrecht Centraal est le principal nœud ferroviaire des Pays-Bas. En arrivant ici, vous vous trouvez immédiatement à proximité du centre historique, avec la Dom Tower et les canaux accessibles à pied en quelques minutes."
+        },
+        {
+          "title": "Gare → Centre historique",
+          "note": "Depuis la gare, plusieurs itinéraires piétons mènent directement à la vieille ville à travers des rues et des places compactes, mettant immédiatement en valeur le caractère intimiste d’Utrecht."
+        }
+      ],
+      "gettingAround": [
+        "La marche est la meilleure façon de découvrir Utrecht ; le centre historique est compact et facile à parcourir.",
+        "Le vélo fait pleinement partie du quotidien et convient parfaitement aux courts trajets entre les différents quartiers.",
+        "Des bus et des tramways locaux sont disponibles, mais ils sont rarement nécessaires dans la vieille ville.",
+        "Les bateaux sur les canaux sont principalement destinés aux loisirs et offrent une perspective différente plutôt qu’un moyen de transport efficace.",
+        "Les taxis sont rarement indispensables grâce aux courtes distances et à l’excellente desserte ferroviaire."
+      ],
+      "dayTrips": [
+        {
+          "title": "Amsterdam",
+          "note": "Accessible en très peu de temps en train, elle offre un contraste marqué par son échelle et son intensité par rapport à l’atmosphère intime d’Utrecht."
+        },
+        {
+          "title": "Amersfoort",
+          "note": "Une ville historique voisine accessible en train, connue pour ses remparts médiévaux et son ambiance provinciale plus paisible."
+        },
+        {
+          "title": "La Haye",
+          "note": "Facilement accessible en train direct, elle réunit institutions politiques, musées et proximité de la mer."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Dom Tower ↔ Oudegracht",
+          "note": "Les courtes promenades répétées entre la Dom Tower et les quais de l’Oudegracht rythment naturellement la journée et illustrent la clarté de l’organisation urbaine d’Utrecht."
+        },
+        {
+          "title": "Niveau de la rue ↔ Niveau des quais",
+          "note": "Descendre du niveau de la rue vers les cafés installés au bord du canal met en valeur l’architecture unique à deux niveaux d’Utrecht et son agréable sensation d’intimité."
+        },
+        {
+          "title": "Boucles dans la vieille ville",
+          "note": "Des itinéraires circulaires à travers le centre historique permettent de se familiariser rapidement avec la ville sans parcourir de longues distances."
+        },
+        {
+          "title": "Rues résidentielles",
+          "note": "Une promenade tranquille dans les quartiers étudiants voisins montre comment la vie universitaire s’intègre naturellement au tissu urbain."
+        }
+      ],
+      "practical": [
+        "Les distances sont courtes mais le relief est organisé sur plusieurs niveaux : prévoyez de fréquents escaliers entre les quais et les rues.",
+        "Les cyclistes sont prioritaires ; restez attentif lorsque vous marchez ou traversez la chaussée.",
+        "La pluie est fréquente toute l’année : une veste imperméable est plus utile que le choix de la saison.",
+        "Le centre d’Utrecht se découvre idéalement à un rythme tranquille ; aller trop vite fait perdre son charme intimiste.",
+        "Les liaisons ferroviaires sont fréquentes : il est rarement nécessaire de planifier des horaires de départ très stricts.",
+        "Utrecht récompense la proximité : séjourner près du centre est bien plus précieux que vouloir couvrir de longues distances."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Un repas au bord du canal sur les quais",
+        "Une tarte aux pommes néerlandaise accompagnée d’un café",
+        "De généreux sandwichs et des déjeuners de boulangerie",
+        "Une cuisine de bistrot européenne décontractée",
+        "Des bières locales et des soirées paisibles dans les cafés"
+      ],
+      "areas": [
+        {
+          "name": "Oudegracht",
+          "note": "Les quais encaissés du canal, où les cafés sont installés au plus près de l’eau, invitent à prendre son temps et à profiter des conversations."
+        },
+        {
+          "name": "Historic Centre",
+          "note": "Des rues compactes où cafés et restaurants décontractés s’intègrent naturellement au rythme de la vie quotidienne."
+        },
+        {
+          "name": "University Quarter",
+          "note": "L’énergie étudiante façonne une scène gastronomique abordable, simple et sans prétention."
+        }
+      ],
+      "places": [
+        {
+          "name": "Broodje Mario",
+          "area": "Historic Centre",
+          "reason": "Une véritable institution d’Utrecht, réputée pour ses sandwichs généreux et savoureux : une adresse simple, authentique et profondément ancrée dans la vie locale.",
+          "imageUrl": "/src/assets/itineraries/netherlands/utrecht-food/broodje-mario.jpg",
+          "lat": 52.09072,
+          "lng": 5.12101
+        },
+        {
+          "name": "Graaf Floris Café Restaurant",
+          "area": "Oudegracht",
+          "reason": "Un restaurant classique installé directement sur les quais de l’Oudegracht, proposant des spécialités traditionnelles néerlando-européennes dans un cadre unique au niveau du canal.",
+          "imageUrl": "/src/assets/itineraries/netherlands/utrecht-food/graaf-floris.jpg",
+          "lat": 52.09141,
+          "lng": 5.12174
+        },
+        {
+          "name": "Café Olivier",
+          "area": "Historic Centre",
+          "reason": "Une ancienne église transformée en café, appréciée pour ses bières belges et ses repas décontractés, reflétant parfaitement la culture conviviale de la restauration à Utrecht.",
+          "imageUrl": "/src/assets/itineraries/netherlands/utrecht-food/cafe-olivier.jpg",
+          "lat": 52.09194,
+          "lng": 5.11886
+        },
+        {
+          "name": "Kafé België",
+          "area": "Historic Centre",
+          "reason": "Un petit café-bar réputé servant des bières belges et une cuisine simple, en parfaite harmonie avec l’atmosphère détendue et sans prétention des soirées à Utrecht.",
+          "imageUrl": "/src/assets/itineraries/netherlands/utrecht-food/kafe-belgie.jpg",
+          "lat": 52.09018,
+          "lng": 5.12032
+        },
+        {
+          "name": "Restaurant De Zakkendrager",
+          "area": "Historic Centre",
+          "reason": "Un restaurant néerlandais classique et intimiste proposant des plats traditionnels dans un cadre paisible et authentique, à deux pas de la ceinture des canaux.",
+          "imageUrl": "/src/assets/itineraries/netherlands/utrecht-food/de-zakkendrager.jpg",
+          "lat": 52.09096,
+          "lng": 5.11955
+        }
+      ]
+    }
+  }

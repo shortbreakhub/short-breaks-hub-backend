@@ -1,0 +1,166 @@
+
+  {
+    "slug": "4-days-tonga-kingdom-sea-and-living-tradition",
+    "region": "oceania",
+    "country": "Tonga",
+    "city": "Tongatapu & Outer Islands",
+    "title": "Les Tonga en 4 jours : royaume polynésien, océan et traditions vivantes",
+    "days": 4,
+    "priceFrom": 335,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/tonga/4-days-tonga-kingdom-sea-and-living-tradition.jpg",
+    "summary": "Cet itinéraire de 4 jours aux Tonga vous invite à découvrir le dernier royaume polynésien encore existant, où les traditions, la foi et la monarchie continuent de rythmer la vie quotidienne. Réparti entre Tongatapu et les îles voisines, cet archipel offre des falaises calcaires spectaculaires, des lagons turquoise, des villages paisibles et une culture profondément attachée au respect et à la communauté. Pensé pour équilibrer découvertes culturelles, paysages côtiers et immersion dans l'océan Pacifique, ce voyage révèle un royaume où le patrimoine demeure pleinement vivant.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le dernier royaume polynésien et son identité unique",
+      "Les villages côtiers et les célèbres souffleurs marins de Tongatapu",
+      "Les îles extérieures et les immenses paysages océaniques",
+      "L'observation des baleines (en saison)",
+      "Le rythme de vie guidé par la foi et la famille",
+      "Une culture fondée sur le respect, la tradition et la continuité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à Nuku'alofa et découverte du royaume",
+        "summary": "Entrer dans le cœur culturel des Tonga.",
+        "details": "À votre arrivée à Nuku'alofa, promenez-vous le long du front de mer avant de découvrir la capitale, où bâtiments officiels, églises et vie quotidienne cohabitent dans une atmosphère paisible.\n\nDans l'après-midi, rejoignez quelques villages traditionnels de Tongatapu afin d'observer le mode de vie local, marqué par les liens familiaux et la vie communautaire.\n\nLa soirée s'écoule tranquillement autour d'un dîner local et d'une ambiance détendue."
+      },
+      {
+        "day": 2,
+        "title": "Côte sauvage et souffleurs marins",
+        "summary": "Découvrir la puissance du Pacifique.",
+        "details": "Partez explorer le spectaculaire littoral de Tongatapu, célèbre pour ses impressionnants souffleurs marins (Mapu'a 'a Vaea) et ses falaises calcaires sculptées par les vagues.\n\nPromenez-vous le long de la côte en profitant des panoramas sur l'océan Pacifique.\n\nL'après-midi est consacré à la détente sur une plage ou dans un lagon avant de terminer la journée dans le calme du coucher de soleil."
+      },
+      {
+        "day": 3,
+        "title": "Îles extérieures ou excursion en mer",
+        "summary": "Découvrir l'immensité de l'archipel.",
+        "details": "Selon votre programme, rejoignez un archipel voisin comme Ha'apai ou partez pour une excursion en bateau afin d'explorer les eaux cristallines des Tonga.\n\nEntre juillet et octobre, il est possible d'observer les baleines à bosse lors d'excursions encadrées et respectueuses de l'environnement.\n\nCette journée permet de mieux comprendre l'étendue maritime du royaume et son lien profond avec l'océan."
+      },
+      {
+        "day": 4,
+        "title": "Traditions et départ",
+        "summary": "Quitter les Tonga avec respect.",
+        "details": "Profitez une dernière fois d'un village, d'une plage ou d'un lieu déjà découvert afin d'apprécier pleinement l'atmosphère paisible des Tonga.\n\nSi les circonstances le permettent, assistez respectueusement à une célébration religieuse ou découvrez davantage la vie locale.\n\nAprès un dernier repas, prenez le chemin du retour en gardant le souvenir d'un royaume où les traditions continuent de faire partie du quotidien."
+      }
+    ],
+    "planning": {
+      "city": "Tonga (principalement Tongatapu)",
+      "bestTime": {
+        "months": "Mai–oct. (saison plus sèche et plus fraîche)",
+        "note": "Le climat est agréable, la mer est plus calme et les conditions sont idéales pour explorer les côtes, se baigner et visiter les villages."
+      },
+      "worstTime": {
+        "months": "Nov.–avr. (chaleur, humidité et risque cyclonique)",
+        "note": "Les fortes pluies et les cyclones tropicaux peuvent perturber les vols, les déplacements et l'accès aux sites côtiers."
+      },
+      "tips": [
+        "Respectez particulièrement le dimanche : la majorité des commerces ferment, les activités ralentissent et les offices religieux occupent une place centrale dans la vie du royaume.",
+        "Explorez avant tout le littoral : les falaises, les récifs, les lagons et les souffleurs marins sont les plus belles richesses naturelles des Tonga.",
+        "Portez une tenue respectueuse dans les villages et les églises, en couvrant les épaules et les genoux.",
+        "Demandez toujours l'autorisation avant d'accéder à certaines plages ou terres appartenant aux villages ; une petite contribution est parfois demandée.",
+        "Les distances sont courtes, mais le rythme local privilégie les échanges et la convivialité plutôt que la rapidité.",
+        "Les soirées sont très paisibles ; profitez des plages, du ciel étoilé et du calme plutôt que de rechercher une vie nocturne animée."
+      ],
+      "withKids": [
+        "Les lagons calmes et les plages sont parfaits pour les familles.",
+        "Les trajets restent relativement courts et adaptés aux jeunes voyageurs.",
+        "Les chants religieux et les spectacles culturels permettent une belle découverte de la culture tongienne.",
+        "Une bonne protection solaire et une hydratation régulière sont indispensables toute l'année."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale aux Tonga",
+          "note": "Les vols internationaux arrivent à l'aéroport international de Fuaʻamotu (TBU), situé sur l'île de Tongatapu, au sud de Nukuʻalofa. L'arrivée est paisible, avec des infrastructures simples qui reflètent immédiatement le rythme de vie détendu du royaume."
+        }
+      ],
+      "gettingAround": [
+        "La voiture est le moyen le plus pratique pour découvrir Tongatapu ; les routes sont plates, peu fréquentées et traversent directement les villages.",
+        "La circulation est lente et respectueuse, les piétons, les animaux et les activités religieuses faisant naturellement partie du paysage routier.",
+        "Des minibus publics circulent sans horaires fixes ; ils conviennent davantage aux courts trajets qu'à un programme précis.",
+        "La marche est agréable dans Nukuʻalofa et les villages, mais peu adaptée aux longues distances le long du littoral.",
+        "Les déplacements en soirée sont limités : les routes sont faiblement éclairées et la vie locale s'apaise rapidement après le coucher du soleil."
+      ],
+      "dayTrips": [
+        {
+          "title": "Tour du littoral de Tongatapu et souffleurs marins",
+          "note": "Facilement accessible depuis Nukuʻalofa par la route, cet itinéraire permet de découvrir les célèbres souffleurs marins et les formations calcaires de l'île après de courtes promenades depuis les villages."
+        },
+        {
+          "title": "Îles extérieures (Haʻapai ou ʻEua)",
+          "note": "Ces îles sont accessibles par vols intérieurs ou ferries. Les horaires restent limités et dépendent fortement des conditions météorologiques ; il est donc conseillé de prévoir une marge dans son programme."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Village ↔ Littoral",
+          "note": "Les journées alternent naturellement entre les villages et les plages voisines, illustrant le lien étroit qui unit les Tongiens à la mer."
+        },
+        {
+          "title": "Terre ↔ Océan",
+          "note": "Les excursions en bateau, notamment pour l'observation des baleines ou la découverte des lagons, offrent une nouvelle perspective sur l'immensité de l'archipel."
+        }
+      ],
+      "practical": [
+        "Le dimanche, les déplacements sont très limités : les transports fonctionnent au ralenti et la journée est largement consacrée au repos et aux offices religieux.",
+        "Les vols intérieurs et les ferries peuvent être modifiés ou reportés ; prévoyez toujours une marge de sécurité dans votre planning.",
+        "Les stations-service sont peu nombreuses en dehors de Nukuʻalofa ; faites le plein avant de partir explorer les côtes.",
+        "L'accès à certaines plages ou aux souffleurs marins situés sur des terres villageoises peut nécessiter une petite contribution ; demandez toujours l'autorisation avant d'entrer.",
+        "L'observation des baleines est strictement réglementée et uniquement possible en saison ; les sorties dépendent avant tout des conditions météorologiques.",
+        "La conduite de nuit est déconseillée en raison du faible éclairage, de la présence d'animaux sur les routes et de l'éloignement des services d'urgence."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Le lū pulu (feuilles de taro garnies de corned-beef et de lait de coco)",
+        "Lʻotai, une boisson traditionnelle à base de fruits frais et de noix de coco",
+        "Le feke (poulpe grillé ou mijoté)",
+        "Les plats cuits dans un umu, le four traditionnel tongien",
+        "Les légumes-racines bouillis comme le taro, le manioc et l'igname",
+        "Les repas familiaux et communautaires, au cœur de la tradition tongienne"
+      ],
+      "areas": [
+        {
+          "name": "Nukuʻalofa (Tongatapu)",
+          "note": "La capitale concentre la majorité des cafés, boulangeries et petits restaurants où la cuisine reste simple, locale et profondément liée au quotidien."
+        },
+        {
+          "name": "Fale de villages et terrains d'église",
+          "note": "Les repas les plus authentiques sont souvent partagés au sein des villages ou lors de rassemblements communautaires, où la nourriture est avant tout un symbole d'hospitalité."
+        },
+        {
+          "name": "Îles extérieures (Haʻapai / ʻEua)",
+          "note": "La cuisine y est encore plus traditionnelle, avec peu de restaurants et une forte place accordée aux repas familiaux et aux cuissons dans les fours umu."
+        }
+      ],
+      "places": [
+        {
+          "name": "Friends Café",
+          "area": "Nukuʻalofa (Tongatapu)",
+          "reason": "Café emblématique apprécié aussi bien des habitants que des visiteurs, idéal pour découvrir la cuisine locale dans une ambiance conviviale et détendue.",
+          "imageUrl": "/src/assets/itineraries/tonga/tonga-food/friends-cafe-nukualofa.jpg",
+          "lat": -21.1384,
+          "lng": -175.2037
+        },
+        {
+          "name": "Cafe Escape",
+          "area": "Nukuʻalofa (Tongatapu)",
+          "reason": "Adresse chaleureuse reflétant le quotidien de la capitale, parfaite pour un repas léger ou une pause-café dans une atmosphère décontractée.",
+          "imageUrl": "/src/assets/itineraries/tonga/tonga-food/cafe-escape-nukualofa.jpg",
+          "lat": -21.1389,
+          "lng": -175.2049
+        },
+        {
+          "name": "Little Italy Hotel Restaurant",
+          "area": "Nukuʻalofa (Tongatapu)",
+          "reason": "L'un des restaurants les plus réputés des Tonga, offrant une cuisine soignée dans une ambiance paisible où l'on vient autant pour échanger que pour bien manger.",
+          "imageUrl": "/src/assets/itineraries/tonga/tonga-food/little-italy-nukualofa.jpg",
+          "lat": -21.1395,
+          "lng": -175.2025
+        }
+      ]
+    }
+  }

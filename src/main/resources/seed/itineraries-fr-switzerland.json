@@ -1,0 +1,1091 @@
+
+  {
+    "slug": "2-days-bern-continuity-along-the-bend",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Bern",
+    "title": "Berne en 2 jours : la continuité au fil du méandre",
+    "days": 2,
+    "priceFrom": 255,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/2-days-bern-continuity-along-the-bend.jpg",
+    "summary": "Cet itinéraire de deux jours à Berne explore la capitale suisse comme une ville façonnée par la continuité plutôt que par l’ambition. Lovée dans un grand méandre de l’Aar, Berne associe patrimoine médiéval, sérénité civique et rythme quotidien avec une remarquable cohérence. Pensé pour être parcouru lentement sous les arcades et le long de la rivière, ce voyage invite à découvrir une ville qui a trouvé son équilibre depuis longtemps.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La vieille ville classée à l’UNESCO et ses arcades",
+      "Les berges de l’Aar",
+      "La tour de l’Horloge (Zytglogge)",
+      "Le panorama depuis la Roseraie",
+      "Les cafés de quartier",
+      "Une capitale marquée par la continuité et la retenue"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, arcades et temps de la ville",
+        "summary": "Découvrir Berne en marchant sous ses arcades.",
+        "details": "Commencez votre découverte dans la vieille ville, où les longues arcades protègent les promeneurs du soleil comme de la pluie. Elles invitent à marcher sans hâte et à revenir sur ses pas : Berne se révèle davantage par la familiarité que par la nouveauté.\n\nL’après-midi, installez-vous à la terrasse d’un café niché dans les façades de pierre et observez le rythme paisible de la ville. Passez devant la Zytglogge et prenez le temps d’assister à son animation horaire, plus rituel civique que spectacle.\n\nTerminez la journée par une promenade vers l’Aar avant un dîner simple et tranquille."
+      },
+      {
+        "day": 2,
+        "title": "Rives de l’Aar, hauteur et départ",
+        "summary": "Observer la ville depuis les hauteurs.",
+        "details": "Le matin, suivez les chemins qui longent l’Aar, où l’eau, la pierre et les espaces verts composent un ensemble harmonieux. Ici, la rivière ne traverse pas la ville : elle l’enveloppe.\n\nRejoignez ensuite la Roseraie pour admirer la vieille ville lovée dans le méandre. Vue d’en haut, Berne semble parfaitement achevée.\n\nRevenez déjeuner dans la vieille ville avant le départ. Berne laisse le souvenir discret d’une ville qui n’a jamais eu besoin de se transformer pour rester actuelle."
+      }
+    ],
+    "planning": {
+      "city": "Bern, Switzerland",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "La douceur des températures et la lumière mettent particulièrement en valeur les arcades, les promenades au bord de l’Aar et la vieille ville."
+      },
+      "worstTime": {
+        "months": "Décembre–février, juillet–août",
+        "note": "L’hiver limite les pauses au bord de la rivière tandis que l’été peut être plus calme lorsque les habitants partent en vacances."
+      },
+      "tips": [
+        "Suivez le méandre de l’Aar pour comprendre la ville.",
+        "Profitez des arcades par tous les temps.",
+        "Explorez la vieille ville en boucles.",
+        "Voyez une fois la Zytglogge sonner l’heure.",
+        "Traversez un pont chaque jour.",
+        "Prévoyez le dîner assez tôt."
+      ],
+      "withKids": [
+        "Les arcades protègent du soleil et de la pluie.",
+        "Les parcs offrent des pauses agréables.",
+        "Les distances sont courtes.",
+        "Les tramways sont adaptés aux poussettes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Berne est très bien reliée à Zurich, Bâle, Genève et Interlaken. La gare principale se trouve au bord de la vieille ville."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Les rues historiques commencent à quelques minutes à pied de la gare."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir Berne.",
+        "Les arcades permettent de marcher confortablement par tous les temps.",
+        "Les tramways desservent les quartiers extérieurs.",
+        "Les ponts offrent de beaux changements de perspective.",
+        "Le vélo reste secondaire dans le centre historique."
+      ],
+      "dayTrips": [
+        {
+          "title": "Roseraie",
+          "note": "Un parc en hauteur offrant une vue complète sur la vieille ville."
+        },
+        {
+          "title": "Berges de l’Aar",
+          "note": "Des sentiers continus longent la rivière autour du centre historique."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Gare ↔ Vieille ville",
+          "note": "Les allers-retours sous les arcades font naturellement découvrir le rythme de la ville."
+        },
+        {
+          "title": "Vieille ville ↔ Aar",
+          "note": "Quelques minutes suffisent pour passer de la ville à la rivière."
+        },
+        {
+          "title": "Aar ↔ Roseraie",
+          "note": "Une montée douce révèle la forme complète de Berne."
+        },
+        {
+          "title": "Traversées des ponts",
+          "note": "Chaque pont renouvelle discrètement le point de vue."
+        }
+      ],
+      "practical": [
+        "Le centre se parcourt facilement à pied.",
+        "Les arcades rendent les déplacements agréables par tous les temps.",
+        "Prévoyez une couche légère près de la rivière.",
+        "Les commerces ferment relativement tôt.",
+        "Les soirées sont calmes.",
+        "Revenir sur les mêmes itinéraires permet de mieux apprécier Berne."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Berner Platte",
+        "Rösti",
+        "Kalbsbratwurst bernoise",
+        "Fondue",
+        "Birchermüesli",
+        "Pâtisseries suisses"
+      ],
+      "areas": [
+        {
+          "name": "Old Town (UNESCO Arcades)",
+          "note": "Les arcades historiques abritent restaurants et cafés parfaits pour un déjeuner ou un dîner paisible."
+        },
+        {
+          "name": "Aare River Edge",
+          "note": "Des adresses agréables après une promenade au bord de l’eau."
+        },
+        {
+          "name": "Rosengarten Side",
+          "note": "Quartier calme offrant de belles vues sur la vieille ville."
+        }
+      ],
+      "places": [
+        {
+          "name": "Kornhauskeller",
+          "area": "Old Town (UNESCO Arcades)",
+          "reason": "Salle historique emblématique réputée pour la cuisine bernoise traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/switzerland/bern-food/kornhauskeller.jpg",
+          "lat": 46.9486,
+          "lng": 7.4516
+        },
+        {
+          "name": "Restaurant Harmonie",
+          "area": "Old Town (UNESCO Arcades)",
+          "reason": "Restaurant traditionnel apprécié pour la Berner Platte.",
+          "imageUrl": "/src/assets/itineraries/switzerland/bern-food/restaurant-harmonie.jpg",
+          "lat": 46.9482,
+          "lng": 7.4478
+        },
+        {
+          "name": "Zum Äusseren Stand",
+          "area": "Old Town (UNESCO Arcades)",
+          "reason": "Ancienne maison de corporation proposant une cuisine suisse raffinée.",
+          "imageUrl": "/src/assets/itineraries/switzerland/bern-food/zum-aeusseren-stand.jpg",
+          "lat": 46.9489,
+          "lng": 7.4474
+        },
+        {
+          "name": "Altes Tramdepot",
+          "area": "Rosengarten Side",
+          "reason": "Brasserie et restaurant réputés près du parc aux Ours avec vue sur la rivière.",
+          "imageUrl": "/src/assets/itineraries/switzerland/bern-food/altes-tramdepot.jpg",
+          "lat": 46.9523,
+          "lng": 7.4592
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-geneva-water-diplomacy-and-balance",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Geneva",
+    "title": "Genève en 3 jours : eau, diplomatie et équilibre",
+    "days": 3,
+    "priceFrom": 270,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/3-days-geneva-water-diplomacy-and-balance.jpg",
+    "summary": "Cet itinéraire de trois jours à Genève explore la ville la plus ouverte de Suisse à travers le calme du lac, la retenue civique et sa présence internationale. Pensé pour équilibrer l’intimité de la vieille ville, les institutions mondiales et le rythme des quartiers, il montre une ville où l’influence s’exerce avec discrétion, où l’eau donne la perspective et où l’équilibre naît davantage de l’aménagement que du contrôle.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Promenades au bord du Léman",
+      "Jet d’Eau et jeux de lumière",
+      "Vieille ville et cathédrale Saint-Pierre",
+      "Quartier des Nations Unies",
+      "Cafés de quartier et parcs",
+      "Une ville façonnée par la diplomatie et les justes proportions"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, bord du lac et premiers repères",
+        "summary": "Comprendre Genève par l’eau.",
+        "details": "Commencez votre séjour le long du lac, où les vastes étendues d’eau donnent immédiatement une sensation d’espace et de calme. Suivez la promenade sans vous presser, en laissant le Jet d’Eau apparaître naturellement plutôt que comme un objectif. Genève présente ses symboles avec une grande discrétion.\n\nPoursuivez ensuite à travers les parcs et les quais en observant comment les habitants vivent le lac comme un espace quotidien. Faites régulièrement une pause : la ville se révèle dans l’immobilité.\n\nTerminez la journée par un dîner au bord de l’eau tandis que la lumière s’adoucit."
+      },
+      {
+        "day": 2,
+        "title": "Vieilles pierres, hauteur et sérénité",
+        "summary": "Une histoire sans monumentalité.",
+        "details": "Montez doucement vers la vieille ville jusqu’à la cathédrale Saint-Pierre. Prenez le temps d’admirer le lac depuis les hauteurs : le passé de Genève se comprend toujours en relation avec son ouverture.\n\nPassez l’après-midi dans un musée ou en flânant dans les rues résidentielles où le quotidien donne le rythme. Le centre paraît vécu plutôt que mis en scène.\n\nLe soir, redescendez vers le lac pour un repas simple et détendu."
+      },
+      {
+        "day": 3,
+        "title": "Institutions, quartiers et départ",
+        "summary": "Découvrir l’influence sans ostentation.",
+        "details": "Consacrez la matinée au quartier des Nations Unies en parcourant les espaces publics qui l’entourent. Les vastes pelouses, la signalétique claire et l’ouverture des lieux expriment naturellement le rôle international de Genève.\n\nRevenez ensuite dans votre café ou parc préféré avant un dernier déjeuner. Genève laisse le souvenir d’une ville capable d’exercer son influence avec légèreté et de préserver son équilibre."
+      }
+    ],
+    "planning": {
+      "city": "Geneva, Switzerland",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Les températures agréables et la lumière claire rendent les promenades au bord du lac et dans la vieille ville particulièrement plaisantes."
+      },
+      "worstTime": {
+        "months": "Décembre–février, juillet–août",
+        "note": "L’hiver limite les activités extérieures tandis que l’été attire davantage de monde autour du lac."
+      },
+      "tips": [
+        "Commencez chaque journée au bord de l’eau.",
+        "Séparez la visite du quartier international et celle de la vieille ville.",
+        "Explorez la ville en boucles tranquilles.",
+        "Une visite culturelle par jour suffit.",
+        "Combinez marche et transports publics.",
+        "Privilégiez les soirées calmes au bord du lac."
+      ],
+      "withKids": [
+        "Les quais offrent beaucoup d’espace.",
+        "Les promenades en bateau sont agréables.",
+        "Les parcs permettent des pauses.",
+        "Trams et bus sont adaptés aux poussettes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Genève est facilement accessible depuis Zurich, Lausanne, Berne et plusieurs villes françaises. La gare Cornavin se situe près du lac."
+        },
+        {
+          "title": "Gare → Bord du lac",
+          "note": "Le Léman est accessible en quelques minutes à pied ou en tram."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir Genève.",
+        "Les trams et bus sont fréquents.",
+        "Les transports publics sont souvent inclus avec l’hébergement.",
+        "Le vélo est agréable le long du lac.",
+        "Les bateaux offrent autant un moyen de transport qu’un nouveau point de vue."
+      ],
+      "dayTrips": [
+        {
+          "title": "Quartier des Nations Unies",
+          "note": "Accessible facilement en tram, il illustre le rôle international de Genève."
+        },
+        {
+          "title": "Carouge",
+          "note": "Quartier au caractère méditerranéen avec de nombreux cafés."
+        },
+        {
+          "title": "Parcs du Léman",
+          "note": "Des promenades continues relient espaces verts et points de vue."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Gare ↔ Promenade du lac",
+          "note": "Une courte marche qui relie immédiatement infrastructures et espaces ouverts."
+        },
+        {
+          "title": "Lac ↔ Vieille ville",
+          "note": "Une montée douce reliant les quais au cœur historique."
+        },
+        {
+          "title": "Centre ↔ Quartier des Nations",
+          "note": "Le tram fait rapidement passer des rues anciennes aux institutions internationales."
+        },
+        {
+          "title": "Boucles de quartier",
+          "note": "Les promenades répétées renforcent le sentiment de familiarité."
+        }
+      ],
+      "practical": [
+        "Privilégiez la marche.",
+        "Le vent sur le lac peut changer rapidement.",
+        "Les transports sont moins fréquents en soirée.",
+        "Certaines rues de la vieille ville sont pentues.",
+        "Les commerces ferment relativement tôt.",
+        "Évitez de trop remplir vos journées."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fondue au fromage genevoise",
+        "Filets de perche",
+        "Rösti",
+        "Cardon genevois",
+        "Birchermüesli",
+        "Pâtisseries et chocolat suisses"
+      ],
+      "areas": [
+        {
+          "name": "Old Town (Vieille Ville)",
+          "note": "Le cœur historique regroupe de nombreuses tables traditionnelles."
+        },
+        {
+          "name": "Paquis & Lakefront",
+          "note": "Quartier du lac idéal pour des repas simples au bord de l’eau."
+        },
+        {
+          "name": "Carouge",
+          "note": "Quartier vivant avec d’excellents restaurants indépendants."
+        }
+      ],
+      "places": [
+        {
+          "name": "Les Armures",
+          "area": "Old Town (Vieille Ville)",
+          "reason": "Adresse emblématique réputée pour la fondue et les spécialités suisses.",
+          "imageUrl": "/src/assets/itineraries/switzerland/geneva-food/les-armures.jpg",
+          "lat": 46.2019,
+          "lng": 6.1486
+        },
+        {
+          "name": "Café du Soleil",
+          "area": "Paquis & Lakefront",
+          "reason": "L'une des meilleures adresses de Genève pour déguster une fondue.",
+          "imageUrl": "/src/assets/itineraries/switzerland/geneva-food/cafe-du-soleil.jpg",
+          "lat": 46.2122,
+          "lng": 6.1426
+        },
+        {
+          "name": "Restaurant des Bains des Pâquis",
+          "area": "Paquis & Lakefront",
+          "reason": "Restaurant apprécié au bord du lac, réputé pour ses poissons frais.",
+          "imageUrl": "/src/assets/itineraries/switzerland/geneva-food/bains-des-paquis.jpg",
+          "lat": 46.2105,
+          "lng": 6.1531
+        },
+        {
+          "name": "Café Papon",
+          "area": "Old Town (Vieille Ville)",
+          "reason": "Institution genevoise proposant une cuisine suisse et française raffinée.",
+          "imageUrl": "/src/assets/itineraries/switzerland/geneva-food/cafe-papon.jpg",
+          "lat": 46.1996,
+          "lng": 6.1447
+        },
+        {
+          "name": "Le Flacon",
+          "area": "Carouge",
+          "reason": "Excellente table contemporaine dans une ambiance paisible.",
+          "imageUrl": "/src/assets/itineraries/switzerland/geneva-food/le-flacon.jpg",
+          "lat": 46.1869,
+          "lng": 6.1399
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-interlaken-exposed-to-scale",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Interlaken",
+    "title": "Interlaken en 3 jours : face à l'immensité",
+    "days": 3,
+    "priceFrom": 275,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/3-days-interlaken-exposed-to-scale.jpg",
+    "summary": "Cet itinéraire de trois jours à Interlaken découvre l’une des régions les plus ouvertes de Suisse, une vallée suspendue entre deux lacs et les Alpes où l’échelle du paysage remplace le spectacle et où la météo dicte naturellement le rythme. Entre promenades au bord de l’eau, points de vue d’altitude et pauses volontaires, Interlaken se vit comme un lieu d’exposition à la nature plutôt qu’une accumulation de sites. La région se révèle par la distance, l’effort et la clarté.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La prairie de Hohematte et les vues sur la vallée",
+      "Le contraste entre les lacs de Thoune et de Brienz",
+      "Le panorama du Harder Kulm",
+      "Les chemins de fer et téléphériques de montagne",
+      "Les sentiers encadrés par les sommets",
+      "Un paysage façonné par l’air et l’immensité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, prairie et premières perspectives",
+        "summary": "Découvrir la vallée depuis son niveau le plus simple.",
+        "details": "À votre arrivée, rejoignez la prairie de Hohematte où les vastes pelouses, les sommets lointains et les parapentes donnent immédiatement la mesure du paysage. Commencez par vous arrêter quelques instants : ici, la vallée fixe d’abord votre regard avant d’inviter au mouvement.\n\nL’après-midi, choisissez soit le lac de Thoune, soit le lac de Brienz, et consacrez-vous à un seul itinéraire. Chacun reflète la montagne d’une manière différente : l’un paraît large et paisible, l’autre plus minéral et plus vif.\n\nTerminez la journée par un dîner ou une promenade au bord du lac tandis que la lumière disparaît rapidement derrière les montagnes."
+      },
+      {
+        "day": 2,
+        "title": "Altitude, air et perspective",
+        "summary": "Comprendre la région depuis les hauteurs.",
+        "details": "Commencez par monter au Harder Kulm ou vers un autre belvédère voisin. En partant tôt, vous profiterez d’un air plus limpide et de moins de visiteurs.\n\nMarchez lentement sur les sentiers de crête en laissant votre respiration et la météo guider votre rythme. À Interlaken, l’altitude inspire davantage le respect que la précipitation.\n\nRedescendez tranquillement dans l’après-midi et accordez-vous du repos : la fatigue fait partie de l’expérience du paysage.\n\nTerminez par un repas simple et une soirée paisible."
+      },
+      {
+        "day": 3,
+        "title": "Retour, eau et départ",
+        "summary": "Repartir avec un regard plus clair.",
+        "details": "Revenez une dernière fois sur un chemin familier au bord du lac ou vers un point de vue apprécié. La répétition affine ici le regard : les sommets semblent plus proches et l’eau plus limpide.\n\nPrenez davantage le temps de vous asseoir que de marcher, en observant les nuages et le vent parcourir la vallée.\n\nSavourez un dernier déjeuner avant le départ. Interlaken laisse une impression nette, celle d’un lieu qui révèle l’immensité avant de s’effacer."
+      }
+    ],
+    "planning": {
+      "city": "Interlaken, Switzerland",
+      "bestTime": {
+        "months": "Juin–septembre",
+        "note": "Le temps est généralement plus stable, les remontées mécaniques sont ouvertes et les longues journées permettent de profiter pleinement des lacs et des panoramas alpins."
+      },
+      "worstTime": {
+        "months": "Novembre–avril",
+        "note": "L’hiver offre de beaux paysages mais limite la randonnée et certaines liaisons de montagne, sauf pour les sports d’hiver."
+      },
+      "tips": [
+        "Organisez vos journées selon la météo plutôt que selon le calendrier.",
+        "Considérez Interlaken comme une base d’exploration.",
+        "Une seule grande sortie en altitude par jour suffit.",
+        "Quand les nuages arrivent, privilégiez les lacs.",
+        "Partez tôt pour bénéficier d’une meilleure visibilité.",
+        "Prévoyez des vêtements en couches toute l’année."
+      ],
+      "withKids": [
+        "Les promenades au bord des lacs offrent une alternative tranquille.",
+        "Téléphériques et trains réduisent l’effort physique.",
+        "Limitez une seule montée importante par jour.",
+        "Emportez toujours des vêtements chauds."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Interlaken est facilement accessible depuis Zurich, Berne et Lucerne grâce à des trains directs. Les gares d’Interlaken Ost et West sont proches du centre."
+        },
+        {
+          "title": "Gare → Hohematte",
+          "note": "Depuis chaque gare, la prairie de Hohematte se rejoint à pied en quelques minutes."
+        }
+      ],
+      "gettingAround": [
+        "La marche reste le meilleur moyen de découvrir la ville.",
+        "Les trains desservent les vallées et les villages voisins.",
+        "Funiculaires, téléphériques et trains de montagne permettent d’accéder aux belvédères.",
+        "Les bateaux circulent sur les deux lacs.",
+        "Les bus sont utiles mais secondaires pour les visiteurs."
+      ],
+      "dayTrips": [
+        {
+          "title": "Harder Kulm",
+          "note": "Accessible en funiculaire avec une vue panoramique sur les deux lacs."
+        },
+        {
+          "title": "Lac de Thoune",
+          "note": "Accessible en train ou en bateau, réputé pour son atmosphère paisible."
+        },
+        {
+          "title": "Lac de Brienz",
+          "note": "Reconnaissable à son eau turquoise encadrée de montagnes."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Gare ↔ Prairie de Hohematte",
+          "note": "Quelques minutes de marche suffisent pour ressentir immédiatement l’ouverture de la vallée."
+        },
+        {
+          "title": "Centre → Rives des lacs",
+          "note": "Une transition douce entre la ville et le paysage."
+        },
+        {
+          "title": "Fond de vallée ↔ Belvédères",
+          "note": "Une seule ascension quotidienne suffit pour apprécier les proportions du site."
+        },
+        {
+          "title": "Retour au bord de l’eau",
+          "note": "Revenir sur les mêmes chemins révèle les changements de lumière et de météo."
+        }
+      ],
+      "practical": [
+        "Vérifiez toujours la météo avant de monter en altitude.",
+        "Partez tôt pour une meilleure visibilité.",
+        "Les transports suisses sont très ponctuels.",
+        "Les distances semblent courtes mais la fatigue augmente avec le relief.",
+        "Les horaires des bateaux varient selon la saison.",
+        "Un rythme modéré permet de mieux apprécier la région."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fondue suisse",
+        "Rösti",
+        "Bratwurst ou Kalbsbratwurst",
+        "Plateaux de fromages alpins",
+        "Birchermüesli",
+        "Tarte suisse aux pommes"
+      ],
+      "areas": [
+        {
+          "name": "Interlaken Centre (Hohematte & Höheweg)",
+          "note": "Le cœur d’Interlaken regroupe de nombreux restaurants accessibles après les promenades."
+        },
+        {
+          "name": "Unterseen (Old Village)",
+          "note": "Village historique offrant une ambiance plus traditionnelle."
+        },
+        {
+          "name": "Lake Brienz Side",
+          "note": "Idéal pour un déjeuner simple avec vue sur le lac."
+        }
+      ],
+      "places": [
+        {
+          "name": "Restaurant Stadthaus",
+          "area": "Unterseen (Old Village)",
+          "reason": "Excellente adresse traditionnelle réputée pour les rösti et la cuisine alpine saisonnière.",
+          "imageUrl": "/src/assets/itineraries/switzerland/interlaken-food/restaurant-stadthaus.jpg",
+          "lat": 46.6846,
+          "lng": 7.8452
+        },
+        {
+          "name": "Restaurant Taverne",
+          "area": "Unterseen (Old Village)",
+          "reason": "Cuisine suisse généreuse dans une atmosphère plus locale.",
+          "imageUrl": "/src/assets/itineraries/switzerland/interlaken-food/restaurant-taverne.jpg",
+          "lat": 46.685,
+          "lng": 7.8457
+        },
+        {
+          "name": "Hüsi Bierhaus",
+          "area": "Interlaken Centre (Hohematte & Höheweg)",
+          "reason": "Adresse conviviale pour les bières locales et les spécialités suisses.",
+          "imageUrl": "/src/assets/itineraries/switzerland/interlaken-food/huesi-bierhaus.jpg",
+          "lat": 46.6865,
+          "lng": 7.8531
+        },
+        {
+          "name": "Restaurant Schuh",
+          "area": "Interlaken Centre (Hohematte & Höheweg)",
+          "reason": "Institution locale idéale pour un déjeuner ou un dîner simple accompagné de pâtisseries suisses.",
+          "imageUrl": "/src/assets/itineraries/switzerland/interlaken-food/restaurant-schuh.jpg",
+          "lat": 46.687,
+          "lng": 7.857
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-lucerne-lake-bridge-and-alignment",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Lucerne",
+    "title": "Lucerne en 2 jours : lac, pont et harmonie",
+    "days": 2,
+    "priceFrom": 255,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/2-days-lucerne-lake-bridge-and-alignment.jpg",
+    "summary": "Cet itinéraire de deux jours à Lucerne explore une ville définie par l’harmonie : l’eau rejoint la pierre, les ponts prolongent naturellement les rues et les montagnes encadrent la vie quotidienne sans jamais l’écraser. Conçu pour équilibrer les sites emblématiques, la sérénité du lac et le rythme de la vieille ville, il invite à observer les justes proportions plutôt qu’à rechercher la grandeur. Lucerne se révèle par sa clarté, ses reflets et son équilibre.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le pont de la Chapelle et le château d’Eau",
+      "Les promenades le long du lac des Quatre-Cantons",
+      "Les façades peintes de la vieille ville",
+      "Les montagnes en toile de fond",
+      "Les rues paisibles et les matinées calmes",
+      "Une ville façonnée par l’harmonie et la sérénité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, pont et rythme de la vieille ville",
+        "summary": "Découvrir la ville à travers son harmonie.",
+        "details": "Arrivez à Lucerne et commencez par le pont de la Chapelle, idéalement le matin lorsque le lac est immobile et que la ville s’éveille en douceur. Traversez-le lentement et observez la manière dont le bois, l’eau et la ligne d’horizon s’accordent naturellement.\n\nPoursuivez dans la vieille ville, où les façades peintes, les ruelles étroites et les petites places composent un centre compact et facile à lire. Marchez sans vous presser, laissant les repères se construire par la répétition plutôt que par la distance.\n\nDans l’après-midi, longez les quais du lac en faisant régulièrement une pause pour regarder passer les bateaux et constater comment les montagnes restent présentes sans dominer le paysage.\n\nTerminez la journée par un dîner paisible près de l’eau tandis que la lumière du soir adoucit les couleurs et les sons."
+      },
+      {
+        "day": 2,
+        "title": "Air du lac, hauteur et départ",
+        "summary": "Voir la ville dans son écrin.",
+        "details": "Commencez une nouvelle fois la matinée au bord du lac, en vous éloignant légèrement du centre pour sentir l’espace s’ouvrir. Plus on prend de distance, plus le calme de Lucerne se révèle.\n\nSi les conditions le permettent, rejoignez un point de vue voisin en bateau ou en montagne afin de comprendre comment la ville s’inscrit avec précision dans son paysage.\n\nRevenez ensuite en ville pour un dernier déjeuner en retrouvant les rues et les chemins devenus familiers.\n\nLucerne laisse une impression limpide : une ville où rien ne cherche à dominer et où tout trouve naturellement sa place."
+      }
+    ],
+    "planning": {
+      "city": "Lucerne, Switzerland",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Une lumière claire, un lac paisible et des températures agréables sont idéales pour les promenades, les vues sur les montagnes et les quais sans l’affluence estivale."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et journées courtes), juillet–août (fréquenté et brumeux)",
+        "note": "L’hiver réduit les activités au bord du lac tandis que la haute saison peut atténuer la netteté des paysages alpins."
+      },
+      "tips": [
+        "Laissez le lac donner le rythme de vos journées.",
+        "Traversez plusieurs fois le pont de la Chapelle : la lumière change son caractère.",
+        "Explorez la vieille ville en petites boucles plutôt qu’en longues marches.",
+        "Choisissez un seul sommet (Pilatus ou Rigi) afin de préserver l’équilibre du séjour.",
+        "Les croisières sur le lac servent autant à se reposer qu’à s’orienter.",
+        "Les commerces ferment tôt ; faites vos achats avant la soirée."
+      ],
+      "withKids": [
+        "Les quais et les ponts sont faciles d’accès.",
+        "Les courtes croisières sont agréables pour les enfants.",
+        "La vieille ville se parcourt sans fatigue.",
+        "Les téléphériques et trains à crémaillère ajoutent une touche ludique."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Lucerne est remarquablement bien desservie par le rail, avec des liaisons directes depuis Zurich et les principales villes suisses. La gare se trouve juste au bord du lac."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Depuis la gare, le pont de la Chapelle et la vieille ville se rejoignent à pied en quelques minutes."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Lucerne.",
+        "Les bus desservent les quartiers extérieurs mais sont rarement indispensables au centre.",
+        "Les bateaux prolongent naturellement la découverte de la ville.",
+        "Les trains et chemins de fer à crémaillère permettent d’accéder facilement aux montagnes voisines.",
+        "Les taxis sont peu nécessaires grâce aux faibles distances."
+      ],
+      "dayTrips": [
+        {
+          "title": "Mont Rigi",
+          "note": "Accessible en bateau puis en train à crémaillère, avec de vastes panoramas."
+        },
+        {
+          "title": "Mont Pilatus",
+          "note": "Accessible par téléphérique ou train à crémaillère pour des vues spectaculaires."
+        },
+        {
+          "title": "Croisière sur le lac des Quatre-Cantons",
+          "note": "Une belle manière de découvrir l’harmonie entre villages, montagnes et lac."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Gare ↔ Pont de la Chapelle",
+          "note": "Quelques allers-retours suffisent pour prendre ses repères."
+        },
+        {
+          "title": "Boucles dans la vieille ville",
+          "note": "Les ruelles peintes récompensent une exploration lente."
+        },
+        {
+          "title": "Promenade au bord du lac",
+          "note": "Le mouvement suit la ligne de l’eau dans une atmosphère paisible."
+        },
+        {
+          "title": "Ville ↔ Points de vue",
+          "note": "Les changements d’altitude révèlent la parfaite intégration de Lucerne dans son paysage."
+        }
+      ],
+      "practical": [
+        "Les trains et bateaux suisses sont très ponctuels.",
+        "Le centre se découvre presque entièrement à pied.",
+        "Vérifiez la météo avant de monter en altitude.",
+        "Les commerces ferment tôt.",
+        "Le lac est le plus calme le matin et en soirée.",
+        "Lucerne récompense un voyage sans précipitation."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Luzerner Chügelipastete (feuilleté lucernois au veau)",
+        "Rösti",
+        "Fondue au fromage (selon la saison)",
+        "Bratwurst à la moutarde",
+        "Birchermüesli",
+        "Pâtisseries suisses"
+      ],
+      "areas": [
+        {
+          "name": "Old Town (Altstadt)",
+          "note": "Le cœur historique regroupe des restaurants traditionnels suisses à deux pas du pont de la Chapelle."
+        },
+        {
+          "name": "Lakefront & Promenade",
+          "note": "Un secteur paisible pour déjeuner ou dîner avec vue sur le lac et les montagnes."
+        },
+        {
+          "name": "Near Chapel Bridge & River Reuss",
+          "note": "Quartier très agréable à parcourir à pied où se concentrent plusieurs bonnes adresses."
+        }
+      ],
+      "places": [
+        {
+          "name": "Wirtshaus Taube",
+          "area": "Old Town (Altstadt)",
+          "reason": "Adresse traditionnelle réputée pour le Luzerner Chügelipastete et les grands classiques suisses.",
+          "imageUrl": "/src/assets/itineraries/switzerland/lucerne-food/wirtshaus-taube.jpg",
+          "lat": 47.0509,
+          "lng": 8.3064
+        },
+        {
+          "name": "Zunfthausrestaurant Pfistern",
+          "area": "Near Chapel Bridge & River Reuss",
+          "reason": "Ancienne maison de corporation proposant une cuisine suisse raffinée dans un cadre historique.",
+          "imageUrl": "/src/assets/itineraries/switzerland/lucerne-food/zunfthaus-pfistern.jpg",
+          "lat": 47.0516,
+          "lng": 8.3067
+        },
+        {
+          "name": "Restaurant Stern Luzern",
+          "area": "Old Town (Altstadt)",
+          "reason": "Institution locale appréciée pour sa cuisine suisse traditionnelle et son ambiance classique.",
+          "imageUrl": "/src/assets/itineraries/switzerland/lucerne-food/restaurant-stern.jpg",
+          "lat": 47.0512,
+          "lng": 8.3053
+        },
+        {
+          "name": "Restaurant Schiff",
+          "area": "Lakefront & Promenade",
+          "reason": "Restaurant réputé au bord du lac, idéal pour un repas détendu avec vue sur l’eau.",
+          "imageUrl": "/src/assets/itineraries/switzerland/lucerne-food/restaurant-schiff.jpg",
+          "lat": 47.0497,
+          "lng": 8.3094
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-zermatt-altitude-silence-and-effort",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Zermatt",
+    "title": "Zermatt en 3 jours : altitude, silence et effort",
+    "days": 3,
+    "priceFrom": 295,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/3-days-zermatt-altitude-silence-and-effort.jpg",
+    "summary": "Cet itinéraire de trois jours à Zermatt explore la Suisse dans sa forme la plus élevée et la plus sobre. Au pied du Cervin, il associe le rythme paisible du village, des ascensions réfléchies et de longues pauses façonnées par l’altitude. Zermatt n’est ni une destination de vitesse ni de spectacle : elle récompense l’effort, la patience et l’attention, offrant une clarté née du silence et de l’immensité.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La présence du Cervin et ses lumières changeantes",
+      "Les rues piétonnes et paisibles du village",
+      "Le chemin de fer du Gornergrat",
+      "Les sentiers de haute montagne",
+      "L’air pur et le silence nocturne",
+      "Un paysage façonné par l’altitude et l’effort"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rues du village et premier silence",
+        "summary": "Laisser l’altitude imposer son rythme.",
+        "details": "Arrivez à Zermatt en train et remarquez immédiatement l’absence de voitures et de bruit de moteur. Traversez lentement le village afin de laisser l’altitude ralentir naturellement votre cadence.\n\nL’après-midi, empruntez un court sentier le long de la rivière ou vers un point de vue proche. Le Cervin apparaît puis disparaît entre les bâtiments et les nuages, sans jamais chercher à s’imposer.\n\nTerminez la journée par un dîner simple. À Zermatt, le calme s’installe tôt et fait pleinement partie de l’expérience."
+      },
+      {
+        "day": 2,
+        "title": "Altitude, rail et harmonie",
+        "summary": "Comprendre l’autorité de la montagne.",
+        "details": "Partez tôt avec le train du Gornergrat pour gagner progressivement les hautes altitudes. Les glaciers, les crêtes et le Cervin s’alignent avec une précision remarquable.\n\nMarchez par courtes étapes, reposez-vous souvent et laissez votre respiration guider votre rythme. Ici, l’effort se mesure, il ne se conquiert pas.\n\nRedescendez tranquillement dans l’après-midi avant une promenade silencieuse sous les étoiles."
+      },
+      {
+        "day": 3,
+        "title": "Retour, air et départ",
+        "summary": "Repartir avec un regard plus clair.",
+        "details": "Revenez sur un sentier ou dans un café déjà connu. Après quelques jours passés ici, l’orientation semble méritée.\n\nPrenez davantage le temps de vous asseoir que de marcher, observez les nuages et écoutez le bruit de l’eau.\n\nSavourez un dernier déjeuner avant le départ. Zermatt laisse une impression nette et sincère, un lieu qui ne donne rien facilement mais ne trompe jamais."
+      }
+    ],
+    "planning": {
+      "city": "Zermatt, Switzerland",
+      "bestTime": {
+        "months": "Juin–septembre",
+        "note": "Les chemins de fer de montagne sont ouverts et les sentiers sont généralement accessibles."
+      },
+      "worstTime": {
+        "months": "Novembre, avril–mai",
+        "note": "Les périodes de transition entraînent des fermetures et des conditions changeantes."
+      },
+      "tips": [
+        "Acclimatez-vous progressivement.",
+        "Une seule montée importante par jour suffit.",
+        "Partez tôt pour profiter d'un ciel plus clair.",
+        "Appréciez le silence.",
+        "Adaptez-vous à la météo.",
+        "Prévoyez plusieurs couches de vêtements."
+      ],
+      "withKids": [
+        "Les trains de montagne facilitent les découvertes.",
+        "Choisissez des sentiers courts.",
+        "Une seule activité en altitude par jour.",
+        "Protection solaire et vêtements chauds indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Zermatt est accessible uniquement en train via Viège ou Brigue."
+        },
+        {
+          "title": "Gare → Centre du village",
+          "note": "La gare débouche directement sur le village piéton."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le principal moyen de déplacement.",
+        "Des taxis électriques circulent dans le village.",
+        "Les trains de montagne et téléphériques remplacent les routes.",
+        "Les horaires dépendent de la météo.",
+        "Les voitures privées sont interdites."
+      ],
+      "dayTrips": [
+        {
+          "title": "Chemin de fer du Gornergrat",
+          "note": "Train à crémaillère offrant des panoramas spectaculaires."
+        },
+        {
+          "title": "Sunnegga–Rothorn",
+          "note": "Accessible en funiculaire et téléphérique pour des balades faciles."
+        },
+        {
+          "title": "Sentiers de vallée",
+          "note": "Idéals lorsque la météo ne permet pas de monter en altitude."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles dans le village",
+          "note": "Des promenades répétées facilitent l’acclimatation."
+        },
+        {
+          "title": "Village → Gares de montagne",
+          "note": "Transition naturelle entre le quotidien et l’univers alpin."
+        },
+        {
+          "title": "Courtes marches en altitude",
+          "note": "L’accent est mis sur le souffle et l’effort plus que sur la distance."
+        },
+        {
+          "title": "Descente",
+          "note": "Le retour permet de récupérer progressivement."
+        }
+      ],
+      "practical": [
+        "La météo décide des déplacements.",
+        "Hydratez-vous bien.",
+        "Vérifiez les derniers horaires des remontées.",
+        "Les températures chutent vite après le coucher du soleil.",
+        "Les soirées sont très calmes.",
+        "Mieux vaut en faire moins mais en profiter davantage."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fondue valaisanne",
+        "Raclette du Valais",
+        "Rösti",
+        "Agneau ou bœuf du Valais",
+        "Birchermüesli",
+        "Pâtisseries alpines suisses"
+      ],
+      "areas": [
+        {
+          "name": "Village Centre (Bahnhofstrasse & Kirchplatz)",
+          "note": "Le cœur piéton de Zermatt réunit restaurants traditionnels et ambiance paisible."
+        },
+        {
+          "name": "Old Village (Hinterdorf)",
+          "note": "Le quartier historique offre une atmosphère plus intime."
+        },
+        {
+          "name": "River & Edge-of-Village Paths",
+          "note": "Parfait pour un repas simple après une promenade."
+        }
+      ],
+      "places": [
+        {
+          "name": "Restaurant Whymper-Stube",
+          "area": "Village Centre (Bahnhofstrasse & Kirchplatz)",
+          "reason": "Adresse emblématique réputée pour la raclette et la fondue valaisannes.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zermatt-food/whymper-stube.jpg",
+          "lat": 46.0207,
+          "lng": 7.7486
+        },
+        {
+          "name": "Restaurant Schäferstube",
+          "area": "Old Village (Hinterdorf)",
+          "reason": "Restaurant traditionnel apprécié pour son atmosphère calme et sa cuisine suisse.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zermatt-food/schaeferstube.jpg",
+          "lat": 46.0216,
+          "lng": 7.7473
+        },
+        {
+          "name": "Restaurant Spycher",
+          "area": "Old Village (Hinterdorf)",
+          "reason": "Petite adresse rustique réputée pour sa cuisine alpine classique.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zermatt-food/restaurant-spycher.jpg",
+          "lat": 46.0218,
+          "lng": 7.7478
+        },
+        {
+          "name": "Du Pont",
+          "area": "Village Centre (Bahnhofstrasse & Kirchplatz)",
+          "reason": "Institution locale idéale pour un déjeuner simple ou un dîner tôt.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zermatt-food/du-pont.jpg",
+          "lat": 46.021,
+          "lng": 7.7492
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-zurich-precision-without-coldness",
+    "region": "europe",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "title": "Zurich en 3 jours : la précision sans froideur",
+    "days": 3,
+    "priceFrom": 265,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/switzerland/3-days-zurich-precision-without-coldness.jpg",
+    "summary": "Cet itinéraire de 3 jours à Zurich invite à découvrir la plus grande ville de Suisse au-delà de son image parfois réservée ou rigide. Pensé comme un équilibre entre ruelles médiévales, calme au bord du lac et rythme des quartiers, il montre une ville où la précision améliore la qualité de vie au lieu de l’étouffer. Zurich se révèle sans éclat inutile — par la clarté, la constance et le soin apporté aux choses.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les ruelles de la vieille ville et les clochers",
+      "Les promenades et les ponts le long de la Limmat",
+      "Les quais du lac de Zurich",
+      "Le point de vue du Polybahn et l’ordonnancement de la ville",
+      "Les cafés de quartier et la vie en soirée",
+      "Une ville façonnée par la discipline et le confort"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, vieille ville et premiers repères",
+        "summary": "Comprendre la structure de la ville en marchant.",
+        "details": "À votre arrivée à Zurich, commencez par l’Altstadt, où les ruelles médiévales, les églises et les maisons de corporations dessinent l’ossature historique de la ville. Marchez d’un pas mesuré, sans vous presser, et observez comment la propreté, la signalétique et l’organisation de l’espace paraissent pensées avec soin plutôt qu’imposées.\n\nDans l’après-midi, longez la Limmat et traversez plusieurs ponts pour voir comment l’eau et l’architecture s’accordent avec précision, sans jamais sembler rigides. Faites régulièrement une pause sur un banc ou à la terrasse d’un café — à Zurich, le confort se révèle avant tout dans la facilité d’usage.\n\nTerminez la journée par un dîner dans la vieille ville ou dans un quartier voisin, où les soirées sont conviviales tout en restant posées."
+      },
+      {
+        "day": 2,
+        "title": "Eau, hauteur et équilibre quotidien",
+        "summary": "Voir la ville respirer.",
+        "details": "Commencez la journée le long du lac de Zurich, en suivant la promenade pendant que les habitants nagent, courent ou s’installent au bord de l’eau. Le lac n’est pas un simple décor — il fait pleinement partie de la vie quotidienne.\n\nEn fin de matinée ou au début de l’après-midi, prenez le Polybahn ou montez à pied jusqu’à un point de vue dominant la ville. De là, la trame urbaine, l’eau et les collines s’alignent avec une grande lisibilité. Vue d’en haut, Zurich paraît logique plutôt qu’imposante.\n\nPassez l’après-midi dans les quartiers résidentiels et observez comment l’aménagement accompagne la vie de tous les jours. Terminez la journée autour d’un repas tranquille, en remarquant comment la ville ralentit sans jamais perdre sa structure."
+      },
+      {
+        "day": 3,
+        "title": "Rythme des quartiers et départ",
+        "summary": "Repartir avec les idées claires.",
+        "details": "Profitez de la dernière matinée pour revenir dans les rues ou sur les chemins au bord du lac que vous avez préférés. À Zurich, les lieux deviennent vite familiers.\n\nPrenez le temps de rester assis plutôt que de poursuivre la visite — sur un pont, au bord du lac ou dans un café — et regardez la ville fonctionner avec fluidité autour de vous.\n\nSavourez un dernier déjeuner avant le départ. Zurich laisse une impression discrète mais durable — celle d’une ville où la précision peut aussi se montrer généreuse."
+      }
+    ],
+    "planning": {
+      "city": "Zurich, Switzerland",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Des températures agréables, de longues journées et une vie animée au bord du lac rendent les promenades dans la vieille ville, le long de la rivière et sur les quais particulièrement plaisantes."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et journées courtes), juillet–août (fréquenté et humide)",
+        "note": "En hiver, la vie en plein air est plus limitée malgré l’atmosphère festive, tandis qu’au cœur de l’été les visiteurs se concentrent autour du lac et dans la vieille ville."
+      },
+      "tips": [
+        "Laissez l’eau structurer vos journées : la Limmat et le lac de Zurich offrent des pauses naturelles entre les îlots urbains soigneusement dessinés.",
+        "Privilégiez les courtes promenades : Zurich se révèle dans les petites transitions — un pont, une ruelle, une place tranquille.",
+        "Utilisez les tramways sans hésiter : ponctuels et faciles à comprendre, ils complètent parfaitement les trajets à pied dans le centre.",
+        "Associez cadre formel et moments de détente : une église, un musée ou un point de vue, puis une longue pause dans un café ou au bord du lac.",
+        "Les boutiques et les services ferment tôt — prévoyez les achats essentiels pendant la journée.",
+        "Respectez les heures de tranquillité dans les quartiers résidentiels ; le calme fait partie du pacte urbain."
+      ],
+      "withKids": [
+        "Les promenades au bord du lac et les chemins le long de la rivière offrent beaucoup d’espace pour bouger.",
+        "De courtes traversées en bateau sur le lac de Zurich sont à la fois agréables et reposantes.",
+        "Les aires de jeux et les espaces verts sont nombreux et bien entretenus.",
+        "Les transports publics sont fiables et adaptés aux poussettes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport de Zurich est efficace et compact, avec des trains fréquents qui rejoignent Zurich Hauptbahnhof en une dizaine de minutes. L’arrivée y est ordonnée et calme, plutôt que frénétique."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Depuis Zurich Hauptbahnhof, l’Altstadt se rejoint facilement à pied ou en quelques minutes de tramway, permettant de passer rapidement du grand nœud de transport aux rues historiques."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir l’Altstadt, les berges de la rivière et les quartiers centraux.",
+        "Le réseau de tramways de Zurich est extrêmement fiable et intuitif, pratique pour passer d’un quartier à l’autre sans difficulté.",
+        "Les trains et les lignes de S-Bahn relient facilement les secteurs au bord du lac et les quartiers périphériques.",
+        "Le vélo est possible, mais reste moins essentiel que la marche et le tramway dans le centre.",
+        "Les bateaux sur le lac de Zurich servent à la fois de moyen de transport et de parenthèse, permettant de se déplacer sans se presser."
+      ],
+      "dayTrips": [
+        {
+          "title": "Uetliberg",
+          "note": "Un court trajet en train mène à des sentiers boisés et à des vues panoramiques sur Zurich, le lac et les Alpes au loin."
+        },
+        {
+          "title": "Rapperswil",
+          "note": "Facilement accessible en train le long du lac, la ville offre une vieille ville compacte, des vues sur le château et une atmosphère lacustre plus douce."
+        },
+        {
+          "title": "Winterthur",
+          "note": "Cette ville voisine, desservie par des trains fréquents, est connue pour ses musées, ses jardins et son rythme culturel plus paisible."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Promenade dans les ruelles de la vieille ville",
+          "note": "De courtes marches répétées dans les rues de l’Altstadt renforcent le sens de l’orientation et montrent comment la précision peut servir la simplicité."
+        },
+        {
+          "title": "Traversées de la rivière",
+          "note": "Franchir la Limmat par plusieurs ponts modifie subtilement le point de vue tout en maintenant les distances très courtes."
+        },
+        {
+          "title": "Ville → Promenade du lac",
+          "note": "Le passage des rues denses aux vastes étendues d’eau est presque immédiat, soulignant l’équilibre zurichois entre structure et ouverture."
+        },
+        {
+          "title": "Transitions entre les quartiers",
+          "note": "Les trajets en tramway ou les courtes marches entre les zones résidentielles et le centre montrent avec quelle fluidité la ville intègre la vie quotidienne."
+        }
+      ],
+      "practical": [
+        "Les transports publics suivent des horaires stricts — les correspondances manquées sont rares, mais la ponctualité compte.",
+        "La plupart des secteurs centraux se parcourent à pied ; les transports améliorent surtout le confort plutôt que la vitesse.",
+        "Les boutiques et les services ferment tôt en soirée — prévoyez vos courses pendant la journée.",
+        "La baignade dans le lac ou la rivière est courante en été ; respectez les consignes de sécurité locales.",
+        "Les heures de tranquillité sont respectées, en particulier dans les quartiers résidentiels.",
+        "Zurich se découvre mieux dans le calme ; se presser paraît inutile et presque déplacé."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Zürcher Geschnetzeltes (émincé de veau à la sauce crémeuse aux champignons)",
+        "Rösti (galette de pommes de terre croustillante)",
+        "Bratwurst à la moutarde",
+        "Fondue au fromage (selon la saison)",
+        "Birchermüesli",
+        "Chocolat suisse de producteurs locaux"
+      ],
+      "areas": [
+        {
+          "name": "Altstadt (vieille ville)",
+          "note": "Le cœur historique rassemble des restaurants suisses traditionnels et des tables installées dans d’anciennes maisons de corporations, idéales après une promenade dans les ruelles médiévales."
+        },
+        {
+          "name": "Niederdorf",
+          "note": "Quartier animé de la vieille ville, avec des adresses décontractées et des cafés, parfait pour une soirée détendue sans formalisme."
+        },
+        {
+          "name": "Zürich West",
+          "note": "Ancien quartier industriel devenu pôle créatif, réputé pour ses restaurants modernes et sa cuisine suisse contemporaine."
+        }
+      ],
+      "places": [
+        {
+          "name": "Kronenhalle Bar & Restaurant",
+          "area": "Altstadt (vieille ville)",
+          "reason": "L’une des adresses les plus emblématiques de Zurich, célèbre pour ses grands classiques suisses et son atmosphère raffinée, hors du temps.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zurich-food/kronenhalle.jpg",
+          "lat": 47.3687,
+          "lng": 8.5446
+        },
+        {
+          "name": "Zeughauskeller",
+          "area": "Altstadt (vieille ville)",
+          "reason": "Un restaurant historique réputé pour sa cuisine suisse traditionnelle, notamment les saucisses et les rösti, apprécié aussi bien des habitants que des visiteurs.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zurich-food/zeughauskeller.jpg",
+          "lat": 47.3713,
+          "lng": 8.5405
+        },
+        {
+          "name": "Hiltl",
+          "area": "Niederdorf",
+          "reason": "Le plus ancien restaurant végétarien au monde, véritable institution zurichoise de longue date, avec une carte moderne et accessible.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zurich-food/hiltl.jpg",
+          "lat": 47.374,
+          "lng": 8.54
+        },
+        {
+          "name": "Frau Gerolds Garten",
+          "area": "Zürich West",
+          "reason": "Un espace saisonnier très apprécié pour manger et boire en plein air, qui reflète le visage détendu et contemporain de Zurich.",
+          "imageUrl": "/src/assets/itineraries/switzerland/zurich-food/frau-gerolds-garten.jpg",
+          "lat": 47.3906,
+          "lng": 8.5174
+        }
+      ]
+    }
+  }

@@ -26,8 +26,9 @@ public class ItineraryController {
     }
 
     @GetMapping("/slug/{slug}")
-    public ResponseEntity<ItineraryRes> getOne(@PathVariable String slug) {
-        return ResponseEntity.ok(service.getBySlug(slug));
+    public ResponseEntity<ItineraryRes> getOne(@PathVariable String slug,
+                                               @RequestParam(defaultValue = "en") String lang) {
+        return ResponseEntity.ok(service.getBySlug(slug,lang));
     }
 
     @GetMapping("/region/{region}")
@@ -79,7 +80,6 @@ public class ItineraryController {
             @RequestParam(required = false) Integer daysMax,
             @PageableDefault(size = 12, sort = "createdAt", direction = Sort.Direction.DESC) Pageable pageable
     ) {
-        System.out.println("q: " + q);
         return service.getAllItinerariesByCustomSearch(q, country, daysMin, daysMax, pageable);
     }
 

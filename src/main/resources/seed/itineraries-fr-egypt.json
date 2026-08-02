@@ -1,0 +1,181 @@
+
+  {
+    "slug": "5-days-egypt-stone-time-and-living-river",
+    "region": "africa",
+    "country": "Egypt",
+    "city": "Caire, Gizeh et vallée du Nil",
+    "title": "L'Égypte en 5 jours : pierre, éternité et fleuve vivant",
+    "days": 5,
+    "priceFrom": 360,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/egypt/5-days-egypt-stone-time-and-living-river.jpg",
+    "summary": "Cet itinéraire de 5 jours en Égypte vous emmène au cœur de l'une des plus anciennes civilisations encore profondément ancrées dans le monde contemporain. Entre l'effervescence du Caire, la majesté intemporelle du plateau de Gizeh et le rythme paisible du Nil, chaque étape révèle un pays où les monuments ne sont pas de simples vestiges, mais les témoins d'une histoire toujours vivante. Conçu pour équilibrer découvertes historiques, immersion urbaine et navigation sur le Nil, ce voyage invite à comprendre l'Égypte comme une civilisation en perpétuelle continuité plutôt qu'un musée à ciel ouvert.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "L'énergie unique et les multiples visages du Caire",
+      "Le plateau de Gizeh et la grandeur des pyramides",
+      "Les temples antiques et leur symbolisme fascinant",
+      "Le Nil, colonne vertébrale historique et culturelle de l'Égypte",
+      "La continuité entre héritage pharaonique et vie contemporaine",
+      "Une civilisation toujours vivante et en constante évolution"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée au Caire et première immersion",
+        "summary": "Entrer dans plusieurs millénaires d'histoire.",
+        "details": "À votre arrivée au Caire, découvrez les rues animées de la capitale, où la circulation, les marchés et la vie quotidienne témoignent du dynamisme de l'Égypte moderne tout en côtoyant un patrimoine exceptionnel.\n\nDans l'après-midi, visitez un grand musée ou un site culturel afin de replacer les monuments que vous découvrirez ensuite dans leur contexte historique.\n\nTerminez la journée sur une terrasse ou au bord du Nil pour admirer le coucher du soleil, lorsque l'agitation de la ville laisse place à une atmosphère plus apaisée."
+      },
+      {
+        "day": 2,
+        "title": "Le plateau de Gizeh et les pyramides",
+        "summary": "Face à l'éternité.",
+        "details": "Partez tôt le matin pour le plateau de Gizeh afin de profiter de températures agréables et d'une lumière idéale.\n\nPrenez d'abord le temps d'admirer les pyramides à distance avant de vous en approcher progressivement pour mieux apprécier leurs dimensions impressionnantes.\n\nExplorez les différents monuments à votre rythme, en observant leur géométrie, leur précision et le silence étonnant qui s'en dégage malgré l'affluence.\n\nRetour au Caire dans l'après-midi, où le contraste entre la ville moderne et les monuments antiques apparaît encore plus saisissant."
+      },
+      {
+        "day": 3,
+        "title": "Le Nil et le sud de l'Égypte",
+        "summary": "Suivre le cours du fleuve.",
+        "details": "Rejoignez Louxor ou Assouan par avion ou en train selon votre programme afin de poursuivre votre découverte le long du Nil.\n\nProfitez d'une promenade en felouque ou d'une courte croisière pour apprécier le rythme paisible du fleuve.\n\nObservez les villages, les terres agricoles et les temples qui se succèdent le long des berges, témoignant du rôle fondamental du Nil dans l'histoire du pays.\n\nLa soirée se déroule dans une atmosphère calme, bercée par les reflets du fleuve."
+      },
+      {
+        "day": 4,
+        "title": "Temples et héritage pharaonique",
+        "summary": "Lire l'histoire gravée dans la pierre.",
+        "details": "Consacrez la journée à la visite d'un ou deux grands complexes monumentaux, comme Karnak, Louxor ou Philae, en prenant le temps d'observer leurs reliefs, leurs colonnes monumentales et leur remarquable organisation architecturale.\n\nPlutôt que de vouloir tout voir, privilégiez quelques espaces emblématiques afin de mieux comprendre le symbolisme de l'architecture égyptienne.\n\nMultipliez les pauses à l'ombre pour profiter pleinement des lieux.\n\nÀ mesure que le soleil baisse, la sensation d'être entouré de plusieurs millénaires d'histoire devient encore plus saisissante."
+      },
+      {
+        "day": 5,
+        "title": "Derniers instants au bord du Nil",
+        "summary": "Quitter l'Égypte sans vraiment la quitter.",
+        "details": "Profitez d'une dernière promenade le long du Nil ou dans un quartier qui vous est devenu familier.\n\nRevenir dans un lieu déjà découvert permet souvent d'en apprécier davantage les détails et l'atmosphère.\n\nAprès un dernier déjeuner, rejoignez votre aéroport ou poursuivez votre voyage.\n\nL'Égypte ne livre jamais tous ses secrets en une seule visite ; elle donne surtout envie d'y revenir."
+      }
+    ],
+    "planning": {
+      "city": "Égypte (Le Caire, Louxor et Assouan)",
+      "bestTime": {
+        "months": "Oct.–avr. (saison plus fraîche)",
+        "note": "Les températures plus agréables permettent de visiter confortablement les temples, les sites archéologiques et de profiter des croisières sur le Nil, particulièrement le matin et en fin de journée."
+      },
+      "worstTime": {
+        "months": "Mai–sept. (fortes chaleurs)",
+        "note": "Les températures très élevées limitent les visites extérieures aux premières heures de la journée et rendent les activités de midi particulièrement éprouvantes."
+      },
+      "tips": [
+        "Visitez les grands sites dès l'ouverture afin d'éviter la chaleur et les foules, notamment à Gizeh, Karnak et dans la Vallée des Rois.",
+        "À Louxor, organisez vos visites selon les deux rives du Nil : la rive Est regroupe les temples et la ville, tandis que la rive Ouest est consacrée aux nécropoles et aux tombeaux.",
+        "Réservez les heures les plus chaudes aux musées, aux croisières ou à une pause à l'ombre avant de reprendre les visites en fin d'après-midi.",
+        "Faire appel à un guide permet de mieux comprendre les monuments et de donner vie à l'histoire pharaonique.",
+        "Portez des vêtements légers mais couvrants, particulièrement lors de la visite des lieux religieux.",
+        "Les soirées sont idéales pour les promenades au bord du Nil, les dîners en terrasse et les croisières au coucher du soleil."
+      ],
+      "withKids": [
+        "Privilégiez des visites courtes et ciblées plutôt que de longues journées dans les temples.",
+        "Les promenades en bateau sur le Nil constituent une activité agréable et reposante pour toute la famille.",
+        "Commencez les journées tôt puis prévoyez une pause pendant les heures les plus chaudes.",
+        "Une bonne protection solaire et une hydratation régulière sont indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée au Caire",
+          "note": "Les vols internationaux arrivent à l'aéroport international du Caire. Le trajet jusqu'au centre-ville peut varier considérablement selon la circulation, souvent très dense ; il est donc conseillé de prévoir suffisamment de temps pour les transferts."
+        }
+      ],
+      "gettingAround": [
+        "Les déplacements au Caire s'effectuent principalement en voiture avec un chauffeur ou en taxi ; la marche est surtout adaptée à la découverte des quartiers historiques et des sites proches les uns des autres.",
+        "La circulation est dense à toute heure de la journée ; il est indispensable de prévoir une marge de temps pour chaque déplacement.",
+        "En Haute-Égypte, les distances sont plus courtes et le rythme devient plus paisible, notamment le long des rives du Nil."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Le Caire ↔ Plateau de Gizeh",
+          "note": "Un court trajet par la route permet de rejoindre les pyramides ; un départ tôt le matin offre des températures plus agréables et une fréquentation plus faible."
+        },
+        {
+          "title": "Le Caire → Haute-Égypte (Louxor ou Assouan)",
+          "note": "Le trajet vers le sud s'effectue en avion intérieur ou en train, suivant la vallée du Nil, où l'agitation urbaine laisse progressivement place à des paysages plus paisibles."
+        },
+        {
+          "title": "Déplacements sur le Nil",
+          "note": "Les promenades en felouque ou en petit bateau traditionnel permettent de profiter du fleuve tout en offrant une transition reposante entre les visites des temples."
+        }
+      ],
+      "practical": [
+        "Les premières heures de la matinée sont les plus agréables pour visiter les grands sites archéologiques.",
+        "Pendant les heures les plus chaudes, privilégiez les musées, les espaces ombragés ou une promenade sur le Nil.",
+        "La présence d'un guide permet de mieux comprendre les monuments tout en rendant les visites plus fluides et enrichissantes.",
+        "Les contrôles de sécurité sont fréquents sur les principaux sites touristiques ; prévoyez un peu de temps supplémentaire.",
+        "Une protection solaire efficace et une hydratation régulière sont indispensables tout au long du séjour.",
+        "Les soirées sont idéales pour profiter des quais du Nil, des terrasses panoramiques ou des restaurants avec vue sur le fleuve."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Le koshari (plat emblématique de l'Égypte)",
+        "Le ful medames (fèves mijotées)",
+        "La taameya (falafel égyptien à base de fèves)",
+        "La molokhia servie avec du riz ou du pain",
+        "Les koftas et kebabs grillés",
+        "L'Umm Ali, dessert traditionnel égyptien"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville du Caire",
+          "note": "Le meilleur endroit pour découvrir la cuisine populaire égyptienne, entre cafés historiques, institutions locales et ambiance animée."
+        },
+        {
+          "name": "Le Caire islamique",
+          "note": "Des spécialités traditionnelles servies dans des quartiers historiques où les mosquées, les souks et les habitudes locales rythment encore la vie quotidienne."
+        },
+        {
+          "name": "Corniche du Nil / Zamalek",
+          "note": "Des restaurants plus calmes offrant une agréable vue sur le Nil, parfaits pour dîner après une journée de visites."
+        }
+      ],
+      "places": [
+        {
+          "name": "Abou Tarek",
+          "area": "Downtown Cairo",
+          "reason": "L'adresse la plus célèbre du Caire pour déguster un authentique koshari, préparé rapidement dans une ambiance typiquement égyptienne.",
+          "imageUrl": "/src/assets/itineraries/egypt/cairo-food/abou-tarek.jpg",
+          "lat": 30.0459,
+          "lng": 31.2394
+        },
+        {
+          "name": "El Prince",
+          "area": "Imbaba (Greater Cairo)",
+          "reason": "Restaurant emblématique réputé pour ses grillades, ses koftas et sa cuisine égyptienne traditionnelle, dans une atmosphère animée et très appréciée des habitants.",
+          "imageUrl": "/src/assets/itineraries/egypt/cairo-food/el-prince.jpg",
+          "lat": 30.0716,
+          "lng": 31.2120
+        },
+        {
+          "name": "Naguib Mahfouz Café",
+          "area": "Islamic Cairo (Khan el-Khalili)",
+          "reason": "Café-restaurant historique situé au cœur du souk Khan el-Khalili, proposant une cuisine égyptienne traditionnelle dans un décor oriental raffiné.",
+          "imageUrl": "/src/assets/itineraries/egypt/cairo-food/naguib-mahfouz-cafe.jpg",
+          "lat": 30.0478,
+          "lng": 31.2622
+        },
+        {
+          "name": "Zooba",
+          "area": "Downtown Cairo",
+          "reason": "Adresse contemporaine qui revisite avec créativité les grands classiques de la cuisine de rue égyptienne tout en respectant leurs saveurs authentiques.",
+          "imageUrl": "/src/assets/itineraries/egypt/cairo-food/zooba.jpg",
+          "lat": 30.0451,
+          "lng": 31.2356
+        },
+        {
+          "name": "Sequoia",
+          "area": "Zamalek (Nile Corniche)",
+          "reason": "Restaurant élégant installé au bord du Nil, proposant une cuisine égyptienne et méditerranéenne dans un cadre paisible, idéal pour terminer la journée.",
+          "imageUrl": "/src/assets/itineraries/egypt/cairo-food/sequoia.jpg",
+          "lat": 30.0707,
+          "lng": 31.2236
+        }
+      ]
+    }
+  }

@@ -1,0 +1,167 @@
+{
+  "slug": "4-days-hong-kong-where-the-city-rises-and-folds-back",
+  "region": "east-asia",
+  "country": "Hong Kong",
+  "city": "Hong Kong",
+  "title": "Hong Kong en 4 jours : Là où la ville s’élève puis se replie",
+  "days": 4,
+  "priceFrom": 260,
+  "priceUnit": "per_person",
+  "hero": "/src/assets/itineraries/hong-kong/4-days-hong-kong-where-the-city-rises-and-folds-back.jpg",
+  "summary": "Cet itinéraire de 4 jours à Hong Kong explore l’une des villes les plus verticales d’Asie à travers la lumière du port, ses quartiers denses, ses îles et ses instants de calme inattendus. Il équilibre l’intensité urbaine avec des échappées naturelles pour révéler une ville où agitation et sérénité coexistent.",
+  "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+  "highlights": [
+    "Victoria Harbour et sa skyline",
+    "Points de vue depuis Victoria Peak",
+    "Quartiers animés et marchés",
+    "Île de Lantau et atmosphère côtière",
+    "Street food et cuisine du quotidien",
+    "Une ville qui ne s’arrête jamais vraiment"
+  ],
+  "schedule": [
+    {
+      "day": 1,
+      "title": "Arrivée et lumière du port",
+      "summary": "Premiers instants entre eau et gratte-ciel.",
+      "details": "Commencez votre séjour le long de Victoria Harbour, où les ferries croisent entre les tours. Restez jusqu’au coucher du soleil pour admirer les lumières de la ville avant un dîner à proximité."
+    },
+    {
+      "day": 2,
+      "title": "Hauteurs et quartiers",
+      "summary": "Découvrir la ville d’en haut puis de l’intérieur.",
+      "details": "Montez à Victoria Peak pour profiter d’un panorama spectaculaire sur la baie et les îles. L’après-midi, explorez les marchés, ruelles et échoppes de quartier avant de terminer la journée par un repas dans un secteur animé."
+    },
+    {
+      "day": 3,
+      "title": "Îles et grand air",
+      "summary": "S’éloigner de l’effervescence.",
+      "details": "Partez à la découverte de l’île de Lantau ou d’une autre île voisine. Téléphérique, ferry, sentiers côtiers et villages offrent un rythme plus paisible avant un retour en ville en soirée."
+    },
+    {
+      "day": 4,
+      "title": "Marchés et départ",
+      "summary": "Quitter la ville par le quotidien.",
+      "details": "Profitez d’une dernière matinée dans un quartier familier, en revisitant un marché ou un café. Déjeunez tranquillement avant votre départ."
+    }
+  ],
+  "planning": {
+    "city": "Hong Kong",
+    "bestTime": {
+      "months": "Octobre–décembre (idéal), mars–avril (printemps)",
+      "note": "L’automne offre un climat agréable et un ciel dégagé, parfait pour les panoramas et les randonnées."
+    },
+    "worstTime": {
+      "months": "Juin–septembre (chaud, humide et saison des typhons)",
+      "note": "La chaleur et les typhons peuvent perturber ferries, téléphériques et activités extérieures."
+    },
+    "tips": [
+      "Associez points de vue et balades de quartier.",
+      "Prenez le Star Ferry pour profiter du port.",
+      "Commencez tôt les randonnées et excursions.",
+      "Explorez les marchés en journée.",
+      "Utilisez le MTR pour vos déplacements.",
+      "Prévoyez une veste légère pour la climatisation."
+    ],
+    "withKids": [
+      "Le téléphérique Ngong Ping 360 et les ferries plaisent aux enfants.",
+      "Les parcs et promenades offrent des pauses agréables.",
+      "Évitez les heures de pointe du MTR.",
+      "Privilégiez les activités extérieures tôt le matin ou en fin de journée."
+    ]
+  },
+  "transport": {
+    "arrival": [
+      {
+        "title": "Aéroport → Centre-ville",
+        "note": "L’Airport Express (24 à 28 minutes) est l’option la plus rapide. Les bus sont moins chers mais plus lents."
+      }
+    ],
+    "gettingAround": [
+      "Le MTR est rapide, fréquent et efficace.",
+      "La marche fonctionne bien à l’intérieur des quartiers.",
+      "Les taxis sont utiles la nuit.",
+      "Le Star Ferry est à la fois un moyen de transport et une expérience."
+    ],
+    "dayTrips": [
+      {
+        "title": "Victoria Peak",
+        "note": "Accessible par le Peak Tram ou le bus. Préférez le matin ou le coucher du soleil."
+      },
+      {
+        "title": "Île de Lantau",
+        "note": "Accessible en MTR puis téléphérique Ngong Ping 360 ou en ferry."
+      }
+    ],
+    "dayMoves": [],
+    "practical": [
+      "Utilisez une carte Octopus.",
+      "Évitez les longues marches aux heures les plus chaudes.",
+      "Vérifiez les alertes météo pendant la saison des typhons.",
+      "Gardez une veste légère pour les espaces climatisés.",
+      "Profitez des traversées du port pour ralentir le rythme."
+    ]
+  },
+  "foodRecommendation": {
+    "mustTry": [
+      "Dim Sum",
+      "Oie rôtie",
+      "Char Siu",
+      "Nouilles wonton",
+      "Thé au lait hongkongais",
+      "Tartelettes aux œufs",
+      "Riz en marmite"
+    ],
+    "areas": [
+      {
+        "name": "Central / Sheung Wan",
+        "note": "Mélange de restaurants traditionnels, cafés et marchés."
+      },
+      {
+        "name": "Sham Shui Po",
+        "note": "Quartier populaire réputé pour sa cuisine cantonaise authentique."
+      },
+      {
+        "name": "Tsim Sha Tsui",
+        "note": "Large choix de restaurants près du front de mer."
+      },
+      {
+        "name": "Causeway Bay",
+        "note": "Quartier commerçant animé avec de nombreux cha chaan teng."
+      }
+    ],
+    "places": [
+      {
+        "name": "Lin Heung Tea House",
+        "area": "Central / Sheung Wan",
+        "reason": "Maison de thé historique célèbre pour son dim sum traditionnel.",
+        "imageUrl": "/src/assets/itineraries/hong-kong/food/lin-heung-tea-house.jpg",
+        "lat": 22.2858,
+        "lng": 114.1502
+      },
+      {
+        "name": "Kam’s Roast Goose",
+        "area": "Sheung Wan",
+        "reason": "Référence incontournable pour l’oie rôtie cantonaise.",
+        "imageUrl": "/src/assets/itineraries/hong-kong/food/kams-roast-goose.jpg",
+        "lat": 22.2846,
+        "lng": 114.1491
+      },
+      {
+        "name": "Mak’s Noodle",
+        "area": "Central",
+        "reason": "Institution réputée pour ses nouilles wonton.",
+        "imageUrl": "/src/assets/itineraries/hong-kong/food/maks-noodle.jpg",
+        "lat": 22.2829,
+        "lng": 114.1546
+      },
+      {
+        "name": "Sham Shui Po Street Food Stalls",
+        "area": "Sham Shui Po",
+        "reason": "Ensemble d’échoppes illustrant la street food emblématique de Hong Kong.",
+        "imageUrl": "/src/assets/itineraries/hong-kong/food/sham-shui-po-street-food.jpg",
+        "lat": 22.3316,
+        "lng": 114.1622
+      }
+    ]
+  }
+}

@@ -1,0 +1,1050 @@
+
+  {
+    "slug": "3-days-florence-where-proportion-teaches-calm",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Florence",
+    "title": "Florence en 3 jours : Là où les proportions enseignent le calme",
+    "days": 3,
+    "priceFrom": 250,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/3-days-florence-where-proportion-teaches-calm.jpg",
+    "summary": "Cet itinéraire de 3 jours à Florence explore une ville façonnée par l'équilibre, le savoir-faire et une beauté réfléchie. Entre monuments matinaux, quartiers vivants et jardins paisibles, Florence révèle comment la justesse des proportions apaise le regard.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Duomo aux heures les plus calmes",
+      "Promenades le long de l'Arno",
+      "Les ateliers d'Oltrarno",
+      "Les jardins de Boboli",
+      "Petits cafés et longs déjeuners",
+      "Une ville bâtie sur une beauté mesurée"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premières pierres",
+        "summary": "Découvrir la ville avant la foule.",
+        "details": "Commencez autour du Duomo au petit matin, puis longez l'Arno en traversant plusieurs ponts avant un dîner tranquille."
+      },
+      {
+        "day": 2,
+        "title": "Artisanat, ruelles et échelle humaine",
+        "summary": "La beauté au quotidien.",
+        "details": "Explorez Oltrarno, ses ateliers et ses cafés, puis profitez des jardins de Boboli avant une promenade au bord de l'Arno."
+      },
+      {
+        "day": 3,
+        "title": "Parenthèse verte et départ",
+        "summary": "Quitter Florence en équilibre.",
+        "details": "Retrouvez un lieu favori, profitez d'un déjeuner détendu puis prenez le temps d'un dernier regard sur la ville."
+      }
+    ],
+    "planning": {
+      "city": "Florence, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Températures agréables idéales pour les promenades."
+      },
+      "worstTime": {
+        "months": "Juillet–août, décembre–février",
+        "note": "L'été est chaud et fréquenté ; l'hiver est plus frais."
+      },
+      "tips": [
+        "Alternez visites et promenades.",
+        "Visitez le Duomo tôt le matin.",
+        "Traversez l'Arno chaque jour.",
+        "Réservez les musées à l'avance.",
+        "Limitez-vous à un point de vue par jour.",
+        "Emportez de l'eau."
+      ],
+      "withKids": [
+        "Les distances sont courtes.",
+        "Les places offrent de l'espace.",
+        "Alternez musées et glaces.",
+        "Les soirées sont agréables en famille."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale → Florence",
+          "note": "Florence est desservie par l'aéroport Amerigo Vespucci et le train à grande vitesse."
+        },
+        {
+          "title": "Aéroport ou gare → Centre-ville",
+          "note": "Le tram relie l'aéroport à Santa Maria Novella en une vingtaine de minutes ; le centre est facilement accessible à pied."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Florence.",
+        "Les bus sont utiles pour les hauteurs.",
+        "Les taxis sont pratiques le soir.",
+        "Le vélo est possible mais moins courant.",
+        "La circulation automobile est fortement limitée dans le centre historique."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Duomo et centre historique",
+          "note": "À découvrir tôt le matin."
+        },
+        {
+          "title": "Arno et ponts",
+          "note": "Traversez plusieurs ponts pour varier les points de vue."
+        },
+        {
+          "title": "Oltrarno",
+          "note": "Idéal pour flâner sans itinéraire précis."
+        },
+        {
+          "title": "Jardins de Boboli",
+          "note": "Accessibles à pied ou en bus."
+        }
+      ],
+      "practical": [
+        "Portez des chaussures confortables.",
+        "Évitez les longues marches aux heures chaudes.",
+        "Réservez les musées.",
+        "Revenez dans les mêmes rues.",
+        "Limitez les montées.",
+        "Emportez une bouteille d'eau."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bistecca alla Fiorentina",
+        "Ribollita",
+        "Pappardelle al cinghiale",
+        "Crostini neri",
+        "Cantucci et Vin Santo",
+        "Expresso au comptoir"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Repas simples entre deux visites."
+        },
+        {
+          "name": "Oltrarno",
+          "note": "Ambiance artisanale et soirées paisibles."
+        },
+        {
+          "name": "San Lorenzo / Sant’Ambrogio",
+          "note": "Cuisine de marché, locale et de saison."
+        }
+      ],
+      "places": [
+        {
+          "name": "Trattoria Mario",
+          "area": "San Lorenzo",
+          "reason": "Cuisine toscane traditionnelle servie dans une ambiance conviviale.",
+          "imageUrl": "/src/assets/itineraries/italy/florence-food/trattoria-mario.jpg",
+          "lat": 43.7764,
+          "lng": 11.2534
+        },
+        {
+          "name": "Trattoria Sostanza (Il Troia)",
+          "area": "Historic Centre",
+          "reason": "Institution florentine réputée pour sa cuisine simple et maîtrisée.",
+          "imageUrl": "/src/assets/itineraries/italy/florence-food/trattoria-sostanza.jpg",
+          "lat": 43.7729,
+          "lng": 11.2577
+        },
+        {
+          "name": "Il Santo Bevitore",
+          "area": "Oltrarno",
+          "reason": "Cuisine toscane contemporaine dans une atmosphère élégante.",
+          "imageUrl": "/src/assets/itineraries/italy/florence-food/il-santo-bevitore.jpg",
+          "lat": 43.7701,
+          "lng": 11.2465
+        },
+        {
+          "name": "All’Antico Vinaio",
+          "area": "Historic Centre",
+          "reason": "Célèbre pour ses schiacciate garnies à déguster sur le pouce.",
+          "imageUrl": "/src/assets/itineraries/italy/florence-food/all-antico-vinaio.jpg",
+          "lat": 43.7689,
+          "lng": 11.2623
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-milan-where-precision-sets-the-tone",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Milan",
+    "title": "Milan en 3 jours : Là où la précision donne le ton",
+    "days": 3,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/3-days-milan-where-precision-sets-the-tone.jpg",
+    "summary": "Cet itinéraire de 3 jours à Milan explore la ville la plus tournée vers l’avenir d’Italie à travers le design, la discipline et l’efficacité du quotidien. Il met en lumière une ville où le style est fonctionnel, le temps est respecté et chaque espace répond à un objectif précis.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le quartier du Duomo à la première lumière",
+      "Les rues et galeries de Brera",
+      "Les quartiers modernes et le design milanais",
+      "Les canaux des Navigli au coucher du soleil",
+      "Les cafés et la culture de l’aperitivo",
+      "Une ville construite sur la précision"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et rigueur de la pierre",
+        "summary": "Entrer par la structure.",
+        "details": "Commencez par le Duomo tôt le matin, puis découvrez les rues commerçantes avant de terminer la journée dans le quartier de Brera."
+      },
+      {
+        "day": 2,
+        "title": "Design et modernité",
+        "summary": "Milan au travail.",
+        "details": "Explorez les quartiers contemporains, observez l’architecture et le design, puis profitez d’un dîner simple dans un quartier animé."
+      },
+      {
+        "day": 3,
+        "title": "Navigli et départ",
+        "summary": "La précision s’adoucit.",
+        "details": "Promenez-vous le long des canaux des Navigli, savourez un dernier aperitivo puis quittez Milan avec une nouvelle appréciation de son rythme."
+      }
+    ],
+    "planning": {
+      "city": "Milan, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Températures agréables idéales pour marcher entre les quartiers et profiter des soirées."
+      },
+      "worstTime": {
+        "months": "Juillet–août, décembre–janvier",
+        "note": "L’été est chaud et le mois d’août est plus calme ; l’hiver est froid et souvent gris."
+      },
+      "tips": [
+        "Explorez chaque quartier séparément.",
+        "Réservez le Duomo et La Cène à l’avance.",
+        "Gardez les cafés pour l’après-midi.",
+        "Profitez de l’aperitivo.",
+        "Utilisez le métro.",
+        "Privilégiez une tenue sobre et élégante."
+      ],
+      "withKids": [
+        "Les terrasses du Duomo offrent de beaux espaces.",
+        "Le métro limite la fatigue.",
+        "Les Navigli sont agréables en soirée.",
+        "Alternez musées et promenades."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Milan",
+          "note": "Milan est desservie par plusieurs aéroports et par le réseau ferroviaire à grande vitesse."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le Malpensa Express est la liaison la plus rapide ; Linate est relié par métro et taxi ; Bergame nécessite davantage de temps."
+        }
+      ],
+      "gettingAround": [
+        "Le métro est rapide et efficace.",
+        "La marche convient à l’intérieur des quartiers.",
+        "Les tramways offrent un trajet plus pittoresque.",
+        "Les taxis sont utiles en soirée.",
+        "Planifiez vos déplacements."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre du Duomo",
+          "note": "À découvrir tôt le matin."
+        },
+        {
+          "title": "Brera",
+          "note": "Parfait pour les galeries et les cafés."
+        },
+        {
+          "title": "Quartiers modernes",
+          "note": "Facilement accessibles en métro."
+        },
+        {
+          "title": "Navigli",
+          "note": "À privilégier en fin de journée."
+        }
+      ],
+      "practical": [
+        "Planifiez vos trajets.",
+        "Évitez les heures de pointe.",
+        "Réservez La Cène plusieurs semaines à l’avance.",
+        "Août est plus calme.",
+        "Habillez-vous avec simplicité.",
+        "Respectez les horaires."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Espresso au comptoir",
+        "Panzerotto ou focaccia",
+        "Risotto alla Milanese",
+        "Cotoletta alla Milanese",
+        "Aperitivo",
+        "Negroni ou Campari Spritz"
+      ],
+      "areas": [
+        {
+          "name": "Centre du Duomo",
+          "note": "Cafés pratiques pour une pause rapide."
+        },
+        {
+          "name": "Brera",
+          "note": "Équilibre entre culture, cafés et restaurants."
+        },
+        {
+          "name": "Navigli",
+          "note": "Le meilleur quartier pour l’aperitivo en soirée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Marchesi 1824 (Galleria)",
+          "area": "Duomo",
+          "reason": "Pâtisseries raffinées et excellent espresso.",
+          "imageUrl": "/src/assets/itineraries/italy/milan-food/marchesi-1824.jpg",
+          "lat": 45.4667,
+          "lng": 9.1905
+        },
+        {
+          "name": "Luini Panzerotti",
+          "area": "Duomo",
+          "reason": "Institution idéale pour un repas rapide.",
+          "imageUrl": "/src/assets/itineraries/italy/milan-food/luini-panzerotti.jpg",
+          "lat": 45.4663,
+          "lng": 9.1962
+        },
+        {
+          "name": "N’Ombra de Vin",
+          "area": "Brera",
+          "reason": "Excellent pour un aperitivo dans une ambiance élégante.",
+          "imageUrl": "/src/assets/itineraries/italy/milan-food/nombra-de-vin.jpg",
+          "lat": 45.472,
+          "lng": 9.1864
+        },
+        {
+          "name": "Ugo Cocktail Bar",
+          "area": "Brera",
+          "reason": "Cocktails soignés et aperitivo de qualité.",
+          "imageUrl": "/src/assets/itineraries/italy/milan-food/ugo-cocktail-bar.jpg",
+          "lat": 45.4709,
+          "lng": 9.1861
+        },
+        {
+          "name": "Mag Café",
+          "area": "Navigli",
+          "reason": "Adresse réputée pour l’aperitivo au bord des canaux.",
+          "imageUrl": "/src/assets/itineraries/italy/milan-food/mag-cafe.jpg",
+          "lat": 45.4527,
+          "lng": 9.1816
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-naples-where-life-stands-too-close",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Naples",
+    "title": "Naples en 3 jours : Là où la vie est toujours tout près",
+    "days": 3,
+    "priceFrom": 220,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/3-days-naples-where-life-stands-too-close.jpg",
+    "summary": "Cet itinéraire de 3 jours à Naples explore une ville définie par la proximité : avec la cuisine, les habitants, l’histoire et le Vésuve. Entre ruelles animées, front de mer et vie quotidienne, Naples se révèle sans filtre, vibrante et profondément vivante.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La vie du centre historique",
+      "La pizza comme rituel quotidien",
+      "Les promenades en bord de mer",
+      "Les vues sur le Vésuve",
+      "Les marchés et leur agitation",
+      "Une ville marquée par la proximité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et chaleur des rues",
+        "summary": "Entrer dans la ville sans distance.",
+        "details": "Découvrez le centre historique à pied, laissez-vous guider par les ruelles, les odeurs et les sons, puis dégustez quelques spécialités locales au fil de la journée."
+      },
+      {
+        "day": 2,
+        "title": "Mer, pierre et ombre",
+        "summary": "Trouver un peu d'air sans quitter Naples.",
+        "details": "Promenez-vous sur le front de mer jusqu'au Castel dell’Ovo avant de revenir dans les quartiers populaires et leurs marchés animés."
+      },
+      {
+        "day": 3,
+        "title": "Le Vésuve et le départ",
+        "summary": "Quitter la ville sous son regard.",
+        "details": "Profitez d'un dernier point de vue sur le Vésuve, savourez un repas napolitain puis prenez le temps d'un dernier regard sur la ville."
+      }
+    ],
+    "planning": {
+      "city": "Naples, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Le climat est agréable pour explorer le centre historique et le front de mer."
+      },
+      "worstTime": {
+        "months": "Juillet–août, décembre–février",
+        "note": "L'été est très chaud ; l'hiver peut être humide."
+      },
+      "tips": [
+        "Explorez le centre historique à pied.",
+        "Commencez tôt le matin.",
+        "Privilégiez les spécialités de rue.",
+        "Alternez centre, bord de mer et Vomero.",
+        "Utilisez le métro lorsque nécessaire.",
+        "Restez attentif tout en restant détendu."
+      ],
+      "withKids": [
+        "Le front de mer offre de grands espaces.",
+        "Alternez visites et promenades.",
+        "Dînez tôt.",
+        "Tenez les enfants par la main dans les ruelles animées."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Naples",
+          "note": "Naples est reliée aux principales villes italiennes par train à grande vitesse."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Les taxis sont les plus pratiques ; les bus sont économiques mais plus lents."
+        }
+      ],
+      "gettingAround": [
+        "La marche est indispensable.",
+        "Le centre historique se découvre à pied.",
+        "Le métro est utile pour les trajets plus longs.",
+        "Les funiculaires desservent les quartiers en hauteur.",
+        "Les taxis sont pratiques le soir."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre historique (Spaccanapoli)",
+          "note": "À explorer lentement à pied."
+        },
+        {
+          "title": "Front de mer et Castel dell’Ovo",
+          "note": "Une promenade agréable avec vue sur la baie."
+        },
+        {
+          "title": "Points de vue sur le Vésuve",
+          "note": "Accessibles à pied ou en transports."
+        }
+      ],
+      "practical": [
+        "Acceptez l'agitation.",
+        "Prévoyez des étapes courtes.",
+        "Évitez les fortes chaleurs.",
+        "Gardez un œil sur vos effets personnels.",
+        "Le métro complète la marche.",
+        "Déplacez-vous selon le rythme de la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pizza napolitaine",
+        "Pizza a portafoglio",
+        "Sfogliatella",
+        "Espresso sucré",
+        "Cuoppo de fruits de mer frits",
+        "Pâtes napolitaines simples"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique (Spaccanapoli)",
+          "note": "Grignotez souvent et simplement."
+        },
+        {
+          "name": "Front de mer",
+          "note": "Repas plus détendus avec vue sur la mer."
+        },
+        {
+          "name": "Vomero",
+          "note": "Quartier calme idéal pour un repas posé."
+        }
+      ],
+      "places": [
+        {
+          "name": "L’Antica Pizzeria da Michele",
+          "area": "Historic Centre",
+          "reason": "Pizza napolitaine emblématique, simple et authentique.",
+          "imageUrl": "/src/assets/itineraries/italy/naples-food/da-michele.jpg",
+          "lat": 40.8517,
+          "lng": 14.2624
+        },
+        {
+          "name": "Sorbillo",
+          "area": "Spaccanapoli",
+          "reason": "Une institution de la pizza au cœur de l'animation napolitaine.",
+          "imageUrl": "/src/assets/itineraries/italy/naples-food/sorbillo.jpg",
+          "lat": 40.8519,
+          "lng": 14.2576
+        },
+        {
+          "name": "Sfogliatella Mary",
+          "area": "Historic Centre",
+          "reason": "Pâtisseries fraîches à déguster immédiatement.",
+          "imageUrl": "/src/assets/itineraries/italy/naples-food/sfogliatella-mary.jpg",
+          "lat": 40.8532,
+          "lng": 14.2613
+        },
+        {
+          "name": "Pasticceria Attanasio",
+          "area": "Near Central Station",
+          "reason": "Réputée pour ses sfogliatelle et son espresso.",
+          "imageUrl": "/src/assets/itineraries/italy/naples-food/attanasio.jpg",
+          "lat": 40.8539,
+          "lng": 14.269
+        },
+        {
+          "name": "La Masardona",
+          "area": "Eastern Historic Edge",
+          "reason": "Adresse célèbre pour la pizza frite napolitaine.",
+          "imageUrl": "/src/assets/itineraries/italy/naples-food/la-masardona.jpg",
+          "lat": 40.8488,
+          "lng": 14.2761
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-rome-where-time-refuses-to-move-on",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Rome",
+    "title": "Rome en 4 jours : Là où le temps refuse d’avancer",
+    "days": 4,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/4-days-rome-where-time-refuses-to-move-on.jpg",
+    "summary": "Cet itinéraire de 4 jours à Rome explore une ville où l’histoire ne se contemple pas derrière une vitrine, mais s’intègre à la vie quotidienne. Entre vestiges antiques, quartiers habités et longs repas, Rome révèle un temps qui s’accumule sans jamais effacer ce qui l’a précédé.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Colisée aux heures les plus calmes",
+      "Le Forum romain",
+      "Les soirées à Trastevere",
+      "Cafés du quotidien et longs repas",
+      "La marche comme meilleure façon de découvrir la ville",
+      "Une ville où passé et présent coexistent"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers vestiges",
+        "summary": "Entrer directement dans le temps.",
+        "details": "Commencez par une promenade autour du Colisée et laissez les ruines s’intégrer naturellement au paysage urbain. Terminez la journée par un long dîner romain."
+      },
+      {
+        "day": 2,
+        "title": "Pierres, couches d’histoire et répétition",
+        "summary": "Une histoire qui s’empile.",
+        "details": "Explorez le Forum romain et les environs, puis flânez dans les rues voisines où la vie quotidienne côtoie les vestiges antiques."
+      },
+      {
+        "day": 3,
+        "title": "Vie de quartier et longues soirées",
+        "summary": "Rome au quotidien.",
+        "details": "Passez la journée à Trastevere, en vous laissant guider par les ruelles, les places et les cafés avant un dîner détendu."
+      },
+      {
+        "day": 4,
+        "title": "Dernière lumière et départ",
+        "summary": "Quitter la ville en terrain familier.",
+        "details": "Retrouvez votre café ou votre promenade préférée avant un dernier déjeuner et le départ."
+      }
+    ],
+    "planning": {
+      "city": "Rome, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Climat doux idéal pour explorer les ruines et les quartiers à pied."
+      },
+      "worstTime": {
+        "months": "Juillet–août, décembre–février",
+        "note": "L’été est très chaud et fréquenté ; l’hiver est plus frais et humide."
+      },
+      "tips": [
+        "Séparez Rome antique, papale et contemporaine.",
+        "Visitez les grands sites tôt le matin.",
+        "Marchez dès que possible.",
+        "Réservez les billets à l’avance.",
+        "Respectez le rythme des repas.",
+        "Prévoyez eau et protection solaire."
+      ],
+      "withKids": [
+        "Alternez ruines et espaces ouverts.",
+        "Évitez les journées trop chargées en musées.",
+        "Les pauses glace sont idéales.",
+        "Commencez tôt pour éviter la chaleur."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale → Rome",
+          "note": "Rome est desservie par les aéroports de Fiumicino et Ciampino."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le Leonardo Express relie Fiumicino à Roma Termini en environ 30 minutes ; les taxis proposent un tarif fixe vers le centre."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Rome.",
+        "Le métro est pratique pour les trajets plus longs.",
+        "Les bus et tramways complètent le réseau.",
+        "Les taxis sont utiles le soir ou par forte chaleur.",
+        "Restez attentif aux scooters."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Colisée et Forum",
+          "note": "À visiter tôt le matin ou en fin d’après-midi."
+        },
+        {
+          "title": "Centre historique",
+          "note": "À parcourir tranquillement à pied."
+        },
+        {
+          "title": "Trastevere",
+          "note": "Facilement accessible à pied ou en tram."
+        },
+        {
+          "title": "Boucles de quartier",
+          "note": "Revenir dans les mêmes rues fait partie de l’expérience romaine."
+        }
+      ],
+      "practical": [
+        "Les pavés fatiguent davantage qu’ils n’y paraissent.",
+        "Évitez les longues marches en pleine chaleur.",
+        "Profitez des fontaines publiques.",
+        "Ne prenez pas le bus pour de très courtes distances.",
+        "Réservez les grands sites à l’avance.",
+        "Laissez du temps entre les activités."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cacio e pepe",
+        "Carbonara romaine",
+        "Amatriciana",
+        "Supplì",
+        "Pizza al taglio",
+        "Expresso pris au comptoir"
+      ],
+      "areas": [
+        {
+          "name": "Trastevere",
+          "note": "Soirées conviviales et longs dîners."
+        },
+        {
+          "name": "Centre historique",
+          "note": "Repas simples entre deux promenades."
+        },
+        {
+          "name": "Testaccio",
+          "note": "Cuisine romaine authentique et généreuse."
+        }
+      ],
+      "places": [
+        {
+          "name": "Da Enzo al 29",
+          "area": "Trastevere",
+          "reason": "Institution romaine réputée pour sa cuisine traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/italy/rome-food/da-enzo-al-29.jpg",
+          "lat": 41.8874,
+          "lng": 12.4726
+        },
+        {
+          "name": "Roscioli Salumeria con Cucina",
+          "area": "Historic Centre",
+          "reason": "Excellente cuisine romaine autour de produits d’exception.",
+          "imageUrl": "/src/assets/itineraries/italy/rome-food/roscioli.jpg",
+          "lat": 41.8946,
+          "lng": 12.4721
+        },
+        {
+          "name": "Felice a Testaccio",
+          "area": "Testaccio",
+          "reason": "Adresse emblématique pour le cacio e pepe.",
+          "imageUrl": "/src/assets/itineraries/italy/rome-food/felice-a-testaccio.jpg",
+          "lat": 41.8779,
+          "lng": 12.4776
+        },
+        {
+          "name": "Pizzarium Bonci",
+          "area": "Vatican / Trionfale",
+          "reason": "Référence de la pizza al taglio romaine.",
+          "imageUrl": "/src/assets/itineraries/italy/rome-food/pizzarium.jpg",
+          "lat": 41.9076,
+          "lng": 12.4466
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-sicily-where-every-civilization-stayed-awhile",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Sicily (Palermo)",
+    "title": "La Sicile en 4 jours : Là où chaque civilisation s'est attardée",
+    "days": 4,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/4-days-sicily-where-every-civilization-stayed-awhile.jpg",
+    "summary": "Cet itinéraire de 4 jours en Sicile explore une île façonnée par les civilisations grecque, romaine, arabe, normande et italienne. Basé à Palerme, il mêle marchés animés, sites antiques, paysages volcaniques et lumière méditerranéenne.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les marchés de Palerme",
+      "L'architecture arabo-normande",
+      "La Vallée des Temples d'Agrigente",
+      "Le mont Etna",
+      "Les villages côtiers",
+      "Une île façonnée par les civilisations"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et chaleur des marchés",
+        "summary": "Entrer dans la Sicile par ses rues.",
+        "details": "Découvrez les marchés historiques de Palerme et les quartiers anciens avant un dîner convivial."
+      },
+      {
+        "day": 2,
+        "title": "Pierres antiques et mémoire",
+        "summary": "L'histoire à ciel ouvert.",
+        "details": "Visitez les sites historiques autour de Palerme ou la Vallée des Temples d'Agrigente."
+      },
+      {
+        "day": 3,
+        "title": "Volcan et routes ouvertes",
+        "summary": "Vivre sous l'Etna.",
+        "details": "Partez vers l'Etna ou les paysages de l'intérieur de l'île, en faisant halte dans les villages et points de vue."
+      },
+      {
+        "day": 4,
+        "title": "Littoral et départ",
+        "summary": "Quitter l'île entre mer et lumière.",
+        "details": "Profitez de la côte, d'un dernier repas sicilien puis prenez le chemin du retour."
+      }
+    ],
+    "planning": {
+      "city": "Sicily, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Climat agréable pour explorer les sites antiques et le littoral."
+      },
+      "worstTime": {
+        "months": "Juillet–août, décembre–février",
+        "note": "L'été est très chaud ; l'hiver est plus calme mais limite certaines activités."
+      },
+      "tips": [
+        "Choisissez l'ouest ou l'est de la Sicile.",
+        "Prévoyez des temps de trajet importants.",
+        "Visitez les sites tôt le matin.",
+        "Privilégiez la cuisine locale.",
+        "Explorez les marchés.",
+        "Gardez des espèces."
+      ],
+      "withKids": [
+        "Les sites antiques offrent beaucoup d'espace.",
+        "Alternez culture et plage.",
+        "Limitez les longs trajets.",
+        "Prévoyez une bonne protection solaire."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Palerme",
+          "note": "Palerme constitue une excellente base pour découvrir l'ouest de la Sicile."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le train, les navettes et les taxis relient l'aéroport au centre-ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans le centre historique.",
+        "Les bus sont utiles mais irréguliers.",
+        "Les trains desservent les principales villes.",
+        "Une voiture est recommandée pour explorer l'île.",
+        "Les trajets prennent souvent plus de temps que prévu."
+      ],
+      "dayTrips": [
+        {
+          "title": "Agrigente – Vallée des Temples",
+          "note": "Excursion d'une journée complète."
+        },
+        {
+          "title": "Cefalù",
+          "note": "Charmante ville côtière facilement accessible en train."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Quartiers historiques de Palerme",
+          "note": "À découvrir entièrement à pied."
+        },
+        {
+          "title": "Routes vers l'intérieur de l'île",
+          "note": "Prévoir un seul grand déplacement par jour."
+        },
+        {
+          "title": "Littoral sicilien",
+          "note": "Idéal pour se détendre après les visites."
+        }
+      ],
+      "practical": [
+        "Concentrez-vous sur une région.",
+        "Évitez les déplacements aux heures les plus chaudes.",
+        "Faites le plein avant les zones rurales.",
+        "Gardez des espèces.",
+        "Acceptez les imprévus.",
+        "Les transports font partie du voyage."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Arancini",
+        "Panelle",
+        "Cannoli",
+        "Pasta con le sarde",
+        "Cassata sicilienne",
+        "Fruits de mer et spécialités des marchés"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique de Palerme",
+          "note": "Les marchés rythment la vie quotidienne."
+        },
+        {
+          "name": "Marchés Ballarò et Vucciria",
+          "note": "Cuisine de rue authentique et animée."
+        },
+        {
+          "name": "Villes côtières (ex. Cefalù)",
+          "note": "Cuisine plus légère face à la mer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Antica Focacceria San Francesco",
+          "area": "Palermo Historic Centre",
+          "reason": "Institution incontournable pour goûter les classiques palermitains.",
+          "imageUrl": "/src/assets/itineraries/italy/sicily-food/antica-focacceria.jpg",
+          "lat": 38.1185,
+          "lng": 13.3637
+        },
+        {
+          "name": "Mercato di Ballarò (Street Stalls)",
+          "area": "Ballarò Market",
+          "reason": "Le meilleur endroit pour découvrir la cuisine de rue sicilienne.",
+          "imageUrl": "/src/assets/itineraries/italy/sicily-food/ballaro-market.jpg",
+          "lat": 38.1124,
+          "lng": 13.3647
+        },
+        {
+          "name": "Pasticceria Cappello",
+          "area": "Palermo City Centre",
+          "reason": "Réputée pour ses cannoli et sa cassata.",
+          "imageUrl": "/src/assets/itineraries/italy/sicily-food/pasticceria-cappello.jpg",
+          "lat": 38.1202,
+          "lng": 13.3475
+        },
+        {
+          "name": "Nni Franco U’Vastiddaru",
+          "area": "Vucciria",
+          "reason": "Adresse emblématique pour les sandwichs traditionnels de Palerme.",
+          "imageUrl": "/src/assets/itineraries/italy/sicily-food/nni-franco.jpg",
+          "lat": 38.1169,
+          "lng": 13.3659
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-venice-where-the-city-floats-on-patience",
+    "region": "europe",
+    "country": "Italy",
+    "city": "Venice",
+    "title": "Venise en 3 jours : Là où la ville flotte sur la patience",
+    "days": 3,
+    "priceFrom": 270,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/italy/3-days-venice-where-the-city-floats-on-patience.jpg",
+    "summary": "Cet itinéraire de 3 jours à Venise explore une ville façonnée par l’eau, la fragilité et le temps. Loin de l’urgence et des foules, il privilégie les matinées paisibles, les canaux tranquilles, les promenades répétées et la lumière de la lagune.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le Grand Canal à l'aube",
+      "Les ruelles calmes et les petits canaux",
+      "La place Saint-Marc à l'aube ou au crépuscule",
+      "Les rives de la lagune",
+      "Se promener sans destination",
+      "Une ville portée par la lenteur"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premières eaux calmes",
+        "summary": "Apprendre à ralentir.",
+        "details": "Éloignez-vous rapidement des itinéraires les plus fréquentés et laissez l’eau guider votre promenade. Terminez la journée au bord d’un canal au coucher du soleil."
+      },
+      {
+        "day": 2,
+        "title": "Premières lumières et foules absentes",
+        "summary": "Découvrir Venise avant qu’elle ne s’éveille.",
+        "details": "Visitez la place Saint-Marc tôt le matin, puis perdez-vous volontairement dans les ruelles et les canaux plus tranquilles. Prenez le temps d'observer la lagune."
+      },
+      {
+        "day": 3,
+        "title": "Lagune et départ",
+        "summary": "Partir sans conclure.",
+        "details": "Retrouvez un canal ou un café apprécié, profitez d’un dernier déjeuner puis quittez Venise en emportant son rythme paisible."
+      }
+    ],
+    "planning": {
+      "city": "Venice, Italy",
+      "bestTime": {
+        "months": "Avril–mai, septembre–octobre",
+        "note": "Une météo agréable et une lumière douce pour profiter pleinement de la ville."
+      },
+      "worstTime": {
+        "months": "Juillet–août, novembre–janvier",
+        "note": "L'été est très fréquenté ; l'hiver peut être humide avec des épisodes d'acqua alta."
+      },
+      "tips": [
+        "Commencez tôt et terminez tard.",
+        "Consacrez plus de temps aux quartiers résidentiels qu'aux sites célèbres.",
+        "Acceptez les détours.",
+        "Utilisez le vaporetto comme moyen de découverte.",
+        "Réservez les grandes visites à l'avance.",
+        "Prévoyez des chaussures imperméables hors été."
+      ],
+      "withKids": [
+        "Les rues sans voitures sont agréables.",
+        "Les trajets en bateau plaisent aux enfants.",
+        "Alternez places ouvertes et visites.",
+        "Commencez tôt pour éviter la foule."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Venise",
+          "note": "Venise est accessible via l'aéroport Marco Polo ou la gare Santa Lucia."
+        },
+        {
+          "title": "Aéroport → Venise historique",
+          "note": "Les bateaux Alilaguna et les taxis nautiques relient l'aéroport au centre historique."
+        }
+      ],
+      "gettingAround": [
+        "La marche est essentielle.",
+        "Le vaporetto est indispensable pour les trajets plus longs.",
+        "La ville ne compte ni voitures ni vélos.",
+        "Les détours font partie de l'expérience.",
+        "Voyagez léger à cause des nombreux ponts."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Promenades dans les sestieri",
+          "note": "Cannaregio, Dorsoduro et Castello se découvrent lentement."
+        },
+        {
+          "title": "Grand Canal en vaporetto",
+          "note": "Idéal tôt le matin ou en soirée."
+        },
+        {
+          "title": "Place Saint-Marc",
+          "note": "À visiter brièvement aux heures les plus calmes."
+        },
+        {
+          "title": "Lagune et campos",
+          "note": "Parfaits pour s'asseoir et observer."
+        }
+      ],
+      "practical": [
+        "Commencez tôt et faites une pause à midi.",
+        "L'acqua alta peut ralentir les déplacements.",
+        "Acceptez de vous perdre un peu.",
+        "Les ponts demandent un effort supplémentaire.",
+        "Éloignez-vous des sites majeurs pour mieux manger.",
+        "Revenir sur ses pas permet de mieux découvrir Venise."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cicchetti",
+        "Sarde in saor",
+        "Baccalà mantecato",
+        "Bigoli in salsa",
+        "Spritz",
+        "Expresso au comptoir"
+      ],
+      "areas": [
+        {
+          "name": "Cannaregio",
+          "note": "Bars et boulangeries fréquentés par les habitants."
+        },
+        {
+          "name": "Dorsoduro",
+          "note": "Quartier lumineux et paisible."
+        },
+        {
+          "name": "Castello",
+          "note": "Ambiance résidentielle et authentique."
+        }
+      ],
+      "places": [
+        {
+          "name": "Cantina Aziende Agricole",
+          "area": "Cannaregio",
+          "reason": "Bar à cicchetti simple et authentique.",
+          "imageUrl": "/src/assets/itineraries/italy/venice-food/cantina-aziende-agricole.jpg",
+          "lat": 45.4447,
+          "lng": 12.3312
+        },
+        {
+          "name": "Al Timon",
+          "area": "Cannaregio",
+          "reason": "Cuisine vénitienne de saison au bord d'un canal.",
+          "imageUrl": "/src/assets/itineraries/italy/venice-food/al-timon.jpg",
+          "lat": 45.4429,
+          "lng": 12.3269
+        },
+        {
+          "name": "Enoteca Ai Artisti",
+          "area": "Dorsoduro",
+          "reason": "Cuisine raffinée mettant en valeur les produits vénitiens.",
+          "imageUrl": "/src/assets/itineraries/italy/venice-food/enoteca-ai-artisti.jpg",
+          "lat": 45.4338,
+          "lng": 12.3214
+        },
+        {
+          "name": "Dal Moro’s Fresh Pasta To Go",
+          "area": "Castello",
+          "reason": "Pâtes fraîches à emporter pour continuer à explorer la ville.",
+          "imageUrl": "/src/assets/itineraries/italy/venice-food/dal-moros.jpg",
+          "lat": 45.4356,
+          "lng": 12.3423
+        }
+      ]
+    }
+  }

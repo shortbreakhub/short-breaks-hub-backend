@@ -1,0 +1,1283 @@
+
+  {
+    "slug": "4-days-barcelona-between-order-and-instinct",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Barcelona",
+    "title": "Barcelone en 4 jours : Entre ordre et instinct",
+    "days": 4,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/4-days-barcelona-between-order-and-instinct.jpg",
+    "summary": "Cet itinéraire de 4 jours à Barcelone explore une ville façonnée à la fois par la structure et la spontanéité — là où les quadrillages rencontrent les ruelles médiévales, où la discipline côtoie l’appétit, et où l’art déborde dans la vie quotidienne. Conçu pour équilibrer architecture emblématique, promenades de quartier et respiration côtière, il laisse Barcelone se dévoiler par le contraste plutôt que par l’exhaustivité.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Sagrada Família et la vision inachevée de Gaudí",
+      "Le Barri Gòtic et ses ruelles médiévales superposées",
+      "Le parc Güell et ses perspectives en hauteur",
+      "Le quadrillage de l’Eixample et son rythme quotidien",
+      "L’air marin de la Barceloneta et la douceur des soirées",
+      "Une ville façonnée par la tension et la créativité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, quadrillage et première rupture",
+        "summary": "Comprendre la ville par le contraste.",
+        "details": "Arrivez à Barcelone et commencez par le quartier de l’Eixample, où les larges avenues et la géométrie précise installent un sentiment d’ordre. Marchez plusieurs pâtés de maisons sans destination précise, en observant comment les balcons, les cafés et la vie de rue assouplissent le quadrillage de l’intérieur.\n\nDans l’après-midi, dirigez-vous vers la Sagrada Família en l’approchant progressivement plutôt que directement. Le contraste entre les rues environnantes et les formes organiques du bâtiment prépare le regard avant l’arrivée. Prenez autant de temps à l’extérieur qu’à l’intérieur — l’édifice s’exprime autant par sa silhouette que par ses détails.\n\nTerminez la journée par un dîner dans les environs ou de retour dans l’Eixample, en laissant le mouvement du soir remplacer la pression des visites."
+      },
+      {
+        "day": 2,
+        "title": "Vieilles pierres, lumière étroite et répétition",
+        "summary": "Une histoire sans lignes droites.",
+        "details": "Commencez la journée dans le Barri Gòtic, en avançant lentement dans des ruelles qui tournent, se resserrent puis s’ouvrent de façon inattendue. Laissez la répétition guider votre compréhension — traverser deux fois la même place révèle souvent davantage qu’un nouveau quartier.\n\nDans l’après-midi, poursuivez vers El Born, où les ateliers, les petits musées et les cafés prolongent le tissu médiéval dans des usages contemporains. Faites souvent des pauses ; la densité de Barcelone récompense l’immobilité.\n\nÀ l’arrivée du soir, restez dans le quartier pour partager des tapas ou un long repas. Ici, la conversation et le mouvement remplacent naturellement la planification."
+      },
+      {
+        "day": 3,
+        "title": "Hauteur, couleur et chaos maîtrisé",
+        "summary": "Voir Barcelone d’en haut.",
+        "details": "Commencez la journée en montant vers le parc Güell, de préférence tôt afin d’éviter la chaleur et la foule. Depuis les hauteurs, les différentes couches de la ville — quadrillage, collines et mer — s’alignent avec clarté.\n\nPrenez le temps de parcourir lentement les chemins et les terrasses du parc, en vous concentrant sur les couleurs, les formes et la manière dont la ville s’étend au-delà.\n\nDans l’après-midi, redescendez vers les quartiers voisins pour vous reposer et prendre un café, en laissant votre énergie revenir naturellement.\n\nTerminez la journée par une soirée détendue avec peu de projets. Barcelone se révèle mieux sans pression."
+      },
+      {
+        "day": 4,
+        "title": "Air marin, relâchement et départ",
+        "summary": "Laisser la ville se détendre.",
+        "details": "Passez la dernière journée près de la mer, en longeant la Barceloneta ou les promenades voisines du front de mer. L’eau apaise l’intensité de la ville et remplace l’ambition par une forme de légèreté.\n\nProfitez d’un long déjeuner près de la côte, puis revenez à pied vers la ville, en remarquant combien les rues désormais familières semblent plus faciles à parcourir et moins exigeantes.\n\nBarcelone laisse une impression vive — celle d’une ville tenue ensemble par la tension, la couleur et l’instinct."
+      }
+    ],
+    "planning": {
+      "city": "Barcelone, Espagne",
+      "bestTime": {
+        "months": "Avr.–juin (printemps), sept.–oct. (début de l’automne)",
+        "note": "Des températures chaudes mais supportables et de longues journées conviennent parfaitement aux promenades dans les quartiers, aux visites architecturales et aux soirées en bord de mer, sans la chaleur extrême de l’été."
+      },
+      "worstTime": {
+        "months": "Juil.–août (chaud et fréquenté), déc.–févr. (plus frais et plus calme)",
+        "note": "La chaleur estivale et l’affluence rendent la vieille ville plus oppressante, tandis que l’hiver est plus paisible mais moins vivant pour la plage et les activités en plein air."
+      },
+      "tips": [
+        "Planifiez vos matinées avec précision : les sites majeurs comme la Sagrada Família et le parc Güell se découvrent mieux tôt, lors de visites ciblées.",
+        "Laissez les après-midis se relâcher — cafés, marchés et promenades de quartier correspondent au rythme naturel de la ville.",
+        "Distinguez les quartiers par ambiance : Eixample (ordre), El Born/El Raval (instinct), Gràcia (calme local), bord de mer (relâchement).",
+        "Réservez les sites de Gaudí à l’avance ; les files se forment rapidement et peuvent monopoliser la journée.",
+        "Combinez marche et métro — Barcelone est relativement plate, mais les distances finissent par s’accumuler.",
+        "Dînez tard : un repas après 20 h correspond davantage au rythme local et évite l’affluence touristique."
+      ],
+      "withKids": [
+        "Les plages et les larges promenades offrent de l’espace entre les quartiers les plus denses.",
+        "Les marchés et les boulangeries permettent de manger facilement par petites collations.",
+        "Évitez les journées trop chargées en musées ; alternez architecture et activités en plein air.",
+        "Des départs matinaux permettent d’éviter la chaleur et la foule pendant les mois les plus chauds."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Barcelone",
+          "note": "L’aéroport de Barcelone-El Prat est directement relié à la ville par le métro, le train et le taxi. Les correspondances sont efficaces et faciles à comprendre, à l’image de l’ordre sous-jacent de la ville."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le métro et le train permettent de rejoindre facilement l’Eixample et les quartiers centraux. Les taxis sont simples à utiliser et relativement abordables en cas d’arrivée tardive."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de comprendre les contrastes de Barcelone — quadrillages, ruelles médiévales, collines et front de mer s’enchaînent naturellement à pied.",
+        "Le métro est rapide, propre et bien organisé ; il convient parfaitement aux trajets plus longs entre les quartiers.",
+        "Les bus donnent à voir la vie au niveau de la rue, mais ils sont plus lents et gagnent à être utilisés avec mesure.",
+        "Barcelone est en grande partie plate, mais les distances s’additionnent — combinez marche et métro pour préserver votre énergie.",
+        "Le vélo est populaire, mais moins pratique dans les zones denses de la vieille ville."
+      ],
+      "dayTrips": [
+        {
+          "title": "Montserrat",
+          "note": "Une escapade d’une demi-journée ou d’une journée entière offrant paysages, altitude et calme, en contraste avec la densité urbaine. À envisager comme une excursion unique et volontaire."
+        },
+        {
+          "title": "Sitges ou les villes côtières",
+          "note": "De courtes excursions en train vers le littoral apportent une respiration supplémentaire sans perturber le rythme du séjour."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Exploration du quadrillage de l’Eixample",
+          "note": "Les itinéraires de marche linéaires renforcent l’orientation et montrent comment l’ordre soutient la vie quotidienne."
+        },
+        {
+          "title": "Densité de la vieille ville (Barri Gòtic et El Born)",
+          "note": "À découvrir lentement à pied. Les ruelles étroites et la répétition remplacent l’efficacité par la familiarité."
+        },
+        {
+          "title": "Perspective en hauteur (parc Güell)",
+          "note": "Une seule montée volontaire offre une vue d’ensemble sur la ville et renouvelle la compréhension de son espace."
+        },
+        {
+          "title": "Respiration du front de mer",
+          "note": "Les chemins côtiers plats et ouverts réduisent l’intensité et permettent à l’itinéraire de s’achever en douceur."
+        }
+      ],
+      "practical": [
+        "Réservez les sites de Gaudí à l’avance — les créneaux d’entrée structurent davantage la journée que les distances.",
+        "Commencez les visites principales tôt ; la chaleur et la foule augmentent rapidement après le milieu de matinée.",
+        "Organisez les journées par ambiance plutôt que par proximité — ordre, instinct, hauteur et relâchement fonctionnent mieux séparément.",
+        "Emportez de l’eau pendant les mois chauds ; les zones ombragées sont irrégulières hors de la vieille ville.",
+        "Les dîners tardifs correspondent au rythme local et réduisent la pression de la foule.",
+        "Les transports barcelonais sont efficaces, mais la marche reste au cœur de l’expérience."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pain à la tomate",
+        "Jambon ibérique découpé à la demande",
+        "Tapas de fruits de mer grillés, sans sauce",
+        "Bombas, croquettes de pommes de terre",
+        "Paella ou plats de riz à partager le midi",
+        "Vermut et culture de l’apéritif"
+      ],
+      "areas": [
+        {
+          "name": "El Born et Barri Gòtic",
+          "note": "Les rues denses favorisent les petites assiettes, la répétition et les repas pris debout plutôt que la restauration formelle."
+        },
+        {
+          "name": "Eixample",
+          "note": "Les îlots ordonnés se prêtent à des repas assis plus calmes, aux cafés et à un rythme prévisible."
+        },
+        {
+          "name": "Barceloneta et front de mer",
+          "note": "L’air marin prolonge le déjeuner ; la cuisine devient plus légère, plus partagée et moins intense."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Boqueria Market",
+          "area": "La Rambla / Old Town Edge",
+          "reason": "L’appétit de Barcelone concentré en un seul lieu — idéal pour les en-cas, les fruits et quelques bouchées de fruits de mer, plutôt que pour un repas complet.",
+          "imageUrl": "/src/assets/itineraries/spain/barcelona-food/boqueria.jpg",
+          "lat": 41.3816,
+          "lng": 2.1722
+        },
+        {
+          "name": "El Xampanyet",
+          "area": "El Born",
+          "reason": "Tapas debout, vin pétillant et densité — la nourriture comme friction sociale.",
+          "imageUrl": "/src/assets/itineraries/spain/barcelona-food/el-xampanyet.jpg",
+          "lat": 41.3841,
+          "lng": 2.1827
+        },
+        {
+          "name": "Cal Pep",
+          "area": "El Born",
+          "reason": "Un comptoir au rythme soutenu, où l’instinct, le bon moment et la confiance comptent davantage que la carte.",
+          "imageUrl": "/src/assets/itineraries/spain/barcelona-food/cal-pep.jpg",
+          "lat": 41.3839,
+          "lng": 2.183
+        },
+        {
+          "name": "Cervecería Catalana",
+          "area": "Eixample",
+          "reason": "Des tapas servies avec méthode — l’ordre appliqué à l’abondance, de préférence en début de soirée.",
+          "imageUrl": "/src/assets/itineraries/spain/barcelona-food/cerveceria-catalana.jpg",
+          "lat": 41.3914,
+          "lng": 2.1589
+        },
+        {
+          "name": "Barceloneta Seafood Restaurant",
+          "area": "Barceloneta",
+          "reason": "Plats de riz à partager et fruits de mer grillés — un déjeuner accordé au rythme de la mer, sans mise en scène.",
+          "imageUrl": "/src/assets/itineraries/spain/barcelona-food/barceloneta-seafood.jpg",
+          "lat": 41.3786,
+          "lng": 2.1899
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-cordoba-enclosure-shade-and-proportion",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Córdoba",
+    "title": "Cordoue en 2 jours : Enceinte, ombre et proportion",
+    "days": 2,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/2-days-cordoba-enclosure-shade-and-proportion.jpg",
+    "summary": "Cet itinéraire de 2 jours à Cordoue explore une ville définie par les espaces clos et l’équilibre, où chaque espace est mesuré, où l’ombre est précieuse et où la répétition apporte de la clarté. Conçu pour parcourir lentement la Mosquée-Cathédrale, les patios et les ruelles intimes, il présente Cordoue comme une expérience intérieure. La ville se révèle non par son expansion, mais par la manière dont elle contient chaque chose avec soin.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Mosquée-Cathédrale",
+      "Quartier juif",
+      "Jardins de l'Alcázar",
+      "Pont romain",
+      "Patios et ombre",
+      "Une ville façonnée par les proportions et le calme"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, patios et premières impressions",
+        "summary": "Découvrir la ville en resserrant son regard.",
+        "details": "..."
+      },
+      {
+        "day": 2,
+        "title": "Eau, répétition et départ",
+        "summary": "Partir sans élargir son horizon.",
+        "details": "..."
+      }
+    ],
+    "planning": {
+      "city": "Cordoue, Espagne",
+      "bestTime": {
+        "months": "Mars–mai, oct.–nov.",
+        "note": "Températures agréables pour explorer la ville."
+      },
+      "worstTime": {
+        "months": "Juin–août",
+        "note": "La chaleur estivale est extrême."
+      },
+      "tips": [
+        "Utilisez les patios comme refuges.",
+        "Visitez la Mosquée-Cathédrale tôt.",
+        "Explorez lentement à pied.",
+        "Reposez-vous l'après-midi.",
+        "Le pont romain est superbe au coucher du soleil.",
+        "Hydratez-vous."
+      ],
+      "withKids": [
+        "Les patios offrent de l'ombre.",
+        "Évitez les heures les plus chaudes.",
+        "Privilégiez les promenades du soir.",
+        "Gardez toujours de l'eau."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Cordoue",
+          "note": "Accessible en train à grande vitesse depuis Madrid, Séville ou Málaga."
+        },
+        {
+          "title": "Gare → Centre historique",
+          "note": "Taxi, bus ou marche permettent de rejoindre facilement la vieille ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale.",
+        "Les distances sont courtes.",
+        "Les bus sont rarement nécessaires.",
+        "Les taxis sont utiles par forte chaleur.",
+        "La voiture est déconseillée dans le centre historique."
+      ],
+      "dayTrips": [
+        {
+          "title": "Medina Azahara",
+          "note": "Ancienne cité califale à visiter de préférence le matin."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "D'un patio à l'autre",
+          "note": "Les déplacements passent par les patios et jardins."
+        },
+        {
+          "title": "Répéter les mêmes ruelles",
+          "note": "Revenir sur ses pas aide à s'orienter."
+        },
+        {
+          "title": "Chercher l'ombre",
+          "note": "Les itinéraires suivent naturellement les passages ombragés."
+        },
+        {
+          "title": "Vers le fleuve",
+          "note": "Le pont romain apporte une ouverture bienvenue au coucher du soleil."
+        }
+      ],
+      "practical": [
+        "Déplacez-vous le matin et le soir.",
+        "Prenez votre temps.",
+        "Portez des vêtements légers.",
+        "Gardez de l'eau sur vous.",
+        "Évitez d'enchaîner les grands sites.",
+        "Cordoue se comprend en se concentrant sur l'essentiel."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Salmorejo",
+        "Flamenquín",
+        "Aubergines frites au miel",
+        "Queue de bœuf",
+        "Huile d'olive andalouse avec du pain",
+        "Vin de Montilla-Moriles"
+      ],
+      "areas": [
+        {
+          "name": "Quartier juif (Judería)",
+          "note": "Petites tavernes paisibles et patios."
+        },
+        {
+          "name": "Centre historique (autour de la Mosquée-Cathédrale)",
+          "note": "Idéal pour le salmorejo à midi."
+        },
+        {
+          "name": "Bords du fleuve et pont romain",
+          "note": "Parfait pour dîner le soir."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bodegas Campos",
+          "area": "Historic Centre",
+          "reason": "Cuisine traditionnelle dans un patio.",
+          "imageUrl": "/src/assets/itineraries/spain/cordoba-food/bodegas-campos.jpg",
+          "lat": 37.8811,
+          "lng": -4.7765
+        },
+        {
+          "name": "Casa Pepe de la Judería",
+          "area": "Jewish Quarter",
+          "reason": "Cuisine locale près de la Mosquée-Cathédrale.",
+          "imageUrl": "/src/assets/itineraries/spain/cordoba-food/casa-pepe.jpg",
+          "lat": 37.8796,
+          "lng": -4.7789
+        },
+        {
+          "name": "Taberna Salinas",
+          "area": "Historic Centre",
+          "reason": "Cuisine simple et authentique.",
+          "imageUrl": "/src/assets/itineraries/spain/cordoba-food/taberna-salinas.jpg",
+          "lat": 37.8854,
+          "lng": -4.7782
+        },
+        {
+          "name": "El Churrasco",
+          "area": "Near Roman Bridge",
+          "reason": "Idéal pour un dîner en soirée.",
+          "imageUrl": "/src/assets/itineraries/spain/cordoba-food/el-churrasco.jpg",
+          "lat": 37.879,
+          "lng": -4.7803
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-granada-water-shadow-and-patience",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Granada",
+    "title": "Grenade en 3 jours : Eau, ombre et patience",
+    "days": 3,
+    "priceFrom": 220,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/3-days-granada-water-shadow-and-patience.jpg",
+    "summary": "Cet itinéraire de 3 jours à Grenade explore une ville façonnée par l’eau, les espaces clos et une lenteur assumée. Conçu pour équilibrer la puissance discrète de l’Alhambra, les promenades dans les quartiers et le calme des soirées, il présente Grenade comme une expérience d’atmosphère plutôt que d’accumulation. La ville demande de la patience et la récompense par sa profondeur, son ombre et ses souvenirs.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "L'Alhambra et les palais nasrides",
+      "Les jardins du Generalife",
+      "Les ruelles de l'Albaicín",
+      "Le Mirador de San Nicolás au crépuscule",
+      "Les marchés et salons de thé",
+      "Une ville façonnée par l'eau et la retenue"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, vieilles rues et premier calme",
+        "summary": "Laisser la ville ralentir votre rythme.",
+        "details": "..."
+      },
+      {
+        "day": 2,
+        "title": "Pierre, eau et émerveillement",
+        "summary": "Rencontrer le cœur de la ville.",
+        "details": "..."
+      },
+      {
+        "day": 3,
+        "title": "Chemins en hauteur, lumière du soir et départ",
+        "summary": "Quitter la ville par les hauteurs.",
+        "details": "..."
+      }
+    ],
+    "planning": {
+      "city": "Grenade, Espagne",
+      "bestTime": {
+        "months": "Mars–mai, oct.–nov.",
+        "note": "Conditions idéales pour visiter l'Alhambra et les belvédères."
+      },
+      "worstTime": {
+        "months": "Juin–août, déc.–janv.",
+        "note": "Été très chaud, nuits hivernales fraîches."
+      },
+      "tips": [
+        "Réservez l'Alhambra longtemps à l'avance.",
+        "Respectez les montées.",
+        "Suivez les fontaines et jardins.",
+        "Reposez-vous l'après-midi.",
+        "Les miradors sont magiques au crépuscule.",
+        "Privilégiez les tapas le soir."
+      ],
+      "withKids": [
+        "Les jardins offrent de l'ombre.",
+        "Une seule grande montée par jour.",
+        "Les points de vue plaisent aux enfants.",
+        "Gardez toujours de l'eau."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Grenade",
+          "note": "Accessible en train et en bus depuis les grandes villes andalouses."
+        },
+        {
+          "title": "Gare / Gare routière → Ville",
+          "note": "Le centre historique est rapidement accessible."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir la ville.",
+        "Les bus desservent l'Alhambra et l'Albaicín.",
+        "Les taxis sont utiles pour les montées.",
+        "La voiture est déconseillée."
+      ],
+      "dayTrips": [
+        {
+          "title": "Piémont de la Sierra Nevada",
+          "note": "Une escapade en montagne."
+        },
+        {
+          "title": "Les villages des Alpujarras",
+          "note": "Villages blancs paisibles au sud de Grenade."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Déplacements verticaux",
+          "note": "Montées et descentes progressives."
+        },
+        {
+          "title": "Chemins guidés par l'eau",
+          "note": "Fontaines et rues ombragées rythment les promenades."
+        },
+        {
+          "title": "Une montée principale",
+          "note": "L'Alhambra constitue l'effort majeur."
+        },
+        {
+          "title": "Belvédères au crépuscule",
+          "note": "Le meilleur moment pour admirer la ville."
+        }
+      ],
+      "practical": [
+        "Réservez l'Alhambra à l'avance.",
+        "Prenez votre temps.",
+        "Reposez-vous à midi.",
+        "Portez de bonnes chaussures.",
+        "Ayez toujours de l'eau.",
+        "Revenez dans les mêmes rues de l'Albaicín."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Culture des tapas offertes avec les boissons",
+        "Grillades simples",
+        "Ragoûts andalous",
+        "Plats d'inspiration marocaine",
+        "Thé à la menthe et pâtisseries",
+        "Petites assiettes le soir"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Le meilleur endroit pour découvrir les tapas."
+        },
+        {
+          "name": "Albaicín (bas des pentes)",
+          "note": "Une récompense après la montée."
+        },
+        {
+          "name": "Realejo",
+          "note": "Quartier local et authentique."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bodegas Castañeda",
+          "area": "Historic Centre",
+          "reason": "L'esprit des tapas de Grenade.",
+          "imageUrl": "/src/assets/itineraries/spain/granada-food/bodegas-castaneda.jpg",
+          "lat": 37.1763,
+          "lng": -3.5986
+        },
+        {
+          "name": "Los Diamantes",
+          "area": "City Centre",
+          "reason": "Tapas de fruits de mer.",
+          "imageUrl": "/src/assets/itineraries/spain/granada-food/los-diamantes.jpg",
+          "lat": 37.1746,
+          "lng": -3.5992
+        },
+        {
+          "name": "Bar Casa Julio",
+          "area": "Lower Albaicín edge",
+          "reason": "Petite carte parfaite après une montée.",
+          "imageUrl": "/src/assets/itineraries/spain/granada-food/casa-julio.jpg",
+          "lat": 37.1774,
+          "lng": -3.5974
+        },
+        {
+          "name": "Tetería Carmen del Campillo",
+          "area": "Albaicín",
+          "reason": "Thé à la menthe et pâtisseries dans une ambiance paisible.",
+          "imageUrl": "/src/assets/itineraries/spain/granada-food/teteria-albaicin.jpg",
+          "lat": 37.18,
+          "lng": -3.5924
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-madrid-after-dark-the-city-wakes",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Madrid",
+    "title": "Madrid en 4 jours : À la nuit tombée, la ville s’éveille",
+    "days": 4,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/4-days-madrid-after-dark-the-city-wakes.jpg",
+    "summary": "Cet itinéraire de 4 jours à Madrid explore la capitale espagnole à travers l’art, la vie de quartier et un rythme nocturne qui définit la ville autant que ses musées. Conçu pour équilibrer collections de renommée mondiale, grands parcs et soirées tardives, il présente Madrid comme une ville qui se comprend davantage par le temps que par le spectacle. Madrid ne se presse pas — elle attend le soir pour se montrer pleinement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le musée du Prado et le triangle de l’art",
+      "La Gran Vía et les grandes artères de la ville",
+      "Le parc du Retiro et ses vastes espaces verts",
+      "Les soirées dans les quartiers de Malasaña et La Latina",
+      "Les dîners tardifs et les promenades nocturnes",
+      "Une capitale façonnée par le rythme, non par l’urgence"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, boulevards et première soirée",
+        "summary": "Découvrir la ville en mouvement.",
+        "details": "Arrivez à Madrid et commencez par une promenade le long de la Gran Vía, où l’échelle, la circulation et la lumière affirment immédiatement l’assurance de la ville. Marchez sans destination précise, en laissant les théâtres, les boutiques et les cafés vous présenter l’intensité quotidienne de la capitale.\n\nDans l’après-midi, glissez-vous dans les rues adjacentes pour prendre un café et vous reposer. La densité de Madrid invite aux pauses — l’énergie se conserve pour plus tard.\n\nÀ l’approche du soir, prenez un dîner détendu puis continuez à marcher. La ville n’atteint pas son apogée tôt ; Madrid commence réellement à se dévoiler après la tombée de la nuit, lorsque les rues se remplissent et que le temps s’étire naturellement."
+      },
+      {
+        "day": 2,
+        "title": "Art, gravité et plein air",
+        "summary": "Porter l’histoire avec légèreté.",
+        "details": "Commencez la journée au musée du Prado, en privilégiant la profondeur plutôt que l’exhaustivité. Accordez du temps à un nombre limité d’œuvres afin de laisser leur ampleur et leur gravité s’installer sans fatigue.\n\nDans l’après-midi, rejoignez directement le parc du Retiro, où les arbres, les chemins et les espaces ouverts permettent de relâcher le poids du musée. Marchez lentement, asseyez-vous souvent et observez comment les habitants utilisent le parc comme le prolongement de leur salon.\n\nTerminez la journée par un dîner près du parc ou en revenant vers le centre, en gardant une soirée longue et sans programme rigide."
+      },
+      {
+        "day": 3,
+        "title": "Rues de quartier et culture nocturne",
+        "summary": "Madrid vécue, non visitée.",
+        "details": "Passez la matinée à explorer des quartiers comme Malasaña ou La Latina, où les rues résidentielles, les marchés et les cafés définissent le rythme quotidien. Parcourez plusieurs fois les mêmes rues — ici, la familiarité compte davantage que la nouveauté.\n\nDans l’après-midi, accordez-vous un long déjeuner ou un moment de repos. Madrid respecte le ralentissement de l’après-midi.\n\nÀ la nuit tombée, revenez dans ces quartiers pour les tapas, les conversations et les déplacements improvisés entre bars et rues. La vie sociale de la ville se déploie naturellement et tardivement."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, aisance et départ",
+        "summary": "Partir sans chercher de conclusion.",
+        "details": "Profitez de la dernière matinée pour retourner dans un café, sur un chemin du parc ou le long d’un boulevard que vous avez apprécié. La familiarité transforme l’échelle de Madrid en confort.\n\nSavourez un dernier déjeuner avant le départ, en remarquant combien la ville reste active sans jamais sembler pressée.\n\nMadrid laisse une impression nette — celle d’un lieu qui porte la culture le jour et se donne pleinement la nuit."
+      }
+    ],
+    "planning": {
+      "city": "Madrid, Espagne",
+      "bestTime": {
+        "months": "Avr.–mai (printemps), sept.–oct. (début de l’automne)",
+        "note": "Les journées chaudes, les nuits plus fraîches et les longues soirées conviennent parfaitement aux dîners tardifs, à la vie sur les places et aux longues promenades dans les quartiers."
+      },
+      "worstTime": {
+        "months": "Juil.–août (très chaud), déc.–janv. (froid et journées plus courtes)",
+        "note": "La forte chaleur estivale limite les activités en journée, tandis que l’hiver raccourcit les soirées et réduit l’animation nocturne en plein air."
+      },
+      "tips": [
+        "Décalez votre emploi du temps : prévoyez les visites de la fin de matinée au milieu de l’après-midi et gardez de l’énergie pour les soirées.",
+        "Un musée par jour suffit — associez-le à un parc ou à un café pour éviter la saturation culturelle.",
+        "Les quartiers définissent la nuit : La Latina pour les tapas, Malasaña pour les bars et Chueca pour les dîners tardifs, chacun correspondant à une ambiance différente.",
+        "Les dîners commencent tard, vers 21 h ou 22 h ; adoptez les tapas prises au fil de la soirée plutôt qu’un repas à heure fixe.",
+        "Marchez entre les étapes — le centre de Madrid est compact et reste animé tard dans la soirée.",
+        "Utilisez le métro pour rentrer tard ; il est efficace et bien éclairé."
+      ],
+      "withKids": [
+        "Les parcs comme le Retiro offrent de l’espace et de l’ombre pendant les heures les plus chaudes.",
+        "Avec des enfants, les tapas en début de soirée sont plus adaptées que les dîners très tardifs.",
+        "Les places piétonnes permettent de se déplacer tranquillement après la tombée de la nuit.",
+        "Prévoyez des journées plus courtes — la vie nocturne peut rapidement épuiser l’énergie."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Madrid",
+          "note": "L’aéroport Adolfo-Suárez Madrid-Barajas est bien relié au centre-ville, renforçant le rôle de Madrid comme principal carrefour accessible et bien organisé d’Espagne."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le métro et les bus express offrent un accès rapide et prévisible au centre de Madrid. Les taxis sont abordables et fiables, notamment pour les arrivées tardives."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir le centre de Madrid — la plupart des quartiers essentiels se trouvent à une distance confortable les uns des autres.",
+        "Le métro est propre, rapide et idéal pour préserver votre énergie en vue des soirées.",
+        "Les bus permettent de découvrir la ville en surface, mais ils sont plus lents que le métro.",
+        "Les taxis sont abordables et pratiques tard dans la nuit, lorsque la fatigue se fait sentir.",
+        "Le vélo est possible, mais il est moins intégré aux déplacements quotidiens que la marche ou le métro."
+      ],
+      "dayTrips": [
+        {
+          "title": "Tolède",
+          "note": "Une ville historique compacte offrant un contraste spectaculaire de formes et de densité. À envisager comme une excursion ciblée d’une demi-journée ou d’une journée entière."
+        },
+        {
+          "title": "Ségovie",
+          "note": "L’ingénierie romaine et les perspectives en hauteur offrent un contraste architectural avec l’échelle plus horizontale de Madrid."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Repères le long des boulevards",
+          "note": "La Gran Vía et les grandes artères voisines permettent de comprendre l’échelle et le rythme de la ville par le mouvement plutôt que par la destination."
+        },
+        {
+          "title": "Du musée au parc",
+          "note": "Associer le Prado au parc du Retiro permet au poids culturel de se dissiper naturellement grâce à l’espace et à la verdure."
+        },
+        {
+          "title": "Répétition dans les quartiers",
+          "note": "Parcourir plusieurs fois Malasaña ou La Latina renforce la familiarité et accompagne le rythme social de Madrid."
+        },
+        {
+          "title": "Mouvement après la tombée de la nuit",
+          "note": "Les déplacements tardifs privilégient la marche entre les rues, les bars et les places plutôt qu’un itinéraire de transport fixe."
+        }
+      ],
+      "practical": [
+        "Gardez davantage d’énergie pour la fin de journée — Madrid récompense davantage les soirées que les matinées très précoces.",
+        "Utilisez le métro pour préserver votre endurance en vue des promenades nocturnes et des moments de convivialité.",
+        "Évitez de conduire ; le stationnement est limité et inutile dans le centre.",
+        "Marcher tard le soir est courant et culturellement normal dans les quartiers centraux.",
+        "Hydratez-vous et reposez-vous en milieu d’après-midi — la chaleur et les nuits tardives accentuent la fatigue.",
+        "Madrid se savoure mieux lorsqu’on revient sur ses pas plutôt que lorsqu’on la parcourt dans la précipitation."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Jambon ibérique et charcuteries simples",
+        "Tortilla espagnole",
+        "Bocadillo de calamares",
+        "Patatas bravas",
+        "Croquetas",
+        "Tapas prises au fil de la soirée"
+      ],
+      "areas": [
+        {
+          "name": "La Latina",
+          "note": "Un quartier centré sur les tapas, où l’on mange en se déplaçant, en discutant et en revenant plusieurs fois aux mêmes endroits."
+        },
+        {
+          "name": "Malasaña",
+          "note": "Bars décontractés, cuisines ouvertes tard et boissons partagées — la nourriture accompagne la nuit plutôt qu’elle ne la dirige."
+        },
+        {
+          "name": "Centre-ville (abords de Sol et de la Gran Vía)",
+          "note": "Plats classiques et restauration rapide et pratique — idéal pour le déjeuner ou les en-cas tardifs."
+        }
+      ],
+      "places": [
+        {
+          "name": "Casa Lucas",
+          "area": "La Latina",
+          "reason": "Des tapas de grande qualité dans un espace bondé où l’on mange debout — la cuisine madrilène comme concentration sociale.",
+          "imageUrl": "/src/assets/itineraries/spain/madrid-food/casa-lucas.jpg",
+          "lat": 40.4126,
+          "lng": -3.7083
+        },
+        {
+          "name": "Taberna El Sur",
+          "area": "Lavapiés",
+          "reason": "Des plats généreux et sans prétention, conçus pour accompagner de longues conversations plutôt qu’un service rapide.",
+          "imageUrl": "/src/assets/itineraries/spain/madrid-food/taberna-el-sur.jpg",
+          "lat": 40.4104,
+          "lng": -3.7009
+        },
+        {
+          "name": "Bodega de la Ardosa",
+          "area": "Malasaña",
+          "reason": "Tortilla classique et culture du vermouth — petit espace, forte densité et rythme madrilène intemporel.",
+          "imageUrl": "/src/assets/itineraries/spain/madrid-food/bodega-ardosa.jpg",
+          "lat": 40.4271,
+          "lng": -3.7024
+        },
+        {
+          "name": "El Tigre",
+          "area": "Chueca",
+          "reason": "La nourriture servie avec les boissons — généreuse, bruyante et résolument madrilène.",
+          "imageUrl": "/src/assets/itineraries/spain/madrid-food/el-tigre.jpg",
+          "lat": 40.4213,
+          "lng": -3.6977
+        },
+        {
+          "name": "Mercado de San Miguel",
+          "area": "City Centre",
+          "reason": "Un lieu plein d’atmosphère mais très fréquenté — à considérer comme une étape de découverte et de dégustation plutôt que comme un repas complet.",
+          "imageUrl": "/src/assets/itineraries/spain/madrid-food/san-miguel.jpg",
+          "lat": 40.4155,
+          "lng": -3.7082
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-malaga-sun-ground-and-everyday-life",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Málaga",
+    "title": "Málaga en 3 jours : Soleil, ancrage et vie quotidienne",
+    "days": 3,
+    "priceFrom": 215,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/3-days-malaga-sun-ground-and-everyday-life.jpg",
+    "summary": "Cet itinéraire de 3 jours à Málaga explore une ville façonnée par la lumière, l’accessibilité et la continuité. Conçu pour équilibrer histoire perchée, quartiers culturels compacts et littoral ouvert, il présente Málaga comme une ville à vivre plutôt qu’une simple station balnéaire ou une étape culturelle. Málaga se révèle par sa simplicité : une ville à l’aise dans son propre rythme, où la vie quotidienne compte autant que les monuments.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La forteresse de l’Alcazaba et ses vues",
+      "Le centre historique et ses rues piétonnes",
+      "Le musée Picasso et la culture contemporaine",
+      "La promenade de Muelle Uno",
+      "La plage de La Malagueta",
+      "Une ville façonnée par la lumière et le quotidien"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rues et premiers repères",
+        "summary": "Découvrir Málaga au niveau de la rue.",
+        "details": "..."
+      },
+      {
+        "day": 2,
+        "title": "Hauteur, pierre et douceur méditerranéenne",
+        "summary": "Comprendre la ville par son relief.",
+        "details": "..."
+      },
+      {
+        "day": 3,
+        "title": "Air marin, répétition et départ",
+        "summary": "Quitter la ville en douceur.",
+        "details": "..."
+      }
+    ],
+    "planning": {
+      "city": "Málaga, Espagne",
+      "bestTime": {
+        "months": "Avr.–juin, sept.–oct.",
+        "note": "Des journées agréables pour explorer sans fortes chaleurs."
+      },
+      "worstTime": {
+        "months": "Juil.–août, déc.–févr.",
+        "note": "Été très chaud, hiver plus calme."
+      },
+      "tips": [
+        "Découvrez la ville à hauteur de rue.",
+        "Visitez l’Alcazaba tôt.",
+        "Laissez les repas rythmer la journée.",
+        "Utilisez Muelle Uno comme pause.",
+        "Un musée par jour suffit.",
+        "Protégez-vous du soleil."
+      ],
+      "withKids": [
+        "Centre plat.",
+        "Plage tôt ou tard.",
+        "Pauses glace.",
+        "Évitez la chaleur."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Málaga",
+          "note": "Aéroport bien relié."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Train rapide, taxis abordables."
+        }
+      ],
+      "gettingAround": [
+        "Marche idéale.",
+        "Centre à pied.",
+        "Bus utiles.",
+        "Taxis pratiques.",
+        "Vélo surtout en bord de mer."
+      ],
+      "dayTrips": [
+        {
+          "title": "Ronda",
+          "note": "Excursion d'une journée."
+        },
+        {
+          "title": "Villages blancs (Frigiliana ou Mijas)",
+          "note": "Courtes escapades."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Centre historique",
+          "note": "Explorer lentement."
+        },
+        {
+          "title": "Alcazaba et Gibralfaro",
+          "note": "Une montée principale."
+        },
+        {
+          "title": "Port et front de mer",
+          "note": "Moment de détente."
+        },
+        {
+          "title": "Plage",
+          "note": "Fin paisible."
+        }
+      ],
+      "practical": [
+        "Montez tôt.",
+        "Programme souple.",
+        "Protection solaire.",
+        "Évitez la voiture.",
+        "Repas comme repères.",
+        "Revenez dans les mêmes rues."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Espetos de sardines",
+        "Pescaíto frito",
+        "Boquerones au citron",
+        "Gazpacho ou ajoblanco",
+        "Jambon et tapas simples",
+        "Culture du café en journée"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Tapas et cafés structurent la journée."
+        },
+        {
+          "name": "La Malagueta et front de mer",
+          "note": "Les fruits de mer dominent le déjeuner."
+        },
+        {
+          "name": "Port et Muelle Uno",
+          "note": "Repas légers et cafés."
+        }
+      ],
+      "places": [
+        {
+          "name": "El Pimpi",
+          "area": "Historic Centre",
+          "reason": "Adresse emblématique.",
+          "imageUrl": "/src/assets/itineraries/spain/malaga-food/el-pimpi.jpg",
+          "lat": 36.7216,
+          "lng": -4.4185
+        },
+        {
+          "name": "Casa Lola",
+          "area": "Historic Centre",
+          "reason": "Tapas simples.",
+          "imageUrl": "/src/assets/itineraries/spain/malaga-food/casa-lola.jpg",
+          "lat": 36.7204,
+          "lng": -4.4203
+        },
+        {
+          "name": "Chiringuito El Tintero",
+          "area": "Seafront",
+          "reason": "Restaurant de plage emblématique.",
+          "imageUrl": "/src/assets/itineraries/spain/malaga-food/el-tintero.jpg",
+          "lat": 36.7208,
+          "lng": -4.3624
+        },
+        {
+          "name": "Chiringuito El Cachalote",
+          "area": "La Malagueta",
+          "reason": "Poissons grillés.",
+          "imageUrl": "/src/assets/itineraries/spain/malaga-food/el-cachalote.jpg",
+          "lat": 36.7169,
+          "lng": -4.4128
+        },
+        {
+          "name": "Mercado de Atarazanas",
+          "area": "Historic Centre",
+          "reason": "Marché idéal pour grignoter.",
+          "imageUrl": "/src/assets/itineraries/spain/malaga-food/atarazanas.jpg",
+          "lat": 36.7194,
+          "lng": -4.4233
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-seville-living-by-ritual-and-heat",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Seville",
+    "title": "Séville en 4 jours : Vivre au rythme des rituels et de la chaleur",
+    "days": 4,
+    "priceFrom": 225,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/4-days-seville-living-by-ritual-and-heat.jpg",
+    "summary": "Cet itinéraire de 4 jours à Séville explore la capitale andalouse à travers la dévotion, la répétition et une relation apaisée avec la chaleur. Conçu pour équilibrer monuments emblématiques, ruelles ombragées et longues soirées, il présente Séville non comme un spectacle mais comme un mode de vie rythmé par les rituels. La ville se révèle lentement, au fil des patios, des cloches et du retour vers des chemins familiers.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Plaza de España",
+      "Les jardins du Real Alcázar",
+      "Le quartier Santa Cruz",
+      "Triana et le Guadalquivir",
+      "Dîners tardifs et promenades du soir",
+      "Une ville façonnée par les rituels et la répétition"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, pierre ouverte et premières ombres",
+        "summary": "Apprendre le rythme de la chaleur.",
+        "details": "..."
+      },
+      {
+        "day": 2,
+        "title": "Jardins, murailles et héritage",
+        "summary": "Une histoire en couches.",
+        "details": "..."
+      },
+      {
+        "day": 3,
+        "title": "Traverser le fleuve et découvrir le quotidien",
+        "summary": "Quitter le cœur monumental.",
+        "details": "..."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, patios et départ",
+        "summary": "Partir grâce à la familiarité.",
+        "details": "..."
+      }
+    ],
+    "planning": {
+      "city": "Séville, Espagne",
+      "bestTime": {
+        "months": "Mars–mai, oct.–nov.",
+        "note": "Températures agréables pour visiter la ville."
+      },
+      "worstTime": {
+        "months": "Juin–août",
+        "note": "La chaleur dépasse souvent 40°C."
+      },
+      "tips": [
+        "Organisez vos journées selon le soleil.",
+        "Réservez l'Alcázar et la cathédrale.",
+        "Profitez des patios et jardins.",
+        "Traversez vers Triana le soir.",
+        "Dînez après 21 h.",
+        "Emportez toujours de l'eau."
+      ],
+      "withKids": [
+        "Patios ombragés.",
+        "Évitez 13 h–17 h.",
+        "Promenades du soir.",
+        "Chapeau, crème solaire et gourde."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Séville",
+          "note": "Bien desservie par le train à grande vitesse et l'avion."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Bus et taxis permettent un accès facile."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale.",
+        "Tram et bus utiles.",
+        "Taxis pratiques par forte chaleur.",
+        "Le vélo convient surtout le long du fleuve."
+      ],
+      "dayTrips": [
+        {
+          "title": "Cordoue",
+          "note": "Excursion idéale tôt le matin."
+        },
+        {
+          "title": "Carmona",
+          "note": "Charmante ville andalouse proche."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Des espaces ouverts aux rues ombragées",
+          "note": "Alternez places et patios."
+        },
+        {
+          "title": "Navigation par l'ombre",
+          "note": "Privilégiez les ruelles étroites."
+        },
+        {
+          "title": "Traversée vers Triana",
+          "note": "Contraste social et urbain."
+        },
+        {
+          "title": "Retour dans les rues le soir",
+          "note": "La ville reprend vie après le coucher du soleil."
+        }
+      ],
+      "practical": [
+        "Laissez la chaleur guider votre rythme.",
+        "Marchez matin et soir.",
+        "Évitez de conduire dans le centre.",
+        "Gardez de l'eau sur vous.",
+        "Le repos fait partie de la culture.",
+        "Revenez dans les mêmes rues."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Espinacas con garbanzos",
+        "Jambon ibérique",
+        "Salmorejo",
+        "Croquetas",
+        "Poisson grillé",
+        "Tapas tardives à partager"
+      ],
+      "areas": [
+        {
+          "name": "Santa Cruz",
+          "note": "Ruelles ombragées et bars à tapas."
+        },
+        {
+          "name": "Triana",
+          "note": "Cuisine locale authentique."
+        },
+        {
+          "name": "Centre historique (El Arenal / cathédrale)",
+          "note": "Tavernes traditionnelles."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bodeguita Romero",
+          "area": "Historic Centre",
+          "reason": "Classiques sévillans servis simplement.",
+          "imageUrl": "/src/assets/itineraries/spain/seville-food/bodeguita-romero.jpg",
+          "lat": 37.3864,
+          "lng": -5.9953
+        },
+        {
+          "name": "Las Golondrinas",
+          "area": "Triana",
+          "reason": "Adresse appréciée pour ses grillades.",
+          "imageUrl": "/src/assets/itineraries/spain/seville-food/las-golondrinas.jpg",
+          "lat": 37.3826,
+          "lng": -6.0019
+        },
+        {
+          "name": "Casa Morales",
+          "area": "El Arenal",
+          "reason": "Taverne traditionnelle et tapas.",
+          "imageUrl": "/src/assets/itineraries/spain/seville-food/casa-morales.jpg",
+          "lat": 37.3869,
+          "lng": -5.9972
+        },
+        {
+          "name": "Eslava",
+          "area": "Historic Centre",
+          "reason": "Cuisine andalouse moderne fidèle à la tradition.",
+          "imageUrl": "/src/assets/itineraries/spain/seville-food/eslava.jpg",
+          "lat": 37.3991,
+          "lng": -5.9926
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-valencia-light-space-and-forward-motion",
+    "region": "europe",
+    "country": "Spain",
+    "city": "Valencia",
+    "title": "Valence en 3 jours : Lumière, espace et élan vers l’avenir",
+    "days": 3,
+    "priceFrom": 220,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/spain/3-days-valencia-light-space-and-forward-motion.jpg",
+    "summary": "Cet itinéraire de 3 jours à Valence explore une ville façonnée par l’ouverture et l’intention, où un ancien lit de rivière est devenu une vaste coulée verte, où l’architecture moderne regarde vers l’avenir et où la Méditerranée reste toujours proche. En équilibrant ruelles historiques, grands espaces publics et douceur du littoral, il révèle une ville qui avance sereinement, guidée par la lumière et les proportions plutôt que par l’urgence.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Cité des Arts et des Sciences",
+      "Les jardins du Turia",
+      "Le centre historique et ses places",
+      "La plage de la Malvarrosa",
+      "La cuisine méditerranéenne",
+      "Une ville ouverte et équilibrée"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, vieilles pierres et sérénité",
+        "summary": "Comprendre la ville avant son échelle.",
+        "details": "..."
+      },
+      {
+        "day": 2,
+        "title": "La coulée verte et la ville moderne",
+        "summary": "Voir la ville s'étendre.",
+        "details": "..."
+      },
+      {
+        "day": 3,
+        "title": "Air marin et départ",
+        "summary": "Laisser la ville respirer.",
+        "details": "..."
+      }
+    ],
+    "planning": {
+      "city": "Valence, Espagne",
+      "bestTime": {
+        "months": "Mars–mai, sept.–oct.",
+        "note": "Conditions idéales pour marcher, visiter et profiter de la plage."
+      },
+      "worstTime": {
+        "months": "Juil.–août, déc.–janv.",
+        "note": "Été chaud et humide ; hiver plus calme."
+      },
+      "tips": [
+        "Profitez chaque jour des jardins du Turia.",
+        "Séparez vieille ville et architecture moderne.",
+        "Organisez-vous selon la lumière.",
+        "La paella se mange traditionnellement à midi.",
+        "Le vélo est idéal.",
+        "Hydratez-vous."
+      ],
+      "withKids": [
+        "Aires de jeux dans les jardins du Turia.",
+        "La Cité des Sciences est ludique.",
+        "Préférez la plage le matin.",
+        "Terrain plat et facile."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée → Valence",
+          "note": "Bien reliée par train à grande vitesse et avion."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "Métro et taxis assurent un accès rapide au centre."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique se découvre à pied.",
+        "Le vélo est excellent le long du Turia.",
+        "Métro et tram sont pratiques.",
+        "Les taxis sont abordables."
+      ],
+      "dayTrips": [
+        {
+          "title": "Parc naturel de l'Albufera",
+          "note": "Zones humides, rizières et couchers de soleil."
+        },
+        {
+          "title": "Xàtiva",
+          "note": "Ville historique dominée par son château."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Déplacements linéaires",
+          "note": "Les jardins du Turia relient les quartiers."
+        },
+        {
+          "title": "Changement progressif d'échelle",
+          "note": "Transition harmonieuse entre ancien et moderne."
+        },
+        {
+          "title": "La mer comme conclusion",
+          "note": "Les itinéraires se terminent naturellement sur le littoral."
+        },
+        {
+          "title": "Suivre la lumière",
+          "note": "Matin et fin d'après-midi pour marcher."
+        }
+      ],
+      "practical": [
+        "Inutile de conduire.",
+        "Le vélo réduit la fatigue.",
+        "Adaptez-vous à la lumière.",
+        "Le tram est idéal pour la plage.",
+        "Gardez de l'eau sur vous.",
+        "Reprenez souvent les mêmes chemins dans le Turia."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Paella valencienne (à midi)",
+        "Arroz del señoret",
+        "Fideuà",
+        "Horchata avec fartons",
+        "Fruits de mer méditerranéens",
+        "Tapas à partager"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique (Ciutat Vella)",
+          "note": "Tavernes traditionnelles idéales pour le déjeuner."
+        },
+        {
+          "name": "Ruzafa",
+          "note": "Quartier moderne à l'ambiance détendue."
+        },
+        {
+          "name": "Malvarrosa et Patacona",
+          "note": "Restaurants de riz face à la mer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Casa Carmela",
+          "area": "Patacona / Beach edge",
+          "reason": "Paella traditionnelle cuite au feu de bois.",
+          "imageUrl": "/src/assets/itineraries/spain/valencia-food/casa-carmela.jpg",
+          "lat": 39.4785,
+          "lng": -0.3267
+        },
+        {
+          "name": "El Racó de la Paella",
+          "area": "City Centre",
+          "reason": "Excellents plats de riz dans une ambiance simple.",
+          "imageUrl": "/src/assets/itineraries/spain/valencia-food/el-raco-de-la-paella.jpg",
+          "lat": 39.4706,
+          "lng": -0.3782
+        },
+        {
+          "name": "Canalla Bistro",
+          "area": "Ruzafa",
+          "reason": "Cuisine méditerranéenne moderne et décontractée.",
+          "imageUrl": "/src/assets/itineraries/spain/valencia-food/canalla-bistro.jpg",
+          "lat": 39.4629,
+          "lng": -0.3701
+        },
+        {
+          "name": "La Pepica",
+          "area": "Malvarrosa",
+          "reason": "Institution historique en bord de mer, idéale pour le déjeuner.",
+          "imageUrl": "/src/assets/itineraries/spain/valencia-food/la-pepica.jpg",
+          "lat": 39.4749,
+          "lng": -0.3236
+        }
+      ]
+    }
+  }

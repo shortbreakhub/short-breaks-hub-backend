@@ -1,0 +1,597 @@
+
+  {
+    "slug": "3-days-bohol-where-the-land-shifts-softly",
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "city": "Bohol",
+    "title": "Bohol en 3 jours : là où la terre se transforme en douceur",
+    "days": 3,
+    "priceFrom": 190,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/philippines/3-days-bohol-where-the-land-shifts-softly.jpg",
+    "summary": "Cet itinéraire de 3 jours à Bohol explore l’intérieur paisible de l’île, ses côtes tranquilles et la vie rurale du quotidien. Conçu comme un contrepoint apaisant aux destinations plus animées, il équilibre sites naturels, déplacements lents et temps libre, permettant aux paysages et au rythme de Bohol de se révéler sans précipitation.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Paysage des Chocolate Hills",
+      "Vie au bord de la rivière et berges ombragées",
+      "Villages ruraux et routes de campagne",
+      "Plages paisibles et lumière côtière",
+      "Cuisine locale et petits marchés",
+      "Rythme insulaire sans précipitation"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte de l’île",
+        "summary": "Premier contact avec le rythme paisible de Bohol.",
+        "details": "Arrivez à Bohol et installez-vous dans le rythme détendu de l’île. Passez l’après-midi à explorer les routes de campagne ou les petites zones côtières voisines, en observant comment la terre, l’eau et la vie quotidienne se rencontrent naturellement.\n\nNe vous précipitez pas vers les activités : l’objectif est de prendre vos repères. Terminez la journée par un dîner tranquille et une nuit reposante, en laissant le calme de l’île s’installer."
+      },
+      {
+        "day": 2,
+        "title": "Collines, rivières et sérénité intérieure",
+        "summary": "Des paysages façonnés par le temps plutôt que par le mouvement.",
+        "details": "Consacrez la journée à la découverte de l’intérieur de Bohol. Visitez la région des Chocolate Hills en parcourant lentement les points de vue afin d’apprécier l’ampleur et les subtiles variations du paysage plutôt que de considérer le site comme un simple arrêt.\n\nPoursuivez vers les berges ombragées des rivières, où l’eau serpente doucement entre les palmiers et les villages. Déjeunez sans vous presser, puis profitez d’un après-midi détendu avant de revenir à votre hébergement. L’accent est mis sur la continuité plutôt que sur la quantité de lieux visités."
+      },
+      {
+        "day": 3,
+        "title": "Lumière du littoral et au revoir",
+        "summary": "Partir dans le calme.",
+        "details": "Passez votre dernière matinée près de la côte ou dans un village devenu familier. Promenez-vous sur une plage tranquille, écoutez le bruit de l’eau ou retournez dans votre endroit préféré.\n\nProfitez d’un déjeuner détendu avant votre départ. Bohol laisse une impression discrète : une terre qui change de forme sans bruit et des journées qui s’écoulent sans chercher à attirer l’attention."
+      }
+    ],
+    "planning": {
+      "city": "Bohol (Tagbilaran / Panglao), Philippines",
+      "bestTime": {
+        "months": "Décembre–mai (meilleure période), janvier–février (plus frais et plus sec)",
+        "note": "Ces mois offrent un temps plus sec et un ciel dégagé, idéal pour les excursions vers les Chocolate Hills, les croisières paisibles sur la rivière Loboc et les moments de détente sur les plages de Panglao."
+      },
+      "worstTime": {
+        "months": "Juin–novembre (saison des pluies et risque de typhons), avril–mai (très chaud)",
+        "note": "De juin à novembre, les fortes pluies peuvent affecter les routes de l’intérieur et le niveau des rivières. Avril et mai sont chauds et humides, rendant les trajets de campagne plus fatigants à la mi-journée."
+      },
+      "tips": [
+        "Choisissez bien votre base : Panglao est idéale pour les plages et les soirées, tandis que les sites de l’intérieur se visitent facilement en une journée en boucle.",
+        "Partez tôt pour les excursions dans les terres : les Chocolate Hills et les sanctuaires de tarsiers sont plus frais et plus calmes avant l’arrivée des groupes.",
+        "Respectez la faune : privilégiez les sanctuaires de tarsiers agréés, gardez une voix basse et évitez le flash.",
+        "Les croisières sur la rivière Loboc sont plus paisibles en fin de matinée ; si possible, évitez l’affluence du déjeuner.",
+        "Privilégiez un chauffeur privé ou une voiture pour explorer la campagne ; les distances sont modérées mais les sites sont dispersés.",
+        "Gardez des espèces pour les zones rurales ; les distributeurs sont rares hors de Tagbilaran et Panglao."
+      ],
+      "withKids": [
+        "Les points de vue des Chocolate Hills comportent des escaliers ; avancez à votre rythme et évitez la chaleur de midi.",
+        "Les croisières fluviales offrent une pause ombragée et reposante entre les visites.",
+        "Les plages de Panglao sont douces et adaptées aux familles ; prévoyez du temps libre au bord de la mer l’après-midi.",
+        "Emportez chapeaux, crème solaire et eau ; l’ombre est limitée aux points de vue de la campagne."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Cebu → Bohol (Tagbilaran / Panglao)",
+          "note": "Le plus courant est le ferry entre le port de Cebu et Tagbilaran (≈2 h), puis un tricycle ou un minibus jusqu’aux complexes de Panglao (≈30–45 min). Des vols arrivent également à l’aéroport international de Panglao (TAG), avec de courts transferts vers les plages."
+        }
+      ],
+      "gettingAround": [
+        "Un chauffeur privé ou une voiture de location est le moyen le plus pratique pour explorer l’intérieur de Bohol.",
+        "La location de scooter est possible pour les conducteurs expérimentés, mais les routes de campagne sont longues et peu ombragées.",
+        "Les tricycles conviennent uniquement aux courts trajets autour de Panglao et Tagbilaran."
+      ],
+      "dayTrips": [
+        {
+          "title": "Chocolate Hills et boucle dans l’intérieur",
+          "note": "À effectuer de préférence en une demi-journée ou une journée avec un chauffeur privé. Les arrêts incluent généralement les points de vue des Chocolate Hills, les rivières et les villages ruraux ; partez tôt pour éviter la chaleur et les groupes."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Choisissez bien votre base : Panglao pour les plages et les soirées ; Tagbilaran pour l’accès au ferry et les services urbains.",
+        "Commencez les excursions dans les terres avant 8 h pour profiter de températures plus agréables et d’une meilleure visibilité.",
+        "Gardez de petites coupures pour les zones rurales ; les distributeurs sont rares en dehors des principales villes.",
+        "Les déplacements dans l’intérieur sont plus lents ; les distances sont modérées mais les sites sont dispersés."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer grillés frais",
+        "Adobo au poulet ou au porc",
+        "Kinilaw (ceviche philippin)",
+        "Sinigang aux fruits de mer",
+        "Riz à l’ail avec œuf frit",
+        "Petits-déjeuners simples à l’insulaire"
+      ],
+      "areas": [
+        {
+          "name": "Île de Panglao",
+          "note": "Restaurants en bord de plage proposant une cuisine philippine simple et des fruits de mer, parfaits pour des soirées détendues."
+        },
+        {
+          "name": "Tagbilaran",
+          "note": "Restaurants locaux et petites cantines servant les plats du quotidien de Bohol, simples et authentiques."
+        },
+        {
+          "name": "Intérieur de Bohol (routes de campagne)",
+          "note": "Petits restaurants familiaux et établissements en bord de route le long des itinéraires des Chocolate Hills et des rivières ; une cuisine simple et généreuse."
+        }
+      ],
+      "places": [
+        {
+          "name": "Local Beachfront Grill or Resort Kitchen",
+          "area": "Île de Panglao",
+          "reason": "Poissons et fruits de mer fraîchement grillés dégustés au bord de l’eau ; l’ambiance compte autant que la cuisine.",
+          "imageUrl": "/src/assets/itineraries/philippines/bohol-food/beachfront-grill.jpg",
+          "lat": 9.579,
+          "lng": 123.745
+        },
+        {
+          "name": "Gerarda’s Family Restaurant",
+          "area": "Tagbilaran",
+          "reason": "Restaurant local réputé proposant des spécialités philippines et de Bohol dans une ambiance détendue.",
+          "imageUrl": "/src/assets/itineraries/philippines/bohol-food/gerardas-family-restaurant.jpg",
+          "lat": 9.6476,
+          "lng": 123.8555
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-cebu-where-journeys-branch-outward",
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "city": "Cebu",
+    "title": "Cebu en 4 jours : là où les voyages se ramifient",
+    "days": 4,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/philippines/4-days-cebu-where-journeys-branch-outward.jpg",
+    "summary": "Cet itinéraire de 4 jours à Cebu explore la plus ancienne ville des Philippines comme un carrefour d’histoire, de foi et de routes insulaires. Conçu pour équilibrer patrimoine urbain et perspectives côtières et insulaires, il permet à Cebu de se révéler à la fois comme une ville profondément enracinée et comme une porte d’entrée vers les Visayas centrales.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Croix de Magellan et basilique del Santo Niño",
+      "Rues historiques de Cebu City",
+      "Points de vue en montagne sur la ville",
+      "Excursions d’île en île ou le long de la côte",
+      "Marchés locaux et culture culinaire du quotidien",
+      "Soirées face à la mer"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premières fondations",
+        "summary": "Premiers pas dans la plus ancienne ville des Philippines.",
+        "details": "Arrivez à Cebu et commencez par le cœur historique de la ville. Visitez la Croix de Magellan et la basilique del Santo Niño afin de comprendre le rôle de Cebu dans l’arrivée du christianisme aux Philippines.\n\nParcourez les rues voisines, où histoire, circulation et vie quotidienne se superposent étroitement. Dans l’après-midi, faites une pause dans un café ou un restaurant local et laissez le rythme de la ville se révéler de lui-même. Terminez la journée par une soirée paisible près de l’eau."
+      },
+      {
+        "day": 2,
+        "title": "Hauteurs de la ville et rues du quotidien",
+        "summary": "Prendre de la hauteur, puis revenir au cœur de la ville.",
+        "details": "Commencez la journée par la visite d’un point de vue situé sur une colline ou en montagne, dominant Cebu City et offrant une meilleure compréhension de son échelle et de sa géographie.\n\nRetournez ensuite en ville pour découvrir les marchés de quartier et les adresses de cuisine locale, en observant le fonctionnement de Cebu comme centre urbain actif. Gardez l’après-midi flexible, en alternant déplacements et moments de repos. Dînez dans un quartier connu pour sa cuisine locale plutôt que dans une adresse touristique."
+      },
+      {
+        "day": 3,
+        "title": "Routes maritimes et lisières insulaires",
+        "summary": "Cebu comme porte d’entrée vers les Visayas.",
+        "details": "Passez la journée sur l’eau ou à proximité. Participez à une courte excursion d’île en île ou le long de la côte afin de découvrir les eaux limpides et les petites îles qui entourent Cebu.\n\nL’objectif n’est pas la distance, mais le contraste : l’eau, l’horizon et un rythme plus lent. Revenez à Cebu en fin d’après-midi et terminez la journée par un coucher de soleil face à la mer ou une promenade détendue sur le front de mer."
+      },
+      {
+        "day": 4,
+        "title": "Marchés, matinée et au revoir",
+        "summary": "Quitter la ville à travers ses moments ordinaires.",
+        "details": "Passez votre dernière matinée dans un marché local ou en parcourant des rues devenues familières, en observant les habitudes quotidiennes commencer.\n\nProfitez d’un déjeuner détendu avant votre départ. Cebu laisse l’impression d’un lieu de mouvement et de connexion, où les voyages commencent, se ramifient et se poursuivent au-delà de l’horizon."
+      }
+    ],
+    "planning": {
+      "city": "Cebu, Philippines",
+      "bestTime": {
+        "months": "Décembre–mai (meilleure période), janvier–février (période idéale)",
+        "note": "Ces mois sont généralement plus secs et les mers plus calmes, ce qui rend les excursions d’île en île, les cascades et les longs trajets vers le sud plus fiables et plus agréables."
+      },
+      "worstTime": {
+        "months": "Juin–novembre (saison des pluies et des typhons), avril–mai (très chaud)",
+        "note": "De juin à novembre, de fortes pluies et d’éventuels typhons peuvent perturber les ferries et les excursions routières. Avril et mai peuvent être extrêmement chauds, surtout pour les déplacements à l’intérieur des terres et les visites en ville."
+      },
+      "tips": [
+        "Pensez en étoile : choisissez stratégiquement votre base (Cebu City ou Mactan) et prévoyez une seule grande excursion par jour afin d’éviter l’épuisement.",
+        "Partez tôt pour les trajets vers le sud (avant 6 h) : la circulation est plus fluide, la chaleur moins intense et des sites comme les chutes de Kawasan sont plus calmes.",
+        "Limitez le temps consacré aux visites urbaines : le principal atout de Cebu réside dans tout ce que l’on peut rejoindre depuis la ville plutôt que dans le seul centre-ville.",
+        "Pour les longues excursions à la journée, privilégiez un chauffeur privé ou une visite organisée ; les transports publics peuvent être lents et déroutants pour les visiteurs.",
+        "Emportez de la crème solaire respectueuse des récifs, des chaussures d’eau et des sacs étanches pour les cascades et les activités côtières.",
+        "Vérifiez l’état de la mer et la météo la veille des excursions insulaires ; la flexibilité améliore l’expérience."
+      ],
+      "withKids": [
+        "Privilégiez un plus petit nombre d’excursions de qualité plutôt que de longues journées avec de nombreux arrêts.",
+        "Les activités aquatiques sont préférables tôt dans la journée et gagnent à être suivies d’un temps de repos l’après-midi.",
+        "Vérifiez que des gilets de sauvetage sont fournis et correctement ajustés pour les enfants lors des sorties en bateau et dans les canyons.",
+        "Prévoyez des en-cas, une protection solaire et des remèdes contre le mal des transports pour les longs trajets."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international de Mactan–Cebu (CEB) → Cebu City / Mactan",
+          "note": "Le plus pratique est de prendre un Grab ou un taxi depuis l’aéroport. Cebu City se trouve à environ 30 à 60 minutes selon la circulation ; les hôtels de Mactan sont généralement plus proches. Les transports publics depuis l’aéroport sont limités pour les visiteurs."
+        }
+      ],
+      "gettingAround": [
+        "Choisissez votre base selon vos priorités : Cebu City pour l’histoire et les marchés ; Mactan ou le sud de Cebu pour l’accès au littoral.",
+        "Grab est fiable dans l’agglomération de Cebu, mais les trajets sont plus lents aux heures de pointe.",
+        "Les chauffeurs privés ou les visites organisées sont vivement recommandés pour les trajets plus longs en dehors de la ville.",
+        "La marche ne convient qu’aux déplacements locaux, notamment dans le centre historique, et non entre les différents quartiers."
+      ],
+      "dayTrips": [
+        {
+          "title": "Points de vue en montagne (Busay / Tops Lookout)",
+          "note": "Le meilleur moyen d’y accéder est un Grab ou une voiture privée. Partez tôt le matin ou en fin d’après-midi pour profiter d’une meilleure visibilité et de températures plus fraîches."
+        },
+        {
+          "title": "Excursions d’île en île et le long de la côte",
+          "note": "Les options courantes comprennent les îles voisines ou des sorties côtières au départ de Cebu ou de Mactan. Faites appel à des opérateurs de bateaux agréés ou à des excursions organisées ; la météo et l’état de la mer sont déterminants."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Commencez les longues excursions tôt (avant 6 h–7 h) afin de réduire la circulation, la chaleur et l’affluence.",
+        "La circulation dans Cebu City peut être dense ; il est essentiel de prévoir une marge de temps.",
+        "Gardez de petites coupures pour les bateaux, les marchés et les petits restaurants locaux.",
+        "Vérifiez la météo et l’état de la mer la veille de toute excursion insulaire ou côtière."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Lechon de Cebu (porc rôti)",
+        "Puso (riz suspendu dans des feuilles tressées)",
+        "Ngohiong (rouleau de printemps à la mode de Cebu)",
+        "Larang ou soupes de fruits de mer de type tinola",
+        "Tuslob buwa (plat local à base de cervelle de porc, pour les plus aventureux)",
+        "Fruits de mer frais en bord de mer"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville de Cebu / quartier de Colon",
+          "note": "Culture culinaire quotidienne de Cebu à proximité des sites historiques, idéale pour les petits restaurants locaux et les plats traditionnels."
+        },
+        {
+          "name": "Lahug et IT Park",
+          "note": "Pôle gastronomique moderne proposant cuisine philippine décontractée, cafés et options nocturnes appréciées des habitants."
+        },
+        {
+          "name": "Île de Mactan",
+          "note": "Restaurants de complexes hôteliers et adresses de fruits de mer frais, souvent accompagnés de vues sur le coucher du soleil face à la mer."
+        },
+        {
+          "name": "Sud de Cebu (itinéraires d’excursion)",
+          "note": "Petits restaurants simples en bord de route et haltes de fruits de mer le long des itinéraires vers les îles ou les cascades."
+        }
+      ],
+      "places": [
+        {
+          "name": "CNT Lechon",
+          "area": "Plusieurs adresses (centre-ville)",
+          "reason": "L’une des adresses les plus connues pour le lechon de Cebu, réputé pour sa peau croustillante et son assaisonnement léger.",
+          "imageUrl": "/src/assets/itineraries/philippines/cebu-food/cnt-lechon.jpg",
+          "lat": 10.3142,
+          "lng": 123.9056
+        },
+        {
+          "name": "House of Lechon",
+          "area": "Cebu City",
+          "reason": "Adresse populaire avec service à table pour déguster le lechon et des plats classiques de Cebu dans un cadre détendu.",
+          "imageUrl": "/src/assets/itineraries/philippines/cebu-food/house-of-lechon.jpg",
+          "lat": 10.3093,
+          "lng": 123.9016
+        },
+        {
+          "name": "AA BBQ",
+          "area": "Lahug / IT Park",
+          "reason": "Adresse locale décontractée et appréciée pour ses viandes et fruits de mer grillés, idéale pour un dîner simple.",
+          "imageUrl": "/src/assets/itineraries/philippines/cebu-food/aa-bbq.jpg",
+          "lat": 10.333,
+          "lng": 123.907
+        },
+        {
+          "name": "Larsian BBQ (Fuente Area)",
+          "area": "Cebu City",
+          "reason": "Espace de barbecue en plein air proposant des grillades abordables et un aperçu de la vie nocturne quotidienne à Cebu.",
+          "imageUrl": "/src/assets/itineraries/philippines/cebu-food/larsian-bbq.jpg",
+          "lat": 10.3099,
+          "lng": 123.8907
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-manila-where-history-refuses-to-fade",
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "city": "Manila",
+    "title": "Manille en 4 jours : là où l’histoire refuse de s’effacer",
+    "days": 4,
+    "priceFrom": 200,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/philippines/4-days-manila-where-history-refuses-to-fade.jpg",
+    "summary": "Cet itinéraire de 4 jours à Manille explore la capitale des Philippines à travers son histoire complexe, la vie de ses quartiers et la lumière de son littoral. Conçu pour dépasser les premières impressions, il équilibre quartiers de l’époque coloniale, musées, marchés et rues du quotidien, laissant apparaître la résilience et la complexité de Manille sans chercher à les lisser ni à accélérer le rythme.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Ville fortifiée d’Intramuros",
+      "Fort Santiago et monuments de l’époque espagnole",
+      "Complexe du Musée national",
+      "Rues de Binondo (Chinatown)",
+      "Coucher de soleil sur la baie de Manille",
+      "Vie quotidienne des quartiers"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et lumière de la baie",
+        "summary": "Premières impressions entre eau et ciel.",
+        "details": "Arrivez à Manille et prenez le temps de vous adapter au rythme de la ville. Passez l’après-midi près de la baie de Manille, où l’horizon dégagé et l’étendue d’eau offrent une introduction paisible à la capitale. Promenez-vous le long de la baie et observez les habitants se rassembler à mesure que la chaleur retombe.\n\nRestez jusqu’au coucher du soleil, lorsque la lumière adoucit les contours de la ville. Terminez la journée par un dîner détendu dans les environs, en gardant la soirée libre afin de récupérer du voyage."
+      },
+      {
+        "day": 2,
+        "title": "Intramuros et strates du temps",
+        "summary": "Marcher à travers le premier chapitre de la ville.",
+        "details": "Consacrez la journée à la découverte d’Intramuros, la ville fortifiée historique de Manille. Parcourez le Fort Santiago, les rues pavées et les églises qui témoignent de plusieurs siècles de domination coloniale.\n\nAvancez lentement, en laissant les cours intérieures, les passages ombragés et les musées rythmer la visite. Dans l’après-midi, poursuivez à travers les quartiers voisins et observez comment les lieux historiques coexistent avec la vie moderne. Terminez la journée par un repas tranquille ou une pause dans un café."
+      },
+      {
+        "day": 3,
+        "title": "Musées, marchés et rues vivantes",
+        "summary": "Manille comme ville en mouvement.",
+        "details": "Visitez le complexe du Musée national afin de mieux comprendre l’art, l’histoire et le patrimoine naturel des Philippines. Poursuivez ensuite vers Binondo, l’un des plus anciens quartiers chinois au monde, où les rues étroites, les stands de nourriture et les commerces dévoilent une autre facette de l’identité de Manille.\n\nFaites régulièrement des pauses : Manille se comprend mieux par l’observation que par la vitesse. En soirée, choisissez un restaurant de quartier ou retournez vers la baie pour une promenade paisible."
+      },
+      {
+        "day": 4,
+        "title": "Vie de quartier et au revoir",
+        "summary": "Quitter la ville à travers ses instants ordinaires.",
+        "details": "Passez votre dernière matinée à explorer un quartier local, un marché ou un café, en observant les habitudes quotidiennes se dérouler sous vos yeux. Ce temps libre permet de découvrir Manille au-delà de ses monuments.\n\nProfitez d’un déjeuner détendu avant votre départ. Manille laisse son empreinte par sa persistance et sa présence — une histoire superposée à des rues qui continuent d’avancer."
+      }
+    ],
+    "planning": {
+      "city": "Manila, Philippines",
+      "bestTime": {
+        "months": "Décembre–février (meilleure période), janvier (mois le plus frais)",
+        "note": "Ces mois sont plus frais et plus secs, ce qui rend les promenades historiques dans Intramuros, la découverte culinaire de Binondo et les soirées au bord de la baie bien plus agréables."
+      },
+      "worstTime": {
+        "months": "Juin–octobre (saison des pluies et des typhons), mars–mai (chaleur extrême)",
+        "note": "De juin à octobre, de fortes pluies et d’éventuels typhons peuvent perturber les transports et les visites à pied. De mars à mai, la chaleur et l’humidité peuvent être éprouvantes, surtout dans les zones urbaines denses."
+      },
+      "tips": [
+        "Organisez strictement vos visites par quartier : la circulation à Manille est imprévisible. Limitez chaque demi-journée à une seule zone (Intramuros, Binondo, Makati ou la baie).",
+        "Découvrez Intramuros tôt le matin, lorsque la chaleur et l’affluence sont plus faibles ; les rues en pierre accumulent rapidement la chaleur.",
+        "Utilisez Grab pour la majorité de vos déplacements ; marcher sur de longues distances est peu efficace en raison de la chaleur, de la circulation et de l’organisation des routes.",
+        "Les couchers de soleil sur la baie de Manille s’apprécient particulièrement depuis Roxas Boulevard ou les promenades voisines, juste avant la tombée de la nuit.",
+        "Portez des vêtements légers mais respectueux ; les églises et certains sites historiques peuvent exiger que les épaules soient couvertes.",
+        "Gardez de petites coupures sur vous ; de nombreux stands de nourriture et jeepneys n’acceptent que les espèces."
+      ],
+      "withKids": [
+        "Alternez les visites historiques avec des espaces ouverts comme le parc Rizal ou des pauses dans les centres commerciaux pendant les heures les plus chaudes.",
+        "Limitez le temps de marche ; des visites courtes entrecoupées de trajets en voiture sont plus confortables pour les enfants.",
+        "Privilégiez les activités en début de soirée plutôt que les sorties tardives ; la circulation et le bruit s’intensifient après la tombée de la nuit.",
+        "Prévoyez des chapeaux, de la crème solaire et de l’eau ; la chaleur urbaine peut augmenter rapidement."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international Ninoy Aquino (NAIA) → quartiers de la ville",
+          "note": "Le moyen le plus pratique est de prendre un Grab ou un taxi depuis l’aéroport. Le temps de trajet varie fortement selon le quartier et la circulation (environ 30 à 90 minutes, voire davantage). Les transports publics depuis NAIA sont limités et peu pratiques avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "Organisez strictement vos déplacements par quartier : Manille est immense et très encombrée ; passer d’une zone à l’autre demande du temps.",
+        "Grab est l’option la plus fiable pour les trajets directs à travers la ville.",
+        "La marche n’est adaptée qu’aux déplacements locaux dans des quartiers comme Intramuros ou Binondo, et non entre les différents districts.",
+        "Les jeepneys sont emblématiques de la culture locale, mais peuvent être difficiles à comprendre pour les visiteurs ; mieux vaut les considérer comme une expérience que comme un moyen de transport principal."
+      ],
+      "dayTrips": [],
+      "dayMoves": [],
+      "practical": [
+        "Évitez de traverser la ville aux heures de pointe (environ 7 h–10 h et 16 h–20 h).",
+        "La chaleur et l’humidité accentuent la fatigue ; utilisez les transports même pour les trajets relativement courts.",
+        "Gardez de petites coupures pour les marchés, les jeepneys et les stands de nourriture locale.",
+        "Prévoyez une marge pour chaque déplacement ; les retards sont fréquents et imprévisibles."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Adobo (poulet ou porc)",
+        "Sinigang (soupe acidulée au porc ou aux fruits de mer)",
+        "Lechon (porc rôti)",
+        "Kare-kare (ragoût de queue de bœuf à la sauce aux cacahuètes)",
+        "Pancit (nouilles philippines)",
+        "Halo-halo (dessert glacé à base de glace pilée)"
+      ],
+      "areas": [
+        {
+          "name": "Intramuros",
+          "note": "Cafés historiques et restaurants d’influence philippino-espagnole, parfaits pour des repas tranquilles entre deux visites patrimoniales."
+        },
+        {
+          "name": "Binondo (Chinatown)",
+          "note": "Rues animées regorgeant de spécialités sino-philippines, de boulangeries et de restaurants historiques, à découvrir de préférence à pied."
+        },
+        {
+          "name": "Malate et Ermita",
+          "note": "Restaurants locaux décontractés près de la baie de Manille, adaptés à un dîner paisible après une journée de visites."
+        },
+        {
+          "name": "Makati (extension facultative)",
+          "note": "Scène gastronomique moderne avec des restaurants philippins raffinés et des options internationales pour ceux qui recherchent un contraste."
+        }
+      ],
+      "places": [
+        {
+          "name": "Barbara’s Heritage Restaurant",
+          "area": "Intramuros",
+          "reason": "Cuisine philippine traditionnelle servie dans une maison coloniale restaurée, idéale pour un premier repas culturel à Manille.",
+          "imageUrl": "/src/assets/itineraries/philippines/manila-food/barbaras-heritage-restaurant.jpg",
+          "lat": 14.5896,
+          "lng": 120.9747
+        },
+        {
+          "name": "Ilustrado Restaurant",
+          "area": "Intramuros",
+          "reason": "Plats philippino-espagnols raffinés dans un cadre paisible, apprécié pour les repas axés sur le patrimoine.",
+          "imageUrl": "/src/assets/itineraries/philippines/manila-food/ilustrado-restaurant.jpg",
+          "lat": 14.5892,
+          "lng": 120.9741
+        },
+        {
+          "name": "Eng Bee Tin",
+          "area": "Binondo",
+          "reason": "Boulangerie emblématique de Chinatown, réputée pour ses hopias et ses pâtisseries traditionnelles sino-philippines.",
+          "imageUrl": "/src/assets/itineraries/philippines/manila-food/eng-bee-tin.jpg",
+          "lat": 14.6007,
+          "lng": 120.9736
+        },
+        {
+          "name": "Sincerity Restaurant",
+          "area": "Binondo",
+          "reason": "Restaurant sino-philippin historique, célèbre pour son poulet frit et ses plats classiques.",
+          "imageUrl": "/src/assets/itineraries/philippines/manila-food/sincerity-restaurant.jpg",
+          "lat": 14.6009,
+          "lng": 120.9731
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-palawan-where-water-forgets-the-world",
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "city": "Palawan",
+    "title": "Palawan en 4 jours : là où l’eau oublie le monde",
+    "days": 4,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/philippines/4-days-palawan-where-water-forgets-the-world.jpg",
+    "summary": "Cet itinéraire de 4 jours à Palawan explore l’une des régions les plus isolées et spectaculaires des Philippines à travers ses falaises calcaires, ses lagons cristallins, ses plages paisibles et le rythme lent de la vie insulaire. Conçu pour privilégier l’eau, l’espace et la tranquillité, il évite les journées surchargées et laisse les paysages de Palawan s’exprimer par la répétition, la lumière et le mouvement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Îles et falaises karstiques calcaires",
+      "Lagons cachés et eaux cristallines",
+      "Excursions d’île en île en bateau",
+      "Plages paisibles et horizons ouverts",
+      "Snorkeling et vie côtière",
+      "Journées sans précipitation rythmées par les marées et la lumière"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers contacts avec l’eau",
+        "summary": "Entrer dans une géographie plus paisible.",
+        "details": "Arrivez à Palawan et installez-vous dans cet environnement côtier. Passez l’après-midi au bord de l’eau, en vous promenant sur la plage ou en vous reposant face à la mer.\n\nNe vous précipitez pas vers les activités : cette première journée est consacrée à l’adaptation. À l’approche du soir, observez la lumière évoluer sur l’eau et les falaises, en laissant s’installer le sentiment d’être loin du monde continental."
+      },
+      {
+        "day": 2,
+        "title": "Lagons, îles et lumière en mouvement",
+        "summary": "Une journée façonnée par l’eau.",
+        "details": "Passez la journée à naviguer d’île en île, entre îlots calcaires, lagons et plages abritées. Nagez dans une eau limpide, laissez-vous flotter tranquillement et explorez de courtes portions de rivage plutôt que d’enchaîner les étapes.\n\nFaites souvent une pause : la beauté de Palawan réside davantage dans la répétition que dans la nouveauté. Revenez en fin d’après-midi et terminez la journée par un repas simple suivi d’une soirée reposante."
+      },
+      {
+        "day": 3,
+        "title": "Plages paisibles et temps suspendu",
+        "summary": "Faire de l’immobilité une expérience.",
+        "details": "Consacrez cette journée à ralentir encore davantage. Rejoignez une plage plus calme, faites du snorkeling dans des eaux peu profondes ou restez simplement près de votre hébergement sans programme précis.\n\nL’absence d’urgence devient l’expérience elle-même. La lumière change, les marées montent et descendent, et le temps semble s’étirer. Terminez la journée en admirant le coucher du soleil depuis la plage, là où les falaises rencontrent la mer dans le silence."
+      },
+      {
+        "day": 4,
+        "title": "Matin au bord de l’eau et départ",
+        "summary": "Partir sans refermer le sentiment.",
+        "details": "Passez votre dernière matinée près de la mer : une courte baignade, une promenade sur la plage ou simplement un moment face à l’horizon.\n\nQuittez Palawan en douceur. Ce lieu laisse son empreinte non par ses monuments, mais par la sensation d’avoir, le temps d’un instant, échappé à la mesure habituelle du temps."
+      }
+    ],
+    "planning": {
+      "city": "Palawan (El Nido / Coron), Philippines",
+      "bestTime": {
+        "months": "Décembre–mai (meilleure période), janvier–mars (période idéale)",
+        "note": "Ces mois offrent un temps plus sec et une mer plus calme, idéals pour le kayak dans les lagons, le snorkeling et des excursions d’île en île fiables."
+      },
+      "worstTime": {
+        "months": "Juin–novembre (saison des pluies et des typhons)",
+        "note": "Une mer agitée, de fortes pluies et d’éventuels typhons peuvent entraîner l’annulation des excursions en bateau et réduire la visibilité sous l’eau. La flexibilité est essentielle durant cette période."
+      },
+      "tips": [
+        "Organisez votre séjour en fonction de la mer : programmez les excursions d’île en île le jour où les prévisions sont les plus favorables et prévoyez une alternative terrestre en cas de mauvais temps.",
+        "Partez tôt (les bateaux quittent souvent le port entre 8 h et 9 h) afin de profiter d’une mer plus calme, de moins de monde et d’une meilleure lumière dans les lagons.",
+        "Privilégiez moins d’excursions mais davantage de temps sur l’eau : les programmes trop chargés font perdre la magie du lieu.",
+        "Emportez de la crème solaire respectueuse des récifs, des chaussures d’eau, un sac étanche et un haut léger à manches longues pour vous protéger du soleil.",
+        "Les équipements sur les bateaux et les îles sont souvent basiques ; prévoyez de l’eau et quelques en-cas.",
+        "La connexion Internet peut être limitée ; téléchargez vos cartes et confirmations hors ligne."
+      ],
+      "withKids": [
+        "Choisissez des excursions avec des bateaux stables et des places ombragées ; vérifiez à l’avance la disponibilité de gilets de sauvetage adaptés aux enfants.",
+        "Le kayak dans les lagons est plus tranquille que le snorkeling en pleine mer ; adaptez les activités selon les conditions.",
+        "Prévoyez des après-midis à la piscine de l’hôtel ou sur une plage calme après les départs matinaux.",
+        "Gardez un rythme simple : le soleil et l’air marin fatiguent rapidement les enfants."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Manille / Cebu → Palawan (El Nido ou Coron)",
+          "note": "Prenez un vol vers l’aéroport d’El Nido (LIO) ou de Busuanga (USU – Coron). Depuis l’aéroport : El Nido ≈15–30 min en minibus ; Coron ≈30–45 min. L’avion est le seul moyen réellement pratique pour les longues distances."
+        }
+      ],
+      "gettingAround": [
+        "La plupart des déplacements se font en bateau ; une fois installé, les transports terrestres jouent un rôle limité.",
+        "De courts trajets en minibus ou en tricycle relient les aéroports, les villes et les plages.",
+        "La marche est adaptée aux centres-villes et aux zones de plage."
+      ],
+      "dayTrips": [
+        {
+          "title": "Excursions d’île en île : lagons et plages",
+          "note": "Excursions classiques d’une demi-journée ou d’une journée au départ d’El Nido ou de Coron. Départs généralement entre 8 h et 9 h ; la météo et l’état de la mer influencent fortement les itinéraires et la sécurité."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Planifiez les excursions en bateau le jour où la mer est la plus calme ; elles peuvent être annulées en raison du vent ou des vagues.",
+        "Partez tôt pour profiter d’une mer plus calme, d’une eau plus claire et de moins de bateaux dans les lagons.",
+        "Les espèces sont indispensables : les distributeurs sont peu nombreux et souvent peu fiables.",
+        "Téléchargez hors ligne vos cartes, billets et confirmations ; le réseau peut être faible.",
+        "Les installations sur les bateaux et les îles sont basiques ; emportez l’essentiel dans un sac étanche."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer grillés (poisson, calamars, crevettes)",
+        "Kinilaw (ceviche philippin)",
+        "Adobo au poulet ou au porc",
+        "Riz à l’ail avec œuf frit",
+        "Sinigang aux fruits de mer",
+        "Petits-déjeuners simples à l’insulaire"
+      ],
+      "areas": [
+        {
+          "name": "Centre d’El Nido",
+          "note": "Restaurants décontractés en bord de mer et le long de la rue principale, parfaits après une excursion en bateau."
+        },
+        {
+          "name": "Ville de Coron",
+          "note": "Petits restaurants et cafés servant des spécialités philippines et des fruits de mer dans une ambiance détendue."
+        },
+        {
+          "name": "Stations balnéaires et criques",
+          "note": "Restaurants des complexes hôteliers et cuisines de plage simples ; la qualité dépend souvent des approvisionnements et de la météo."
+        }
+      ],
+      "places": [
+        {
+          "name": "Artcafe",
+          "area": "Centre d’El Nido",
+          "reason": "Adresse fiable appréciée pour sa cuisine, son café et ses petits-déjeuners.",
+          "imageUrl": "/src/assets/itineraries/philippines/palawan-food/artcafe.jpg",
+          "lat": 11.1801,
+          "lng": 119.3896
+        },
+        {
+          "name": "Trattoria Altrove",
+          "area": "Centre d’El Nido",
+          "reason": "Réputée pour ses pizzas au feu de bois et ses pâtes, une excellente alternative aux repas centrés sur les fruits de mer.",
+          "imageUrl": "/src/assets/itineraries/philippines/palawan-food/trattoria-altrove.jpg",
+          "lat": 11.181,
+          "lng": 119.3899
+        }
+      ]
+    }
+  }

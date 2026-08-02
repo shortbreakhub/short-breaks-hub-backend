@@ -1,0 +1,1294 @@
+
+  {
+    "slug": "2-days-fujiyoshida-where-the-mountain-sets-the-distance",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Fujiyoshida",
+    "title": "Fujiyoshida en 2 jours : Là où la montagne fixe la distance",
+    "days": 2,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/2-days-fujiyoshida-where-the-mountain-sets-the-distance.jpg",
+    "summary": "Cet itinéraire de 2 jours à Fujiyoshida vous invite à découvrir la ville la plus étroitement associée à la présence emblématique du mont Fuji. Conçu pour avancer lentement et avec intention, il équilibre points de vue en hauteur, rues paisibles, sanctuaires forestiers et moments d’attente, laissant le mont Fuji apparaître lorsqu’il le décide plutôt que lorsqu’on l’attend.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Point de vue de la pagode Chureito",
+      "Perspectives du mont Fuji depuis les rues",
+      "Sanctuaire Kitaguchi Hongu Fuji Sengen",
+      "Sentiers forestiers et approches des sanctuaires",
+      "Reflets du lac Kawaguchi (si le temps le permet)",
+      "Une photographie guidée par la patience"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et distance cadrée",
+        "summary": "Voir la montagne sans s’en approcher.",
+        "details": "À votre arrivée à Fujiyoshida, promenez-vous dans les rues où le mont Fuji apparaît parfois entre les bâtiments, les lignes électriques et les toits. Ces aperçus partiels font de la montagne une présence plutôt qu’un simple sujet.\n\nDans l’après-midi, rejoignez la pagode Chureito en montant lentement et en faisant de fréquentes pauses. Depuis le belvédère, le mont Fuji se dévoile aux côtés de la ville et du ciel, mais uniquement lorsque les conditions le permettent. Considérez l’attente comme faisant partie de l’expérience.\n\nTerminez la journée par un dîner paisible et une promenade du soir, tandis que la montagne disparaît peu à peu dans les nuages ou les silhouettes du crépuscule."
+      },
+      {
+        "day": 2,
+        "title": "Sentiers forestiers et départ",
+        "summary": "Quitter les lieux dans le calme.",
+        "details": "Commencez la journée au sanctuaire Kitaguchi Hongu Fuji Sengen, en traversant les grands cèdres où les sons s’adoucissent et les proportions changent. Parcourez lentement la longue allée en ressentant la présence de la montagne, même lorsqu’elle reste invisible.\n\nSi le temps le permet, poursuivez jusqu’au lac Kawaguchi pour admirer les reflets du mont Fuji. Asseyez-vous plutôt que de multiplier les points de vue : Fujiyoshida récompense davantage la patience que le mouvement.\n\nPartez dans l’après-midi. Fujiyoshida laisse une impression discrète : un lieu où la montagne fixe la distance et où tout le reste apprend à attendre."
+      }
+    ],
+    "planning": {
+      "city": "Fujiyoshida, Japan",
+      "bestTime": {
+        "months": "Avril–mai, octobre–novembre",
+        "note": "Le printemps et l’automne offrent l’air le plus limpide et la meilleure visibilité sur le mont Fuji, avec des températures idéales pour les matinées et les courtes promenades."
+      },
+      "worstTime": {
+        "months": "Juillet–août (nuages et affluence), janvier–février (froid et neige)",
+        "note": "L’été apporte une forte fréquentation et un ciel souvent couvert. L’hiver peut être très froid, avec de la neige limitant les déplacements malgré des paysages spectaculaires."
+      },
+      "tips": [
+        "Organisez votre visite en fonction de la visibilité : le mont Fuji est souvent le plus dégagé entre 6 h et 8 h.",
+        "Partez avant le lever du soleil pour la pagode Chureito ou Honcho Street afin de profiter de la meilleure lumière.",
+        "Restez flexible : si le Fuji reste caché, profitez des sanctuaires, des cafés ou des promenades au bord du lac.",
+        "Habillez-vous en plusieurs couches : la température change rapidement près de la montagne.",
+        "Les distances à pied sont raisonnables, mais les bus locaux et les taxis permettent de gagner du temps.",
+        "Gardez un peu d’argent liquide pour les cafés, les sanctuaires et les transports locaux."
+      ],
+      "withKids": [
+        "Les matinées peuvent être très fraîches : prévoyez des vêtements chauds et des gants selon la saison.",
+        "Limitez le nombre de belvédères visités afin d’éviter la fatigue.",
+        "Les sentiers forestiers des sanctuaires offrent des pauses agréables à l’ombre.",
+        "Prévoyez une activité intérieure de secours si le mont Fuji reste caché."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo → Fujiyoshida",
+          "note": "Le plus courant : train express ou rapide via Otsuki, puis chemin de fer Fujikyu jusqu’aux gares de Fujisan ou Shimoyoshida (environ 2 à 2 h 30). Les bus directs depuis Shinjuku sont également pratiques."
+        }
+      ],
+      "gettingAround": [
+        "La marche convient parfaitement pour découvrir les rues de Fujiyoshida et admirer le mont Fuji depuis la ville.",
+        "Les bus locaux relient la pagode Chureito, le sanctuaire Kitaguchi Hongu Fuji Sengen et le lac Kawaguchi.",
+        "Les taxis sont utiles tôt le matin lorsque les conditions de visibilité sont limitées dans le temps.",
+        "Le vélo est possible sur les secteurs plats, mais les dénivelés et les matinées fraîches réduisent son intérêt."
+      ],
+      "dayTrips": [
+        {
+          "title": "Pagode Chureito et points de vue de Fujiyoshida",
+          "note": "Accessibles en train ou en bus, puis à pied. Le matin offre la meilleure lumière et le moins de visiteurs."
+        },
+        {
+          "title": "Sanctuaire Kitaguchi Hongu Fuji Sengen et lac Kawaguchi",
+          "note": "Le sanctuaire est accessible à pied ou en bus/taxi. Le lac Kawaguchi se rejoint en train ou en bus puis se découvre tranquillement à pied."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Commencez tôt : la visibilité sur le mont Fuji est généralement meilleure le matin.",
+        "Gardez un emploi du temps flexible : les nuages peuvent apparaître sans prévenir.",
+        "Prévoyez de l’argent liquide pour les bus, les petits cafés et les offrandes aux sanctuaires.",
+        "Habillez-vous chaudement : les températures sont souvent bien plus fraîches qu’à Tokyo, surtout à l’aube."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Hoto (ragoût de nouilles au miso)",
+        "Udon de Yoshida",
+        "Légumes locaux de montagne",
+        "Repas simples dans des cafés avec vue sur le mont Fuji"
+      ],
+      "areas": [
+        {
+          "name": "Fujiyoshida Town",
+          "note": "Rues proches des gares et des sanctuaires, connues pour leurs restaurants d’udon et leurs dîners paisibles."
+        },
+        {
+          "name": "Shimoyoshida Area",
+          "note": "Quartier historique près de la pagode Chureito avec plusieurs bonnes adresses locales."
+        },
+        {
+          "name": "Lake Kawaguchi",
+          "note": "Secteur au bord du lac regroupant cafés et restaurants orientés vers les vues sur le mont Fuji."
+        }
+      ],
+      "places": [
+        {
+          "name": "Udon no Ebiya",
+          "area": "Fujiyoshida Town",
+          "reason": "Restaurant réputé spécialisé dans les udon de Yoshida, apprécié des habitants comme des visiteurs.",
+          "imageUrl": "/src/assets/itineraries/japan/fujiyoshida-food/udon-no-ebiya.jpg",
+          "lat": 35.4886,
+          "lng": 138.8075
+        },
+        {
+          "name": "Miyaki Udon",
+          "area": "Shimoyoshida Area",
+          "reason": "Restaurant traditionnel servant de copieuses nouilles Yoshida près de la pagode Chureito.",
+          "imageUrl": "/src/assets/itineraries/japan/fujiyoshida-food/miyaki-udon.jpg",
+          "lat": 35.4871,
+          "lng": 138.8016
+        },
+        {
+          "name": "Hoto Fudo Kawaguchiko",
+          "area": "Lake Kawaguchi",
+          "reason": "Restaurant emblématique réputé pour ses nouilles hoto, spécialité de Yamanashi idéale par temps frais.",
+          "imageUrl": "/src/assets/itineraries/japan/fujiyoshida-food/hoto-fudo-kawaguchiko.jpg",
+          "lat": 35.5182,
+          "lng": 138.7558
+        },
+        {
+          "name": "Cafe Shizen",
+          "area": "Lake Kawaguchi",
+          "reason": "Café paisible au bord du lac proposant des repas légers et du café, souvent choisi en attendant que le mont Fuji se dévoile.",
+          "imageUrl": "/src/assets/itineraries/japan/fujiyoshida-food/cafe-shizen.jpg",
+          "lat": 35.5176,
+          "lng": 138.7589
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-fukuoka-where-the-city-feeds-you-gently",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Fukuoka",
+    "title": "Fukuoka en 3 jours : Là où la ville vous nourrit avec douceur",
+    "days": 3,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/3-days-fukuoka-where-the-city-feeds-you-gently.jpg",
+    "summary": "Cet itinéraire de 3 jours à Fukuoka vous invite à découvrir l’une des villes les plus agréables à vivre du Japon à travers sa culture culinaire, ses promenades au bord de l’eau, ses rues de quartier et la simplicité de son quotidien. Pensé pour être accueillant plutôt qu’intimidant, il équilibre repas décontractés, espaces publics ouverts et air marin, laissant la chaleur et la générosité de Fukuoka définir naturellement l’expérience.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Culture culinaire de Hakata et repas décontractés",
+      "Stands de restauration nocturne yatai",
+      "Ohori Park et promenades au bord du lac",
+      "Vues sur le front de mer et air côtier",
+      "Rues de quartier et cafés",
+      "Une ville immédiatement accessible"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premier accueil",
+        "summary": "Entrer dans une ville qui s’ouvre facilement.",
+        "details": "À votre arrivée à Fukuoka, commencez par une promenade détendue dans les rues des quartiers voisins, où l’échelle de la ville paraît immédiatement accessible. Boutiques, cafés et scènes du quotidien se côtoient naturellement, sans pression.\n\nDans la soirée, rendez-vous aux stands de restauration yatai installés le long de la rivière ou dans les rues. Mangez lentement, échangez simplement et laissez la cuisine devenir votre première introduction à la ville. Fukuoka accueille par l’appétit plutôt que par la démonstration."
+      },
+      {
+        "day": 2,
+        "title": "Eau, parcs et calme quotidien",
+        "summary": "Une ville façonnée par l’espace et l’air.",
+        "details": "Commencez la journée à Ohori Park en faisant le tour du lac, où l’eau, les ponts et les arbres créent un centre paisible au cœur de la ville. Asseyez-vous, observez et laissez le temps s’étirer naturellement.\n\nDans l’après-midi, rejoignez le front de mer pour profiter de l’air marin et des vues dégagées. Gardez un programme léger : cafés, courtes promenades et retours familiers révèlent davantage que les longues distances. Terminez la journée par un autre repas simple et réconfortant."
+      },
+      {
+        "day": 3,
+        "title": "Matin de quartier et départ",
+        "summary": "Quitter la ville par la familiarité.",
+        "details": "Passez votre dernière matinée à retrouver une rue, un café ou un sentier de parc que vous avez particulièrement apprécié. Observez les routines quotidiennes commencer : livraisons, salutations et petits rituels.\n\nProfitez d’un déjeuner détendu avant votre départ. Fukuoka laisse son empreinte avec discrétion : une ville qui vous nourrit bien, vous laisse de l’espace et vous permet de repartir sans cérémonie."
+      }
+    ],
+    "planning": {
+      "city": "Fukuoka (Hakata / Tenjin), Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures douces et les ciels dégagés rendent les promenades dans les parcs, les visites de sanctuaires et les repas du soir dans les yatai particulièrement agréables. Le printemps apporte les fleurs, tandis que l’automne offre un air plus vif."
+      },
+      "worstTime": {
+        "months": "Juillet–août (chaud et humide), juin (saison des pluies)",
+        "note": "La chaleur et l’humidité estivales peuvent réduire l’énergie pendant les promenades en journée, tandis que les pluies de juin peuvent perturber les activités extérieures. Privilégiez alors les activités en intérieur ou en soirée."
+      },
+      "tips": [
+        "Suivez un rythme quotidien doux : parcs et sanctuaires le matin, cafés et shopping à midi, puis yatai ou promenades le long de la rivière le soir.",
+        "Les stands yatai s’animent après la tombée de la nuit (environ de 18 h à 22 h) ; arrivez tôt pour trouver une place ou plus tard pour parcourir les stands sans file d’attente.",
+        "Organisez vos visites par zones compactes : Hakata (transports et cuisine), Tenjin (shopping et cafés), Ohori (calme et espaces verts).",
+        "L’argent liquide reste utile dans les yatai et les petits restaurants.",
+        "Utilisez les trains avec modération : de nombreux sites sont accessibles à pied dans de bonnes conditions.",
+        "Prévoyez des chaussures confortables ; Fukuoka récompense les promenades tranquilles plutôt que les déplacements précipités."
+      ],
+      "withKids": [
+        "Ohori Park offre de larges chemins, des vues sur l’eau et de nombreux endroits où faire une pause entre les activités.",
+        "Les espaces de restauration des grands magasins proposent des options propres et variées si les yatai semblent trop fréquentés.",
+        "Avec des enfants, évitez les heures les plus chargées dans les yatai ; le début de soirée est plus calme.",
+        "Prévoyez des couches légères : les soirées peuvent être fraîches au printemps et en automne."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport de Fukuoka → centre-ville (Hakata / Tenjin)",
+          "note": "Le trajet est extrêmement rapide et simple : le métro relie l’aéroport à Hakata en environ 5 minutes et à Tenjin en une dizaine de minutes. Les taxis sont également rapides grâce aux courtes distances."
+        }
+      ],
+      "gettingAround": [
+        "La marche est particulièrement efficace : de nombreux sites de Hakata et Tenjin se trouvent à une distance confortable à pied.",
+        "Le métro est propre, simple à utiliser et pratique pour circuler entre Hakata, Tenjin et Ohori Park.",
+        "Les bus desservent les quartiers locaux, mais sont rarement indispensables pour un court séjour.",
+        "Les taxis sont abordables et pratiques en soirée, notamment après un repas dans les yatai."
+      ],
+      "dayTrips": [
+        {
+          "title": "Ohori Park et ses environs",
+          "note": "Facilement accessible en métro depuis Tenjin ou Hakata. La visite s’organise principalement autour des sentiers qui bordent le lac."
+        },
+        {
+          "title": "Front de mer de Hakata et quartiers des yatai",
+          "note": "À explorer idéalement à pied en soirée ; les stands se regroupent le long des rivières et des principales rues près de Tenjin et Nakasu."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Les cartes IC (Suica, Pasmo, ICOCA ou la carte locale Hayakaken) fonctionnent facilement dans les métros et les bus.",
+        "La circulation est fluide en soirée, mais les taxis restent la solution la plus simple après un dîner tardif.",
+        "Prévoyez un peu d’argent liquide pour les stands yatai et les petits restaurants.",
+        "La configuration compacte de Fukuoka limite la fatigue liée aux transports ; évitez de planifier excessivement vos déplacements."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Hakata Ramen (bouillon tonkotsu à base d’os de porc)",
+        "Mentaiko (œufs de colin épicés)",
+        "Cuisine de rue des yatai (yakitori, oden, gyoza)"
+      ],
+      "areas": [
+        {
+          "name": "Tenjin",
+          "note": "Quartier commerçant central entouré de nombreux yatai. Idéal pour la cuisine de rue en soirée et les repas décontractés."
+        },
+        {
+          "name": "Nakasu",
+          "note": "Quartier nocturne au bord de la rivière, célèbre pour ses nombreux stands yatai regroupés après la tombée de la nuit."
+        },
+        {
+          "name": "Nagahama",
+          "note": "Situé près du marché aux poissons, ce quartier est historiquement connu pour ses stands de ramen et ses repas tardifs."
+        }
+      ],
+      "places": [
+        {
+          "name": "Nagahama Number One",
+          "area": "Nagahama",
+          "reason": "L’un des noms les plus reconnaissables du ramen de Hakata, réputé pour son riche bouillon tonkotsu et son service rapide.",
+          "imageUrl": "/src/assets/itineraries/japan/fukuoka-food/nagahama-number-one.jpg",
+          "lat": 33.5949,
+          "lng": 130.3916
+        },
+        {
+          "name": "Yatai Tomochan",
+          "area": "Tenjin",
+          "reason": "Stand yatai établi de longue date, apprécié des habitants pour son ramen classique et son atmosphère conviviale et informelle.",
+          "imageUrl": "/src/assets/itineraries/japan/fukuoka-food/yatai-tomochan.jpg",
+          "lat": 33.5903,
+          "lng": 130.4017
+        },
+        {
+          "name": "Yatai Okei",
+          "area": "Nakasu",
+          "reason": "Yatai réputé de Nakasu, spécialisé dans le ramen à la mode de Hakata et les plats grillés simples.",
+          "imageUrl": "/src/assets/itineraries/japan/fukuoka-food/yatai-okei.jpg",
+          "lat": 33.5927,
+          "lng": 130.4056
+        },
+        {
+          "name": "Hakata Issou",
+          "area": "Tenjin",
+          "reason": "Restaurant de ramen réputé pour son bouillon tonkotsu au parfum particulièrement intense, souvent cité parmi les meilleures adresses de Fukuoka.",
+          "imageUrl": "/src/assets/itineraries/japan/fukuoka-food/hakata-issou.jpg",
+          "lat": 33.5898,
+          "lng": 130.3996
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-hakone-where-steam-slows-the-thoughts",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Hakone",
+    "title": "Hakone en 2 jours : Là où la vapeur ralentit les pensées",
+    "days": 2,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/2-days-hakone-where-steam-slows-the-thoughts.jpg",
+    "summary": "Cet itinéraire de 2 jours à Hakone vous invite à découvrir une région montagneuse façonnée par l’eau, la vapeur et les moments de pause. Pensé comme un ralentissement volontaire, il équilibre traversées du lac, paysages volcaniques et détente dans les onsen, permettant à l’atmosphère suspendue de Hakone d’apaiser naturellement le corps et l’esprit.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Lac Ashi et reflets des montagnes",
+      "Vallée volcanique d’Owakudani et panaches de vapeur",
+      "Téléphérique et transports en altitude",
+      "Bains onsen et rythme des ryokan",
+      "Sentiers forestiers et couleurs feutrées",
+      "Une sensation de pause entre les destinations"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, eau et vapeur montante",
+        "summary": "Laisser le rythme ralentir.",
+        "details": "À votre arrivée à Hakone, commencez par une traversée du lac Ashi, où l’eau et les collines environnantes créent immédiatement une rupture avec le rythme urbain. Regardez lentement le rivage défiler plutôt que de vous concentrer sur la destination.\n\nDans l’après-midi, rejoignez Owakudani, où la vapeur s’élève en continu du sol volcanique. Déplacez-vous lentement en laissant les sons et les odeurs définir l’expérience. À l’approche du soir, installez-vous dans un ryokan et profitez des bains onsen, où la chaleur et les gestes répétés invitent naturellement au calme."
+      },
+      {
+        "day": 2,
+        "title": "Montagnes, bains et départ",
+        "summary": "Quitter les lieux dans la chaleur.",
+        "details": "Commencez la journée par un bain onsen matinal, lorsque la lumière est douce et les environs encore paisibles. Après le petit-déjeuner, faites quelques courtes promenades sur des sentiers forestiers ou jusqu’à des points de vue, en gardant un rythme tranquille.\n\nProfitez d’un déjeuner détendu avant votre départ. Hakone laisse son empreinte avec douceur : la vapeur se dissipe dans l’air et les pensées ralentissent suffisamment pour remarquer ce qui demeure."
+      }
+    ],
+    "planning": {
+      "city": "Hakone, Japan",
+      "bestTime": {
+        "months": "Avril–juin, octobre–novembre",
+        "note": "Le printemps et l’automne offrent des températures douces et un air plus clair, idéals pour admirer le lac, les musées en plein air et, lorsque le ciel le permet, le mont Fuji. Les couleurs d’automne renforcent encore la sérénité des paysages."
+      },
+      "worstTime": {
+        "months": "Juillet–août (chaud et brumeux), janvier–février (froid et visibilité réduite)",
+        "note": "La chaleur estivale et la brume peuvent masquer les paysages, tandis que l’hiver apporte souvent nuages ou neige, limitant la vue sur le mont Fuji et ralentissant les transports."
+      },
+      "tips": [
+        "Pensez en boucle plutôt qu’en vitesse : le circuit de Hakone (train → funiculaire → téléphérique → bateau) fait partie intégrante de l’expérience.",
+        "N’attendez pas absolument de voir le mont Fuji : profitez de la vapeur, des forêts et du lac même s’il reste caché.",
+        "Partez tôt : les téléphériques et les bateaux sont plus calmes avant l’arrivée des groupes, surtout le week-end.",
+        "Prévoyez une nuit en ryokan avec dîner et petit-déjeuner pour savourer pleinement les onsen.",
+        "Emportez plusieurs couches de vêtements : la température varie rapidement avec l’altitude.",
+        "Gardez un peu d’argent liquide pour les transports locaux, les consignes et les petits restaurants."
+      ],
+      "withKids": [
+        "Le téléphérique et les bateaux pirates sur le lac plaisent généralement beaucoup aux enfants.",
+        "Limitez les longues marches et utilisez les transports pour économiser leur énergie.",
+        "Le musée en plein air offre de vastes espaces où alterner intérieur et extérieur.",
+        "Choisissez un hébergement proche d’une gare afin d’éviter les montées avec les bagages."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo → Hakone",
+          "note": "Le plus courant : l’Odakyu Romancecar jusqu’à Hakone-Yumoto (environ 90 minutes). Un trajet JR via Odawara avec une courte correspondance est également possible."
+        }
+      ],
+      "gettingAround": [
+        "Hakone se découvre idéalement en boucle plutôt que par des trajets directs ; le circuit lui-même fait partie du voyage.",
+        "Les trains de montagne, funiculaires, téléphériques et bateaux permettent de relier les différents secteurs tout en offrant chacun une perspective différente.",
+        "La marche convient surtout aux sentiers forestiers et aux points de vue ; les dénivelés rendent les longues promenades peu pratiques.",
+        "Les taxis sont utiles pour rejoindre un ryokan ou lorsque la météo perturbe les transports."
+      ],
+      "dayTrips": [
+        {
+          "title": "Traversée du lac Ashi",
+          "note": "Les bateaux relient les principaux points du lac. Le matin offre généralement une eau plus calme et moins de visiteurs."
+        },
+        {
+          "title": "Vallée volcanique d’Owakudani",
+          "note": "Accessible en téléphérique. Les évents de vapeur et les sentiers sont clairement aménagés pour une découverte paisible."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Le Hakone Free Pass simplifie les déplacements en train, téléphérique, bateau et bus.",
+        "Commencez tôt, surtout le week-end, pour profiter des téléphériques et des bateaux avant la foule.",
+        "Les conditions météo peuvent interrompre certains services ; gardez un programme flexible.",
+        "Prévoyez un peu d’argent liquide pour les consignes, les bus locaux et les petits restaurants."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Kuro-tamago (œufs noirs d’Owakudani)",
+        "Katsu-don et tonkatsu",
+        "Soba traditionnels",
+        "Amazake (boisson sucrée de riz fermenté)"
+      ],
+      "areas": [
+        {
+          "name": "Hakone-Yumoto",
+          "note": "Principal point d’arrivée avec des restaurants traditionnels, des maisons de soba et un accès facile avant ou après le voyage."
+        },
+        {
+          "name": "Gora",
+          "note": "Secteur de montagne proche des téléphériques et des musées, avec plusieurs bonnes adresses décontractées."
+        },
+        {
+          "name": "Lake Ashi / Owakudani",
+          "note": "Secteur panoramique privilégiant les spécialités locales et les produits volcaniques plutôt que les grandes rues de restaurants."
+        }
+      ],
+      "places": [
+        {
+          "name": "Tamura Ginkatsu-tei",
+          "area": "Hakone-Yumoto",
+          "reason": "L’un des restaurants les plus réputés de Hakone, célèbre pour son porc pané épais et ses repas copieux après les excursions en montagne.",
+          "imageUrl": "/src/assets/itineraries/japan/hakone-food/tamura-ginkatsu-tei.jpg",
+          "lat": 35.2327,
+          "lng": 139.1066
+        },
+        {
+          "name": "Hatsuhana Soba",
+          "area": "Hakone-Yumoto",
+          "reason": "Restaurant historique de soba près de la gare, apprécié pour un repas traditionnel à l’arrivée ou au départ.",
+          "imageUrl": "/src/assets/itineraries/japan/hakone-food/hatsuhana-soba.jpg",
+          "lat": 35.2323,
+          "lng": 139.1069
+        },
+        {
+          "name": "Amazake Chaya",
+          "area": "Hakone-Yumoto",
+          "reason": "Maison de thé plusieurs fois centenaire sur l’ancienne route du Tokaido, réputée pour son amazake et ses rafraîchissements dans un cadre forestier.",
+          "imageUrl": "/src/assets/itineraries/japan/hakone-food/amazake-chaya.jpg",
+          "lat": 35.2364,
+          "lng": 139.0984
+        },
+        {
+          "name": "Gora Brewery & Grill",
+          "area": "Gora",
+          "reason": "Restaurant moderne et décontracté près de la gare de Gora, proposant des bières locales et une cuisine fusion réconfortante.",
+          "imageUrl": "/src/assets/itineraries/japan/hakone-food/gora-brewery-grill.jpg",
+          "lat": 35.2467,
+          "lng": 139.0463
+        },
+        {
+          "name": "Owakudani Kuro-tamago-kan",
+          "area": "Lake Ashi / Owakudani",
+          "reason": "Établissement officiel d’Owakudani vendant les célèbres œufs noirs de la région, une étape incontournable lors de la visite en téléphérique.",
+          "imageUrl": "/src/assets/itineraries/japan/hakone-food/owakudani-kuro-tamago-kan.jpg",
+          "lat": 35.2458,
+          "lng": 139.0207
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-hiroshima-where-memory-makes-space-for-life",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Hiroshima",
+    "title": "Hiroshima en 3 jours : Là où la mémoire laisse place à la vie",
+    "days": 3,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/3-days-hiroshima-where-memory-makes-space-for-life.jpg",
+    "summary": "Cet itinéraire de 3 jours à Hiroshima vous invite à découvrir une ville façonnée par le souvenir et le renouveau. Conçu pour avancer avec délicatesse entre réflexion et vie quotidienne, il équilibre le Parc du Mémorial de la Paix, les promenades au bord de la rivière, les rues de quartier et une journée sur l’île voisine de Miyajima. Hiroshima se révèle non seulement à travers la mémoire, mais aussi par la sérénité avec laquelle la vie continue.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Parc du Mémorial de la Paix et Dôme de la Bombe Atomique",
+      "Promenades le long des rivières et des ponts",
+      "Rues de quartier du quotidien",
+      "Île de Miyajima et sanctuaire d’Itsukushima",
+      "Rythme paisible et lieux propices à la réflexion",
+      "Une ville définie par le renouveau plutôt que par le silence"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et réflexion paisible",
+        "summary": "Entrer avec délicatesse.",
+        "details": "À votre arrivée à Hiroshima, commencez par le Parc du Mémorial de la Paix, où les espaces ouverts, l’eau et les arbres invitent au recueillement. Promenez-vous lentement en laissant le silence et les dimensions du lieu guider votre attention plutôt que de chercher immédiatement des explications.\n\nObservez le Dôme de la Bombe Atomique à distance, en laissant sa présence s’exprimer d’elle-même. Dans l’après-midi, poursuivez par une promenade au bord de la rivière et découvrez comment la vie quotidienne s’écoule paisiblement autour des lieux de mémoire. Terminez la journée par un repas local dans une atmosphère calme."
+      },
+      {
+        "day": 2,
+        "title": "Îles, eau et perspective",
+        "summary": "Prendre du recul face au poids de la ville.",
+        "details": "Consacrez la journée à Miyajima, où les collines boisées, les sentiers côtiers et le célèbre torii créent une véritable sensation d’éloignement. Marchez lentement en laissant l’eau, les marées et le relief façonner votre expérience.\n\nRevenez à Hiroshima en fin d’après-midi. Le contraste entre le calme de l’île et le rythme de la ville apporte une vision plus apaisée qu’accablante. Profitez d’une soirée tranquille en ville."
+      },
+      {
+        "day": 3,
+        "title": "Vie de quartier et départ",
+        "summary": "Quitter la ville dans la continuité.",
+        "details": "Passez votre dernière matinée dans les rues des quartiers résidentiels, loin des principaux sites touristiques. Regardez les commerces ouvrir, les conversations commencer et les gestes du quotidien se mettre en place.\n\nProfitez d’un déjeuner détendu avant votre départ. Hiroshima laisse son empreinte non seulement par son histoire, mais aussi par la manière dont la ville vit aujourd’hui : une mémoire préservée avec soin, tournée vers l’avenir."
+      }
+    ],
+    "planning": {
+      "city": "Hiroshima, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures agréables et le ciel dégagé rendent particulièrement plaisantes les promenades dans le Parc du Mémorial de la Paix, le long des rivières et sur l’île de Miyajima."
+      },
+      "worstTime": {
+        "months": "Juillet–août (très chaud et humide), juin (saison des pluies)",
+        "note": "La chaleur estivale peut rendre les visites extérieures éprouvantes. Les pluies de juin peuvent perturber les ferries et réduire la visibilité sur l’île."
+      },
+      "tips": [
+        "Séparez les moments émotionnellement intenses : visitez le Musée du Mémorial de la Paix le matin, puis prévoyez une activité plus apaisante ensuite.",
+        "Le Parc du Mémorial de la Paix est particulièrement émouvant tôt le matin ou au crépuscule, lorsque la foule diminue.",
+        "Utilisez Hiroshima comme point de départ pour Miyajima ; les ferries sont fréquents, mais vérifiez les marées si vous souhaitez voir le torii sembler flotter.",
+        "Prévoyez un seul grand thème par jour (histoire, île ou vie urbaine) afin d’éviter la fatigue physique ou émotionnelle.",
+        "Goûtez un okonomiyaki à la mode de Hiroshima en soirée ; la culture culinaire locale est accueillante et réconfortante.",
+        "Prévoyez de l’argent liquide pour les ferries, les petits restaurants et les commerces de l’île."
+      ],
+      "withKids": [
+        "Choisissez avec soin les sections du musée : certaines expositions peuvent être éprouvantes pour les jeunes enfants.",
+        "Les espaces verts et les promenades au bord de la rivière apportent un équilibre après les visites historiques.",
+        "Miyajima offre une nature, des animaux et de grands espaces qui allègent l’atmosphère.",
+        "Commencez tôt pour éviter la foule et la chaleur."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo / Osaka / Fukuoka → Hiroshima",
+          "note": "Prenez le Shinkansen jusqu’à la gare de Hiroshima (environ 1 h 30 depuis Osaka et 1 heure depuis Fukuoka). Des trains locaux relient ensuite facilement la gare au centre-ville."
+        }
+      ],
+      "gettingAround": [
+        "Les tramways sont le moyen de transport le plus emblématique et le plus pratique pour rejoindre le centre-ville, notamment le Parc du Mémorial de la Paix.",
+        "La marche est idéale le long des rivières, des ponts et dans les quartiers proches du centre.",
+        "Les trains locaux sont utiles pour rejoindre les terminaux des ferries et les zones périphériques.",
+        "Les taxis sont abordables pour les courts trajets, notamment après une visite du musée."
+      ],
+      "dayTrips": [
+        {
+          "title": "Île de Miyajima et sanctuaire d’Itsukushima",
+          "note": "Rejoignez Miyajimaguchi en train JR puis prenez le ferry (10 minutes). Une fois sur place, la découverte se fait principalement à pied."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Utilisez les cartes IC (Suica, Pasmo, ICOCA) pour régler facilement les trajets en tram, train et ferry.",
+        "Visitez le Parc du Mémorial de la Paix tôt le matin ou au crépuscule pour profiter d’une ambiance plus calme.",
+        "Consultez les horaires des ferries et les marées si vous souhaitez voir le torii paraître flotter.",
+        "Prévoyez un peu d’argent liquide pour les ferries, les commerces de l’île et les petits restaurants."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Okonomiyaki à la mode de Hiroshima",
+        "Huîtres (fraîches ou grillées)",
+        "Anago-meshi (riz à l’anguille de mer)",
+        "Momiji Manju (gâteaux en forme de feuille d’érable)"
+      ],
+      "areas": [
+        {
+          "name": "Peace Memorial Park / Hondori",
+          "note": "Quartier central idéal pour rejoindre des spécialistes de l’okonomiyaki et des restaurants locaux décontractés."
+        },
+        {
+          "name": "Hiroshima Station Area",
+          "note": "Secteur pratique regroupant plusieurs célèbres restaurants d’okonomiyaki et des repas rapides."
+        },
+        {
+          "name": "Miyajima / Miyajimaguchi",
+          "note": "Zone du ferry et de l’île réputée pour les huîtres, l’anago-meshi et les pâtisseries traditionnelles."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hassei",
+          "area": "Peace Memorial Park / Hondori",
+          "reason": "L’une des adresses d’okonomiyaki les plus respectées de Hiroshima, réputée pour ses saveurs équilibrées et sa technique soignée.",
+          "imageUrl": "/src/assets/itineraries/japan/hiroshima-food/hassei.jpg",
+          "lat": 34.3926,
+          "lng": 132.4566
+        },
+        {
+          "name": "Mitchan Sohonten (Hondori)",
+          "area": "Peace Memorial Park / Hondori",
+          "reason": "Restaurant fondateur de l’okonomiyaki à la mode de Hiroshima, souvent considéré comme la référence locale.",
+          "imageUrl": "/src/assets/itineraries/japan/hiroshima-food/mitchan-sohonten.jpg",
+          "lat": 34.3915,
+          "lng": 132.4571
+        },
+        {
+          "name": "Kakiya",
+          "area": "Miyajima / Miyajimaguchi",
+          "reason": "Excellente adresse spécialisée dans les huîtres de Miyajima, servies selon plusieurs recettes traditionnelles.",
+          "imageUrl": "/src/assets/itineraries/japan/hiroshima-food/kakiya.jpg",
+          "lat": 34.2969,
+          "lng": 132.3197
+        },
+        {
+          "name": "Anago Meshi Ueno",
+          "area": "Miyajima / Miyajimaguchi",
+          "reason": "Restaurant emblématique d’anago-meshi situé près du terminal des ferries, célèbre dans tout le Japon pour sa recette historique.",
+          "imageUrl": "/src/assets/itineraries/japan/hiroshima-food/anago-meshi-ueno.jpg",
+          "lat": 34.3144,
+          "lng": 132.3094
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-kanazawa-where-craft-sets-the-pace",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Kanazawa",
+    "title": "Kanazawa en 3 jours : Là où l’artisanat donne le rythme",
+    "days": 3,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/3-days-kanazawa-where-craft-sets-the-pace.jpg",
+    "summary": "Cet itinéraire de 3 jours à Kanazawa vous invite à découvrir une ville façonnée par l’artisanat, la préservation du patrimoine et une attention minutieuse aux détails. Conçu pour récompenser la marche lente plutôt que les longues distances, il équilibre jardins classiques, anciens quartiers de samouraïs, rues de maisons de thé et vie quotidienne. Kanazawa se révèle à travers les proportions, les textures et la confiance discrète des choses bien réalisées.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Jardin Kenrokuen et beauté des saisons",
+      "Enceinte du château de Kanazawa",
+      "Rues du quartier des samouraïs de Nagamachi",
+      "Soirées dans le quartier des maisons de thé Higashi Chaya",
+      "Traditions artisanales et gastronomie locale",
+      "Une ville préservée avec intention"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et harmonie des jardins",
+        "summary": "Premier contact avec l’équilibre et le soin.",
+        "details": "À votre arrivée à Kanazawa, commencez par le jardin Kenrokuen, où les sentiers, l’eau et les arbres sont agencés pour récompenser une observation attentive. Marchez lentement en remarquant comment l’équilibre naît davantage de la retenue que de la symétrie.\n\nPoursuivez ensuite vers l’enceinte du château de Kanazawa, où les espaces ouverts et les murailles de pierre renforcent le sentiment d’ordre de la ville. Terminez la journée par un dîner paisible à proximité, en laissant le rythme mesuré de la journée s’installer naturellement."
+      },
+      {
+        "day": 2,
+        "title": "Rues de samouraïs et héritage paisible",
+        "summary": "Marcher au cœur d’une tradition transmise.",
+        "details": "Consacrez la matinée au quartier des samouraïs de Nagamachi, où les ruelles étroites, les murs en terre et les canaux reflètent un mode de vie discipliné. Marchez lentement en laissant les répétitions et les textures façonner votre expérience.\n\nDans l’après-midi, découvrez de petits ateliers d’artisans ou des cafés locaux où les savoir-faire traditionnels se perpétuent avec simplicité. À l’approche du soir, promenez-vous dans le quartier Higashi Chaya, où les façades en bois et la lumière douce accompagnent la fin de la journée."
+      },
+      {
+        "day": 3,
+        "title": "Marchés, matinées et départ",
+        "summary": "Quitter la ville à travers la précision du quotidien.",
+        "details": "Commencez votre dernière matinée par un marché local ou une rue de quartier, en observant comment la qualité et les habitudes quotidiennes se rejoignent dans la vie de tous les jours.\n\nConsacrez le reste du temps à retrouver un chemin ou un coin tranquille que vous avez particulièrement apprécié avant votre départ. Kanazawa laisse son empreinte par sa constance : ici, l’artisanat n’est pas une attraction, mais une manière de vivre."
+      }
+    ],
+    "planning": {
+      "city": "Kanazawa, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures douces et la lumière claire sont idéales pour les jardins, les quartiers historiques et les musées d’artisanat. Le printemps embellit Kenrokuen de ses fleurs, tandis que l’automne apporte des couleurs éclatantes."
+      },
+      "worstTime": {
+        "months": "Janvier–février (froid et neigeux), juin–juillet (pluvieux)",
+        "note": "Les chutes de neige hivernales peuvent limiter les promenades et l’accès aux jardins, tandis que les pluies du début de l’été rendent les visites extérieures moins agréables, même si ces saisons possèdent une atmosphère unique."
+      },
+      "tips": [
+        "Commencez tôt par Kenrokuen et le château de Kanazawa, lorsque les jardins sont calmes et la lumière idéale.",
+        "Organisez vos journées par ambiance : jardins et musées le matin, quartiers historiques l’après-midi, dîner en soirée.",
+        "Le marché Omicho est préférable avant midi pour profiter des fruits de mer les plus frais et d’une fréquentation plus faible.",
+        "Marchez entre les quartiers lorsque cela est possible : les principaux sites sont proches les uns des autres.",
+        "Respectez la discrétion des lieux artisanaux ; les règles concernant les photos varient, vérifiez la signalisation.",
+        "Prévoyez de l’argent liquide pour les petites boutiques, les maisons de thé et les restaurants traditionnels."
+      ],
+      "withKids": [
+        "Kenrokuen offre de larges allées et de beaux panoramas, parfaits pour une visite détendue.",
+        "Évitez d’enchaîner trop de musées ; alternez espaces intérieurs et promenades extérieures.",
+        "Le marché Omicho permet de manger rapidement et facilement.",
+        "Prévoyez plusieurs couches de vêtements : le climat côtier peut changer rapidement, surtout le soir."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo / Kyoto → Kanazawa",
+          "note": "Depuis Tokyo : Hokuriku Shinkansen jusqu’à la gare de Kanazawa (environ 2 h 30). Depuis Kyoto : Limited Express Thunderbird (environ 2 heures). Les deux arrivent directement au centre-ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Kenrokuen, le château de Kanazawa, Nagamachi et Higashi Chaya.",
+        "Les bus locaux sont utiles pour de courts trajets entre les quartiers, notamment par mauvais temps.",
+        "Les taxis sont abordables pour de petits déplacements, surtout le soir ou après une séance de shopping.",
+        "Le vélo est possible sur les itinéraires les plus plats, mais la marche correspond davantage au rythme de la ville."
+      ],
+      "dayTrips": [
+        {
+          "title": "Jardin Kenrokuen et château de Kanazawa",
+          "note": "À découvrir entièrement à pied. Le début de matinée offre l’atmosphère la plus paisible et la plus belle lumière."
+        },
+        {
+          "title": "Quartier des samouraïs de Nagamachi et Higashi Chaya",
+          "note": "Accessibles en bus ou en court trajet de taxi, puis à explorer lentement à pied."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Privilégiez les jardins et les marchés le matin, lorsque la lumière met en valeur l’atmosphère raffinée de Kanazawa.",
+        "Gardez de l’argent liquide pour les boutiques artisanales, les maisons de thé et les restaurants traditionnels.",
+        "En hiver, prévoyez davantage de temps pour marcher en raison de la neige.",
+        "Les principaux sites sont proches les uns des autres : laissez la marche donner le rythme du séjour."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Donburi aux fruits de mer façon Kanazawa",
+        "Jibuni (canard mijoté au dashi)",
+        "Nodoguro (perche de mer noire)",
+        "Desserts à la feuille d’or"
+      ],
+      "areas": [
+        {
+          "name": "Omicho Market Area",
+          "note": "Le principal marché alimentaire de Kanazawa, idéal le matin pour les fruits de mer frais."
+        },
+        {
+          "name": "Nagamachi Samurai District",
+          "note": "Quartier historique paisible avec des restaurants raffinés servant la cuisine traditionnelle de Kanazawa."
+        },
+        {
+          "name": "Higashi Chaya District",
+          "note": "Quartier préservé des maisons de thé, réputé pour ses repas traditionnels et ses douceurs."
+        }
+      ],
+      "places": [
+        {
+          "name": "Iki-Iki Tei",
+          "area": "Omicho Market Area",
+          "reason": "Restaurant populaire du marché Omicho, réputé pour ses sashimis frais et ses généreux bols de fruits de mer.",
+          "imageUrl": "/src/assets/itineraries/japan/kanazawa-food/iki-iki-tei.jpg",
+          "lat": 36.5716,
+          "lng": 136.6569
+        },
+        {
+          "name": "Kaisendon-ya Himi",
+          "area": "Omicho Market Area",
+          "reason": "Adresse réputée spécialisée dans les donburi de fruits de mer de saison, particulièrement appréciée à l’heure du déjeuner.",
+          "imageUrl": "/src/assets/itineraries/japan/kanazawa-food/kaisendon-ya-himi.jpg",
+          "lat": 36.5718,
+          "lng": 136.6565
+        },
+        {
+          "name": "Ame no Tawaraya",
+          "area": "Nagamachi Samurai District",
+          "reason": "Restaurant traditionnel servant des spécialités locales comme le jibuni dans un cadre historique raffiné.",
+          "imageUrl": "/src/assets/itineraries/japan/kanazawa-food/ame-no-tawaraya.jpg",
+          "lat": 36.5639,
+          "lng": 136.6508
+        },
+        {
+          "name": "Hakuichi Higashi Chaya Store",
+          "area": "Higashi Chaya District",
+          "reason": "Boutique emblématique réputée pour ses desserts à la feuille d’or, notamment sa glace recouverte d’or comestible.",
+          "imageUrl": "/src/assets/itineraries/japan/kanazawa-food/hakuichi-higashi-chaya.jpg",
+          "lat": 36.5751,
+          "lng": 136.6676
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-kyoto-where-quiet-learns-to-last",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Kyoto",
+    "title": "Kyoto en 3 jours : Là où le calme apprend à durer",
+    "days": 3,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/3-days-kyoto-where-quiet-learns-to-last.jpg",
+    "summary": "Cet itinéraire de 3 jours à Kyoto vous invite à découvrir l’ancienne capitale du Japon à travers ses temples, ses jardins, ses rues de quartier et des rituels soigneusement préservés. Conçu pour ralentir le regard plutôt que multiplier les visites, il équilibre les sites emblématiques avec des chemins plus paisibles et des promenades répétées, laissant le sentiment de continuité et de retenue propre à Kyoto se révéler naturellement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Jardins de temples et pavillons en bois",
+      "Sentiers de bambous d’Arashiyama aux premières lueurs du jour",
+      "Soirées dans le quartier de Gion",
+      "Ruelles pavées, mousse et détails au fil des saisons",
+      "Des promenades paisibles plutôt qu’une succession de sites",
+      "Rituel, répétition et retenue"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et silence de bois",
+        "summary": "Entrer dans une ville façonnée par la retenue.",
+        "details": "À votre arrivée à Kyoto, commencez par visiter un temple ou un jardin où le bois, le gravier et les zones d’ombre instaurent immédiatement un rythme plus lent. Marchez avec intention en observant comment l’espace guide naturellement le regard plutôt que de chercher à impressionner.\n\nDans l’après-midi, poursuivez votre découverte dans les ruelles voisines et les quartiers résidentiels, où la vie quotidienne se déroule en douceur aux côtés des bâtiments historiques. Terminez la journée par un repas simple suivi d’une promenade en début de soirée, laissant le calme s’installer avant la nuit."
+      },
+      {
+        "day": 2,
+        "title": "Bambous, pierre et lumière mesurée",
+        "summary": "Une nature façonnée avec soin.",
+        "details": "Commencez la journée tôt à Arashiyama en parcourant les sentiers de bambous avant l’arrivée de la foule. Avancez lentement en laissant les sons et la lumière évoluer à chaque pas.\n\nRevenez vers le centre dans l’après-midi pour vous reposer ou visiter un jardin, en gardant un programme volontairement léger. À l’approche du soir, promenez-vous dans Gion, où les ruelles pavées et les façades en bois retiennent doucement la lumière. Observez sans chercher le spectaculaire."
+      },
+      {
+        "day": 3,
+        "title": "Jardins, sentiers et départ",
+        "summary": "Quitter la ville à travers la répétition.",
+        "details": "Consacrez votre dernière matinée à revisiter un jardin ou à emprunter un itinéraire déjà parcouru les jours précédents. Kyoto se révèle le plus clairement lorsque l’on revient sur ses pas.\n\nProfitez d’un déjeuner paisible avant votre départ. Kyoto laisse son empreinte avec discrétion : non pas par ce que l’on voit une seule fois, mais par ce qui demeure lorsque l’attention s’est apaisée."
+      }
+    ],
+    "planning": {
+      "city": "Kyoto, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures douces et la beauté des saisons font de ces périodes le moment idéal pour visiter les temples, les jardins et flâner dans les quartiers. Les matinées restent particulièrement calmes."
+      },
+      "worstTime": {
+        "months": "Juillet–août (chaud et humide), janvier–février (froid et calme)",
+        "note": "La chaleur et l’humidité estivales peuvent être éprouvantes, notamment dans les escaliers des temples. L’hiver est plus froid et plus paisible ; l’atmosphère est agréable, mais les longues journées en extérieur sont moins confortables."
+      },
+      "tips": [
+        "Commencez avant 8 h : les principaux sites (Fushimi Inari, Arashiyama) sont magnifiques à l’aube et deviennent très fréquentés dès le milieu de la matinée.",
+        "Organisez vos visites par secteur : Est (Higashiyama), Ouest (Arashiyama), Sud (Fushimi) afin d’éviter les allers-retours inutiles à travers la ville.",
+        "Respectez le silence : parlez doucement dans les temples et les quartiers résidentiels ; la photographie peut être interdite, veillez à suivre la signalisation.",
+        "Marchez davantage et prenez votre temps : les véritables détails de Kyoto se découvrent entre les sites emblématiques.",
+        "Prévoyez de l’argent liquide : les petits temples, les bus et les restaurants locaux n’acceptent pas toujours les cartes bancaires.",
+        "Habillez-vous avec simplicité et confort ; certains temples comportent des escaliers et des chemins en gravier."
+      ],
+      "withKids": [
+        "Privilégiez un nombre limité de temples chaque jour et ajoutez des parcs ou des promenades le long de la rivière pour varier les activités.",
+        "Commencer tôt permet d’éviter la foule et la chaleur, rendant les promenades plus agréables pour les enfants.",
+        "Les bambouseraies et les chemins des sanctuaires captivent facilement les enfants sans nécessiter de longues explications.",
+        "Prévoyez plusieurs couches de vêtements : les matinées et les soirées peuvent être fraîches, même au printemps et en automne."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo / Osaka → Kyoto",
+          "note": "Depuis Tokyo : prenez le Shinkansen jusqu’à la gare de Kyoto (environ 2 à 2 h 30). Depuis Osaka : utilisez le JR Special Rapid (30 minutes) ou les lignes Hankyu ou Keihan selon le quartier de destination."
+        }
+      ],
+      "gettingAround": [
+        "La marche est au cœur de l’expérience à Kyoto : les enceintes des temples, les ruelles pavées et les quartiers résidentiels se découvrent idéalement à pied.",
+        "Les bus sont indispensables pour rejoindre les secteurs de temples qui ne sont pas directement desservis par le train, notamment à Higashiyama et dans le centre de Kyoto.",
+        "Les trains sont pratiques pour les trajets plus longs, par exemple entre la gare de Kyoto et Arashiyama ou le quartier de Fushimi.",
+        "Les taxis sont utiles pour de courts déplacements entre des temples proches ou pour éviter la chaleur, mais la circulation peut les ralentir aux heures de pointe."
+      ],
+      "dayTrips": [
+        {
+          "title": "Arashiyama (bambouseraie et environs)",
+          "note": "Accessible par la ligne JR Sagano ou la ligne Hankyu. Une fois sur place, la découverte se fait essentiellement à pied ; arrivez tôt afin d’éviter la foule."
+        },
+        {
+          "title": "Quartiers de Gion et Higashiyama",
+          "note": "À découvrir entièrement à pied après un court trajet en bus ou en train. Les ruelles pavées, les pentes et les petites allées invitent à une exploration paisible."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Commencez tôt (avant 8 h) pour visiter Arashiyama et les principaux secteurs de temples : la foule devient importante dès le milieu de la matinée.",
+        "Organisez vos visites par secteur (Est, Ouest, Sud) afin de limiter les temps de transport ; les déplacements à travers Kyoto prennent souvent plus de temps que ne le suggèrent les cartes.",
+        "Prévoyez de l’argent liquide pour les bus, les petits temples et les restaurants locaux.",
+        "Évitez autant que possible les trains aux heures de pointe, surtout si vous voyagez avec des bagages ou des enfants."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cuisine kaiseki",
+        "Yudofu (fondue de tofu)",
+        "Obanzai (cuisine familiale de Kyoto)",
+        "Desserts au matcha"
+      ],
+      "areas": [
+        {
+          "name": "Higashiyama / Gion",
+          "note": "Quartier historique propice aux promenades, avec des restaurants traditionnels et une atmosphère paisible en soirée."
+        },
+        {
+          "name": "Arashiyama",
+          "note": "Quartier pittoresque situé à l’ouest de Kyoto, idéal pour un déjeuner tranquille après une visite matinale de la bambouseraie."
+        },
+        {
+          "name": "Central Kyoto",
+          "note": "Des quartiers du quotidien et des rues commerçantes couvertes où l’on découvre une cuisine locale simple et authentique."
+        }
+      ],
+      "places": [
+        {
+          "name": "Gion Karyo",
+          "area": "Higashiyama / Gion",
+          "reason": "Restaurant kaiseki raffiné, réputé pour sa cuisine de saison de Kyoto servie dans un cadre traditionnel et apaisant.",
+          "imageUrl": "/src/assets/itineraries/japan/kyoto-food/gion-karyo.jpg",
+          "lat": 35.0036,
+          "lng": 135.7786
+        },
+        {
+          "name": "Okutan Kiyomizu",
+          "area": "Higashiyama / Gion",
+          "reason": "Restaurant historique spécialisé dans le yudofu, étroitement lié à la tradition culinaire des environs des temples.",
+          "imageUrl": "/src/assets/itineraries/japan/kyoto-food/okutan-kiyomizu.jpg",
+          "lat": 34.9953,
+          "lng": 135.785
+        },
+        {
+          "name": "Shigetsu",
+          "area": "Central Kyoto",
+          "reason": "Restaurant de shojin-ryori situé dans le temple Tenryu-ji, proposant une cuisine bouddhiste végétarienne dans un environnement calme.",
+          "imageUrl": "/src/assets/itineraries/japan/kyoto-food/shigetsu.jpg",
+          "lat": 35.0159,
+          "lng": 135.6748
+        },
+        {
+          "name": "Yoshimura Arashiyama",
+          "area": "Arashiyama",
+          "reason": "Restaurant de soba réputé offrant une vue sur la rivière Katsura, souvent apprécié après une promenade dans la bambouseraie.",
+          "imageUrl": "/src/assets/itineraries/japan/kyoto-food/yoshimura-arashiyama.jpg",
+          "lat": 35.0138,
+          "lng": 135.6762
+        },
+        {
+          "name": "Tsujiri Gion Main Store",
+          "area": "Higashiyama / Gion",
+          "reason": "Célèbre salon de thé de Kyoto, réputé pour ses desserts raffinés au matcha et ses douceurs traditionnelles.",
+          "imageUrl": "/src/assets/itineraries/japan/kyoto-food/tsujiri-gion.jpg",
+          "lat": 35.0032,
+          "lng": 135.7777
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-nara-where-history-walks-beside-you",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Nara",
+    "title": "Nara en 2 jours : Là où l’histoire marche à vos côtés",
+    "days": 2,
+    "priceFrom": 220,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/2-days-nara-where-history-walks-beside-you.jpg",
+    "summary": "Cet itinéraire de 2 jours à Nara vous invite à découvrir la première capitale permanente du Japon à travers ses vastes parcs, ses temples anciens, ses sentiers forestiers et un rythme fondé sur la confiance plutôt que sur le contrôle. Conçu pour être parcouru lentement, il laisse l’histoire demeurer présente et accessible, avançant aux côtés de la vie quotidienne plutôt qu’à l’écart de celle-ci.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Parc de Nara et ses daims en liberté",
+      "Tōdai-ji et le Grand Bouddha",
+      "Allées de lanternes du sanctuaire Kasuga Taisha",
+      "Promenades en forêt et vastes pelouses",
+      "Enceintes de temples ouvertes",
+      "Une ville définie par son ouverture et son ancienneté"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et grands espaces",
+        "summary": "L’histoire sans barrières.",
+        "details": "À votre arrivée à Nara, commencez par le parc de Nara, où les daims circulent librement parmi les visiteurs et les temples. Promenez-vous lentement sur les vastes pelouses et les sentiers ombragés, en laissant les rencontres se produire naturellement.\n\nVisitez le Tōdai-ji pour admirer l’immensité du Grand Bouddha dans son impressionnant pavillon de bois, à la fois monumental et paisible. Dans l’après-midi, poursuivez votre promenade entre les temples et les espaces verts avant de terminer la journée par un dîner tranquille à proximité."
+      },
+      {
+        "day": 2,
+        "title": "Sentiers forestiers et départ",
+        "summary": "Quitter la ville dans la continuité.",
+        "details": "Commencez la journée en marchant vers le sanctuaire Kasuga Taisha, en suivant les sentiers forestiers bordés de lanternes de pierre. La lumière filtre à travers les arbres et le calme accompagne chaque pas.\n\nConsacrez le reste de la matinée à retrouver vos chemins préférés ou à vous asseoir paisiblement dans l’enceinte des temples. Profitez d’un déjeuner détendu avant votre départ. Nara laisse son empreinte avec douceur : une histoire qui ne reste pas derrière une vitrine, mais qui marche à vos côtés, vivante et accessible."
+      }
+    ],
+    "planning": {
+      "city": "Nara, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures douces et la lumière agréable rendent les longues promenades dans le parc, les sanctuaires et les rues historiques particulièrement confortables. Le printemps apporte les cerisiers en fleurs, tandis que l’automne colore les temples."
+      },
+      "worstTime": {
+        "months": "Juillet–août (chaud et humide), janvier–février (froid)",
+        "note": "La chaleur estivale peut rendre les vastes espaces du parc éprouvants. L’hiver est plus calme et atmosphérique, mais particulièrement frais dans les sentiers boisés."
+      },
+      "tips": [
+        "Arrivez tôt : le parc de Nara et le Tōdai-ji sont les plus paisibles avant 9 h.",
+        "Respectez les daims : ils sont habitués aux visiteurs mais peuvent se montrer insistants ; nourrissez-les uniquement avec les biscuits prévus à cet effet et gardez vos affaires en sécurité.",
+        "Organisez votre visite en boucle : parc → temples → sentiers forestiers → Naramachi afin d’éviter les détours.",
+        "Portez des chaussures confortables : les chemins alternent gravier, herbe et légères pentes.",
+        "Prévoyez de l’argent liquide pour les entrées, les biscuits pour les daims et les petites boutiques.",
+        "Les soirées deviennent calmes rapidement ; prévoyez votre dîner assez tôt ou dans le quartier de Naramachi."
+      ],
+      "withKids": [
+        "Les rencontres avec les daims plaisent beaucoup aux enfants, mais une surveillance est nécessaire : certains s’inclinent puis réclament de la nourriture.",
+        "Les larges allées et les pelouses permettent de se déplacer facilement entre les temples.",
+        "Évitez d’enchaîner trop de grands temples au cours de la même demi-journée.",
+        "Prévoyez plusieurs couches de vêtements : les matinées et les soirées restent fraîches, même au printemps et en automne."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Kyoto / Osaka → Nara",
+          "note": "Depuis Kyoto : ligne JR Nara (45 à 50 minutes). Depuis Osaka : ligne Kintetsu depuis Namba (35 à 40 minutes). La gare de Kintetsu Nara est la plus proche du parc de Nara."
+        }
+      ],
+      "gettingAround": [
+        "La marche est essentielle : le parc de Nara, le Tōdai-ji, le sanctuaire Kasuga Taisha et les temples voisins se découvrent idéalement à pied.",
+        "Les bus locaux sont utiles pour de courts trajets depuis les gares, mais rarement indispensables pour un séjour de deux jours.",
+        "Le vélo est envisageable sur les secteurs plats, même si la marche convient mieux aux sentiers du parc et de la forêt.",
+        "Des taxis sont disponibles près des gares pour les transferts rapides, notamment avec des bagages ou par mauvais temps."
+      ],
+      "dayTrips": [
+        {
+          "title": "Parc de Nara, Tōdai-ji et Kasuga Taisha",
+          "note": "Tous ces sites sont reliés par des espaces verts et des sentiers forestiers. Parcourez-les en boucle pour éviter les allers-retours."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Arrivez avant 9 h pour profiter du parc et des temples avant les groupes.",
+        "Portez de bonnes chaussures adaptées aux chemins en gravier, à l’herbe et aux sentiers forestiers.",
+        "Gardez de l’argent liquide pour les entrées, les biscuits pour les daims et les petites boutiques.",
+        "Les soirées sont calmes ; dînez assez tôt ou dans le quartier de Naramachi."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Kakinoha-zushi (sushi en feuille de kaki)",
+        "Somen de Miwa",
+        "Légumes Yamato de saison",
+        "Pâtisseries japonaises (mochi et wagashi)"
+      ],
+      "areas": [
+        {
+          "name": "Nara Park Area",
+          "note": "Restaurants proches des temples et du parc, proposant une cuisine traditionnelle simple après les promenades."
+        },
+        {
+          "name": "Naramachi",
+          "note": "Ancien quartier marchand préservé, avec de petits restaurants, cafés et salons de thé, idéal en soirée."
+        },
+        {
+          "name": "Near Kintetsu Nara Station",
+          "note": "Secteur pratique pour un repas à l’arrivée ou avant le départ, à proximité du parc."
+        }
+      ],
+      "places": [
+        {
+          "name": "Edogawa Naramachi",
+          "area": "Naramachi",
+          "reason": "Restaurant réputé spécialisé dans les plats d’anguille et les repas japonais traditionnels dans une maison historique.",
+          "imageUrl": "/src/assets/itineraries/japan/nara-food/edogawa-naramachi.jpg",
+          "lat": 34.6829,
+          "lng": 135.8324
+        },
+        {
+          "name": "Hiraso Nara",
+          "area": "Naramachi",
+          "reason": "Adresse emblématique pour déguster un authentique kakinoha-zushi, spécialité de Nara.",
+          "imageUrl": "/src/assets/itineraries/japan/nara-food/hiraso-nara.jpg",
+          "lat": 34.6822,
+          "lng": 135.8331
+        },
+        {
+          "name": "Maguro Koya",
+          "area": "Near Kintetsu Nara Station",
+          "reason": "Restaurant décontracté réputé pour ses bols de thon frais et ses repas simples près de l’entrée du parc.",
+          "imageUrl": "/src/assets/itineraries/japan/nara-food/maguro-koya.jpg",
+          "lat": 34.6844,
+          "lng": 135.8276
+        },
+        {
+          "name": "Nakatanidou",
+          "area": "Near Kintetsu Nara Station",
+          "reason": "Célèbre boutique de mochi connue pour ses démonstrations spectaculaires de pilonnage et ses mochi au yomogi fraîchement préparés.",
+          "imageUrl": "/src/assets/itineraries/japan/nara-food/nakatanidou.jpg",
+          "lat": 34.6835,
+          "lng": 135.8269
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-osaka-where-appetite-leads-the-way",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Osaka",
+    "title": "Osaka en 3 jours : Là où l’appétit montre le chemin",
+    "days": 3,
+    "priceFrom": 250,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/3-days-osaka-where-appetite-leads-the-way.jpg",
+    "summary": "Cet itinéraire de 3 jours à Osaka vous invite à découvrir la grande ville la plus ouverte et informelle du Japon à travers sa culture culinaire, ses rues animées, ses habitudes de quartier et son énergie collective. Pensé comme une respiration après des villes plus réservées, il privilégie l’appétit, la conversation et les plaisirs du quotidien, laissant la chaleur et l’humour d’Osaka façonner naturellement chaque journée.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Culture de la cuisine de rue et repas décontractés",
+      "Soirées à Dotonbori et rues illuminées au néon",
+      "Promenades dans les quartiers locaux",
+      "Parc du château d’Osaka et grands espaces",
+      "Marchés, rires et rythme informel",
+      "Une ville qui vit pleinement vers l’extérieur"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premières saveurs",
+        "summary": "Entrer dans une ville qui vous accueille avec éclat.",
+        "details": "À votre arrivée à Osaka, commencez par une promenade décontractée dans un quartier animé, où les boutiques, les enseignes et les voix remplissent les rues. Laissez votre appétit guider vos choix : de petites haltes gourmandes, des en-cas et des tables partagées révèlent mieux la ville que ses monuments.\n\nDans la soirée, rendez-vous à Dotonbori, où les néons et la foule créent une véritable sensation de plaisir collectif. Mangez lentement, prenez votre temps et acceptez le bruit comme une partie intégrante de l’expérience."
+      },
+      {
+        "day": 2,
+        "title": "Marchés, rues et conversations spontanées",
+        "summary": "Osaka telle qu’elle se vit au quotidien.",
+        "details": "Consacrez la journée à explorer les marchés locaux et les rues de quartier, où la préparation des plats, les échanges plaisants et les habitudes quotidiennes façonnent le caractère de la ville. Marchez sans programme trop strict, en laissant la curiosité et la faim vous guider.\n\nDans l’après-midi, visitez le parc du château d’Osaka pour profiter de grands espaces et d’un agréable contraste : les larges allées, l’eau et les arbres adoucissent la densité urbaine. Terminez la journée par un autre dîner décontracté, en privilégiant les saveurs familières plutôt que la nouveauté."
+      },
+      {
+        "day": 3,
+        "title": "Matin de quartier et départ",
+        "summary": "Quitter la ville dans une sensation de confort.",
+        "details": "Passez votre dernière matinée à retrouver une rue ou un café que vous avez particulièrement apprécié. Observez les boutiques ouvrir, les livraisons arriver et les premières conversations commencer.\n\nProfitez d’un déjeuner détendu avant votre départ. Osaka laisse son empreinte par sa générosité : une ville qui vous invite à entrer, vous nourrit avec abondance et vous laisse repartir avec le sourire."
+      }
+    ],
+    "planning": {
+      "city": "Osaka, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Les températures douces rendent les longues explorations gourmandes à pied particulièrement agréables, tandis que les soirées sont idéales pour profiter de la cuisine de rue et des quartiers illuminés au néon comme Dotonbori."
+      },
+      "worstTime": {
+        "months": "Juillet–août (chaud et humide), janvier–février (froid et plus calme)",
+        "note": "La chaleur et l’humidité estivales peuvent être éprouvantes lors de longues découvertes culinaires. L’hiver est plus froid et les soirées sont moins animées, mais le séjour reste tout à fait agréable."
+      },
+      "tips": [
+        "Organisez vos journées autour des repas : Osaka se révèle pleinement au déjeuner et surtout au dîner ; gardez vos soirées libres pour flâner au gré des envies gourmandes.",
+        "Regroupez vos visites par quartier : Namba/Dotonbori, Shinsekai, Umeda, afin d’éviter les allers-retours inutiles à travers la ville.",
+        "Mangez peu, mais souvent : partagez des takoyaki, des okonomiyaki et des kushikatsu plutôt que de prévoir systématiquement des repas complets à table.",
+        "Les files d’attente sont courantes dans les établissements populaires : arrivez avant l’heure de pointe du dîner (avant 18 h) ou plus tard dans la soirée.",
+        "L’argent liquide reste utile pour la cuisine de rue et les petits restaurants.",
+        "De bonnes chaussures sont essentielles : Osaka récompense les promenades sans but précis et les haltes spontanées."
+      ],
+      "withKids": [
+        "Les stands de cuisine de rue permettent de manger rapidement et librement, ce qui convient bien aux enfants qui se lassent vite.",
+        "Le parc du château d’Osaka offre de grands espaces pour équilibrer les quartiers culinaires plus denses.",
+        "Avec des enfants, évitez l’affluence du dîner à Dotonbori ; le début de soirée est plus agréable.",
+        "Les espaces de restauration des grands magasins sont propres, bien organisés et constituent une solution adaptée aux familles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tokyo / Kyoto → Osaka",
+          "note": "Depuis Tokyo : prenez le Shinkansen jusqu’à Shin-Osaka (environ 2 h 30). Depuis Kyoto : prenez le JR Special Rapid ou le Shinkansen (15 à 30 minutes selon le train)."
+        }
+      ],
+      "gettingAround": [
+        "Les trains et les métros sont les moyens les plus rapides pour circuler entre des quartiers comme Namba, Umeda et Shinsekai.",
+        "La marche est essentielle dans les quartiers gastronomiques : Dotonbori, Kuromon et les rues locales se découvrent idéalement à pied et sans se presser.",
+        "Les cartes IC (Suica, Pasmo ou ICOCA) fonctionnent facilement dans les trains et les métros.",
+        "Les taxis sont abordables pour de courts trajets tard le soir, notamment après une soirée particulièrement gourmande."
+      ],
+      "dayTrips": [
+        {
+          "title": "Dotonbori et Namba",
+          "note": "Facilement accessibles en métro ou par le réseau JR, puis à explorer entièrement à pied : les canaux, les ruelles et les rues illuminées au néon invitent à la flânerie."
+        },
+        {
+          "title": "Parc du château d’Osaka",
+          "note": "Accessible par la ligne circulaire JR ou le métro. Une fois dans le parc, la visite s’organise autour de ses sentiers et de ses vastes espaces ouverts."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Évitez les heures de pointe (de 7 h à 9 h et de 17 h à 19 h) lorsque vous voyagez avec des bagages ou des enfants.",
+        "Organisez vos visites par quartier afin d’éviter les correspondances inutiles : Osaka est compacte, mais très animée.",
+        "Les derniers trains circulent aux alentours de minuit ; les taxis sont courants et sûrs après cette heure.",
+        "Prévoyez un peu d’argent liquide pour la cuisine de rue, les marchés et les petits restaurants."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Takoyaki",
+        "Okonomiyaki",
+        "Kushikatsu",
+        "Yakiniku",
+        "Negiyaki",
+        "Ramen à la mode d’Osaka"
+      ],
+      "areas": [
+        {
+          "name": "Dotonbori",
+          "note": "La rue gastronomique la plus célèbre d’Osaka : néons, animation et dégustations permanentes. Elle s’apprécie particulièrement en prenant son temps et en goûtant de petites portions."
+        },
+        {
+          "name": "Kuromon Market",
+          "note": "Marché local réputé pour ses fruits de mer frais, ses en-cas grillés et ses repas décontractés en journée."
+        },
+        {
+          "name": "Shinsekai",
+          "note": "Un quartier à l’atmosphère typique de l’Osaka d’autrefois, fortement associé aux kushikatsu et à une cuisine simple et sans prétention."
+        }
+      ],
+      "places": [
+        {
+          "name": "Mizuno",
+          "area": "Dotonbori",
+          "reason": "L’un des restaurants d’okonomiyaki les plus célèbres d’Osaka, réputé pour l’équilibre de ses saveurs et sa solide réputation acquise au fil des années.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/mizuno.jpg",
+          "lat": 34.6687,
+          "lng": 135.5031
+        },
+        {
+          "name": "Takoyaki Wanaka Sennichimae",
+          "area": "Namba",
+          "reason": "Une adresse réputée spécialisée dans les takoyaki, appréciée aussi bien des habitants que des visiteurs et représentative de l’identité culinaire de rue d’Osaka.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/takoyaki-wanaka-sennichimae.jpg",
+          "lat": 34.6656,
+          "lng": 135.5019
+        },
+        {
+          "name": "Daruma Kushikatsu (Shinsekai Main Branch)",
+          "area": "Shinsekai",
+          "reason": "Restaurant emblématique de kushikatsu, profondément associé à la culture culinaire informelle, directe et sans prétention d’Osaka.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/daruma-kushikatsu.jpeg",
+          "lat": 34.6512,
+          "lng": 135.5063
+        },
+        {
+          "name": "Kuromon Ichiba Street Food Stalls",
+          "area": "Kuromon Market",
+          "reason": "Un ensemble de stands réputés proposant des fruits de mer grillés, des brochettes et de petites bouchées rapides, idéal pour goûter plusieurs spécialités plutôt que prendre un repas complet.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/kuromon-ichiba-street-food-stalls.jpg",
+          "lat": 34.6654,
+          "lng": 135.5066
+        },
+        {
+          "name": "Matsusakagyu Yakiniku M",
+          "area": "Namba",
+          "reason": "Restaurant de yakiniku populaire, réputé pour son bœuf de Matsusaka et parfaitement représentatif du goût d’Osaka pour les repas riches et généreux.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/matsusakagyu-yakiniku-m.jpg",
+          "lat": 34.6663,
+          "lng": 135.5012
+        },
+        {
+          "name": "Hanamaruken Namba Hozenji",
+          "area": "Namba",
+          "reason": "Adresse réputée pour son ramen riche garni de travers de porc, reflétant la préférence d’Osaka pour les saveurs intenses et réconfortantes.",
+          "imageUrl": "/src/assets/itineraries/japan/osaka-food/hanamaruken-namba-hozenji.jpg",
+          "lat": 34.6658,
+          "lng": 135.501
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-tokyo-where-order-holds-the-motion",
+    "region": "east-asia",
+    "country": "Japan",
+    "city": "Tokyo",
+    "title": "Tokyo en 4 jours : Là où l’ordre guide le mouvement",
+    "days": 4,
+    "priceFrom": 280,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/japan/4-days-tokyo-where-order-holds-the-motion.jpg",
+    "summary": "Cet itinéraire de 4 jours à Tokyo vous invite à découvrir une ville définie par la précision, les contrastes et des rituels du quotidien profondément ancrés. Conçu pour alterner mouvement et moments de calme, il vous emmène entre quartiers animés, rues résidentielles paisibles, havres de verdure et instants où l’ordre semble délibérément préservé. Tokyo ne se révèle pas uniquement par son spectaculaire, mais par la manière dont chaque mouvement est soigneusement maîtrisé.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Rues de quartier et habitudes du quotidien",
+      "Shibuya et Shinjuku après la tombée de la nuit",
+      "Le sanctuaire Meiji et le calme de sa forêt urbaine",
+      "Marchés, cafés et gastronomie du quotidien",
+      "Le rythme de la ville façonné par la précision",
+      "Des matinées paisibles avant l’accélération de la ville"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et rues au rythme mesuré",
+        "summary": "Premier contact avec la structure et le mouvement.",
+        "details": "À votre arrivée à Tokyo, commencez par une promenade dans un quartier voisin afin d’observer comment les déplacements restent parfaitement organisés, même au cœur de l’activité. Les rues semblent avoir un but précis et les habitudes quotidiennes suivent un rythme clair.\n\nDans l’après-midi, visitez le sanctuaire Meiji, où les sentiers forestiers adoucissent les contours de la ville. Marchez lentement en laissant le bruit et le rythme s’apaiser. Terminez la journée autour d’un repas local simple, où l’ordre, plus que l’effervescence, donne le ton de cette première soirée."
+      },
+      {
+        "day": 2,
+        "title": "Densité, lumière et mouvement nocturne",
+        "summary": "Tokyo à son intensité maximale.",
+        "details": "Consacrez la journée à explorer des quartiers animés comme Shibuya ou Shinjuku, où les foules se déplacent avec une coordination remarquable. Faites régulièrement des pauses : les cafés, les passerelles surélevées et les rues secondaires offrent des espaces de respiration au cœur de cette densité.\n\nÀ la tombée de la nuit, restez dans le quartier pour découvrir Tokyo illuminée, lorsque la lumière et le mouvement gagnent en intensité tout en restant parfaitement maîtrisés. Terminez la journée tardivement en observant comment la ville ne perd jamais sa cohérence."
+      },
+      {
+        "day": 3,
+        "title": "Rituels du quotidien et coins paisibles",
+        "summary": "Le Tokyo caché sous la surface.",
+        "details": "Commencez la journée de bonne heure, lorsque les quartiers semblent presque déserts. Promenez-vous dans les rues résidentielles, entrez dans les petites boutiques à leur ouverture et observez les routines quotidiennes prendre vie.\n\nDans l’après-midi, explorez un quartier plus calme, apprécié davantage pour sa vie locale que pour ses sites emblématiques. Asseyez-vous, observez, recommencez. Tokyo se révèle autant par sa constance que par ses contrastes."
+      },
+      {
+        "day": 4,
+        "title": "Marchés, lumière du matin et départ",
+        "summary": "Quitter la ville à travers la répétition.",
+        "details": "Consacrez votre dernière matinée à retourner dans un marché ou un café que vous avez particulièrement apprécié plus tôt pendant votre séjour. Cette sensation de familiarité devient votre dernière expérience de Tokyo.\n\nProfitez d’un déjeuner tranquille avant votre départ. Tokyo laisse son empreinte par sa maîtrise : un mouvement soigneusement contenu, sans jamais déborder."
+      }
+    ],
+    "planning": {
+      "city": "Tokyo, Japan",
+      "bestTime": {
+        "months": "Mars–mai (printemps), octobre–novembre (automne)",
+        "note": "Le printemps offre les cerisiers en fleurs et un climat doux, tandis que l’automne apporte un ciel dégagé et un air frais, deux saisons idéales pour explorer les quartiers à pied et profiter des sites en plein air."
+      },
+      "worstTime": {
+        "months": "Juin–juillet (pluvieux et humide), août (très chaud)",
+        "note": "Le début de l’été est marqué par une forte humidité et des pluies fréquentes. En août, la chaleur peut devenir éprouvante, rendant les longues promenades et les quartiers très fréquentés plus fatigants."
+      },
+      "tips": ["Organisez vos journées par quartier : Tokyo est immense. Regroupez les visites par secteur (Asakusa, Shibuya, Shinjuku, Ueno) afin de limiter les temps de transport.","Évitez les heures de pointe (de 7 h à 9 h et de 17 h à 19 h) lorsque vous voyagez avec des bagages ou des enfants.","Déplacez-vous en respectant les usages : tenez-vous du bon côté des escalators (à gauche à Tokyo), faites la queue avec ordre et suivez le flux des habitants.","Prévoyez des espèces : de nombreux petits restaurants et temples n’acceptent toujours pas les cartes bancaires.","Les supérettes font partie du quotidien : elles sont idéales pour acheter un repas rapide, des boissons ou utiliser des toilettes propres.","Portez des chaussures confortables : Tokyo récompense ceux qui prennent le temps de l’explorer à pied."],
+      "withKids":["Les parcs et les enceintes des sanctuaires (Meiji Jingu, Ueno Park) offrent des pauses agréables loin de l’agitation urbaine.","Évitez les heures de pointe dans les trains lorsque vous voyagez avec une poussette.","Les grands magasins et centres commerciaux proposent des espaces de restauration pratiques ainsi que des zones de repos.","Prévoyez des soirées relativement tôt : les nuits tokyoïtes sont lumineuses, mais les longues journées peuvent fatiguer les enfants."]
+    },
+    "transport":{"arrival":[{"title":"Aéroports de Narita / Haneda → centre de Tokyo","note":"Depuis Haneda : le moyen le plus rapide est la ligne Keikyu ou le Tokyo Monorail (30 à 45 minutes). Depuis Narita : empruntez le Narita Express ou le Skyliner (60 à 90 minutes). Les bus d’aéroport sont pratiques pour rejoindre les hôtels, mais peuvent être ralentis par la circulation."}],"gettingAround":["Les trains et le métro constituent le principal moyen de se déplacer entre les quartiers : rapides, fréquents et extrêmement fiables.","La marche est essentielle dans des quartiers comme Shibuya, Shinjuku, les environs de Meiji Jingu et les rues résidentielles.","Les cartes de transport IC (Suica ou Pasmo) permettent d’utiliser facilement les trains, métros et bus.","Les taxis sont propres et sûrs, mais coûteux ; ils sont surtout utiles tard le soir ou pour de courts trajets avec des bagages."],"dayTrips":[{"title":"Quartiers de Shibuya et Shinjuku","note":"Le meilleur moyen de les découvrir est de prendre le train entre les quartiers, puis de poursuivre entièrement à pied. Les ruelles, les passerelles surélevées et les vastes complexes des gares font partie intégrante de l’expérience."},{"title":"Sanctuaire Meiji et quartiers environnants","note":"Facilement accessible par la ligne JR Yamanote. La découverte se fait principalement à pied, entre les sentiers forestiers et les rues voisines."}],"dayMoves":[],"practical":["Évitez les heures de pointe (environ de 7 h à 9 h et de 17 h à 19 h), surtout si vous voyagez avec des bagages ou des enfants.","Organisez vos visites par quartier afin de limiter la fatigue liée aux déplacements : les distances à Tokyo sont souvent plus importantes qu’elles ne paraissent sur une carte.","Les derniers trains circulent généralement jusqu’aux alentours de minuit ; les taxis deviennent ensuite la seule option.","Prévoyez un peu d’argent liquide pour les petits restaurants, les marchés et les cafés de quartier."]},
+    "foodRecommendation":{"mustTry":["Ramen","Sushi","Tempura","Tonkatsu","Yakitori","Curry japonais","Onigiri","Desserts au matcha"],"areas":[{"name":"Shibuya","note":"Une ambiance jeune et dynamique où l’on découvre le quotidien culinaire de Tokyo : ramen, sushi décontractés, restaurants de curry et adresses ouvertes jusque tard dans la nuit, au cœur d’un mouvement permanent."},{"name":"Shinjuku","note":"Un paysage gastronomique particulièrement dense, allant des minuscules ruelles de yakitori aux restaurants des grands magasins, idéal pour dîner après une journée de découverte."},{"name":"Asakusa","note":"Une atmosphère traditionnelle avec des établissements historiques servant tempura, soba et pâtisseries japonaises classiques à proximité des temples et des marchés."},{"name":"Neighbourhood Streets (Residential Tokyo)","note":"Des adresses locales et sans prétention où les habitudes quotidiennes priment sur les tendances : petits comptoirs de ramen, restaurants de menus du jour et boulangeries."}],"places":[{"name":"Ichiran Ramen Shibuya","area":"Shibuya","reason":"Un exemple emblématique de la culture du ramen à Tokyo, fondée sur la précision : cabines individuelles, saveurs constantes et dégustation presque ritualisée.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/ichiran-ramen-shibuya.jpg","lat":35.6598,"lng":139.7016},{"name":"Sushi no Midori Ginza","area":"Ginza","reason":"Réputé pour proposer des sushis d’excellente qualité à des prix accessibles, alliant tradition et habitudes culinaires du quotidien à Tokyo.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/sushi-no-midori-ginza.jpg","lat":35.6717,"lng":139.7650},{"name":"Uobei Shibuya Dogenzaka","area":"Shibuya","reason":"Une expérience moderne de sushi sur tapis roulant où efficacité, automatisation et rapidité illustrent parfaitement la logique tokyoïte.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/uobei-shibuya-dogenzaka.jpg","lat":35.6594,"lng":139.6995},{"name":"Tonkatsu Maisen Aoyama","area":"Aoyama","reason":"Restaurant historique de tonkatsu réputé pour la précision de sa cuisson et l’équilibre de ses saveurs, apprécié aussi bien des habitants que des familles.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/tonkatsu-maisen-aoyama.jpg","lat":35.6659,"lng":139.7127},{"name":"Omoide Yokocho Yakitori Stalls","area":"Shinjuku","reason":"Une célèbre ruelle bordée de petits stands de yakitori où les rituels de fin de journée des habitants se répètent soir après soir.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/omoide-yokocho-yakitori-stalls.jpg","lat":35.6942,"lng":139.6993},{"name":"Daikokuya Tempura","area":"Asakusa","reason":"L’un des plus anciens restaurants de tempura de Tokyo, servant des saveurs traditionnelles généreuses à proximité de Sensō-ji depuis plus d’un siècle.","imageUrl":"/src/assets/itineraries/japan/tokyo-food/daikokuya-tempura.jpg","lat":35.7146,"lng":139.7966}]}
+  }

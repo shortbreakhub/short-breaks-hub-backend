@@ -1,0 +1,712 @@
+
+  {
+    "slug": "4-days-santiago-length-light-and-discipline",
+    "region": "americas",
+    "country": "Chile",
+    "city": "Santiago",
+    "title": "Santiago en 4 jours : lumière, perspective et équilibre",
+    "days": 4,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/chile/4-days-santiago-length-light-and-discipline.jpg",
+    "summary": "Cet itinéraire de 4 jours à Santiago vous invite à découvrir une capitale où la géographie façonne profondément le quotidien. Étendue dans une longue vallée au pied de la cordillère des Andes, Santiago séduit par son équilibre entre grands espaces urbains, quartiers vivants et nature omniprésente. Pensé pour alterner découvertes historiques, promenades de quartier et panoramas en altitude, ce séjour révèle une ville qui privilégie l'harmonie, la simplicité et la qualité de vie plutôt que l'exubérance. Ici, les montagnes offrent un cadre spectaculaire tandis que la ville évolue avec calme et mesure.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les panoramas sur la cordillère des Andes",
+      "Les points de vue du Cerro San Cristóbal",
+      "Le centre historique et ses places emblématiques",
+      "Les soirées animées du quartier Bellavista",
+      "Les marchés, cafés et l'art de vivre santiaguino",
+      "Une capitale où nature et ville coexistent harmonieusement"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte du centre historique",
+        "summary": "Prendre ses premiers repères dans la capitale.",
+        "details": "À votre arrivée à Santiago, commencez par explorer le centre historique en empruntant ses larges avenues, ses places élégantes et ses bâtiments officiels. Au fil des rues, la silhouette des Andes apparaît régulièrement en toile de fond, rappelant combien la montagne fait partie intégrante du paysage urbain.\n\nDans l'après-midi, accordez-vous une pause dans l'un des nombreux cafés du centre afin d'observer le rythme tranquille de la vie quotidienne. Santiago se révèle davantage par son équilibre que par les effets de spectacle.\n\nTerminez cette première journée autour d'un dîner dans le quartier, avant une soirée paisible."
+      },
+      {
+        "day": 2,
+        "title": "Cerro San Cristóbal et vues sur les Andes",
+        "summary": "Découvrir Santiago depuis les hauteurs.",
+        "details": "Commencez la journée en rejoignant le Cerro San Cristóbal, à pied ou grâce au funiculaire. Depuis le sommet, la ville dévoile toute son étendue au cœur de la vallée, encadrée par les sommets andins.\n\nPrenez le temps d'admirer les variations de lumière sur les quartiers de Santiago et les montagnes environnantes.\n\nDans l'après-midi, redescendez tranquillement vers les quartiers voisins en profitant des parcs et des espaces verts.\n\nEn soirée, rejoignez Bellavista, où les restaurants, les terrasses, les galeries et la musique offrent une atmosphère plus détendue et conviviale."
+      },
+      {
+        "day": 3,
+        "title": "Marchés, quartiers et vie quotidienne",
+        "summary": "Découvrir Santiago à travers ses habitants.",
+        "details": "Consacrez votre matinée au Mercado Central afin de découvrir les produits de la mer, les spécialités chiliennes et l'animation typique des marchés locaux. La gastronomie de Santiago reflète autant la richesse du littoral chilien que celle de l'intérieur du pays.\n\nDans l'après-midi, poursuivez votre découverte dans les quartiers résidentiels, où parcs, commerces de proximité et cafés illustrent la qualité de vie qui caractérise la capitale.\n\nProfitez ensuite d'un long dîner pour apprécier le rythme paisible des soirées santiaguinas."
+      },
+      {
+        "day": 4,
+        "title": "Derniers instants à Santiago",
+        "summary": "Quitter la ville avec un nouveau regard.",
+        "details": "Profitez de votre dernière matinée pour retourner dans un café, une rue ou un point de vue qui vous a particulièrement plu. Santiago devient rapidement familière grâce à son atmosphère accueillante et à son organisation naturelle.\n\nSavourez un dernier déjeuner avant votre départ tout en observant le calme avec lequel la ville poursuit son quotidien.\n\nSantiago laisse le souvenir d'une capitale élégante, lumineuse et profondément liée aux paysages qui l'entourent."
+      }
+    ],
+    "planning": {
+      "city": "Santiago, Chili",
+      "bestTime": {
+        "months": "Mars–avril (automne), oct.–nov. (printemps)",
+        "note": "L'air est généralement sec, les températures agréables et les Andes particulièrement dégagées, offrant d'excellentes conditions pour les promenades et les panoramas."
+      },
+      "worstTime": {
+        "months": "Déc.–févr. (très chaud et sec), juin–juil. (hiver et pollution)",
+        "note": "L'été peut rendre les visites plus fatigantes aux heures chaudes, tandis qu'en hiver les inversions de température favorisent parfois la pollution et réduisent la visibilité sur les montagnes."
+      },
+      "tips": [
+        "Organisez vos journées par secteurs afin de limiter les trajets : Santiago est une ville très étendue du nord au sud.",
+        "Les plus beaux panoramas sur les Andes s'observent généralement le matin ou en fin d'après-midi ; les heures centrales conviennent davantage aux musées, aux cafés ou aux marchés.",
+        "Un seul point de vue par jour suffit : le Cerro San Cristóbal ou le Cerro Santa Lucía offrent chacun une perspective différente sur la ville.",
+        "Si vous souhaitez visiter Valparaíso, consacrez-lui une journée complète plutôt que de l'ajouter à un programme déjà chargé.",
+        "Combinez marche et métro : les promenades permettent d'apprécier l'ambiance des quartiers tandis que le métro relie efficacement les principaux sites.",
+        "Les soirées sont conviviales et décontractées, propices aux repas prolongés et aux discussions en terrasse."
+      ],
+      "withKids": [
+        "Le funiculaire et le téléphérique facilitent l'accès au Cerro San Cristóbal.",
+        "Les nombreux parcs et promenades le long de la rivière permettent de faire des pauses entre les visites.",
+        "Évitez les longs déplacements pendant les heures de pointe.",
+        "Prévoyez une veste légère : les températures peuvent baisser rapidement après le coucher du soleil."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale (SCL – aéroport Arturo Merino Benítez)",
+          "note": "L'aéroport international de Santiago est situé à l'ouest de la ville. Le trajet jusqu'au centre dure généralement entre 20 et 45 minutes selon la circulation et l'heure de la journée."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Les taxis officiels de l'aéroport, les VTC ou les transferts réservés à l'avance sont les solutions les plus simples. Des bus publics sont également disponibles, mais ils sont moins pratiques lorsque l'on voyage avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "Le métro de Santiago est rapide, moderne et fiable. C'est le moyen le plus efficace pour parcourir les longues distances entre les différents quartiers de la ville.",
+        "La marche est idéale pour explorer chaque quartier en profondeur, mais les distances entre les principaux secteurs sont souvent importantes.",
+        "Santiago s'étend sur plusieurs kilomètres du nord au sud ; il est donc préférable d'organiser ses visites par zones géographiques.",
+        "Les VTC sont particulièrement pratiques en soirée ou pour relier rapidement deux quartiers non desservis directement par le métro.",
+        "La qualité de l'air varie selon les saisons : elle influence surtout la visibilité sur les Andes, beaucoup moins les déplacements."
+      ],
+      "dayTrips": [
+        {
+          "title": "Cerro San Cristóbal",
+          "note": "Accessible en funiculaire, en téléphérique ou à pied depuis Bellavista ou Providencia. La montée reste progressive mais demande un certain effort si elle est effectuée à pied."
+        },
+        {
+          "title": "Centre historique et Mercado Central",
+          "note": "Facilement accessibles en métro. Une fois sur place, le meilleur moyen de découvrir le quartier est de poursuivre la visite à pied."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Centre historique ↔ Bellavista",
+          "note": "Le métro, complété par une courte promenade, constitue l'option la plus pratique. La traversée de la rivière Mapocho marque une transition naturelle entre deux ambiances très différentes."
+        },
+        {
+          "title": "Ville ↔ Cerro San Cristóbal",
+          "note": "Le funiculaire ou le téléphérique permettent de rejoindre facilement le sommet tout en conservant son énergie pour profiter des promenades et des panoramas."
+        },
+        {
+          "title": "Découverte des quartiers",
+          "note": "Prenez le temps d'explorer un quartier à la fois à pied, puis utilisez le métro pour rejoindre le suivant plutôt que d'enchaîner de longues marches entre différents secteurs."
+        }
+      ],
+      "practical": [
+        "Organisez vos déplacements par secteur plutôt que par proximité immédiate : la longueur de Santiago influence davantage les temps de trajet que les distances à vol d'oiseau.",
+        "Un seul belvédère par jour est généralement suffisant ; multiplier les ascensions apporte peu de variété tout en augmentant la fatigue.",
+        "Les panoramas sur les Andes sont souvent les plus spectaculaires le matin et en fin d'après-midi : prévoyez vos points de vue à ces moments de la journée.",
+        "La chaleur estivale ou la pollution hivernale peuvent rendre les visites moins confortables, mais perturbent rarement le fonctionnement des transports.",
+        "Le métro est idéal pour parcourir la ville, tandis que la marche permet d'en apprécier toute l'atmosphère : l'association des deux offre la meilleure expérience.",
+        "Les soirées sont généralement calmes et bien organisées ; les transports restent faciles à utiliser même après la tombée de la nuit."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pastel de choclo",
+        "Empanada de pino",
+        "Cazuela chilienne",
+        "Caldillo de mariscos",
+        "Vin rouge chilien (Carmenère)",
+        "Completo (hot-dog emblématique du Chili)"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Le cœur historique de Santiago, idéal pour découvrir les grands classiques de la cuisine chilienne, les marchés traditionnels et l'atmosphère authentique de la capitale. À privilégier pour le déjeuner plutôt que pour la vie nocturne."
+        },
+        {
+          "name": "Bellavista",
+          "note": "Le quartier le plus animé de Santiago en soirée, réputé pour ses restaurants, ses terrasses et son ambiance conviviale où les repas se prolongent naturellement autour d'un verre de vin chilien."
+        },
+        {
+          "name": "Providencia",
+          "note": "Un quartier élégant mêlant zones résidentielles et commerces, apprécié pour ses nombreuses bonnes tables, ses cafés et ses restaurants fréquentés au quotidien par les habitants."
+        }
+      ],
+      "places": [
+        {
+          "name": "Mercado Central de Santiago",
+          "area": "Centre historique",
+          "reason": "Le marché aux poissons le plus emblématique de Santiago, incontournable pour découvrir les produits de la longue côte chilienne et déguster des spécialités de la mer dans une ambiance typiquement locale.",
+          "imageUrl": "/src/assets/itineraries/chile/santiago-food/mercado-central.jpg",
+          "lat": -33.4372,
+          "lng": -70.6506
+        },
+        {
+          "name": "Donde Augusto",
+          "area": "Centre historique",
+          "reason": "Institution du Mercado Central, réputée pour ses caldillos, ses poissons et ses fruits de mer, préparés dans le respect de la tradition culinaire chilienne.",
+          "imageUrl": "/src/assets/itineraries/chile/santiago-food/donde-augusto.jpg",
+          "lat": -33.4370,
+          "lng": -70.6504
+        },
+        {
+          "name": "Liguria",
+          "area": "Providencia",
+          "reason": "Adresse emblématique de Santiago où l'on retrouve les grands classiques de la cuisine chilienne dans une ambiance chaleureuse, très appréciée des habitants pour les repas entre amis ou en famille.",
+          "imageUrl": "/src/assets/itineraries/chile/santiago-food/liguria.jpg",
+          "lat": -33.4257,
+          "lng": -70.6176
+        },
+        {
+          "name": "Como Agua Para Chocolate",
+          "area": "Bellavista",
+          "reason": "Restaurant incontournable de Bellavista, réputé pour son décor plein de caractère et sa cuisine inspirée des traditions chiliennes et latino-américaines, idéale pour un dîner détendu dans une atmosphère romantique.",
+          "imageUrl": "/src/assets/itineraries/chile/santiago-food/como-agua-para-chocolate.jpg",
+          "lat": -33.4324,
+          "lng": -70.6323
+        },
+        {
+          "name": "Fuente Alemana (Providencia)",
+          "area": "Providencia",
+          "reason": "Véritable institution santiaguina, célèbre pour ses completos et ses généreux sandwichs chiliens, une excellente adresse pour découvrir la cuisine populaire du quotidien.",
+          "imageUrl": "/src/assets/itineraries/chile/santiago-food/fuente-alemana.jpg",
+          "lat": -33.4251,
+          "lng": -70.6183
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-valparaiso-vertical-life-in-colour",
+    "region": "americas",
+    "country": "Chile",
+    "city": "Valparaíso",
+    "title": "Valparaíso en 3 jours : une ville en couleurs, tournée vers les hauteurs",
+    "days": 3,
+    "priceFrom": 225,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/chile/3-days-valparaiso-vertical-life-in-colour.jpg",
+    "summary": "Cet itinéraire de 3 jours vous fait découvrir Valparaíso, la ville la plus singulière du Chili, où les collines, les escaliers et les maisons colorées composent un paysage urbain unique. Construite à flanc de coteaux dominant un port toujours en activité, Valparaíso ne se visite pas selon un itinéraire parfaitement ordonné : elle se découvre au gré des montées, des ruelles, des œuvres de street art et des panoramas sur le Pacifique. Pensé pour alterner promenades dans les cerros, découvertes artistiques et pauses face à l'océan, ce séjour invite à apprécier une ville qui se vit autant avec les jambes qu'avec le regard.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les quartiers colorés accrochés aux collines",
+      "Les ascenseurs historiques de Valparaíso",
+      "Le street art emblématique de la ville",
+      "Les panoramas sur le port et l'océan Pacifique",
+      "Les escaliers, belvédères et ruelles pleines de caractère",
+      "Une ville créative façonnée par son relief"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, port et première découverte des hauteurs",
+        "summary": "Découvrir Valparaíso depuis le niveau de la mer.",
+        "details": "À votre arrivée, commencez par les abords du port où cargos, grues et quais rappellent que Valparaíso demeure avant tout une grande ville portuaire. Cette première promenade permet de comprendre les fondations économiques qui ont façonné son histoire.\n\nEmpruntez ensuite l'un des célèbres ascenseurs historiques, comme l'Ascensor Artillería, pour rejoindre les quartiers perchés sur les collines. Prenez le temps de flâner entre les maisons colorées, les escaliers et les points de vue qui révèlent progressivement toute la personnalité de la ville.\n\nTerminez la journée par un dîner en hauteur, face aux lumières du port qui s'illuminent à la tombée de la nuit."
+      },
+      {
+        "day": 2,
+        "title": "Cerros, fresques et vie quotidienne",
+        "summary": "Comprendre l'âme artistique de Valparaíso.",
+        "details": "Consacrez cette journée à explorer les cerros Alegre et Concepción, en privilégiant les escaliers et les petites ruelles plutôt que les grands axes. Ici, chaque montée dévoile un nouveau panorama et une nouvelle ambiance.\n\nArrêtez-vous régulièrement devant les fresques murales et les œuvres de street art, qui racontent autant l'histoire de la ville que la créativité de ses habitants.\n\nDans l'après-midi, installez-vous à la terrasse d'un café dominant les collines et observez le rythme paisible de la vie quotidienne.\n\nLaissez ensuite votre soirée se construire naturellement au fil des rues, des points de vue et de l'ambiance des quartiers."
+      },
+      {
+        "day": 3,
+        "title": "Derniers panoramas sur le Pacifique",
+        "summary": "Quitter la ville sans la résumer.",
+        "details": "Profitez de votre dernière matinée pour revenir dans votre quartier préféré ou emprunter une dernière volée d'escaliers qui vous avait marqué. À Valparaíso, chaque retour permet de découvrir de nouveaux détails.\n\nRejoignez ensuite un belvédère dominant le port et prenez le temps d'observer les navires évoluer lentement sur l'océan Pacifique.\n\nAprès un dernier déjeuner, il sera temps de quitter Valparaíso, une ville qui laisse un souvenir durable grâce à son relief, son énergie créative et son caractère profondément authentique."
+      }
+    ],
+    "planning": {
+      "city": "Valparaíso, Chili",
+      "bestTime": {
+        "months": "Mars–avril (automne), oct.–nov. (printemps)",
+        "note": "Les températures sont agréables et la lumière particulièrement belle pour explorer les collines, admirer les fresques et profiter des panoramas sans l'affluence estivale."
+      },
+      "worstTime": {
+        "months": "Déc.–févr. (chaud et très fréquenté), juin–août (frais et souvent couvert)",
+        "note": "En été, la chaleur rend les montées plus exigeantes tandis que l'hiver apporte souvent un ciel gris qui atténue les couleurs et réduit la visibilité sur le port."
+      },
+      "tips": [
+        "Pensez votre visite par cerro plutôt que par distance : chaque colline possède sa propre identité et mérite d'être explorée tranquillement.",
+        "Profitez des ascenseurs historiques pour monter, puis redescendez à pied afin d'apprécier pleinement les ruelles, les escaliers et les panoramas.",
+        "Le street art fait partie intégrante de la vie locale : prenez le temps d'observer les détails et les messages qui se cachent derrière chaque fresque.",
+        "Les montées sont plus agréables le matin ou en fin de journée ; les heures les plus chaudes se prêtent davantage aux cafés et aux pauses.",
+        "Les soirées privilégient les bars intimistes, les restaurants et les points de vue plutôt que les grandes animations nocturnes.",
+        "Portez de bonnes chaussures : les escaliers, les pavés irréguliers et les fortes pentes font partie intégrante de l'expérience."
+      ],
+      "withKids": [
+        "Les ascenseurs historiques amusent généralement beaucoup les enfants tout en limitant les efforts.",
+        "Évitez les longues séries d'escaliers en une seule journée.",
+        "Les nombreux belvédères offrent de magnifiques vues sans nécessiter de longues randonnées.",
+        "Restez attentifs dans les ruelles étroites et les escaliers parfois escarpés."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée depuis Santiago ou la côte",
+          "note": "Valparaíso se situe à l'ouest de Santiago. La plupart des voyageurs arrivent en voiture ou en autocar jusqu'au terminal situé dans la ville basse, à proximité du port."
+        },
+        {
+          "title": "Premiers pas dans la ville",
+          "note": "L'arrivée se fait au niveau de la mer. Pour découvrir la véritable personnalité de Valparaíso, il faut ensuite rejoindre progressivement les collines qui dominent la baie."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir Valparaíso, même si les fortes pentes et les nombreux escaliers rendent les déplacements parfois exigeants.",
+        "Les célèbres ascenseurs historiques (ascensores) permettent de rejoindre facilement les différents cerros tout en limitant les efforts.",
+        "Les bus locaux circulent principalement dans la ville basse et le long des grands axes, mais desservent peu les quartiers perchés.",
+        "Les taxis et les VTC sont pratiques pour rejoindre des secteurs éloignés, mais restent moins adaptés aux déplacements entre les différentes collines.",
+        "Le relief très marqué de Valparaíso fait que deux quartiers proches sur une carte peuvent demander un trajet plus long qu'il n'y paraît."
+      ],
+      "dayTrips": [
+        {
+          "title": "Ascenseurs historiques (Ascensores)",
+          "note": "Toujours utilisés par les habitants, ces funiculaires emblématiques facilitent les montées vers les cerros. Il est conseillé de monter en ascenseur puis de redescendre à pied afin de profiter pleinement des ruelles, des fresques et des panoramas."
+        },
+        {
+          "title": "Escaliers et chemins piétons",
+          "note": "Les escaliers constituent le principal lien entre les différents quartiers perchés. Attendez-vous à des marches irrégulières, des pentes soutenues et de magnifiques points de vue tout au long du parcours."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Port → Quartiers en hauteur",
+          "note": "Commencez la visite au niveau du port, empruntez ensuite un ascenseur historique pour rejoindre les collines, puis poursuivez votre découverte à pied."
+        },
+        {
+          "title": "Cerro Alegre ↔ Cerro Concepción",
+          "note": "Ces deux quartiers se découvrent idéalement à pied grâce aux escaliers, passages piétons et ruelles qui les relient beaucoup plus agréablement que les routes principales."
+        },
+        {
+          "title": "Collines ↔ Ville basse",
+          "note": "La descente à pied est généralement plus agréable que la montée et permet d'apprécier davantage les façades colorées, les œuvres de street art et les nombreux points de vue."
+        }
+      ],
+      "practical": [
+        "Organisez vos visites par cerro plutôt qu'en fonction des distances indiquées sur une carte : le relief influence largement les temps de déplacement.",
+        "Montez grâce aux ascenseurs historiques et redescendez à pied : c'est la manière la plus confortable et la plus authentique de découvrir Valparaíso.",
+        "Les montées sont beaucoup plus agréables le matin ou en fin d'après-midi, lorsque les températures sont plus douces.",
+        "Prévoyez des chaussures confortables avec une bonne adhérence : pavés, béton, escaliers anciens et rues pentues se succèdent constamment.",
+        "Ne cherchez pas à optimiser chaque trajet : Valparaíso se découvre en prenant son temps et en acceptant les détours qu'impose son relief.",
+        "Le soir, privilégiez les promenades autour de votre quartier ou de votre hébergement plutôt que de traverser toute la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Chorrillana",
+        "Fruits de mer frais du Pacifique",
+        "Empanada aux fruits de mer",
+        "Caldillo de congrio",
+        "Vin blanc chilien",
+        "Pan con pescado frito (sandwich au poisson frit)"
+      ],
+      "areas": [
+        {
+          "name": "Port et ville basse",
+          "note": "Le secteur portuaire concentre les meilleures adresses pour déguster poissons et fruits de mer fraîchement débarqués. Une cuisine simple, généreuse et profondément liée à l'activité quotidienne du port."
+        },
+        {
+          "name": "Cerro Alegre et Cerro Concepción",
+          "note": "Les restaurants installés sur les collines offrent de magnifiques vues sur la baie dans une atmosphère paisible. On y trouve une cuisine plus raffinée, idéale pour un dîner au coucher du soleil."
+        },
+        {
+          "name": "Centre historique (El Plan)",
+          "note": "Le cœur historique de Valparaíso abrite de nombreuses cantines et restaurants traditionnels où les habitants viennent savourer une cuisine chilienne authentique et généreuse."
+        }
+      ],
+      "places": [
+        {
+          "name": "Café Turri",
+          "area": "Cerro Concepción",
+          "reason": "Institution de Valparaíso, ce café-restaurant est réputé pour sa terrasse panoramique dominant le port ainsi que pour ses spécialités de poissons et de fruits de mer, parfaites pour un déjeuner ou un dîner face à l'océan.",
+          "imageUrl": "/src/assets/itineraries/chile/valparaiso-food/cafe-turri.jpg",
+          "lat": -33.0416,
+          "lng": -71.6284
+        },
+        {
+          "name": "La Concepción",
+          "area": "Cerro Concepción",
+          "reason": "Adresse incontournable installée dans une maison historique, proposant une cuisine qui associe les produits chiliens aux influences européennes dans un cadre élégant et plein de charme.",
+          "imageUrl": "/src/assets/itineraries/chile/valparaiso-food/la-concepcion.jpg",
+          "lat": -33.0419,
+          "lng": -71.6279
+        },
+        {
+          "name": "J Cruz",
+          "area": "Centre historique (El Plan)",
+          "reason": "Véritable institution populaire de Valparaíso, célèbre pour avoir rendu la chorrillana emblématique de la ville. Une adresse simple, authentique et incontournable pour découvrir cette spécialité chilienne dans son cadre d'origine.",
+          "imageUrl": "/src/assets/itineraries/chile/valparaiso-food/j-cruz.jpg",
+          "lat": -33.0458,
+          "lng": -71.6205
+        },
+        {
+          "name": "Restaurant Maralegre",
+          "area": "Cerro Alegre",
+          "reason": "Restaurant apprécié pour ses produits de la mer, sa cuisine soignée et sa vue panoramique sur la baie, idéal pour terminer une journée d'exploration des collines de Valparaíso dans une ambiance détendue.",
+          "imageUrl": "/src/assets/itineraries/chile/valparaiso-food/maralegre.jpg",
+          "lat": -33.0447,
+          "lng": -71.6263
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-atacama-absolute-dryness-and-sky",
+    "region": "americas",
+    "country": "Chile",
+    "city": "San Pedro de Atacama",
+    "title": "Désert d'Atacama en 3 jours : immensité, silence et ciel infini",
+    "days": 3,
+    "priceFrom": 250,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/chile/3-days-atacama-absolute-dryness-and-sky.jpg",
+    "summary": "Cet itinéraire de 3 jours vous emmène au cœur du désert d'Atacama, l'un des endroits les plus arides de la planète. Depuis San Pedro de Atacama, vous découvrirez des paysages minéraux spectaculaires, des vallées sculptées par le vent, des geysers d'altitude et l'un des plus beaux ciels étoilés au monde. Pensé pour alterner découvertes naturelles, temps d'acclimatation et observations astronomiques, ce voyage invite à ralentir et à apprécier la beauté saisissante d'un territoire où le silence, la lumière et les grands espaces prennent toute leur dimension.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "La Vallée de la Lune et ses paysages minéraux",
+      "Les hauts plateaux andins et les salars",
+      "Les geysers d'El Tatio au lever du soleil",
+      "Les couleurs changeantes du désert",
+      "L'un des plus beaux ciels étoilés au monde",
+      "Une immersion au cœur des grands espaces de l'Atacama"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à San Pedro et Vallée de la Lune",
+        "summary": "Découvrir les premiers paysages du désert.",
+        "details": "À votre arrivée à San Pedro de Atacama, prenez le temps de parcourir les rues paisibles du village, construites en adobe, afin de vous familiariser avec l'atmosphère unique du désert. Ici, tout semble ralentir sous la lumière intense et l'air extrêmement sec.\n\nDans l'après-midi, partez vers la célèbre Vallée de la Lune. Marchez entre les dunes, les formations rocheuses et les reliefs minéraux façonnés par des millions d'années d'érosion éolienne.\n\nRestez jusqu'au coucher du soleil, lorsque les montagnes se parent progressivement de nuances dorées, rouges et violettes. De retour à San Pedro, profitez d'une soirée calme pour bien vous acclimater à l'altitude."
+      },
+      {
+        "day": 2,
+        "title": "Geysers d'El Tatio et ciel étoilé",
+        "summary": "Découvrir les phénomènes naturels de l'Altiplano.",
+        "details": "Partez avant l'aube en direction des geysers d'El Tatio, situés à plus de 4 300 mètres d'altitude. À l'arrivée, les colonnes de vapeur s'élèvent dans l'air glacial tandis que le soleil illumine progressivement les paysages andins.\n\nPrenez le temps d'observer ce spectacle naturel en avançant lentement afin de mieux supporter l'altitude.\n\nDe retour à San Pedro en fin de matinée, reposez-vous durant l'après-midi : l'altitude et l'air sec sollicitent fortement l'organisme.\n\nLe soir, participez à une excursion astronomique ou installez-vous à l'écart du village pour admirer la Voie lactée, visible avec une netteté exceptionnelle grâce à l'absence de pollution lumineuse."
+      },
+      {
+        "day": 3,
+        "title": "Derniers paysages du désert",
+        "summary": "Profiter une dernière fois de l'immensité de l'Atacama.",
+        "details": "Consacrez votre dernière matinée à une promenade jusqu'à un point de vue proche de San Pedro ou simplement aux abords du village afin d'observer une dernière fois les reliefs du désert sous la lumière du matin.\n\nPrenez le temps de vous arrêter, de contempler les paysages et d'apprécier le calme absolu qui caractérise l'Atacama.\n\nAprès un dernier déjeuner, il sera temps de quitter cette région unique, dont les immenses espaces, les contrastes naturels et le ciel exceptionnel laissent un souvenir durable."
+      }
+    ],
+    "planning": {
+      "city": "Désert d'Atacama (San Pedro de Atacama), Chili",
+      "bestTime": {
+        "months": "Mars–mai (automne), sept.–nov. (printemps)",
+        "note": "Le climat est généralement stable, les températures agréables et la visibilité excellente, offrant des conditions idéales pour les excursions dans le désert comme pour l'observation des étoiles."
+      },
+      "worstTime": {
+        "months": "Déc.–févr. (chaleur et orages estivaux), juin–août (nuits très froides)",
+        "note": "L'été peut connaître des orages ponctuels sur l'Altiplano, tandis que l'hiver apporte des températures largement négatives durant les nuits en altitude."
+      },
+      "tips": [
+        "Prenez le temps de vous acclimater à l'altitude : privilégiez une première journée tranquille et hydratez-vous régulièrement.",
+        "Une seule excursion en haute altitude par jour est généralement suffisante afin d'éviter une fatigue excessive.",
+        "Les matinées sont idéales pour les excursions vers les geysers ou l'Altiplano, les après-midis pour les vallées, et les soirées pour l'observation du ciel.",
+        "Prévoyez au moins une soirée dédiée à l'astronomie : la phase de la Lune influence fortement la qualité des observations.",
+        "La protection solaire est indispensable : le rayonnement UV est très intense, même lorsque les températures restent fraîches.",
+        "Appréciez le silence et les grands espaces : c'est précisément cette impression d'immensité qui fait toute la magie du désert d'Atacama."
+      ],
+      "withKids": [
+        "Évitez d'enchaîner plusieurs excursions très matinales en haute altitude.",
+        "Prévoyez des vêtements chauds en plusieurs couches : les écarts de température sont très importants entre le jour et la nuit.",
+        "Les promenades dans les vallées sont souvent plus adaptées aux enfants que les longues excursions sur les hauts plateaux.",
+        "Les observations du ciel nocturne fascinent généralement les plus jeunes ; pensez simplement à bien les couvrir contre le froid."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée via Calama",
+          "note": "San Pedro de Atacama ne possède pas d'aéroport commercial. La plupart des voyageurs arrivent à l'aéroport de Calama avant de rejoindre le village par la route à travers les vastes paysages désertiques."
+        },
+        {
+          "title": "Premiers paysages du désert",
+          "note": "Le trajet entre Calama et San Pedro traverse de grandes étendues désertiques presque inhabitées. Cette traversée offre un premier aperçu de l'immensité et du caractère exceptionnel de l'Atacama."
+        }
+      ],
+      "gettingAround": [
+        "Le village de San Pedro de Atacama est compact et se découvre facilement à pied.",
+        "Les principaux sites naturels sont situés à l'extérieur du village et nécessitent un véhicule pour y accéder.",
+        "La majorité des excursions s'effectuent en véhicules partagés ou privés accompagnés d'un guide local.",
+        "La location d'une voiture est possible, mais elle demande une bonne préparation en raison de l'altitude, de l'isolement de certaines routes et des longues distances sans services."
+      ],
+      "dayMoves": [
+        {
+          "title": "San Pedro ↔ Vallée de la Lune",
+          "note": "Le trajet est relativement court. Il est préférable de consacrer du temps à la découverte du site à pied plutôt que de multiplier les arrêts dans la même excursion."
+        },
+        {
+          "title": "San Pedro ↔ Geysers d'El Tatio",
+          "note": "Cette excursion emprunte une route de montagne avant l'aube jusqu'à plus de 4 300 mètres d'altitude. Un véhicule est indispensable en raison du froid, de l'altitude et de l'isolement du site."
+        },
+        {
+          "title": "San Pedro ↔ Sites d'observation des étoiles",
+          "note": "Les meilleurs lieux d'observation se trouvent à quelques kilomètres du village, loin de toute source de lumière. L'obscurité devient rapidement totale dès que l'on quitte San Pedro."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Prendre en compte l'altitude",
+          "note": "Certaines excursions passent rapidement de l'altitude de San Pedro aux hauts plateaux andins. Il est recommandé de ne prévoir qu'une seule sortie en haute altitude par jour afin de faciliter l'acclimatation."
+        },
+        {
+          "title": "Temps de récupération",
+          "note": "Revenir au village entre deux excursions permet à l'organisme de mieux récupérer, de retrouver une température plus douce et de limiter les effets de l'altitude."
+        }
+      ],
+      "practical": [
+        "Organisez votre séjour en tenant compte de l'altitude plutôt que de la distance : quelques dizaines de kilomètres peuvent représenter un important changement d'altitude.",
+        "Évitez d'enchaîner plusieurs excursions en haute altitude le même jour afin de réduire les risques liés au mal des montagnes.",
+        "Les départs très matinaux sont fréquents pour les sites d'altitude comme El Tatio, tandis que les vallées et les paysages plus bas se visitent idéalement l'après-midi.",
+        "La majorité des stations-service, commerces et restaurants se trouvent à San Pedro : emportez toujours suffisamment d'eau, de collations et de protection solaire lors de vos excursions.",
+        "Même après une journée chaude, les températures chutent rapidement une fois le soleil couché ; prévoyez des vêtements chauds pour les retours en soirée.",
+        "Le silence, l'immensité et l'obscurité font pleinement partie de l'expérience du désert : les trajets offrent déjà une immersion spectaculaire dans les paysages de l'Atacama."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Plats à base de quinoa",
+        "Viande de lama (mijotée ou grillée)",
+        "Soupes et ragoûts andins",
+        "Pain artisanal fraîchement cuit",
+        "Vin chilien Carménère ou Syrah (avec modération en raison de l'altitude)",
+        "Infusions locales (coca, rica-rica)"
+      ],
+      "areas": [
+        {
+          "name": "Centre de San Pedro de Atacama",
+          "note": "Les rues en adobe du village rassemblent la majorité des restaurants. La cuisine y privilégie des plats réconfortants, une bonne hydratation et des repas adaptés au climat désertique ainsi qu'à l'altitude."
+        },
+        {
+          "name": "Hébergements et lodges aux alentours",
+          "note": "À l'écart du centre, plusieurs lodges proposent des repas dans un cadre paisible, idéal pour se détendre après une journée d'excursion et profiter du calme absolu du désert."
+        }
+      ],
+      "places": [
+        {
+          "name": "Adobe",
+          "area": "Centre de San Pedro de Atacama",
+          "reason": "L'une des adresses les plus réputées du village, appréciée pour sa cuisine inspirée des traditions andines, ses produits régionaux et son atmosphère chaleureuse, parfaite après une journée dans le désert.",
+          "imageUrl": "/src/assets/itineraries/chile/atacama-food/adobe.jpg",
+          "lat": -22.9086,
+          "lng": -68.1993
+        },
+        {
+          "name": "Las Delicias de Carmen",
+          "area": "Centre de San Pedro de Atacama",
+          "reason": "Restaurant familial proposant une cuisine chilienne simple et généreuse, réputé pour ses soupes, ses plats mijotés et ses recettes traditionnelles particulièrement appréciées après les excursions en altitude.",
+          "imageUrl": "/src/assets/itineraries/chile/atacama-food/las-delicias-de-carmen.jpg",
+          "lat": -22.9092,
+          "lng": -68.2001
+        },
+        {
+          "name": "Tierra Todo Natural",
+          "area": "Centre de San Pedro de Atacama",
+          "reason": "Excellente adresse végétarienne mettant à l'honneur le quinoa, les légumes locaux et une cuisine légère, idéale entre deux excursions sur les hauts plateaux de l'Atacama.",
+          "imageUrl": "/src/assets/itineraries/chile/atacama-food/tierra-todo-natural.jpg",
+          "lat": -22.9079,
+          "lng": -68.1998
+        },
+        {
+          "name": "Mal de Puna",
+          "area": "Centre de San Pedro de Atacama",
+          "reason": "Restaurant contemporain reconnu pour sa cuisine andine créative élaborée à partir de produits régionaux. Une excellente adresse pour un dîner gastronomique mettant en valeur les saveurs uniques du désert d'Atacama.",
+          "imageUrl": "/src/assets/itineraries/chile/atacama-food/mal-de-puna.jpg",
+          "lat": -22.9081,
+          "lng": -68.1990
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-torres-del-paine-form-wind-and-exposure",
+    "region": "americas",
+    "country": "Chile",
+    "city": "Torres del Paine National Park",
+    "title": "Torres del Paine en 4 jours : vent, glaciers et immensité patagonienne",
+    "days": 4,
+    "priceFrom": 310,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/chile/4-days-torres-del-paine-form-wind-and-exposure.jpg",
+    "summary": "Cet itinéraire de 4 jours vous emmène au cœur du parc national Torres del Paine, l'un des plus spectaculaires paysages de Patagonie chilienne. Entre les célèbres tours de granit, les glaciers, les lacs turquoise et les immenses steppes balayées par le vent, chaque journée révèle une nature d'une puissance exceptionnelle. Conçu pour alterner randonnées emblématiques, points de vue panoramiques et temps de récupération, ce séjour privilégie une découverte respectueuse d'un environnement aussi magnifique qu'exigeant, où la météo fait partie intégrante de l'expérience.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les célèbres Torres au lever du soleil",
+      "Le Lago Pehoé et les vents de Patagonie",
+      "Le glacier Grey et les champs de glace",
+      "Les Cuernos del Paine et leurs paysages spectaculaires",
+      "Les grands espaces sauvages de Patagonie",
+      "L'un des plus beaux parcs nationaux d'Amérique du Sud"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers paysages patagoniens",
+        "summary": "Découvrir la puissance des grands espaces.",
+        "details": "À votre arrivée dans le parc national Torres del Paine, prenez le temps de découvrir les paysages autour du Lago Pehoé ou d'un autre belvédère accessible. Dès les premiers instants, le vent omniprésent rappelle le caractère sauvage de la Patagonie.\n\nProfitez de l'après-midi pour admirer les montagnes, les lacs et les nuages qui évoluent constamment au-dessus du massif. Ici, la météo transforme les paysages d'une minute à l'autre.\n\nTerminez la journée par une soirée reposante afin d'aborder les randonnées des jours suivants dans les meilleures conditions."
+      },
+      {
+        "day": 2,
+        "title": "Randonnée vers les Torres",
+        "summary": "Découvrir le panorama emblématique du parc.",
+        "details": "Partez tôt le matin pour effectuer la célèbre randonnée jusqu'au mirador Base Torres. La montée demande un bon niveau de forme physique, mais les paysages changent constamment entre forêts, vallées, rivières et moraines.\n\nÀ votre arrivée au pied des impressionnantes tours de granit, prenez le temps d'admirer ce panorama exceptionnel qui fait la renommée mondiale du parc.\n\nRedescendez tranquillement en ménageant vos forces, car la descente est tout aussi exigeante que la montée.\n\nAprès cette journée sportive, profitez d'une soirée calme bien méritée."
+      },
+      {
+        "day": 3,
+        "title": "Glacier Grey et grands paysages",
+        "summary": "Explorer l'immensité de la Patagonie.",
+        "details": "Consacrez cette journée au secteur du glacier Grey, où les sentiers offrent des vues spectaculaires sur les glaciers, les montagnes et les immenses champs de glace de Patagonie.\n\nLe paysage impressionne autant par son immensité que par la sensation d'isolement qu'il procure.\n\nFaites régulièrement des pauses afin d'apprécier pleinement le silence, le vent et la beauté brute de cet environnement unique.\n\nEn fin d'après-midi, retournez à votre hébergement pour récupérer après cette nouvelle journée d'exploration."
+      },
+      {
+        "day": 4,
+        "title": "Derniers panoramas avant le départ",
+        "summary": "Quitter la Patagonie avec des souvenirs inoubliables.",
+        "details": "Profitez de votre dernière matinée pour retourner vers un point de vue ou un sentier qui vous a particulièrement marqué. Les paysages de Torres del Paine offrent toujours un visage différent selon la lumière et les conditions météorologiques.\n\nPrenez le temps d'observer une dernière fois les montagnes, les lacs et les vastes espaces qui caractérisent la Patagonie.\n\nQuittez ensuite le parc avec le souvenir d'une nature spectaculaire, préservée et profondément sauvage."
+      }
+    ],
+    "planning": {
+      "city": "Parc national Torres del Paine, Chili",
+      "bestTime": {
+        "months": "Nov.–mars (été austral)",
+        "note": "Les longues journées et l'ouverture de la plupart des sentiers offrent les meilleures conditions pour les randonnées et les excursions, malgré un vent toujours présent."
+      },
+      "worstTime": {
+        "months": "Mai–août (hiver), avril et oct. (intersaison)",
+        "note": "L'hiver entraîne la fermeture de nombreux sentiers et certaines routes peuvent devenir impraticables. Les mois d'intersaison connaissent une météo très changeante avec des vents violents et des chutes de neige possibles."
+      },
+      "tips": [
+        "Adaptez votre programme aux conditions météorologiques plutôt qu'à un horaire fixe : le temps peut changer très rapidement en Patagonie.",
+        "Prévoyez des vêtements coupe-vent et imperméables de qualité : le vent est une caractéristique permanente du parc.",
+        "Privilégiez quelques randonnées emblématiques plutôt que de longues distances chaque jour afin de profiter pleinement des paysages.",
+        "Une seule grande randonnée quotidienne est généralement suffisante : le relief et les conditions climatiques rendent les efforts plus intenses qu'ils ne le paraissent.",
+        "Commencez vos activités tôt le matin : les conditions sont souvent plus favorables avant l'après-midi.",
+        "Accordez-vous de véritables temps de repos : ils sont essentiels pour récupérer et profiter pleinement des journées suivantes."
+      ],
+      "withKids": [
+        "Les courtes promenades jusqu'aux principaux belvédères conviennent mieux que les longues randonnées.",
+        "Habillez les enfants avec plusieurs couches de vêtements afin de faire face aux brusques changements de température et au vent.",
+        "L'observation des guanacos, nandous, renards et condors constitue une activité particulièrement appréciée des plus jeunes.",
+        "Limitez le temps passé dans les zones les plus exposées lorsque le vent souffle fortement."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée via Puerto Natales",
+          "note": "La majorité des voyageurs rejoignent le parc national Torres del Paine depuis Puerto Natales, dernière ville offrant l'ensemble des services avant l'entrée dans le parc. C'est le principal point de départ pour toutes les excursions."
+        },
+        {
+          "title": "Transfert vers le parc",
+          "note": "L'accès au parc s'effectue par la route à travers les vastes steppes de Patagonie. Les distances sont importantes et le vent, omniprésent, accentue encore la sensation d'isolement."
+        }
+      ],
+      "gettingAround": [
+        "Le parc est immense : les déplacements entre les différents secteurs nécessitent généralement un véhicule.",
+        "Des bus desservent certaines zones du parc, mais leurs horaires restent limités et doivent être planifiés à l'avance.",
+        "Les transferts privés et les voitures de location offrent davantage de liberté, à condition d'être à l'aise avec les routes de gravier et les vents parfois très violents.",
+        "La plupart des randonnées débutent depuis un parking ou un arrêt de navette, plutôt que directement depuis les hébergements."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Hébergement ↔ Secteur du Lago Pehoé",
+          "note": "Les trajets sont relativement courts, mais l'exposition au vent est immédiate dès la sortie du véhicule. Même pour quelques minutes, il est conseillé de porter plusieurs couches de vêtements."
+        },
+        {
+          "title": "Secteur central ↔ Départ du sentier des Torres",
+          "note": "Un transfert matinal est généralement indispensable afin de commencer la randonnée suffisamment tôt et de profiter des meilleures conditions météorologiques."
+        },
+        {
+          "title": "Secteur central ↔ Glacier Grey",
+          "note": "Ce trajet plus long combine déplacement routier et marche. La distance, le vent et les conditions météorologiques influencent davantage l'effort que le relief lui-même."
+        }
+      ],
+      "hikingAccess": [
+        {
+          "title": "Accès aux sentiers de randonnée",
+          "note": "La plupart des itinéraires sont des allers-retours depuis un point de départ précis. Les véhicules servent principalement à rejoindre le début des sentiers plutôt qu'à relier différentes randonnées."
+        },
+        {
+          "title": "Départs tôt le matin",
+          "note": "Commencer les randonnées dès le matin permet généralement de bénéficier d'une meilleure visibilité et de vents moins soutenus qu'en cours d'après-midi."
+        }
+      ],
+      "practical": [
+        "Ne vous fiez pas uniquement aux distances : le vent, le relief et les conditions météo rendent les déplacements plus exigeants qu'ils n'y paraissent.",
+        "Prévoyez toujours une marge dans votre planning : les changements météorologiques peuvent entraîner des retards ou modifier les conditions de circulation.",
+        "Les stations-service, commerces et restaurants sont très peu nombreux à l'intérieur du parc ; pensez à emporter suffisamment d'eau, de nourriture et tout le matériel nécessaire avant de partir.",
+        "Les rafales peuvent être extrêmement puissantes : tenez fermement les portières, sécurisez votre équipement et soyez prudent lors de la descente du véhicule.",
+        "Essayez de terminer vos principaux déplacements et vos longues randonnées en début ou en milieu d'après-midi, avant que les conditions ne deviennent plus difficiles.",
+        "À Torres del Paine, les trajets font pleinement partie de l'expérience : les paysages, le vent et les grands espaces accompagnent chaque déplacement."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Agneau de Patagonie (cordero patagónico)",
+        "Soupes et ragoûts traditionnels",
+        "Pain artisanal fraîchement cuit",
+        "Desserts à base de baie de calafate",
+        "Chocolat chaud ou maté",
+        "Vin rouge chilien (Carménère ou Cabernet, de préférence au dîner)"
+      ],
+      "areas": [
+        {
+          "name": "Lodges et refuges du parc",
+          "note": "La cuisine y est avant tout réconfortante et énergétique, pensée pour récupérer après les longues randonnées et les conditions parfois difficiles de la Patagonie. Les choix sont plus limités, mais les repas sont généreux et adaptés aux activités en plein air."
+        },
+        {
+          "name": "Puerto Natales (avant ou après la visite du parc)",
+          "note": "Puerto Natales offre le plus large choix de restaurants de la région. C'est l'endroit idéal pour savourer la gastronomie patagonienne avant d'entrer dans le parc ou après plusieurs jours de randonnée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hotel Lago Grey Restaurant",
+          "area": "Lodges et refuges du parc",
+          "reason": "Restaurant réputé pour ses plats chauds servis face au glacier Grey. Une excellente halte après une randonnée, où le confort, la chaleur et les spécialités locales prennent toute leur importance.",
+          "imageUrl": "/src/assets/itineraries/chile/torres-del-paine-food/hotel-lago-grey.jpg",
+          "lat": -50.9976,
+          "lng": -73.2422
+        },
+        {
+          "name": "Hostería Pehoé Restaurant",
+          "area": "Lodges et refuges du parc",
+          "reason": "Situé dans un cadre exceptionnel au bord du Lago Pehoé, ce restaurant permet de savourer une cuisine patagonienne simple tout en profitant de panoramas spectaculaires sur les montagnes et les vents emblématiques du parc.",
+          "imageUrl": "/src/assets/itineraries/chile/torres-del-paine-food/hosteria-pehoe.jpg",
+          "lat": -51.0309,
+          "lng": -72.9967
+        },
+        {
+          "name": "Hotel Las Torres Restaurant",
+          "area": "Lodges et refuges du parc",
+          "reason": "L'une des meilleures tables situées à l'intérieur du parc, souvent choisie par les randonneurs avant ou après l'ascension vers le mirador des Torres. Une cuisine généreuse idéale pour reprendre des forces.",
+          "imageUrl": "/src/assets/itineraries/chile/torres-del-paine-food/hotel-las-torres.jpg",
+          "lat": -50.9429,
+          "lng": -72.9641
+        },
+        {
+          "name": "Afrigonia Restaurant",
+          "area": "Puerto Natales (avant ou après la visite du parc)",
+          "reason": "Adresse incontournable de Puerto Natales, réputée pour son agneau de Patagonie et ses portions généreuses. C'est l'un des restaurants les plus appréciés après plusieurs jours passés dans le parc national.",
+          "imageUrl": "/src/assets/itineraries/chile/torres-del-paine-food/afrigonia.jpg",
+          "lat": -51.7274,
+          "lng": -72.5060
+        }
+      ]
+    }
+  }

@@ -1,0 +1,631 @@
+
+  {
+    "slug": "5-days-bali-where-rituals-meet-the-tide",
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "city": "Bali",
+    "title": "Bali en 5 jours : là où les rituels rencontrent les marées",
+    "days": 5,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/indonesia/5-days-bali-where-rituals-meet-the-tide.jpg",
+    "summary": "Cet itinéraire de 5 jours à Bali explore l’île à travers ses traditions spirituelles, ses paysages de l’intérieur des terres et le rythme de son littoral. Conçu pour aller au-delà d’un seul lieu de séjour ou d’un thème unique, il équilibre temples, rizières en terrasses, vie des villages et moments passés au bord de la mer. Le rythme reste volontairement paisible, laissant les rituels, les paysages et les offrandes quotidiennes de Bali façonner naturellement l’expérience plutôt qu’une simple liste de sites à visiter.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Ubud et les villages environnants",
+      "Rizières en terrasses et paysages de l’intérieur",
+      "Temples balinais et rituels quotidiens",
+      "Couchers de soleil sur la côte et moments à la plage",
+      "Marchés traditionnels et cuisine locale",
+      "Matinées paisibles et soirées ouvertes"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers pas sur la côte",
+        "summary": "Premier contact avec le rythme de l’île.",
+        "details": "Arrivez à Bali et installez-vous dans une région côtière en prenant le temps de récupérer du voyage. Passez l’après-midi à vous promener sur la plage ou dans les rues voisines, en observant les offrandes déposées devant les maisons et aux carrefours — une introduction discrète aux rituels quotidiens balinais.\n\nÀ l’approche du soir, dégustez un repas simple au bord de la mer tout en regardant la lumière décliner. L’objectif de cette première journée n’est pas de faire du tourisme, mais de retrouver son équilibre, en laissant le rythme de l’île remplacer peu à peu l’agitation du voyage."
+      },
+      {
+        "day": 2,
+        "title": "Ubud, villages et vie créative",
+        "summary": "Le cœur culturel de Bali.",
+        "details": "Rejoignez l’intérieur des terres jusqu’à Ubud, où l’art, la spiritualité et la vie villageoise se rencontrent. Promenez-vous dans la ville et sur les sentiers voisins en découvrant temples, marchés et petites galeries.\n\nDans l’après-midi, explorez à pied les villages environnants et les rizières, en suivant les étroits chemins qui serpentent entre les palmiers et les champs. Terminez la journée par une soirée paisible à Ubud, où spectacles, cafés et rues tranquilles coexistent naturellement."
+      },
+      {
+        "day": 3,
+        "title": "Rizières en terrasses et eaux sacrées",
+        "summary": "Des paysages façonnés par la patience et la dévotion.",
+        "details": "Consacrez la journée à la découverte des paysages agricoles de Bali. Visitez des rizières en terrasses où les champs superposés reflètent la lumière et le ciel, puis arrêtez-vous dans un temple de l’eau afin de comprendre le lien entre irrigation, rituels et vie communautaire.\n\nDéplacez-vous sans hâte d’un site à l’autre, en prenant le temps de faire de courtes promenades et de vous reposer. Revenez à votre hébergement en fin d’après-midi, en gardant la soirée libre et sans programme particulier."
+      },
+      {
+        "day": 4,
+        "title": "Temples, côte et coucher du soleil",
+        "summary": "Là où la terre rencontre l’océan.",
+        "details": "Visitez un temple côtier perché au bord de la mer et observez comment les vagues, la pierre et les cérémonies se rejoignent. Promenez-vous ensuite le long des plages ou des falaises voisines, où les horizons ouverts contrastent avec les vallées plus fermées de l’intérieur.\n\nÀ l’approche du coucher du soleil, restez près de la côte pour admirer les dernières lumières du jour. Les soirées balinaises rassemblent souvent habitants, voyageurs, offrandes et lumière dans un moment partagé, paisible et sans ostentation."
+      },
+      {
+        "day": 5,
+        "title": "Matinée paisible et doux départ",
+        "summary": "Partir sans rompre le rythme.",
+        "details": "Profitez de votre dernière matinée à votre rythme. Savourez un petit-déjeuner tranquille, faites une courte promenade ou passez un moment au bord de l’eau. Évitez de vous presser ; la véritable richesse de Bali réside dans la continuité plutôt que dans la conclusion.\n\nQuittez l’île avec le sentiment qu’elle se révèle progressivement, à travers la répétition et le rythme, plutôt qu’au fil de sites exceptionnels pris isolément."
+      }
+    ],
+    "planning": {
+      "city": "Bali, Indonesia",
+      "bestTime": {
+        "months": "Mai–juin, septembre (meilleur équilibre), juillet–août (sec mais très fréquenté)",
+        "note": "Les mois de mai, juin et septembre offrent un temps plus sec, une humidité modérée et une fréquentation plus faible qu’en pleine saison estivale, ce qui est idéal pour visiter les temples, les rizières en terrasses et profiter des couchers de soleil sur la côte. Juillet et août sont très secs, mais aussi plus fréquentés et plus coûteux."
+      },
+      "worstTime": {
+        "months": "Janvier–février (période la plus humide), mars–avril (chaud et humide)",
+        "note": "Les mois de janvier et février connaissent de fortes pluies tropicales susceptibles de perturber les journées à la plage et les déplacements vers l’intérieur de l’île. Mars et avril peuvent être particulièrement chauds et humides, surtout loin des côtes."
+      },
+      "tips": [
+        "Pensez par zones plutôt que par tour complet de l’île : associez Ubud (culture et rizières) à une seule côte, comme Uluwatu ou Canggu, afin de limiter la fatigue liée aux embouteillages.",
+        "Respectez les horaires des cérémonies : certains temples peuvent fermer ou modifier leurs accès pendant les rituels locaux. Observez discrètement et suivez les indications des habitants.",
+        "Partez tôt : les matinées sont plus fraîches, les routes plus fluides, et les temples comme les rizières sont plus calmes avant l’arrivée des groupes.",
+        "Tenez compte de la circulation : même de courtes distances peuvent demander beaucoup de temps, notamment dans le sud de Bali. Prévoyez toujours une marge.",
+        "Emportez un sarong ou un châle léger pour les visites de temples ; beaucoup exigent que les jambes et les épaules soient couvertes.",
+        "Les conditions de mer varient selon les côtes : les plages de l’ouest et du sud peuvent être agitées. Choisissez soigneusement les zones de baignade et respectez les drapeaux de sécurité."
+      ],
+      "withKids": [
+        "Alternez découvertes culturelles et moments de détente : temples et promenades dans les rizières le matin, piscine ou plage l’après-midi.",
+        "Choisissez des hébergements adaptés aux familles, avec un accès facile aux restaurants et des nuits calmes ; le bruit de la circulation peut être fatigant.",
+        "Évitez de multiplier les longs trajets en voiture ; les enfants ressentent rapidement la chaleur et les embouteillages de Bali.",
+        "Prévoyez une bonne protection solaire ainsi qu’un répulsif contre les moustiques, surtout en soirée près de l’eau ou des rizières."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Ngurah Rai International Airport (DPS) → zones côtières / Ubud",
+          "note": "Option la plus pratique : transfert privé ou Grab/taxi. Zones côtières (Seminyak, Canggu, Uluwatu) : environ 30 à 90 min selon la circulation. Ubud : environ 1 h à 1 h 30 ; les temps de trajet varient fortement selon l’heure de la journée."
+        }
+      ],
+      "gettingAround": [
+        "Un chauffeur privé ou un service de transport avec chauffeur (Grab / taxis locaux) constitue le moyen le plus pratique de se déplacer entre les différentes régions.",
+        "La location d’un scooter offre davantage de liberté aux conducteurs expérimentés, mais exige de la prudence en raison de la circulation et de l’état des routes.",
+        "La marche ne convient qu’aux déplacements locaux, notamment dans le centre d’Ubud ou les zones de plage ; les distances entre les différentes régions sont trop importantes pour être parcourues à pied."
+      ],
+      "dayTrips": [
+        {
+          "title": "Ubud, villages et rizières en terrasses",
+          "note": "Depuis les zones côtières, le mieux est de s’y rendre avec un chauffeur privé ou en scooter. Partez tôt pour éviter la circulation et la chaleur, et regroupez les sites voisins plutôt que de traverser l’île."
+        },
+        {
+          "title": "Temples côtiers et lieux de coucher du soleil",
+          "note": "Les temples en bord de mer, notamment sur les côtes sud et ouest, sont plus facilement accessibles en voiture ou avec un chauffeur. Arrivez bien avant le coucher du soleil afin de tenir compte des embouteillages."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Organisez vos journées par zones : les longs trajets répétés sont fatigants en raison de la circulation et de la chaleur.",
+        "Les embouteillages peuvent doubler les temps de trajet sans prévenir ; prévoyez toujours une marge suffisante.",
+        "Gardez de petites coupures pour les marchés, les offrandes, les frais de stationnement et les petits restaurants.",
+        "Une tenue correcte est exigée dans les temples : des sarongs sont souvent prêtés sur place, mais il est plus pratique d’apporter le vôtre."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Nasi Campur Bali",
+        "Babi Guling (porc rôti balinais)",
+        "Lawar (salade épicée balinaise)",
+        "Ayam Betutu (poulet épicé cuit lentement)",
+        "Sate Lilit (brochettes de viande hachée aux fruits de mer ou au poulet)",
+        "Fruits tropicaux frais et noix de coco"
+      ],
+      "areas": [
+        {
+          "name": "Ubud",
+          "note": "Cœur culturel de l’île, avec un large choix de restaurants balinais, de warungs locaux et de cafés paisibles. Idéal pour découvrir les plats traditionnels et prendre le temps de manger."
+        },
+        {
+          "name": "Seminyak & Canggu",
+          "note": "Principaux pôles de restauration côtiers, proposant un mélange de cuisine indonésienne, de cafés décontractés en bord de plage et d’options internationales. Idéal pour des soirées faciles et un large choix."
+        },
+        {
+          "name": "Local Markets & Villages",
+          "note": "Petits warungs et stands de marché servant une cuisine balinaise familiale. À découvrir de préférence le matin ou à l’heure du déjeuner lors d’une excursion vers l’intérieur de l’île."
+        },
+        {
+          "name": "Coastal Areas (Uluwatu / West Coast)",
+          "note": "Restaurants simples en bord de mer et établissements tournés vers le coucher du soleil, privilégiant les grillades et les repas décontractés face à l’océan."
+        }
+      ],
+      "places": [
+        {
+          "name": "Ibu Oka",
+          "area": "Ubud",
+          "reason": "L’une des adresses les plus réputées pour goûter le Babi Guling, depuis longtemps associée à l’identité culinaire d’Ubud.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bali-food/ibu-oka.jpg",
+          "lat": -8.5069,
+          "lng": 115.264
+        },
+        {
+          "name": "Bebek Bengil (Dirty Duck Diner)",
+          "area": "Ubud",
+          "reason": "Restaurant établi de longue date, célèbre pour son canard croustillant et son cadre paisible au milieu des rizières.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bali-food/bebek-bengil.jpeg",
+          "lat": -8.5126,
+          "lng": 115.2637
+        },
+        {
+          "name": "Warung Babi Guling Pak Malen",
+          "area": "Seminyak",
+          "reason": "Warung populaire de style local, proposant un Babi Guling savoureux et rapide dans une ambiance sans prétention.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bali-food/warung-babi-guling-pak-malen.jpg",
+          "lat": -8.6839,
+          "lng": 115.1668
+        },
+        {
+          "name": "Local Warungs (Various)",
+          "area": "Across Bali",
+          "reason": "Petits restaurants familiaux offrant l’expérience la plus authentique de la cuisine balinaise du quotidien.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bali-food/local-warungs.jpg",
+          "lat": 0,
+          "lng": 0
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-bandung-where-cool-air-carries-ideas",
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "city": "Bandung",
+    "title": "Bandung en 3 jours : là où l’air frais porte les idées",
+    "days": 3,
+    "priceFrom": 180,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/indonesia/3-days-bandung-where-cool-air-carries-ideas.jpg",
+    "summary": "Cet itinéraire de 3 jours à Bandung vous invite à découvrir la ville créative des hauts plateaux d’Indonésie à travers son climat plus frais, son architecture coloniale, ses paysages volcaniques et sa culture dynamique des cafés. Pensé comme une parenthèse paisible après les grandes métropoles, il équilibre nature, design et vie urbaine quotidienne, laissant l’atmosphère et l’esprit créatif de Bandung se révéler naturellement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Climat frais des hauts plateaux",
+      "Rues et architecture de l’époque coloniale",
+      "Paysages volcaniques et vues sur les cratères",
+      "Scène créative et cafés de Bandung",
+      "Marchés locaux et magasins d’usine",
+      "Soirées paisibles et matinées brumeuses"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et rues coloniales",
+        "summary": "Premières impressions dans un air plus frais.",
+        "details": "Arrivez à Bandung et installez-vous dans son climat agréablement plus frais. Commencez par une promenade dans les quartiers réputés pour leur architecture de l’époque coloniale, où les larges avenues et les bâtiments historiques donnent à la ville un caractère visuel unique.\n\nPassez l’après-midi à explorer les cafés et les espaces créatifs, là où la culture du design de Bandung s’exprime le mieux. Terminez la journée par un dîner détendu, en profitant du rythme plus tranquille qu’offre naturellement cette ville des hauts plateaux."
+      },
+      {
+        "day": 2,
+        "title": "Volcans et panoramas des hauts plateaux",
+        "summary": "Quand la nature façonne l’identité de la ville.",
+        "details": "Consacrez la journée à la découverte des paysages qui entourent Bandung, en visitant les zones volcaniques et les points de vue voisins. Parcourez de courts sentiers et prenez régulièrement le temps d’apprécier l’air frais, la brume et les vastes panoramas.\n\nL’objectif n’est pas la performance physique, mais le changement de perspective : comprendre comment la géographie de Bandung influence son climat, sa culture et son rythme quotidien. Retournez en ville dans l’après-midi pour vous reposer et profiter d’une soirée paisible."
+      },
+      {
+        "day": 3,
+        "title": "Marchés, cafés et départ en douceur",
+        "summary": "Bandung dans son quotidien.",
+        "details": "Consacrez votre dernière matinée aux marchés locaux ou aux magasins d’usine, où vous pourrez observer la rencontre entre commerce et créativité dans la vie quotidienne. Prenez le temps de savourer un long petit-déjeuner ou un café dans l’un des établissements emblématiques de Bandung, où le temps semble ralentir.\n\nPartez dans l’après-midi avec le sentiment que Bandung est une ville qui se découvre avant tout par son atmosphère : l’air frais, les rues tranquilles et les idées qui émergent peu à peu, sans jamais chercher à s’imposer."
+      }
+    ],
+    "planning": {
+      "city": "Bandung, Java occidental, Indonésie",
+      "bestTime": {
+        "months": "Mai–septembre (meilleure période), juin–août (plus frais et plus sec)",
+        "note": "Ces mois offrent des températures plus agréables et des précipitations plus faibles, idéales pour visiter les cratères, admirer les panoramas des collines, découvrir les cafés et se promener dans les quartiers créatifs."
+      },
+      "worstTime": {
+        "months": "Janvier–février (période la plus humide), octobre–novembre (orages fréquents)",
+        "note": "Les mois de janvier et février connaissent souvent de fortes pluies qui peuvent perturber les routes de montagne et les activités en plein air. En octobre et novembre, le climat est plus humide avec des orages fréquents en fin d’après-midi."
+      },
+      "tips": [
+        "Partez tôt pour les excursions dans les hauts plateaux (Ciwidey, Lembang) : la lumière matinale est plus belle et la circulation plus fluide.",
+        "Regroupez les visites par secteur : nord (Lembang), sud (Ciwidey) et centre-ville (cafés et culture) afin d’éviter les longs allers-retours.",
+        "Prévoyez plusieurs couches de vêtements : Bandung est plus fraîche que Jakarta, surtout le matin et le soir.",
+        "Réservez les activités en intérieur (cafés, galeries, salles de concert) pendant les averses fréquentes de l’après-midi.",
+        "Attendez-vous à une circulation dense le week-end avec les visiteurs venant de Jakarta ; prévoyez une marge de temps ou privilégiez les visites en semaine.",
+        "Avoir un peu d’argent liquide est utile dans les petits restaurants et les stands en bord de route en dehors du centre-ville."
+      ],
+      "withKids": [
+        "Les parcs des hauts plateaux et les points de vue sur les cratères sont intéressants pour les enfants, mais exposés ; prévoyez des vêtements chauds et une protection solaire.",
+        "Saung Angklung Udjo propose de courts spectacles culturels interactifs particulièrement adaptés aux familles.",
+        "Évitez les longs trajets en voiture le week-end ; privilégiez une seule excursion nature par jour afin de limiter la fatigue.",
+        "Emportez de l’eau et des en-cas : les possibilités de restauration deviennent plus rares en dehors du centre de Bandung."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Jakarta → Bandung",
+          "note": "Le moyen le plus rapide et le plus fiable est le train à grande vitesse Whoosh reliant Jakarta à Padalarang, puis le train de correspondance ou un Grab jusqu’à Bandung (environ 1 à 1 h 30 au total). En alternative, il est possible de voyager en voiture ou en navette (environ 3 à 4 heures, selon la circulation)."
+        }
+      ],
+      "gettingAround": [
+        "Les quartiers de Bandung sont relativement compacts, mais la circulation peut être dense ; les Grab et les taxis sont le moyen le plus simple de se déplacer entre les différents secteurs.",
+        "La marche convient pour découvrir les rues coloniales et les quartiers de cafés, mais n’est pas pratique pour rejoindre les différents districts.",
+        "Pour les excursions dans les hauts plateaux environnants (Lembang, Ciwidey), il est recommandé de faire appel à un chauffeur privé ou à un Grab."
+      ],
+      "dayTrips": [
+        {
+          "title": "Hauts plateaux volcaniques (Lembang / Ciwidey)",
+          "note": "Le meilleur moyen d’y accéder est un chauffeur privé ou un Grab/taxi (environ 1 à 2 heures par trajet selon la destination). Partez tôt afin de profiter d’une meilleure visibilité, d’un air plus frais et d’une circulation plus fluide."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "La circulation en provenance de Jakarta est souvent très dense le week-end ; une visite en semaine est généralement plus agréable.",
+        "Prévoyez des vêtements en plusieurs couches : les matinées et les soirées sont sensiblement plus fraîches qu’à Jakarta.",
+        "Gardez une marge de temps pour les excursions en montagne : la météo et la circulation peuvent évoluer rapidement.",
+        "Prévoyez de petites coupures pour les stands en bord de route et les attractions situées en dehors du centre-ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Spécialités sundanaises à base de riz (nasi timbel, nasi liwet)",
+        "Lotek et Karedok (salades de légumes frais à la sauce aux cacahuètes)",
+        "Mie Kocok Bandung",
+        "Batagor (tofu frit et boulettes de poisson)",
+        "Surabi Bandung",
+        "Cafés proposant café et desserts à la mode de Bandung"
+      ],
+      "areas": [
+        {
+          "name": "Dago et Upper Dago",
+          "note": "Quartiers plus frais, réputés pour leurs cafés panoramiques et leurs restaurants créatifs, parfaits pour de longs petits-déjeuners et des après-midis tranquilles."
+        },
+        {
+          "name": "Braga et centre-ville",
+          "note": "Rues historiques bordées de cafés et de restaurants décontractés, offrant un accès facile au patrimoine architectural colonial."
+        },
+        {
+          "name": "Cihampelas et Riau (R.E. Martadinata)",
+          "note": "Quartier animé mêlant shopping, restaurants emblématiques de Bandung et cafés modernes."
+        },
+        {
+          "name": "Lembang et les hauts plateaux",
+          "note": "Restaurants de montagne et stands en bord de route offrant air frais, cuisine simple et magnifiques panoramas."
+        }
+      ],
+      "places": [
+        {
+          "name": "Warung Nasi Ampera",
+          "area": "Plusieurs adresses (centre-ville et nord de Bandung)",
+          "reason": "Restaurant sundanais traditionnel proposant un large choix de petits plats, idéal pour découvrir la cuisine quotidienne locale.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bandung-food/warung-nasi-ampera.jpg",
+          "lat": -6.9147,
+          "lng": 107.6098
+        },
+        {
+          "name": "Mie Kocok Mang Dadeng",
+          "area": "Centre de Bandung",
+          "reason": "L’une des adresses les plus réputées de la ville pour déguster le mie kocok, une soupe de nouilles au bœuf emblématique de Bandung.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bandung-food/mie-kocok-mang-dadeng.jpg",
+          "lat": -6.9122,
+          "lng": 107.6071
+        },
+        {
+          "name": "Braga Permai",
+          "area": "Rue Braga",
+          "reason": "Restaurant historique servant des plats indonésiens et occidentaux dans un cadre de l’époque coloniale, idéal pour un repas dans une ambiance paisible.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bandung-food/braga-permai.jpg",
+          "lat": -6.9175,
+          "lng": 107.6089
+        },
+        {
+          "name": "Batagor Kingsley",
+          "area": "Cihampelas",
+          "reason": "Adresse très appréciée des habitants pour déguster le batagor, l’un des snacks de rue les plus emblématiques de Bandung.",
+          "imageUrl": "/src/assets/itineraries/indonesia/bandung-food/batagor-kingsley.jpg",
+          "lat": -6.892,
+          "lng": 107.6045
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-jakarta-beneath-the-surface-rhythm",
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "title": "Jakarta en 3 jours : sous le rythme de la surface",
+    "days": 3,
+    "priceFrom": 190,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/indonesia/3-days-jakarta-beneath-the-surface-rhythm.jpg",
+    "summary": "Cet itinéraire de 3 jours à Jakarta explore la capitale de l’Indonésie au-delà des premières impressions, en mettant l’accent sur son histoire, la vie de ses quartiers et le rythme quotidien de l’une des plus grandes villes d’Asie du Sud-Est. Conçu pour les voyageurs curieux de découvrir une véritable culture urbaine, il équilibre héritage colonial, quartiers modernes et vie de rue locale, sans chercher à atténuer la complexité de la ville.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "La vieille ville (Kota Tua) et son héritage colonial",
+      "Monument national (Monas)",
+      "Cafés de quartier et rues locales",
+      "Marchés traditionnels et cuisine de rue",
+      "Les quartiers modernes de Jakarta",
+      "La vie urbaine au-delà des sites emblématiques"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Vieille ville et strates du temps",
+        "summary": "Les racines coloniales et les premières rues de Jakarta.",
+        "details": "Commencez par Kota Tua, la vieille ville de Jakarta, où les bâtiments de l’époque coloniale, les musées et les grandes places témoignent des premières étapes de l’histoire de la ville. Promenez-vous tranquillement dans le quartier et observez comment le passé et la vie quotidienne se mêlent naturellement, sans véritable séparation.\n\nPrenez le temps de vous installer dans un café ou à l’ombre d’une place avant de poursuivre votre visite. Dans l’après-midi, rendez-vous au Monument national (Monas) afin de mieux comprendre l’identité nationale de l’Indonésie et son histoire après l’indépendance. Terminez la journée par un dîner dans un restaurant local des environs."
+      },
+      {
+        "day": 2,
+        "title": "Marchés, rues et rythme local",
+        "summary": "Jakarta telle qu’elle est vécue, et non mise en scène.",
+        "details": "Consacrez cette journée à l’exploration des quartiers et des marchés, là où l’énergie de Jakarta s’exprime le plus intensément. Visitez un marché traditionnel pour découvrir le commerce quotidien, puis poursuivez votre découverte à pied ou lors de courts trajets vers les rues voisines.\n\nFaites régulièrement des pauses : Jakarta n’est pas une ville que l’on découvre dans la précipitation. Les stands de cuisine de rue, les petites boutiques et les lieux de rencontre informels révèlent le fonctionnement de la ville au niveau de la rue. En soirée, profitez d’un repas détendu dans un quartier réputé pour sa cuisine locale plutôt que pour ses adresses touristiques."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers modernes et conclusion paisible",
+        "summary": "Le Jakarta contemporain et quelques instants de réflexion.",
+        "details": "Commencez votre dernière journée dans l’un des quartiers modernes de Jakarta, où bureaux, centres commerciaux et cafés illustrent l’évolution actuelle de la ville. Observez la manière dont les influences internationales et locales se croisent dans le quotidien.\n\nPassez l’après-midi à votre rythme, en retournant dans une rue que vous avez particulièrement appréciée ou en profitant d’une pause dans un café paisible. Quittez Jakarta avec l’image d’une ville faite de multiples couches, profondément humaine — complexe, imparfaite et authentique."
+      }
+    ],
+    "planning": {
+      "city": "Jakarta, Indonesia",
+      "bestTime": {
+        "months": "Mai–septembre (saison la plus sèche), juin–août (période la plus agréable)",
+        "note": "Ces mois sont généralement plus secs et légèrement moins humides, ce qui rend les promenades dans les quartiers, les visites de musées et les découvertes culinaires en soirée beaucoup plus agréables."
+      },
+      "worstTime": {
+        "months": "Janvier–février (période la plus humide, risque d'inondations), mars–avril (chaud et humide)",
+        "note": "Les mois de janvier et février peuvent connaître de fortes pluies et des inondations locales perturbant les déplacements. En mars et avril, la chaleur et l’humidité sont souvent très élevées, rendant les embouteillages encore plus fatigants."
+      },
+      "tips": [
+        "Organisez vos visites par quartiers plutôt qu’en fonction des distances : à Jakarta, la circulation détermine les temps de trajet. Limitez-vous à une zone par demi-journée afin d’éviter la fatigue.",
+        "Utilisez le MRT et les trains de banlieue lorsque cela est possible. Les voitures Grab sont pratiques, mais peuvent être très lentes aux heures de pointe.",
+        "Prévoyez les visites en extérieur tôt le matin ou après le coucher du soleil ; la chaleur et les embouteillages atteignent leur maximum en milieu de journée.",
+        "Les soirées sont idéales pour découvrir la cuisine de rue : les warungs locaux et les rues gourmandes s’animent après la tombée de la nuit.",
+        "Gardez toujours une protection légère contre la pluie, même pendant la saison la plus sèche ; les averses tropicales peuvent survenir soudainement.",
+        "Attendez-vous à une ville animée et bruyante ; choisissez soigneusement votre hébergement si vous recherchez des nuits paisibles."
+      ],
+      "withKids": [
+        "Alternez les rues animées avec des activités en intérieur, comme les musées ou les centres commerciaux, pendant les heures les plus chaudes.",
+        "Évitez les heures de pointe (7 h–9 h et 16 h–19 h) lorsque vous traversez la ville avec des enfants.",
+        "Les grands centres commerciaux offrent des restaurants, des sanitaires et la climatisation, idéals pour faire une pause.",
+        "Gardez toujours de l’eau, des chapeaux et des lingettes à portée de main : la chaleur et la pollution peuvent être fatigantes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international Soekarno–Hatta (CGK) → centre-ville",
+          "note": "Le moyen le plus fiable est de prendre le train de l’aéroport jusqu’à Sudirman Baru (BNI City) ou Manggarai, puis un Grab ou un taxi jusqu’à votre hôtel. Un Grab ou un taxi direct est pratique, mais la circulation peut être très dense (environ 45 à 90 minutes, voire davantage)."
+        }
+      ],
+      "gettingAround": [
+        "Organisez vos déplacements par quartiers : Jakarta est immense et très encombrée ; passer d’un secteur à l’autre demande du temps.",
+        "Le MRT et les trains de banlieue sont les moyens les plus rapides lorsque les lignes le permettent (centre et sud de Jakarta).",
+        "Les voitures Grab sont pratiques pour les trajets courts, mais peuvent être ralenties aux heures de pointe.",
+        "La marche n’est adaptée qu’aux déplacements locaux à l’intérieur d’un quartier ; les longues distances à pied sont peu réalistes."
+      ],
+      "dayTrips": [],
+      "dayMoves": [],
+      "practical": [
+        "Évitez de traverser la ville aux heures de pointe (environ 7 h–9 h et 16 h–19 h).",
+        "Privilégiez les transports ferroviaires lorsque c’est possible : ils permettent d’éviter les embouteillages imprévisibles.",
+        "Gardez de petites coupures pour les marchés, la cuisine de rue et les petits commerces de quartier.",
+        "Prévoyez toujours une marge dans vos temps de trajet ; la circulation peut évoluer très rapidement."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Nasi Goreng",
+        "Sate (satay)",
+        "Soto Betawi",
+        "Gado-Gado",
+        "Bakso (soupe de boulettes de viande)",
+        "Es Teh Manis et jus de fruits frais"
+      ],
+      "areas": [
+        {
+          "name": "Kota Tua (Vieille ville)",
+          "note": "Quartier historique regroupant restaurants traditionnels, cafés installés dans d’anciens bâtiments coloniaux et spécialités classiques de Jakarta. Idéal à combiner avec la visite des musées."
+        },
+        {
+          "name": "Centre de Jakarta (Menteng et secteur de Monas)",
+          "note": "Mélange de restaurants historiques et de warungs de quartier. Parfait pour le déjeuner entre deux visites culturelles."
+        },
+        {
+          "name": "Sud de Jakarta",
+          "note": "Quartiers plus résidentiels, riches en cafés et en restaurants proposant une cuisine indonésienne moderne. Idéal pour une soirée détendue."
+        },
+        {
+          "name": "Rues de cuisine de rue et warungs locaux",
+          "note": "Répartis dans toute la ville, particulièrement animés après le coucher du soleil. Le meilleur moyen de découvrir la culture culinaire quotidienne de Jakarta."
+        }
+      ],
+      "places": [
+        {
+          "name": "Cafe Batavia",
+          "area": "Kota Tua",
+          "reason": "Café historique installé dans un bâtiment colonial donnant sur la place Fatahillah, proposant des plats indonésiens et occidentaux dans un cadre plein de charme.",
+          "imageUrl": "/src/assets/itineraries/indonesia/jakarta-food/cafe-batavia.jpg",
+          "lat": -6.1352,
+          "lng": 106.8133
+        },
+        {
+          "name": "Sate Khas Senayan",
+          "area": "Centre de Jakarta",
+          "reason": "Chaîne indonésienne réputée, spécialisée dans les satays et les spécialités régionales, idéale pour une première découverte.",
+          "imageUrl": "/src/assets/itineraries/indonesia/jakarta-food/sate-khas-senayan.jpg",
+          "lat": -6.1846,
+          "lng": 106.8341
+        },
+        {
+          "name": "Soto Betawi Haji Husein",
+          "area": "Centre de Jakarta",
+          "reason": "Adresse locale très appréciée pour son riche Soto Betawi au lait de coco, souvent considéré comme l’un des meilleurs de la ville.",
+          "imageUrl": "/src/assets/itineraries/indonesia/jakarta-food/soto-betawi-haji-husein.jpg",
+          "lat": -6.1809,
+          "lng": 106.8197
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-yogyakarta-where-ancient-stories-still-walk",
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "title": "Yogyakarta en 4 jours : là où les récits anciens continuent de vivre",
+    "days": 4,
+    "priceFrom": 200,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/indonesia/4-days-yogyakarta-where-ancient-stories-still-walk.jpg",
+    "summary": "Cet itinéraire de 4 jours à Yogyakarta explore le cœur culturel de Java à travers ses temples antiques, ses traditions royales et la vie quotidienne façonnée par des siècles d’histoire. Conçu pour les voyageurs qui privilégient le sens au rythme effréné, il équilibre patrimoine monumental et découverte paisible des quartiers, laissant les histoires de Yogyakarta se révéler naturellement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Temple de Borobudur",
+      "Complexe de temples de Prambanan",
+      "Kraton (Palais du Sultan)",
+      "Ateliers traditionnels de batik",
+      "Rue Malioboro",
+      "Cuisine locale et vie de rue en soirée"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et terres royales",
+        "summary": "Premiers pas dans les traditions javanaises.",
+        "details": "Arrivez à Yogyakarta et commencez votre découverte par le Kraton, le Palais du Sultan, où les traditions de la cour, l’architecture et les rituels quotidiens font toujours partie d’une culture vivante. Promenez-vous dans les quartiers environnants et observez comment l’héritage royal s’intègre naturellement à la vie quotidienne.\n\nDans l’après-midi, visitez quelques ateliers de batik ou de petits musées afin de mieux comprendre un savoir-faire transmis de génération en génération. Terminez la journée par une promenade tranquille le long de la rue Malioboro, où cuisine de rue, boutiques et animation du soir se mêlent naturellement."
+      },
+      {
+        "day": 2,
+        "title": "Borobudur et la lumière du matin",
+        "summary": "Un monument façonné par le silence et le temps.",
+        "details": "Partez tôt pour rejoindre Borobudur, le plus grand temple bouddhiste du monde. Une arrivée matinale permet d’admirer les bas-reliefs, les stupas et les paysages environnants sous une lumière plus douce.\n\nParcourez lentement les différents niveaux du temple en suivant les récits sculptés dans la pierre et en prenant régulièrement le temps de vous arrêter plutôt que de vous presser. De retour à Yogyakarta, consacrez l’après-midi au repos ou à la découverte de cafés paisibles, afin de garder une soirée calme propice à la réflexion."
+      },
+      {
+        "day": 3,
+        "title": "Prambanan et la géométrie sacrée",
+        "summary": "Pierre, symétrie et dévotion.",
+        "details": "Visitez le complexe de temples de Prambanan, remarquable site hindou célèbre pour ses hautes flèches et la finesse de ses sculptures. Explorez les temples principaux et leurs environs en observant comment l’organisation de l’espace guide naturellement le regard et les déplacements.\n\nEn fin d’après-midi, retournez en ville pour profiter d’un moment libre : revisitez une rue que vous avez appréciée, dégustez des spécialités locales ou assistez à un spectacle culturel si l’occasion se présente. L’objectif est de trouver un équilibre, non d’accumuler les visites."
+      },
+      {
+        "day": 4,
+        "title": "Rues paisibles et au revoir",
+        "summary": "Quitter la ville à travers ses instants du quotidien.",
+        "details": "Consacrez votre dernière matinée à une promenade dans les rues résidentielles ou sur les marchés locaux, afin d’observer les habitudes quotidiennes qui définissent Yogyakarta bien au-delà de ses monuments.\n\nProfitez d’un déjeuner détendu avant votre départ. Yogyakarta laisse une empreinte discrète — à travers les histoires gravées dans la pierre, l’artisanat et les gestes du quotidien — que l’on emporte avec soi non comme un spectacle, mais comme un souvenir."
+      }
+    ],
+    "planning": {
+      "city": "Yogyakarta, Indonesia",
+      "bestTime": {
+        "months": "Mai–septembre (meilleure période), juin–août (plus frais et plus sec)",
+        "note": "Ces mois sont généralement plus secs et moins humides, offrant les meilleures conditions pour visiter les temples, se promener dans la rue Malioboro et découvrir les sites royaux et culturels."
+      },
+      "worstTime": {
+        "months": "Janvier–février (période la plus humide), octobre–novembre (orages fréquents)",
+        "note": "Les mois de janvier et février connaissent de fortes pluies pouvant perturber les visites des temples et les activités en plein air. En octobre et novembre, la chaleur et les orages fréquents rendent les programmes plus difficiles à prévoir."
+      },
+      "tips": [
+        "Commencez les visites des temples tôt le matin : Borobudur et Prambanan sont plus agréables avant la chaleur et l’arrivée des groupes.",
+        "Prévoyez les contrôles et les règles d’accès à Borobudur : vérifiez les conditions d’entrée et les types de billets le jour de votre visite.",
+        "Regroupez les visites par secteur : Borobudur (au nord-ouest), Prambanan (à l’est) et le centre-ville (Kraton/Malioboro) afin d’éviter les allers-retours inutiles.",
+        "Privilégiez les activités en intérieur ou à l’ombre (ateliers de batik, cafés, musées) entre midi et 15 h, lorsque la chaleur est la plus forte.",
+        "Habillez-vous de manière respectueuse pour visiter les temples et le Kraton ; un pantalon léger ou un sarong sera très utile.",
+        "Les soirées sont calmes plutôt que festives : cuisine de rue, spectacles de théâtre d’ombres ou promenades tranquilles correspondent parfaitement au rythme de la ville."
+      ],
+      "withKids": [
+        "Choisissez les créneaux du lever du soleil ou du début de matinée pour visiter les temples afin d’éviter la chaleur et les longues files d’attente.",
+        "Les vastes cours du Kraton sont accessibles avec une poussette, mais très exposées au soleil ; prévoyez des chapeaux et de l’eau.",
+        "La rue Malioboro est animée mais très fréquentée le soir ; avec des enfants, il est préférable d’y aller en début de soirée.",
+        "Limitez les longues excursions : le charme de Yogyakarta réside dans sa richesse culturelle, pas dans la course aux visites."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international de Yogyakarta (YIA) → centre-ville",
+          "note": "Le moyen le plus fiable est de prendre le train de l’aéroport jusqu’à la gare de Yogyakarta (Tugu) (environ 40 à 45 minutes), puis un Grab ou un taxi jusqu’à votre hôtel. Un Grab ou un taxi direct est également possible, mais plus lent en raison de la distance (environ 1 h 30)."
+        }
+      ],
+      "gettingAround": [
+        "Le centre-ville de Yogyakarta (Kraton, Malioboro) se découvre facilement à pied pour les courtes distances.",
+        "Les Grab et les taxis sont le moyen le plus simple de se déplacer entre les principaux sites de la ville et les quartiers plus éloignés.",
+        "La location d’un scooter offre davantage de liberté aux conducteurs expérimentés, mais la circulation et la chaleur exigent une certaine prudence."
+      ],
+      "dayTrips": [
+        {
+          "title": "Temple de Borobudur",
+          "note": "Il est préférable de s’y rendre dans le cadre d’une excursion organisée d’une demi-journée, avec un chauffeur privé ou en Grab/taxi (environ 1 h à 1 h 15 par trajet). Un départ tôt le matin est vivement recommandé."
+        },
+        {
+          "title": "Complexe de temples de Prambanan",
+          "note": "Facilement accessible en Grab, en taxi ou en bus TransJogja (environ 30 à 45 minutes). Privilégiez une visite tôt le matin ou en fin d’après-midi afin d’éviter la chaleur."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Regroupez les visites par secteur afin d’éviter les allers-retours inutiles (Borobudur au nord-ouest, Prambanan à l’est, centre-ville autour du Kraton et de Malioboro).",
+        "Les règles d’accès aux temples peuvent évoluer ; vérifiez les conditions d’entrée et les créneaux horaires de Borobudur la veille de votre visite.",
+        "Prévoyez de petites coupures pour les repas locaux, les marchés et les petits ateliers d’artisanat.",
+        "Commencez vos journées tôt ; la chaleur et l’affluence augmentent rapidement sur les principaux sites."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Gudeg (ragoût de jeune jacquier)",
+        "Ayam Goreng Kalasan",
+        "Bakpia Pathok",
+        "Sate Klathak",
+        "Nasi Kucing",
+        "Wedang Jahe (boisson au gingembre)"
+      ],
+      "areas": [
+        {
+          "name": "Malioboro et centre-ville",
+          "note": "Cœur animé de la ville, réputé pour sa cuisine de rue traditionnelle, ses étals du soir et son accès facile aux spécialités locales et aux repas décontractés."
+        },
+        {
+          "name": "Kraton et quartiers environnants",
+          "note": "Cuisine javanaise familiale, rues plus paisibles et restaurants locaux historiques étroitement liés aux traditions royales."
+        },
+        {
+          "name": "Sud de Yogyakarta (Bantul / Kasihan)",
+          "note": "Secteurs plus traditionnels réputés pour leurs spécialités régionales. Ils demandent souvent un court trajet, mais offrent une atmosphère plus calme et authentique."
+        },
+        {
+          "name": "Zones de cuisine de rue et stands d’Angkringan",
+          "note": "Répartis dans toute la ville et particulièrement animés en soirée. L’endroit idéal pour déguster de petites assiettes, des en-cas et un repas décontracté tard le soir."
+        }
+      ],
+      "places": [
+        {
+          "name": "Gudeg Yu Djum",
+          "area": "Kraton / Centre-ville",
+          "reason": "L’une des adresses les plus célèbres pour déguster le gudeg, souvent considérée comme une référence pour cette spécialité emblématique de Yogyakarta.",
+          "imageUrl": "/src/assets/itineraries/indonesia/yogyakarta/gudeg-yu-djum.JPG",
+          "lat": -7.803,
+          "lng": 110.3645
+        },
+        {
+          "name": "Ayam Goreng Kalasan Mbok Berek",
+          "area": "Est de Yogyakarta (Kalasan)",
+          "reason": "Restaurant réputé pour son poulet frit mariné dans une sauce légèrement sucrée, préparé selon la tradition javanaise.",
+          "imageUrl": "/src/assets/itineraries/indonesia/yogyakarta/ayam-goreng-kalasan-mbok-berek.jpg",
+          "lat": -7.7676,
+          "lng": 110.471
+        },
+        {
+          "name": "Sate Klathak Pak Pong",
+          "area": "Sud de Yogyakarta (Bantul)",
+          "reason": "Adresse locale très appréciée, spécialisée dans le sate klathak, grillé au charbon de bois avec un assaisonnement minimal afin de mettre en valeur la viande.",
+          "imageUrl": "/src/assets/itineraries/indonesia/yogyakarta/sate-klathak-pak-pong.jpg",
+          "lat": -7.8746,
+          "lng": 110.3307
+        },
+        {
+          "name": "Angkringan (plusieurs emplacements)",
+          "area": "À travers Yogyakarta",
+          "reason": "Petits stands de rue proposant nasi kucing, brochettes et boissons chaudes, véritables symboles de la culture culinaire nocturne de Yogyakarta.",
+          "imageUrl": "/src/assets/itineraries/indonesia/yogyakarta/angkringan.jpg",
+          "lat": 0,
+          "lng": 0
+        }
+      ]
+    }
+  }

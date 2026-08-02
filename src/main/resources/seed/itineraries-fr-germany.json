@@ -1,0 +1,1115 @@
+
+  {
+    "slug": "4-days-berlin-where-history-refuses-to-stay-silent",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Berlin",
+    "title": "Berlin en 4 jours : Là où l’histoire refuse de se taire",
+    "days": 4,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/4-days-berlin-where-history-refuses-to-stay-silent.jpg",
+    "summary": "Cet itinéraire de 4 jours à Berlin explore une ville façonnée par les ruptures, la mémoire et une réinvention constante. Conçu pour équilibrer les grands sites historiques, la vie des quartiers et le rythme contemporain, il ne traite pas Berlin comme un musée du traumatisme, mais comme un lieu qui continue à vivre ouvertement avec son passé. Berlin se révèle par les contrastes — la gravité et la liberté coexistent côte à côte.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La porte de Brandebourg et le cœur historique",
+      "Le mur de Berlin et l’East Side Gallery",
+      "L’île aux Musées et sa forte densité culturelle",
+      "Kreuzberg et la vie quotidienne dans la rue",
+      "Promenades le long de la Spree",
+      "Une ville façonnée par la mémoire et le mouvement"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, axe de l’histoire et premier poids",
+        "summary": "Entrer directement dans la mémoire.",
+        "details": "Arrivez à Berlin et commencez dans le centre historique, près de la porte de Brandebourg, où ouverture et symbolisme coexistent. Marchez lentement le long de l’axe principal, en laissant l’échelle et le vide s’imposer — Berlin parle souvent autant par l’espace que par ses monuments.\n\nPoursuivez vers les mémoriaux et les places publiques voisines, en observant comment le souvenir s’intègre aux déplacements quotidiens au lieu d’en être séparé. Dans l’après-midi, faites une pause dans un café ou le long de la Spree, afin de laisser le poids émotionnel se déposer naturellement. Terminez la journée par un dîner calme, avec une conversation légère après cette introduction intense."
+      },
+      {
+        "day": 2,
+        "title": "Murs, division et expression de rue",
+        "summary": "Comprendre la rupture par la proximité.",
+        "details": "Consacrez la matinée aux vestiges du mur de Berlin, en mettant l’accent sur l’East Side Gallery, où l’art recouvre désormais le béton autrefois utilisé pour diviser. Parcourez-la lentement, en lisant les fragments plutôt qu’en essayant de tout absorber.\n\nDans l’après-midi, gagnez les quartiers voisins, où les anciennes frontières ont été absorbées par la vie quotidienne. Kreuzberg offre un contraste marqué — la cuisine, la musique et la culture de rue opposent leur énergie au poids de l’histoire. Terminez la journée de manière informelle, avec un repas décontracté et de l’observation plutôt qu’une nouvelle séance de réflexion."
+      },
+      {
+        "day": 3,
+        "title": "Musées, rivière et calme intellectuel",
+        "summary": "Berlin pense à voix haute.",
+        "details": "Commencez la journée sur l’île aux Musées, en choisissant un ou deux établissements plutôt qu’en tentant de parcourir l’ensemble du complexe. Berlin récompense la concentration plus que l’accumulation.\n\nDans l’après-midi, marchez le long de la Spree, où de larges chemins et des vues dégagées offrent un espace pour respirer. Profitez de ce moment pour assimiler ce que vous avez vu — Berlin exige des intervalles de distance. Passez la soirée dans un quartier plus calme, où la routine remplace le symbolisme."
+      },
+      {
+        "day": 4,
+        "title": "Matinée de quartier et départ",
+        "summary": "Partir par la vie quotidienne.",
+        "details": "Passez la dernière matinée à explorer des rues résidentielles, des cafés locaux et de petites boutiques, là où Berlin paraît sans mise en scène et profondément ancrée dans le réel. Observez comment la ville se réinitialise chaque jour sans effacer son passé.\n\nProfitez d’un déjeuner détendu avant le départ. Berlin laisse une impression franche — celle d’une ville qui refuse le silence, mais refuse aussi la nostalgie."
+      }
+    ],
+    "planning": {
+      "city": "Berlin, Germany",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Des températures douces, de longues journées et une vie de rue animée rendent agréables les promenades entre mémoriaux, quartiers et parcs, sans la foule du cœur de l’été."
+      },
+      "worstTime": {
+        "months": "Déc.–févr. (froid et gris), juil.–août (chaud et très animé par les festivals)",
+        "note": "L’hiver est atmosphérique mais rude pour les longues marches en extérieur, tandis que la chaleur estivale et les événements peuvent rendre les quartiers centraux très fréquentés."
+      },
+      "tips": [
+        "Planifiez selon le poids émotionnel : n’enchaînez pas les sites difficiles comme le Mémorial de l’Holocauste et le musée de la Stasi ; alternez avec des cafés ou des parcs.",
+        "Pensez par quartiers : Mitte pour l’histoire et le pouvoir, Kreuzberg et Neukölln pour le Berlin vécu, Prenzlauer Berg pour une pause plus calme.",
+        "La marche compte davantage que les monuments — Berlin se révèle entre les sites, pas seulement à l’intérieur de ceux-ci.",
+        "Replacez le Mur dans son contexte : associez l’East Side Gallery à des sections plus calmes et à des centres de documentation.",
+        "Utilisez les transports publics avec confiance — U-Bahn et S-Bahn sont efficaces, mais le vélo permet souvent de mieux comprendre l’espace.",
+        "Les soirées appartiennent aux quartiers, pas aux monuments — la cuisine, les bars et les conversations sont les lieux où la ville relâche la pression."
+      ],
+      "withKids": [
+        "Des espaces comme le Tiergarten et Tempelhofer Feld permettent de respirer entre les visites historiques les plus intenses.",
+        "Choisissez un seul grand site historique par jour afin d’éviter la surcharge.",
+        "Les pistes cyclables et les espaces ouverts facilitent les déplacements plus que l’enchaînement constant des transports.",
+        "Prévoyez des soirées plus tôt ; les nuits berlinoises peuvent être longues et bruyantes."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport Berlin-Brandebourg (BER) se trouve au sud-est de la ville, avec des liaisons ferroviaires directes vers le centre de Berlin. L’arrivée semble progressive plutôt que brutale, ce qui permet de s’adapter doucement à l’échelle de la ville."
+        },
+        {
+          "title": "Arrivée → Centre-ville",
+          "note": "Depuis les grandes gares comme Hauptbahnhof ou Alexanderplatz, le cœur historique de Berlin et les quartiers environnants sont immédiatement accessibles à pied ou par de courtes correspondances en transports publics."
+        }
+      ],
+      "gettingAround": [
+        "Les transports publics sont au cœur de la vie berlinoise ; U-Bahn, S-Bahn, tramways et bus forment un réseau dense et fiable.",
+        "La marche fonctionne surtout à l’intérieur d’un même quartier plutôt que pour traverser toute la ville.",
+        "Le vélo est une manière très pratique de comprendre l’échelle de Berlin et ses anciennes divisions.",
+        "Les tramways dominent les quartiers de l’est, tandis que le U-Bahn et le S-Bahn structurent davantage l’ouest et les longues traversées.",
+        "Les taxis sont disponibles, mais rarement nécessaires grâce à l’étendue du réseau de transports publics."
+      ],
+      "dayTrips": [
+        {
+          "title": "Potsdam",
+          "note": "Une ville voisine accessible en train régional, avec des palais, des jardins et un contrepoint historique plus calme à l’intensité de Berlin."
+        },
+        {
+          "title": "Mémorial de Sachsenhausen",
+          "note": "Un ancien camp de concentration au nord de Berlin, accessible en train puis en bus, à visiter avec attention et préparation émotionnelle."
+        },
+        {
+          "title": "Wannsee",
+          "note": "Une zone lacustre en bordure de Berlin, accessible en S-Bahn, offrant de l’eau, des sentiers forestiers et un soulagement bienvenu face au poids urbain."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Parcours à pied dans le centre historique",
+          "note": "Les déplacements entre la porte de Brandebourg, les mémoriaux et les bâtiments gouvernementaux utilisent l’ouverture et la distance comme partie intégrante de l’expérience."
+        },
+        {
+          "title": "Traversées Est–Ouest",
+          "note": "Les déplacements entre les anciens quartiers de Berlin-Est et Berlin-Ouest mettent en évidence des contrastes spatiaux et culturels qui persistent au-delà de l’architecture."
+        },
+        {
+          "title": "Exploration du tracé du Mur",
+          "note": "Marcher ou pédaler le long des anciens itinéraires du Mur révèle l’absence, la répétition et l’interruption plutôt qu’une succession continue de monuments."
+        },
+        {
+          "title": "Immersion dans les quartiers",
+          "note": "Des déplacements courts et répétés à Kreuzberg, Prenzlauer Berg ou Neukölln créent davantage de familiarité qu’un changement constant de lieu."
+        }
+      ],
+      "practical": [
+        "Les distances sont importantes à Berlin ; planifiez vos journées par quartier plutôt que par listes de monuments.",
+        "La signalisation des transports publics est claire et multilingue, ce qui facilite les déplacements lors d’une première visite.",
+        "Le vélo offre une excellente compréhension de l’espace, mais demande de l’assurance aux intersections.",
+        "La météo influence fortement les déplacements — le froid et le vent accentuent la fatigue liée à la marche en hiver.",
+        "De nombreux sites historiques importants sont en plein air et émotionnellement lourds ; le rythme compte.",
+        "Berlin récompense davantage la répétition et la retenue que la volonté de tout couvrir."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Currywurst, dans sa version simple et populaire",
+        "Schnitzel ou viande braisée avec pommes de terre",
+        "Döner kebab turc, incontournable à Berlin",
+        "Plats allemands simples et de saison",
+        "Repas à base de pain, fromage et soupe",
+        "Bière locale ou riesling sec"
+      ],
+      "areas": [
+        {
+          "name": "Mitte",
+          "note": "Idéal pour des repas calmes et fonctionnels après les promenades historiques — évitez les adresses trop dictées par les tendances près des monuments."
+        },
+        {
+          "name": "Kreuzberg",
+          "note": "La culture culinaire quotidienne de Berlin — décontractée, diverse et rassurante après des visites émotionnellement lourdes."
+        },
+        {
+          "name": "Prenzlauer Berg",
+          "note": "Une restauration de quartier plus calme, adaptée à la décompression du soir et au retour à une certaine routine."
+        }
+      ],
+      "places": [
+        {
+          "name": "Zur Letzten Instanz",
+          "area": "Mitte",
+          "reason": "L’un des plus anciens restaurants de Berlin — une cuisine traditionnelle et solide, qui ancre l’expérience au lieu de chercher à impressionner.",
+          "imageUrl": "/src/assets/itineraries/germany/berlin-food/zur-letzten-instanz.jpg",
+          "lat": 52.5186,
+          "lng": 13.4083
+        },
+        {
+          "name": "Curry 36",
+          "area": "Kreuzberg",
+          "reason": "La street food comme constante culturelle — rapide, sans cérémonie et émotionnellement neutre après de longues journées de marche difficiles.",
+          "imageUrl": "/src/assets/itineraries/germany/berlin-food/curry-36.jpg",
+          "lat": 52.4994,
+          "lng": 13.4033
+        },
+        {
+          "name": "Mustafa’s Gemüse Kebap",
+          "area": "Kreuzberg",
+          "reason": "Une adresse emblématique pour de bonnes raisons — simple, rassasiante et pleinement intégrée à l’identité quotidienne de Berlin plutôt qu’à une mise en scène touristique.",
+          "imageUrl": "/src/assets/itineraries/germany/berlin-food/mustafas-gemuse-kebap.jpg",
+          "lat": 52.4996,
+          "lng": 13.4036
+        },
+        {
+          "name": "Konnopke’s Imbiss",
+          "area": "Prenzlauer Berg",
+          "reason": "Un stand classique de currywurst de Berlin-Est — une cuisine rapide directement liée à la mémoire locale et aux habitudes du quartier.",
+          "imageUrl": "/src/assets/itineraries/germany/berlin-food/konnopkes-imbiss.jpg",
+          "lat": 52.5416,
+          "lng": 13.4125
+        },
+        {
+          "name": "Prater Garten",
+          "area": "Prenzlauer Berg",
+          "reason": "Le rythme d’un Biergarten convient parfaitement aux soirées berlinoises — plein air, conversation et récupération sans effort.",
+          "imageUrl": "/src/assets/itineraries/germany/berlin-food/prater-garten.jpg",
+          "lat": 52.5394,
+          "lng": 13.4131
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-cologne-where-continuity-outlasts-destruction",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Cologne",
+    "title": "Cologne en 3 jours : Là où la continuité survit à la destruction",
+    "days": 3,
+    "priceFrom": 225,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/3-days-cologne-where-continuity-outlasts-destruction.jpg",
+    "summary": "Cet itinéraire de 3 jours à Cologne explore une ville reconstruite autour de la foi, de la vie au bord du fleuve et de la continuité sociale. Plutôt que d’effacer la rupture, Cologne l’a intégrée — choisissant la familiarité plutôt que le spectacle, et la communauté plutôt que la perfection. Conçu pour équilibrer monuments emblématiques, promenades le long du Rhin et rythme quotidien des quartiers, cet itinéraire révèle Cologne comme un lieu où la chaleur humaine et la résilience définissent l’expérience.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La cathédrale de Cologne et le cœur historique",
+      "Les promenades le long du Rhin",
+      "Les rues et places de la vieille ville",
+      "Le pont Hohenzollern et les traversées du fleuve",
+      "Les brasseries locales et les rituels sociaux",
+      "Une ville façonnée par la reconstruction et la foi"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, parvis de la cathédrale et premiers repères",
+        "summary": "Trouver le point d’ancrage de la ville.",
+        "details": "Arrivez à Cologne et commencez immédiatement par la cathédrale, dont l’échelle et la longévité ancrent la ville à la fois physiquement et émotionnellement. Faites lentement le tour du monument et observez comment la vie quotidienne s’écoule directement sous son ombre — les tramways passent, les cafés ouvrent et les conversations se poursuivent.\n\nL’après-midi, explorez les rues et les places environnantes de la vieille ville, où la reconstruction a privilégié la familiarité plutôt que la précision. Faites régulièrement une pause pour prendre un café ou vous reposer, et laissez le rythme remplacer le besoin constant de vous orienter.\n\nÀ l’approche du soir, promenez-vous le long du Rhin et regardez la lumière adoucir la pierre et l’eau. Terminez la journée par un dîner dans la vieille ville, où la chaleur et la convivialité comptent davantage que le raffinement."
+      },
+      {
+        "day": 2,
+        "title": "Traversées du fleuve, mémoire et vie sociale",
+        "summary": "Comprendre Cologne par le mouvement.",
+        "details": "Commencez la journée par une traversée à pied du pont Hohenzollern, dont les rambardes sont couvertes de milliers de cadenas d’amour. Le geste est répétitif, personnel et ouvertement sentimental — Cologne valorise la continuité davantage que l’ironie.\n\nPassez la fin de la matinée et l’après-midi à suivre les chemins qui longent les deux rives du Rhin, en traversant plusieurs ponts au fil des changements de perspective. Utilisez les cafés et les bancs comme des pauses naturelles, et laissez la ville se dévoiler progressivement.\n\nLe soir, découvrez la culture locale des brasseries de Cologne, où la bière est servie dans de petits verres et renouvelée sans qu’il soit nécessaire de la demander. La conversation, la proximité et la répétition font partie du rituel — la ville se révèle par sa vie sociale plus que par son architecture."
+      },
+      {
+        "day": 3,
+        "title": "Rues de quartier et départ",
+        "summary": "Repartir à travers la familiarité.",
+        "details": "Consacrez la dernière matinée à l’exploration de quartiers résidentiels situés au-delà du centre historique, où les rues reconstruites paraissent habitées plutôt que mises en scène. Observez comment les habitudes quotidiennes se perpétuent sans avoir besoin d’être expliquées.\n\nRevenez ensuite vers le fleuve ou le quartier de la cathédrale pour un dernier déjeuner. Profitez une dernière fois de l’hospitalité naturelle de la ville avant votre départ. Cologne laisse une impression douce — celle d’un lieu où la continuité a compté davantage que la perfection, et cela se ressent."
+      }
+    ],
+    "planning": {
+      "city": "Cologne, Germany",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Des températures agréables et une vie active au bord du fleuve rendent les promenades dans la vieille ville, autour de la cathédrale et le long du Rhin particulièrement plaisantes."
+      },
+      "worstTime": {
+        "months": "Déc.–févr. (froid et gris), juil.–août (fréquenté et humide)",
+        "note": "L’hiver limite la vie en plein air le long du fleuve, tandis que les foules et l’humidité estivales peuvent rendre le centre historique compact plus étouffant."
+      },
+      "tips": [
+        "Prenez le Rhin comme point de repère principal : les promenades au nord et au sud de la cathédrale révèlent la véritable continuité de la ville.",
+        "Visitez la cathédrale tôt le matin ou peu avant la fermeture — l’espace paraît plus contemplatif avant que la foule ne s’impose.",
+        "Acceptez l’architecture d’après-guerre : le caractère de Cologne réside dans sa survie et sa reconstruction, et non dans une perfection préservée.",
+        "Traversez le fleuve chaque jour — les ponts ne sont pas de simples transitions, mais de véritables points d’observation.",
+        "La culture du Kölsch compte : buvez en petites quantités, mais souvent, et laissez le rythme social remplacer l’urgence touristique.",
+        "La marche est idéale dans le centre ; les tramways deviennent utiles lorsque les distances s’allongent au-delà de la vieille ville."
+      ],
+      "withKids": [
+        "Les larges chemins le long du Rhin offrent de l’espace pour bouger et faire des pauses entre les visites.",
+        "Les traversées de ponts et les vues sur le fleuve sont captivantes sans nécessiter de longues explications.",
+        "Limitez les visites uniquement en intérieur et alternez-les avec des promenades en plein air.",
+        "Les débuts de soirée conviennent mieux au rythme familial — la vie nocturne s’intensifie plus tard."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport de Cologne-Bonn (CGN) est directement relié à la ville par des trains régionaux et le S-Bahn, permettant de rejoindre rapidement et efficacement la gare centrale de Cologne. L’arrivée est pratique et simple plutôt que solennelle."
+        },
+        {
+          "title": "Arrivée → Cathédrale et vieille ville",
+          "note": "Depuis la gare centrale de Cologne, la cathédrale et la vieille ville sont immédiatement accessibles à pied. L’orientation est instantanée — le principal point d’ancrage de la ville apparaît dès la sortie de la gare."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le principal moyen de se déplacer dans le cœur historique ; les distances sont courtes et la cathédrale ainsi que le fleuve servent de repères visuels.",
+        "Les tramways (Stadtbahn) constituent le principal mode de transport local pour circuler entre les quartiers situés au-delà du centre.",
+        "Les promenades le long du Rhin sont continues et praticables à pied, structurant les déplacements quotidiens du nord au sud.",
+        "Le vélo est courant et pratique le long des chemins du fleuve et dans les quartiers les plus plats.",
+        "Les trains régionaux sont utiles pour de courtes excursions, mais rarement nécessaires à l’intérieur de la ville."
+      ],
+      "dayTrips": [
+        {
+          "title": "Bonn",
+          "note": "Ancienne capitale située au sud de Cologne, rapidement accessible en train régional, avec des musées, des promenades le long du fleuve et une atmosphère civique plus calme."
+        },
+        {
+          "title": "Düsseldorf",
+          "note": "Une autre ville du Rhin, facilement accessible grâce à des trains fréquents, offrant un contraste entre la chaleur de Cologne et une ambiance plus soignée et tournée vers la mode."
+        },
+        {
+          "title": "Königswinter et Drachenfels",
+          "note": "Une ville au bord du Rhin accessible en train, connue pour ses sentiers à flanc de colline, ses vues sur le château et ses paysages fluviaux."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Cathédrale ↔ Promenade du Rhin",
+          "note": "Les courtes promenades répétées entre le quartier de la cathédrale et le fleuve définissent le rythme quotidien de Cologne."
+        },
+        {
+          "title": "Traversées des ponts du Rhin",
+          "note": "Traverser des ponts comme celui de Hohenzollern renforce le sentiment de continuité plutôt que de séparation, avec des perspectives changeantes sur la silhouette de la ville."
+        },
+        {
+          "title": "Boucles dans la vieille ville",
+          "note": "Les itinéraires circulaires à travers les rues reconstruites favorisent la familiarité plutôt qu’une découverte fondée sur la distance."
+        },
+        {
+          "title": "Déplacements en tramway entre les quartiers",
+          "note": "De courts trajets en tramway prolongent l’exploration jusque dans les quartiers résidentiels sans rompre la continuité sociale de la ville."
+        }
+      ],
+      "practical": [
+        "Cologne est compacte ; la plupart des déplacements dans le centre se font à pied.",
+        "Les tramways sont fréquents et faciles à utiliser, mais les arrêts sont proches les uns des autres — dans le centre, marcher est souvent plus rapide.",
+        "Les chemins le long du fleuve sont exposés ; la météo influence fortement le confort des promenades sur le Rhin.",
+        "La cathédrale est le principal point de repère de la ville — il est rare de se perdre.",
+        "Les soirées se concentrent davantage dans les quartiers que dans des déplacements intensifs en transports.",
+        "Cologne récompense la répétition : revenir sur les mêmes chemins permet de développer rapidement un sentiment de familiarité."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bière Kölsch (servie dans de petits verres régulièrement remplis)",
+        "Halver Hahn (petit pain de seigle avec fromage, moutarde et oignons)",
+        "Himmel un Ääd (purée de pommes de terre, pommes et boudin noir)",
+        "Rheinischer Sauerbraten (rôti régional mariné)",
+        "Saucisses simples accompagnées de moutarde",
+        "Schorle aux pommes ou eau minérale entre deux bières"
+      ],
+      "areas": [
+        {
+          "name": "Altstadt (vieille ville)",
+          "note": "La densité sociale compte davantage que la précision culinaire — la nourriture accompagne la conversation et la proximité."
+        },
+        {
+          "name": "Promenade du Rhin",
+          "note": "Une restauration décontractée liée à la marche, à la lumière et aux pauses au bord du fleuve plutôt qu’à de véritables occasions gastronomiques."
+        },
+        {
+          "name": "Brasseries de quartier",
+          "note": "Des lieux de rituels quotidiens où la répétition et la familiarité comptent davantage que les menus."
+        }
+      ],
+      "places": [
+        {
+          "name": "Früh am Dom",
+          "area": "Cathédrale / vieille ville",
+          "reason": "Une brasserie Kölsch classique située près de la cathédrale — animée, conviviale et résolument traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/germany/cologne-food/frueh-am-dom.jpg",
+          "lat": 50.9413,
+          "lng": 6.9583
+        },
+        {
+          "name": "Päffgen Brauhaus",
+          "area": "Centre-ville",
+          "reason": "Une brasserie Kölsch respectée localement — un rituel authentique sans mise en scène touristique.",
+          "imageUrl": "/src/assets/itineraries/germany/cologne-food/paeffgen.jpg",
+          "lat": 50.9367,
+          "lng": 6.9449
+        },
+        {
+          "name": "Gaffel am Dom",
+          "area": "Cathédrale / gare",
+          "reason": "Accessible, fiable et conviviale — une introduction idéale à la culture du Kölsch.",
+          "imageUrl": "/src/assets/itineraries/germany/cologne-food/gaffel-am-dom.jpg",
+          "lat": 50.9416,
+          "lng": 6.9587
+        },
+        {
+          "name": "Rheinauhafen Promenade Cafés",
+          "area": "Rive sud du Rhin",
+          "reason": "Des cafés tournés vers le fleuve pour des repas légers et des pauses — la nourriture y est secondaire par rapport au mouvement et à l’eau.",
+          "imageUrl": "/src/assets/itineraries/germany/cologne-food/rheinauhafen.jpg",
+          "lat": 50.9296,
+          "lng": 6.9624
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-dresden-where-rebuilding-became-remembrance",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Dresden",
+    "title": "Dresde en 3 jours : Quand la reconstruction devient mémoire",
+    "days": 3,
+    "priceFrom": 225,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/3-days-dresden-where-rebuilding-became-remembrance.jpg",
+    "summary": "Cet itinéraire de 3 jours à Dresde explore une ville marquée par la destruction, le soin apporté à sa renaissance et une reconstruction délibérée. Plutôt que de dissimuler ses pertes, Dresde les a intégrées avec précision et patience, laissant la mémoire façonner son visage. Entre architecture baroque emblématique, promenades le long de l’Elbe et instants plus calmes dans les quartiers résidentiels, ce voyage révèle une ville où la beauté porte le poids de l’histoire.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Frauenkirche et la vieille ville reconstruite",
+      "Le palais du Zwinger et sa symétrie baroque",
+      "La terrasse de Brühl surplombant l’Elbe",
+      "Promenades le long de l’Elbe",
+      "Les façades restaurées au coucher du soleil",
+      "Une ville façonnée par le soin et la mémoire"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, pierre et premier silence",
+        "summary": "Entrer dans une ville reconstruite avec soin.",
+        "details": "Arrivez à Dresde et commencez par la vieille ville historique, où les façades baroques reconstruites témoignent d’un travail patient. Découvrez d’abord la Frauenkirche et observez le contraste entre les pierres restaurées et les blocs d’origine plus sombres : la ville ne cache pas ses blessures.\n\nL’après-midi, parcourez lentement les places, cours et le complexe du Zwinger en appréciant les proportions plutôt que les seuls intérieurs.\n\nEn soirée, rejoignez la terrasse de Brühl pour admirer la lumière se poser sur les toits restaurés avant un dîner paisible."
+      },
+      {
+        "day": 2,
+        "title": "Art, ordre et distance du fleuve",
+        "summary": "Une beauté empreinte de retenue.",
+        "details": "Visitez un grand musée ou une galerie en privilégiant quelques œuvres plutôt qu’un parcours exhaustif. L’après-midi, suivez les chemins de l’Elbe où les grands espaces équilibrent la densité du centre historique. Revenez ensuite vers la vieille ville ; la répétition des parcours approfondit la compréhension de Dresde."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers résidentiels et départ",
+        "summary": "Quitter la ville avec sérénité.",
+        "details": "Explorez les quartiers résidentiels au-delà du centre historique avant un dernier déjeuner dans la vieille ville. Dresde laisse un souvenir discret : celui d’une ville qui a choisi la mémoire plutôt que la réinvention."
+      }
+    ],
+    "planning": {
+      "city": "Dresden, Germany",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Le climat doux est idéal pour les promenades au bord de l’Elbe et dans les cours des palais."
+      },
+      "worstTime": {
+        "months": "Déc.–févr., juil.–août",
+        "note": "L’hiver raccourcit les journées, tandis que l’été attire davantage de visiteurs."
+      },
+      "tips": [
+        "Observez les pierres d’origine intégrées aux façades.",
+        "Suivez chaque jour les rives de l’Elbe.",
+        "Alternez visites intérieures et promenades.",
+        "Visitez la vieille ville tôt ou tard dans la journée.",
+        "Traversez l’Elbe pour profiter des panoramas depuis Neustadt.",
+        "Prenez votre temps : Dresde récompense une découverte paisible."
+      ],
+      "withKids": [
+        "Les promenades et les cours des palais offrent de l’espace.",
+        "Alternez musées et balades.",
+        "Le tram facilite les déplacements.",
+        "Les soirées sont calmes et adaptées aux familles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "Les deux principales gares sont bien desservies ; le centre historique est rapidement accessible en tramway."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Depuis les deux gares principales, les tramways rejoignent directement l’Altstadt."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans le centre historique.",
+        "Les tramways sont fréquents et efficaces.",
+        "Le vélo est agréable le long de l’Elbe.",
+        "Les taxis sont utiles le soir.",
+        "Les trains régionaux permettent des excursions en Saxe."
+      ],
+      "dayTrips": [
+        {
+          "title": "Meissen",
+          "note": "Ville réputée pour sa porcelaine."
+        },
+        {
+          "title": "Parc national de la Suisse saxonne",
+          "note": "Falaises de grès et paysages spectaculaires."
+        },
+        {
+          "title": "Palais de Pillnitz",
+          "note": "Palais et jardins au bord de l’Elbe."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucle dans la vieille ville",
+          "note": "Promenades entre la Frauenkirche et le Zwinger."
+        },
+        {
+          "title": "Vieille ville ↔ Terrasse de Brühl",
+          "note": "Beaux points de vue sur l’Elbe."
+        },
+        {
+          "title": "Altstadt ↔ Neustadt",
+          "note": "Changer de rive offre une nouvelle perspective."
+        },
+        {
+          "title": "Chemins de l’Elbe",
+          "note": "Parfaits à pied ou à vélo."
+        }
+      ],
+      "practical": [
+        "Les tramways circulent toute l’année.",
+        "Prévoyez des pauses à l’intérieur en hiver.",
+        "Les rives peuvent être venteuses.",
+        "Espacez les visites historiques.",
+        "Neustadt est idéale pour dîner.",
+        "Prenez votre temps pour profiter pleinement de la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Soupe saxonne aux pommes de terre",
+        "Sauerbraten saxon",
+        "Quarkkeulchen",
+        "Eierschecke",
+        "Pains de seigle et pâtisseries",
+        "Eau minérale ou bière légère"
+      ],
+      "areas": [
+        {
+          "name": "Altstadt",
+          "note": "Des établissements élégants propices à la réflexion."
+        },
+        {
+          "name": "Terrasse de Brühl et rives de l’Elbe",
+          "note": "Cafés avec vue sur le fleuve."
+        },
+        {
+          "name": "Neustadt",
+          "note": "Ambiance plus décontractée pour la soirée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sophienkeller im Taschenbergpalais",
+          "area": "Vieille ville",
+          "reason": "Cuisine saxonne traditionnelle dans des caves voûtées.",
+          "imageUrl": "/src/assets/itineraries/germany/dresden-food/sophienkeller.jpg",
+          "lat": 51.0537,
+          "lng": 13.7356
+        },
+        {
+          "name": "Pulverturm an der Frauenkirche",
+          "area": "Frauenkirche",
+          "reason": "Cuisine traditionnelle à deux pas du monument emblématique.",
+          "imageUrl": "/src/assets/itineraries/germany/dresden-food/pulverturm.jpg",
+          "lat": 51.051,
+          "lng": 13.7413
+        },
+        {
+          "name": "Coselpalais Restaurant & Café",
+          "area": "Près de la Frauenkirche",
+          "reason": "Repas et desserts raffinés dans une ambiance paisible.",
+          "imageUrl": "/src/assets/itineraries/germany/dresden-food/coselpalais.jpg",
+          "lat": 51.0513,
+          "lng": 13.7419
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-hamburg-where-distance-creates-clarity",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Hamburg",
+    "title": "Hambourg en 3 jours : Là où la distance crée la clarté",
+    "days": 3,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/3-days-hamburg-where-distance-creates-clarity.jpg",
+    "summary": "Cet itinéraire de 3 jours à Hambourg explore la grande ville portuaire d’Allemagne à travers l’eau, les vastes espaces et une approche mesurée. Conçu pour suivre le rythme des marées plutôt que de s’y opposer, il équilibre la vie du port, les entrepôts historiques, l’architecture contemporaine et les longues promenades le long de l’Elbe. Hambourg se révèle par la distance, offrant un espace propice à la réflexion, à la clarté et à une confiance tranquille.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le port de Hambourg et l’Elbphilharmonie",
+      "Les canaux de la Speicherstadt",
+      "Promenades le long de l’Elbe",
+      "Les rues du front de mer de St. Pauli",
+      "L’histoire maritime et les docks en activité",
+      "Une ville façonnée par l’eau et les grands espaces"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, le port et les premières perspectives",
+        "summary": "Découvrir la ville par l’espace.",
+        "details": "Arrivez à Hambourg et commencez votre découverte par le port, où les navires, les grues et les vastes étendues d’eau donnent immédiatement la mesure de la ville. Promenez-vous lentement le long des quais et laissez les distances façonner votre perception.\n\nL’après-midi, rejoignez le quartier de l’Elbphilharmonie et observez comment l’architecture contemporaine s’élève naturellement au-dessus des anciens docks. Prenez le temps de vous asseoir près de l’eau et de regarder le mouvement du port.\n\nEn soirée, marchez le long de l’Elbe au coucher du soleil avant de terminer la journée autour d’un dîner simple dans une ambiance paisible."
+      },
+      {
+        "day": 2,
+        "title": "Entrepôts, canaux et mémoire vivante",
+        "summary": "Une histoire toujours en activité.",
+        "details": "Passez la matinée dans la Speicherstadt, où les bâtiments en briques, les ponts et les canaux forment un réseau dense mais harmonieux. Revenez plusieurs fois sur les mêmes passages afin de découvrir la ville sous différents angles.\n\nL’après-midi, poursuivez vers les quartiers modernes voisins pour observer comment Hambourg réutilise ses anciennes infrastructures sans effacer leur fonction. Faites régulièrement une pause dans un café ou au bord d’un canal.\n\nLe soir, rejoignez les quais de St. Pauli, où la vie nocturne, les activités portuaires et le quotidien se côtoient. Restez près de l’eau plutôt que de chercher l’agitation."
+      },
+      {
+        "day": 3,
+        "title": "Promenade sur l’Elbe, quartiers et départ",
+        "summary": "Repartir avec une impression de clarté.",
+        "details": "Commencez la journée par une longue promenade le long de l’Elbe, où les chemins ouverts donnent à la ville une impression d’espace permanent. Cette sensation de distance définit Hambourg plus que n’importe quel monument.\n\nPassez ensuite du temps dans les rues résidentielles ou les cafés de quartier avant un dernier déjeuner. Hambourg laisse un souvenir discret : une ville qui fait confiance à la distance pour créer la clarté."
+      }
+    ],
+    "planning": {
+      "city": "Hamburg, Germany",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Des températures agréables et une vie animée au bord de l’eau rendent les promenades particulièrement plaisantes."
+      },
+      "worstTime": {
+        "months": "Déc.–févr., juil.–août",
+        "note": "L’hiver est froid, humide et venteux ; l’été peut être très fréquenté et imprévisible."
+      },
+      "tips": [
+        "Privilégiez les longues promenades.",
+        "Suivez l’eau chaque jour.",
+        "Utilisez les ferries comme moyen de transport.",
+        "Consacrez des moments distincts à la Speicherstadt et à HafenCity.",
+        "Prévoyez des vêtements contre le vent et la pluie.",
+        "Les soirées sont calmes plutôt que spectaculaires."
+      ],
+      "withKids": [
+        "Les balades en bateau sont idéales.",
+        "Les larges promenades facilitent les déplacements.",
+        "Alternez musées et activités en plein air.",
+        "Prévoyez des solutions en intérieur par mauvais temps."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport de Hambourg est relié directement au centre par le S-Bahn."
+        },
+        {
+          "title": "Arrivée → Port et centre-ville",
+          "note": "Depuis la gare centrale, le port est facilement accessible en S-Bahn, U-Bahn ou à pied."
+        }
+      ],
+      "gettingAround": [
+        "Le S-Bahn et le U-Bahn sont très fiables.",
+        "La marche est idéale le long des quais.",
+        "Les ferries font partie des transports quotidiens.",
+        "Le vélo est pratique sur les itinéraires plats.",
+        "Les bus complètent efficacement le réseau."
+      ],
+      "dayTrips": [
+        {
+          "title": "Lübeck",
+          "note": "Ville hanséatique historique."
+        },
+        {
+          "title": "Blankenese et les villages de l’Elbe",
+          "note": "Quartiers résidentiels paisibles."
+        },
+        {
+          "title": "Altes Land",
+          "note": "Région connue pour ses vergers et ses digues."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Promenades sur les quais",
+          "note": "Longues marches le long de l’Elbe."
+        },
+        {
+          "title": "Boucles dans la Speicherstadt",
+          "note": "Explorer les canaux sous différents angles."
+        },
+        {
+          "title": "Traversées en ferry",
+          "note": "Le transport devient une expérience d’observation."
+        },
+        {
+          "title": "Transitions entre quartiers",
+          "note": "Les transports préservent l’identité de chaque quartier."
+        }
+      ],
+      "practical": [
+        "Prévoyez peu de quartiers par jour.",
+        "Le vent allonge la sensation des distances.",
+        "Vérifiez les horaires des ferries.",
+        "Le vélo dépend fortement de la météo.",
+        "Les quais sont exposés toute l’année.",
+        "À Hambourg, moins se déplacer permet souvent de mieux découvrir la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fischbrötchen",
+        "Assiettes de poissons de la mer du Nord",
+        "Labskaus",
+        "Rôtis simples ou légumes de saison",
+        "Pain de seigle noir et beurre",
+        "Bière locale ou eau pétillante sans alcool"
+      ],
+      "areas": [
+        {
+          "name": "Port et Landungsbrücken",
+          "note": "Cuisine simple liée à la vie portuaire."
+        },
+        {
+          "name": "Speicherstadt / HafenCity",
+          "note": "Cafés modernes et cuisine sobre."
+        },
+        {
+          "name": "Cafés de quartier",
+          "note": "Des lieux où les repas accompagnent les conversations."
+        }
+      ],
+      "places": [
+        {
+          "name": "Brücke 10",
+          "area": "Landungsbrücken",
+          "reason": "Adresse emblématique pour un Fischbrötchen.",
+          "imageUrl": "/src/assets/itineraries/germany/hamburg-food/bruecke-10.jpg",
+          "lat": 53.5467,
+          "lng": 9.9667
+        },
+        {
+          "name": "Fischmarkt Stalls",
+          "area": "Altona",
+          "reason": "Une expérience authentique du marché aux poissons.",
+          "imageUrl": "/src/assets/itineraries/germany/hamburg-food/fischmarkt.jpg",
+          "lat": 53.5436,
+          "lng": 9.9567
+        },
+        {
+          "name": "Vlet in der Speicherstadt",
+          "area": "Speicherstadt",
+          "reason": "Cuisine régionale dans un cadre de canaux et de briques.",
+          "imageUrl": "/src/assets/itineraries/germany/hamburg-food/vlet.jpg",
+          "lat": 53.5439,
+          "lng": 9.9916
+        },
+        {
+          "name": "Café Elbgold",
+          "area": "Schanzenviertel / Eimsbüttel",
+          "reason": "Parfait pour une longue pause autour d’un café.",
+          "imageUrl": "/src/assets/itineraries/germany/hamburg-food/elbgold.jpg",
+          "lat": 53.5635,
+          "lng": 9.9688
+        },
+        {
+          "name": "StrandPauli",
+          "area": "St. Pauli Waterfront",
+          "reason": "Restaurant décontracté où la vue compte autant que le repas.",
+          "imageUrl": "/src/assets/itineraries/germany/hamburg-food/strandpauli.jpg",
+          "lat": 53.5459,
+          "lng": 9.9663
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-heidelberg-where-romance-learns-restraint",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Heidelberg",
+    "title": "Heidelberg en 2 jours : Là où le romantisme apprend la retenue",
+    "days": 2,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/2-days-heidelberg-where-romance-learns-restraint.jpg",
+    "summary": "Cet itinéraire de 2 jours à Heidelberg explore l’une des villes les plus poétiques d’Allemagne à travers les vues sur le fleuve, les ruines du château et la sérénité universitaire. Pensé comme une conclusion tout en douceur, il équilibre les hauteurs du château, les ruelles de la vieille ville et les promenades contemplatives au-dessus du Neckar. Heidelberg révèle son romantisme avec discrétion, porté par le savoir, adouci par le temps et jamais excessif.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les ruines du château de Heidelberg",
+      "Le Vieux Pont et les vues sur le Neckar",
+      "Le Chemin des Philosophes",
+      "Les rues de la vieille ville et la vie universitaire",
+      "La lumière du soir sur les toits",
+      "Une ville façonnée par la jeunesse et la mémoire"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, vieille ville et château",
+        "summary": "Un romantisme sans artifices.",
+        "details": "Arrivez à Heidelberg et commencez par la vieille ville avant de rejoindre le château en funiculaire ou à pied. Explorez les ruines et leurs terrasses, puis redescendez pour dîner dans la vieille ville, où les conversations remplacent naturellement le tourisme lorsque la nuit tombe."
+      },
+      {
+        "day": 2,
+        "title": "Promenade au bord du Neckar et départ",
+        "summary": "Repartir avec du recul.",
+        "details": "Traversez le Vieux Pont, longez le Neckar puis empruntez le Chemin des Philosophes pour admirer la ville. Terminez par un dernier déjeuner avant votre départ. Heidelberg laisse un souvenir paisible, empreint d’équilibre et de réflexion."
+      }
+    ],
+    "planning": {
+      "city": "Heidelberg, Germany",
+      "bestTime": {
+        "months": "Mai–juin, septembre–octobre",
+        "note": "Un climat doux est idéal pour les promenades le long du Neckar et dans la vieille ville."
+      },
+      "worstTime": {
+        "months": "Juil.–août, déc.–févr.",
+        "note": "L'été est plus fréquenté et l'hiver réduit les heures de lumière."
+      },
+      "tips": [
+        "Privilégiez des demi-journées bien rythmées.",
+        "Suivez le Neckar pour vous orienter.",
+        "Choisissez soit le château soit le Chemin des Philosophes en priorité.",
+        "Visitez l’Altstadt tôt le matin ou au crépuscule.",
+        "Appréciez les vues partielles et la lumière douce.",
+        "Profitez des soirées calmes."
+      ],
+      "withKids": [
+        "Les rues sont faciles à parcourir.",
+        "Le château est agréable à explorer.",
+        "Le funiculaire plaît aux enfants.",
+        "Les soirées sont adaptées aux familles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en train",
+          "note": "La gare centrale est bien desservie et la vieille ville est facilement accessible en tramway, bus ou taxi."
+        },
+        {
+          "title": "Gare → Vieille ville",
+          "note": "Des tramways et bus fréquents rejoignent Bismarckplatz, d’où la découverte se poursuit à pied."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale dans la vieille ville.",
+        "Bus et tramways relient les principaux secteurs.",
+        "Le funiculaire mène facilement au château.",
+        "Le vélo convient le long du Neckar.",
+        "Les taxis sont rarement nécessaires."
+      ],
+      "dayTrips": [
+        {
+          "title": "Villes de la vallée du Neckar",
+          "note": "Petites villes paisibles accessibles en train."
+        },
+        {
+          "title": "Palais de Schwetzingen",
+          "note": "Connu pour ses jardins."
+        },
+        {
+          "title": "Collines de l’Odenwald",
+          "note": "Idéales pour les balades nature."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucle dans la vieille ville",
+          "note": "Découvrir naturellement le mélange d’histoire et de vie étudiante."
+        },
+        {
+          "title": "Vieille ville ↔ Château",
+          "note": "Montée progressive offrant de beaux points de vue."
+        },
+        {
+          "title": "Vieux Pont ↔ Berges",
+          "note": "Le Neckar structure les perspectives."
+        },
+        {
+          "title": "Chemin des Philosophes",
+          "note": "Une montée propice à la contemplation."
+        }
+      ],
+      "practical": [
+        "La vieille ville est globalement plate.",
+        "Espacez les montées.",
+        "Prévoyez une couche légère au bord du fleuve.",
+        "Le matin et le soir sont plus calmes.",
+        "Les transports complètent surtout la marche.",
+        "Heidelberg récompense un rythme tranquille."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Flammekueche",
+        "Maultaschen",
+        "Plats d’asperges de saison",
+        "Viandes rôties avec pommes de terre",
+        "Pains locaux avec beurre ou fromage",
+        "Vins légers ou eau minérale"
+      ],
+      "areas": [
+        {
+          "name": "Altstadt",
+          "note": "Des rues paisibles où les repas accompagnent les échanges."
+        },
+        {
+          "name": "Berges du Neckar",
+          "note": "Cafés tournés vers le fleuve."
+        },
+        {
+          "name": "Autour de l’université",
+          "note": "Restaurants du quotidien fréquentés par étudiants et professeurs."
+        }
+      ],
+      "places": [
+        {
+          "name": "Zum Roten Ochsen",
+          "area": "Vieille ville",
+          "reason": "Auberge historique liée à l’université.",
+          "imageUrl": "/src/assets/itineraries/germany/heidelberg-food/roter-ochsen.jpg",
+          "lat": 49.4094,
+          "lng": 8.706
+        },
+        {
+          "name": "Vetter’s Alt Heidelberger Brauhaus",
+          "area": "Vieille ville",
+          "reason": "Brasserie animée en début de soirée.",
+          "imageUrl": "/src/assets/itineraries/germany/heidelberg-food/vetters.jpg",
+          "lat": 49.4097,
+          "lng": 8.7066
+        },
+        {
+          "name": "Schnitzelbank",
+          "area": "Altstadt",
+          "reason": "Cuisine régionale simple dans une ambiance conviviale.",
+          "imageUrl": "/src/assets/itineraries/germany/heidelberg-food/schnitzelbank.jpg",
+          "lat": 49.4099,
+          "lng": 8.7069
+        },
+        {
+          "name": "Neckar Riverside Cafés",
+          "area": "Bord du Neckar",
+          "reason": "Parfaits pour un café et une pause contemplative.",
+          "imageUrl": "/src/assets/itineraries/germany/heidelberg-food/neckar-cafe.jpg",
+          "lat": 49.4112,
+          "lng": 8.7068
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-munich-where-tradition-makes-room-to-breathe",
+    "region": "europe",
+    "country": "Germany",
+    "city": "Munich",
+    "title": "Munich en 3 jours : Là où la tradition laisse place à la respiration",
+    "days": 3,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/germany/3-days-munich-where-tradition-makes-room-to-breathe.jpg",
+    "summary": "Cet itinéraire de 3 jours à Munich explore une ville définie par les rituels, l'ordre et les plaisirs du quotidien. Entre places historiques, grands espaces verts et soirées de quartier, Munich révèle une tradition qui n'entrave pas le mouvement mais l'organise, laissant place à la détente, aux conversations et aux pauses.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Marienplatz et le centre historique",
+      "Le Jardin anglais et ses vastes espaces verts",
+      "Le parc du château de Nymphenburg",
+      "Les Biergärten comme rituel social",
+      "Les cafés et marchés de quartier",
+      "Une ville façonnée par la structure et la générosité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, places et rythme mesuré",
+        "summary": "Découvrir le rythme par l'ordre.",
+        "details": "Arrivez à Munich et commencez par Marienplatz, où le cœur historique donne immédiatement une impression claire d'échelle et d'organisation. Promenez-vous dans les rues voisines en observant l'harmonie entre façades, commerces et espaces publics.\n\nL'après-midi, poursuivez vers les quartiers voisins pour une pause dans un café ou un peu de shopping. Munich se révèle davantage par sa constance que par la surprise. Terminez la journée dans un Biergarten traditionnel, où les longues tables et les conversations paisibles reflètent le rythme social de la ville."
+      },
+      {
+        "day": 2,
+        "title": "Espaces verts, eau et temps ouvert",
+        "summary": "Quand l'ordre devient détente.",
+        "details": "Passez la matinée dans le Jardin anglais, en suivant les longues allées jusqu'aux vastes espaces verts. Faites des pauses pour observer les joggeurs, les pique-niques ou les surfeurs de la vague de l'Eisbach.\n\nL'après-midi, laissez-vous porter entre les chemins ombragés et les cafés au bord de l'eau. Le parc agit comme le poumon de Munich. Revenez en ville pour un dîner tranquille."
+      },
+      {
+        "day": 3,
+        "title": "Parc du château et départ",
+        "summary": "Partir avec générosité.",
+        "details": "Commencez la journée dans le parc du château de Nymphenburg, où la symétrie, l'eau et les perspectives offrent une autre vision de Munich. Prenez le temps de parcourir les jardins avant de retrouver vos rues ou cafés préférés pour un dernier déjeuner. Munich laisse un souvenir discret : une ville où la tradition vous laisse respirer."
+      }
+    ],
+    "planning": {
+      "city": "Munich, Germany",
+      "bestTime": {
+        "months": "Mai–juin, septembre",
+        "note": "Températures agréables et excellente vie en plein air."
+      },
+      "worstTime": {
+        "months": "Déc.–févr., fin juil.–août",
+        "note": "Hiver froid et fin d'été parfois chaude et plus calme."
+      },
+      "tips": [
+        "Alternez sites historiques et parcs.",
+        "Visitez Marienplatz tôt.",
+        "Le Jardin anglais est le poumon de la ville.",
+        "Les Biergärten sont surtout des lieux de convivialité l'après-midi.",
+        "Les transports sont excellents mais le vélo est idéal.",
+        "Profitez d'abord de la lumière du jour."
+      ],
+      "withKids": [
+        "Le Jardin anglais est parfait pour les pauses.",
+        "Les marchés offrent des repas flexibles.",
+        "Les jardins du château permettent de courir librement.",
+        "Les tramways et le S-Bahn sont pratiques avec une poussette."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L'aéroport de Munich est relié directement au centre par le S-Bahn."
+        },
+        {
+          "title": "Arrivée → Centre historique",
+          "note": "Depuis Hauptbahnhof ou Marienplatz, le centre historique est facilement accessible à pied."
+        }
+      ],
+      "gettingAround": [
+        "Le réseau U-Bahn, S-Bahn, tramway et bus est excellent.",
+        "La marche est idéale dans la vieille ville.",
+        "Le vélo est très agréable.",
+        "Les tramways relient facilement les quartiers.",
+        "Les taxis sont rarement nécessaires."
+      ],
+      "dayTrips": [
+        {
+          "title": "Région de Neuschwanstein",
+          "note": "Châteaux et paysages alpins via Füssen."
+        },
+        {
+          "title": "Mémorial de Dachau",
+          "note": "Ancien camp de concentration accessible en S-Bahn et bus."
+        },
+        {
+          "title": "Lac de Starnberg",
+          "note": "Escapade paisible au bord du lac."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles dans le centre historique",
+          "note": "Autour de Marienplatz et du Viktualienmarkt."
+        },
+        {
+          "title": "Ville → Espaces verts",
+          "note": "Transition naturelle vers le Jardin anglais ou Nymphenburg."
+        },
+        {
+          "title": "Tramways de quartier",
+          "note": "Découverte paisible des quartiers."
+        },
+        {
+          "title": "Parcs et rivières",
+          "note": "À pied ou à vélo le long des espaces verts."
+        }
+      ],
+      "practical": [
+        "Planifiez selon le rythme plutôt que la vitesse.",
+        "La signalisation est très claire.",
+        "Les pistes cyclables sont bien aménagées.",
+        "Les parcs relient naturellement les quartiers.",
+        "Les soirées peuvent être fraîches.",
+        "Laissez du temps libre dans votre programme."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Weißwurst avec moutarde douce",
+        "Porc ou poulet rôti avec quenelles",
+        "Bretzels et Obatzda",
+        "Plats bavarois de saison",
+        "Apfelstrudel ou gâteaux simples",
+        "Bière Helles ou Radler sans alcool"
+      ],
+      "areas": [
+        {
+          "name": "Altstadt",
+          "note": "Marchés et traditions, à privilégier tôt dans la journée."
+        },
+        {
+          "name": "Schwabing",
+          "note": "Cafés détendus près du Jardin anglais."
+        },
+        {
+          "name": "Zones de Biergärten",
+          "note": "Espaces conviviaux pour l'après-midi."
+        }
+      ],
+      "places": [
+        {
+          "name": "Viktualienmarkt Stalls",
+          "area": "Altstadt",
+          "reason": "Le marché reflète parfaitement le rythme quotidien de Munich.",
+          "imageUrl": "/src/assets/itineraries/germany/munich-food/viktualienmarkt.jpg",
+          "lat": 48.1357,
+          "lng": 11.576
+        },
+        {
+          "name": "Augustiner-Keller",
+          "area": "Near Old Town",
+          "reason": "Un Biergarten classique sous les arbres.",
+          "imageUrl": "/src/assets/itineraries/germany/munich-food/augustiner-keller.jpg",
+          "lat": 48.1465,
+          "lng": 11.5546
+        },
+        {
+          "name": "Hofbräukeller am Wiener Platz",
+          "area": "Haidhausen",
+          "reason": "Biergarten apprécié des habitants.",
+          "imageUrl": "/src/assets/itineraries/germany/munich-food/hofbraukeller.jpg",
+          "lat": 48.135,
+          "lng": 11.5999
+        },
+        {
+          "name": "Seehaus im Englischen Garten",
+          "area": "English Garden",
+          "reason": "Repas au cœur du parc.",
+          "imageUrl": "/src/assets/itineraries/germany/munich-food/seehaus.jpg",
+          "lat": 48.1527,
+          "lng": 11.5861
+        },
+        {
+          "name": "Café Frischhut",
+          "area": "Altstadt",
+          "reason": "Excellente halte pour des pâtisseries traditionnelles.",
+          "imageUrl": "/src/assets/itineraries/germany/munich-food/cafe-frischhut.jpg",
+          "lat": 48.1354,
+          "lng": 11.5766
+        }
+      ]
+    }
+  }

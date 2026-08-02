@@ -1,0 +1,182 @@
+
+  {
+    "slug": "6-days-tanzania-migration-patience-and-endless-return",
+    "region": "africa",
+    "country": "Tanzania",
+    "city": "Arusha, Serengeti et Ngorongoro",
+    "title": "La Tanzanie en 6 jours : migration, patience et éternel recommencement",
+    "days": 6,
+    "priceFrom": 420,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/tanzania/6-days-tanzania-migration-patience-and-endless-return.jpg",
+    "summary": "Cet itinéraire de 6 jours en Tanzanie vous plonge au cœur de l'un des plus grands rythmes écologiques de la planète : la migration saisonnière de la vie à travers d'immenses paysages. Centré sur le célèbre circuit safari du nord, d'Arusha au Serengeti jusqu'au cratère du Ngorongoro, il invite à découvrir le pays par l'attente, l'observation et la répétition. Pensé pour alterner transitions progressives, longues périodes de calme et instants d'intensité, cet itinéraire présente la Tanzanie non comme un spectacle à poursuivre, mais comme un système naturel à contempler, dont les cycles se poursuivent inlassablement, indépendamment de la présence humaine.",
+    "priceNote": "Budget estimé par personne. Vols, hébergement, droits d'entrée dans les parcs et safaris guidés non inclus.",
+    "highlights": [
+      "Le Serengeti et la grande migration saisonnière",
+      "Le cratère du Ngorongoro et son écosystème préservé",
+      "Les plaines infinies aux horizons dégagés",
+      "Les déplacements de la faune dictés par les pluies et les pâturages",
+      "Le temps de l'observation et de la patience",
+      "Une terre façonnée par les cycles plutôt que par les moments culminants"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à Arusha et préparation",
+        "summary": "Apprendre à ralentir.",
+        "details": "Arrivez à Arusha, une ville de départ plus qu'une destination touristique, où la préparation du voyage est plus importante que les visites. Rencontrez votre guide, découvrez le déroulement du safari et comprenez les conditions saisonnières qui façonneront les prochains jours.\n\nProfitez d'une courte promenade ou d'un moment de repos afin de vous acclimater.\n\nLa soirée s'installe rapidement et dans le calme, annonçant un voyage désormais rythmé par la nature."
+      },
+      {
+        "day": 2,
+        "title": "Vers les grandes plaines",
+        "summary": "Laisser la distance s'installer.",
+        "details": "Prenez la route en direction du Serengeti, où les paysages s'ouvrent progressivement sur des espaces toujours plus vastes. Les villages se font plus rares, la végétation évolue et l'horizon semble s'étirer à l'infini.\n\nLes arrêts restent limités : le déplacement lui-même fait partie de l'expérience.\n\nVous arrivez en fin d'après-midi, lorsque la lumière devient plus douce et que les paysages révèlent toute leur ampleur.\n\nLa soirée offre un premier aperçu de l'immensité qui caractérise cette région."
+      },
+      {
+        "day": 3,
+        "title": "Le temps du Serengeti et la logique de la migration",
+        "summary": "Apprendre à attendre.",
+        "details": "Passez la journée au cœur des grandes plaines, en suivant les déplacements des animaux plutôt qu'un programme fixe.\n\nL'observation remplace la recherche permanente d'actions spectaculaires.\n\nLes longues périodes de calme permettent de voir apparaître les véritables rythmes de la nature : les troupeaux qui avancent, les prédateurs qui patientent et les changements de météo qui influencent les comportements.\n\nLa chaleur impose naturellement une pause à la mi-journée.\n\nEn soirée, la lumière semble prolonger les paysages jusqu'à l'horizon."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, patience et immensité",
+        "summary": "Comprendre les cycles naturels.",
+        "details": "Poursuivez votre exploration du Serengeti en parcourant parfois des itinéraires similaires à ceux de la veille.\n\nLa répétition révèle pourtant de nouvelles différences : aucun instant ne ressemble exactement au précédent.\n\nPrenez conscience de la façon dont le temps semble s'étirer dans un paysage presque dépourvu de repères fixes.\n\nLa journée se termine sans moment spectaculaire particulier, rappelant que la richesse du Serengeti se construit progressivement, au fil des observations."
+      },
+      {
+        "day": 5,
+        "title": "Le cratère du Ngorongoro et un monde en équilibre",
+        "summary": "Observer l'écosystème de l'intérieur.",
+        "details": "Prenez la route vers le cratère du Ngorongoro, où l'immensité des plaines laisse place à un vaste amphithéâtre naturel abritant un écosystème presque autonome.\n\nDescendez lentement dans le cratère afin d'observer la forte concentration d'animaux et les interactions permanentes entre les différentes espèces.\n\nLa vie semble ici plus dense, mais parfaitement équilibrée.\n\nDans l'après-midi, remontez sur les hauteurs et retrouvez les grands espaces avec un regard renouvelé."
+      },
+      {
+        "day": 6,
+        "title": "Retour à Arusha et départ",
+        "summary": "Emporter le rythme avec soi.",
+        "details": "Commencez le trajet de retour vers Arusha.\n\nPeu à peu, les grandes distances semblent se réduire et les détails du paysage reprennent leur place.\n\nLe rythme de la nature continue pourtant sans interruption : la migration se poursuit, avec ou sans observateurs.\n\nVous quittez la Tanzanie avec la conviction que rien ne s'y termine réellement ; chaque cycle laisse simplement place au suivant."
+      }
+    ],
+    "planning": {
+      "city": "Tanzanie (Serengeti et Ngorongoro)",
+      "bestTime": {
+        "months": "Juin–oct. (saison sèche), janv.–mars (saison des naissances)",
+        "note": "La saison sèche offre des déplacements plus faciles et une faune plus concentrée, tandis que la période des naissances permet d'observer une activité intense des prédateurs dans les plaines."
+      },
+      "worstTime": {
+        "months": "Mars–mai (grande saison des pluies)",
+        "note": "Les fortes pluies peuvent rendre les pistes difficiles d'accès et disperser les troupeaux, allongeant les temps de trajet."
+      },
+      "tips": [
+        "Suivez les pâturages plutôt que les effets d'annonce : la migration varie chaque année, mieux vaut choisir une région qu'une promesse d'observation.",
+        "L'aube et le crépuscule sont les meilleurs moments : les déplacements des animaux, les scènes de chasse et la lumière y sont les plus remarquables.",
+        "Un long safari par jour est généralement suffisant ; la patience apporte davantage que l'accumulation de kilomètres.",
+        "Faites confiance aux guides locaux, dont la lecture des traces, du vent et du comportement des animaux repose sur une expérience de terrain irremplaçable.",
+        "Profitez des heures les plus chaudes pour vous reposer ; l'ombre, les camps et le calme font pleinement partie de l'expérience.",
+        "Prévoyez des vêtements en plusieurs couches ainsi qu'une protection contre la poussière : les matinées sont fraîches et les après-midis très lumineux."
+      ],
+      "withKids": [
+        "Des safaris plus courts et ciblés permettent de mieux maintenir l'attention des enfants.",
+        "Les camps offrant des espaces sécurisés procurent une expérience plus sereine pour les familles.",
+        "Les départs matinaux suivis d'un temps de repos limitent la fatigue.",
+        "Une bonne hydratation et une protection solaire sont indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée à Arusha",
+          "note": "Arusha est avant tout une porte d'entrée logistique vers les safaris du nord de la Tanzanie. La préparation du voyage, la coordination avec les guides et la compréhension des conditions saisonnières sont plus importantes que la découverte de la ville elle-même."
+        }
+      ],
+      "gettingAround": [
+        "Dans le nord de la Tanzanie, les déplacements s'effectuent principalement par la route, à travers des paysages en constante évolution.",
+        "Les distances paraissent souvent plus longues que ne le suggèrent les cartes en raison de l'état des pistes et des déplacements de la faune.",
+        "Le rythme des journées dépend avant tout de la lumière, de la météo et du comportement des animaux, bien plus que d'un horaire strict."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Arusha → Serengeti",
+          "note": "Le trajet traverse progressivement les hauts plateaux puis les vastes plaines ; la perception des paysages évolue bien avant l'arrivée à destination."
+        },
+        {
+          "title": "Déplacements dans le Serengeti",
+          "note": "Les itinéraires quotidiens s'adaptent aux mouvements de la faune, au vent et à l'état des pâturages plutôt qu'à des circuits prédéfinis."
+        },
+        {
+          "title": "Serengeti → Ngorongoro",
+          "note": "Le paysage passe progressivement de l'immensité des plaines ouvertes à un écosystème fermé et dense, modifiant totalement l'échelle des espaces."
+        },
+        {
+          "title": "Ngorongoro → Arusha",
+          "note": "Le trajet de retour réintroduit peu à peu les paysages habités, réduisant la sensation d'immensité et faisant réapparaître les détails du quotidien."
+        }
+      ],
+      "practical": [
+        "Les premières heures de la journée sont idéales pour les déplacements et l'observation de la faune.",
+        "La chaleur de la mi-journée impose naturellement une pause ; elle fait partie intégrante du rythme du safari.",
+        "La poussière, l'altitude et les écarts de température sont habituels ; il est recommandé de porter plusieurs couches de vêtements.",
+        "Les guides gèrent les accès, le rythme et la sécurité ; rester flexible permet de profiter pleinement de l'expérience.",
+        "Les soirées se déroulent généralement dans les camps, dans une atmosphère calme propice au repos."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Le nyama choma (viande grillée lentement à partager)",
+        "L'ugali (aliment traditionnel à base de maïs consommé en commun)",
+        "Le riz pilau (riz épicé influencé par les échanges commerciaux swahilis)",
+        "Le mchicha (légumes-feuilles cuisinés avec tomates et oignons)",
+        "Le chapati d'Afrique de l'Est",
+        "Le café tanzanien et le thé aux épices"
+      ],
+      "areas": [
+        {
+          "name": "Arusha",
+          "note": "Ville de départ où la cuisine reflète le quotidien tanzanien et la préparation du voyage plutôt qu'une recherche gastronomique."
+        },
+        {
+          "name": "Serengeti",
+          "note": "Les repas sont organisés au sein des camps, selon le rythme des safaris et des déplacements de la faune, favorisant patience et simplicité."
+        },
+        {
+          "name": "Région du Ngorongoro",
+          "note": "Une cuisine simple et nourrissante, adaptée à l'altitude, aux départs matinaux et à la vie au cœur d'un écosystème préservé."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Blue Heron",
+          "area": "Arusha",
+          "reason": "Adresse réputée auprès des guides et des voyageurs, proposant une cuisine tanzanienne et internationale fiable avant le départ en safari.",
+          "imageUrl": "/src/assets/itineraries/tanzania/tanzania-food/the-blue-heron.jpg",
+          "lat": -3.3869,
+          "lng": 36.6831
+        },
+        {
+          "name": "Khan’s Barbecue",
+          "area": "Arusha",
+          "reason": "Institution locale célèbre pour son nyama choma et son ambiance conviviale, idéale avant de partir explorer les parcs nationaux.",
+          "imageUrl": "/src/assets/itineraries/tanzania/tanzania-food/khans-barbecue.jpg",
+          "lat": -3.3716,
+          "lng": 36.6892
+        },
+        {
+          "name": "Serengeti Safari Camp Dining",
+          "area": "Serengeti",
+          "reason": "Des repas pris en commun au camp, organisés selon le rythme des safaris, des temps de repos et des observations de la faune plutôt qu'en fonction d'un large choix de menus.",
+          "imageUrl": "/src/assets/itineraries/tanzania/tanzania-food/safari-camp-dining.jpg",
+          "lat": -2.3333,
+          "lng": 34.8333
+        },
+        {
+          "name": "Ngorongoro Serena Safari Lodge Dining",
+          "area": "Ngorongoro Crater Rim",
+          "reason": "Restaurant d'altitude où les repas privilégient chaleur, réconfort et récupération après les descentes dans le cratère.",
+          "imageUrl": "/src/assets/itineraries/tanzania/tanzania-food/ngorongoro-serena-dining.jpg",
+          "lat": -3.1936,
+          "lng": 35.5830
+        }
+      ]
+    }
+  }

@@ -1,0 +1,439 @@
+
+  {
+    "slug": "4-days-luang-prabang-where-mornings-arrive-quietly",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "title": "Luang Prabang en 4 jours : là où les matins arrivent en douceur",
+    "days": 4,
+    "priceFrom": 180,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/laos/4-days-luang-prabang-where-mornings-arrive-quietly.jpg",
+    "summary": "Cet itinéraire de 4 jours à Luang Prabang explore l’ancienne capitale royale du Laos à travers ses temples, ses rivières, ses rituels matinaux et la nature environnante. Conçu pour les voyageurs en quête de calme et de sens plutôt que de mouvement, il équilibre traditions spirituelles, rues de l’époque coloniale et douces excursions hors de la ville, laissant le rythme paisible de Luang Prabang se révéler naturellement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Cérémonie des offrandes à l’aube",
+      "Vieille ville et temples de Luang Prabang",
+      "Vue au coucher du soleil depuis le mont Phousi",
+      "Cascades de Kuang Si",
+      "Rivières Mékong et Nam Khan",
+      "Marché de nuit et artisanat local"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et lumière sur la rivière",
+        "summary": "Premières impressions au bord de l’eau.",
+        "details": "Arrivez à Luang Prabang et installez-vous au rythme paisible de la ville. Passez l’après-midi à parcourir la vieille ville, où temples, bâtiments coloniaux et rues ombragées s’étendent entre le Mékong et la Nam Khan.\n\nEn fin de journée, promenez-vous le long des berges ou grimpez au mont Phousi pour admirer les toits et les rivières au coucher du soleil. Terminez la journée par un dîner tranquille, laissant le calme de la ville donner le ton aux jours suivants."
+      },
+      {
+        "day": 2,
+        "title": "Rituels de l’aube et chemins des temples",
+        "summary": "La vie spirituelle au cœur de la ville.",
+        "details": "Levez-vous tôt pour observer la cérémonie des offrandes, où les moines parcourent silencieusement les rues pour recevoir les dons. Ce rituel quotidien offre un aperçu respectueux de la vie spirituelle de Luang Prabang.\n\nAprès le petit-déjeuner, explorez les principaux temples de la vieille ville en avançant lentement entre les sanctuaires et les cours ombragées. Passez l’après-midi à vous reposer ou dans un café avec vue sur la rivière. Le soir, découvrez le marché de nuit pour admirer l’artisanat local et déguster de simples spécialités lao."
+      },
+      {
+        "day": 3,
+        "title": "Cascades et sérénité de la forêt",
+        "summary": "La nature au-delà de la ville.",
+        "details": "Partez vers les cascades de Kuang Si, l’un des plus beaux sites naturels du Laos. Parcourez les sentiers forestiers, faites une pause près des bassins turquoise et profitez de la fraîcheur sous les arbres.\n\nRetournez à Luang Prabang dans l’après-midi et laissez votre soirée libre. Une promenade au bord de la rivière ou un repas paisible offre un moment de réflexion sur le contraste entre la forêt et la ville."
+      },
+      {
+        "day": 4,
+        "title": "Rues paisibles et au revoir",
+        "summary": "Partir en douceur, sans se presser.",
+        "details": "Passez votre dernière matinée à parcourir les rues familières, à revisiter votre temple ou café préféré, ou simplement à vous asseoir près de la rivière en regardant la vie quotidienne s’écouler.\n\nProfitez d’un déjeuner détendu avant votre départ. Luang Prabang laisse une impression discrète, faite de rituels, d’eau et de matins qui arrivent sans urgence."
+      }
+    ],
+    "planning": {
+      "city": "Luang Prabang, Laos",
+      "bestTime": {
+        "months": "Novembre–février (meilleure période), décembre–janvier (plus frais)",
+        "note": "Les matinées plus fraîches, la faible humidité et le ciel dégagé rendent cette période idéale pour les rituels de l’aube, les cascades et les soirées au bord du fleuve."
+      },
+      "worstTime": {
+        "months": "Mars–avril (chaud et brumeux), juin–septembre (pluies)",
+        "note": "Mars et avril peuvent être très chauds et affectés par les fumées agricoles. De juin à septembre, les pluies fréquentes rendent les sentiers boueux et modifient le niveau des rivières."
+      },
+      "tips": [
+        "Profitez des matinées : la cérémonie des offrandes et les promenades au bord du fleuve sont les plus belles à l’aube ; observez-les avec respect.",
+        "Visitez les cascades de Kuang Si tôt le matin pour profiter d’une eau plus claire et de moins de visiteurs.",
+        "Réservez les après-midis au repos : cafés, massages ou temples ombragés sont idéaux pendant les heures les plus chaudes.",
+        "Explorez la vieille ville à pied ou à vélo ; les distances sont courtes et la circulation légère.",
+        "Habillez-vous avec modestie pour les temples et les cérémonies : épaules couvertes et shorts sous le genou sont appréciés.",
+        "Les soirées sont paisibles : le marché de nuit et les couchers de soleil sur le Mékong s’accordent parfaitement au rythme de la ville."
+      ],
+      "withKids": [
+        "Les départs matinaux conviennent aux activités calmes ; prévoyez une sieste ou la piscine après le déjeuner.",
+        "Les bassins inférieurs de Kuang Si sont adaptés aux familles ; évitez les zones glissantes après la pluie.",
+        "Le marché de nuit est plus agréable en début de soirée avec des enfants.",
+        "Prévoyez une petite veste : les matinées et les soirées peuvent être fraîches pendant la saison sèche."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international de Luang Prabang → Vieille ville",
+          "note": "10 à 15 minutes en taxi ou via un transfert hôtelier. L’aéroport est très proche du centre, ce qui rend l’arrivée simple et sans stress."
+        }
+      ],
+      "gettingAround": [
+        "La vieille ville est compacte : la plupart des sites se découvrent à pied.",
+        "Le vélo est un moyen populaire et pratique pour explorer tranquillement.",
+        "Les tuk-tuks sont largement disponibles pour les courts trajets, les cascades et les retours en soirée."
+      ],
+      "dayTrips": [
+        {
+          "title": "Cascades de Kuang Si",
+          "note": "30 à 45 minutes en tuk-tuk ou en voiture privée. La plupart des visiteurs s’y rendent le matin pour profiter de la fraîcheur et d’une eau plus claire."
+        },
+        {
+          "title": "Villages du Mékong",
+          "note": "Les excursions en bateau d’une demi-journée offrent une découverte paisible de la vie rurale le long du Mékong."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Luang Prabang est l’une des villes les plus faciles à parcourir au Laos grâce à ses courtes distances.",
+        "Les matinées sont idéales pour les promenades et les rituels ; les après-midis doivent rester tranquilles.",
+        "Les espèces sont indispensables pour les marchés, tuk-tuks et petits restaurants ; des distributeurs sont disponibles dans le centre.",
+        "Le niveau des rivières influence les excursions en bateau ; vérifiez les conditions pendant la saison des pluies."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Khao soi (soupe de nouilles de riz façon Luang Prabang)",
+        "Riz gluant avec sauces locales",
+        "Poisson grillé de rivière",
+        "Larb (salade de viande hachée ou de champignons)",
+        "Herbes fraîches et légumes vapeur",
+        "Café lao et tisanes"
+      ],
+      "areas": [
+        {
+          "name": "Vieille ville (péninsule)",
+          "note": "Restaurants familiaux et cafés paisibles nichés entre les temples et les rivières."
+        },
+        {
+          "name": "Quartier du marché de nuit",
+          "note": "Cuisine lao simple et grillades servies dans une ambiance détendue."
+        },
+        {
+          "name": "Bords du Mékong et de la Nam Khan",
+          "note": "Des lieux où le cadre est aussi important que la cuisine, au bord de l’eau."
+        }
+      ],
+      "places": [
+        {
+          "name": "Local Lao Restaurants (Old Town)",
+          "area": "Vieille ville",
+          "reason": "Cuisine lao du quotidien servie avec simplicité, fidèle au rythme tranquille de la ville.",
+          "imageUrl": "/src/assets/itineraries/laos/luang-prabang-food/local-lao-restaurants.jpg",
+          "lat": 19.8857,
+          "lng": 102.135
+        },
+        {
+          "name": "Night Market Food Stalls",
+          "area": "Marché de nuit",
+          "reason": "Repas simples composés de grillades, riz gluant et légumes, parfaits après une promenade au coucher du soleil.",
+          "imageUrl": "/src/assets/itineraries/laos/luang-prabang-food/night-market-food-stalls.jpg",
+          "lat": 19.8846,
+          "lng": 102.1344
+        },
+        {
+          "name": "Riverside Cafés & Guesthouse Kitchens",
+          "area": "Rivières Mékong / Nam Khan",
+          "reason": "Cadres paisibles où les repas accompagnent la réflexion, bercés par l’eau et la lumière.",
+          "imageUrl": "/src/assets/itineraries/laos/luang-prabang-food/riverside-cafes.jpg",
+          "lat": 19.887,
+          "lng": 102.1382
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-vang-vieng-where-the-land-breathes-wide",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "city": "Vang Vieng",
+    "title": "Vang Vieng en 3 jours : là où la terre respire à perte de vue",
+    "days": 3,
+    "priceFrom": 160,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/laos/3-days-vang-vieng-where-the-land-breathes-wide.jpg",
+    "summary": "Cet itinéraire de 3 jours à Vang Vieng explore les spectaculaires paysages karstiques du Laos à travers rivières, grottes, points de vue et campagne ouverte. Conçu pour les voyageurs en quête d’espace et de liberté plutôt que d’horaires, il équilibre de douces aventures avec de longues pauses, laissant le paysage lui-même donner le rythme de chaque journée.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Paysages karstiques calcaires",
+      "Rivière Nam Song",
+      "Grottes et points de vue",
+      "Balades à vélo dans la campagne",
+      "Lever et coucher du soleil sur la vallée",
+      "Journées en plein air sans précipitation"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et air de la vallée",
+        "summary": "Premier contact avec les grands espaces.",
+        "details": "Arrivez à Vang Vieng et prenez le temps d’admirer les impressionnantes falaises calcaires qui s’élèvent au-dessus de la vallée. Passez l’après-midi à marcher ou à pédaler sur les routes paisibles qui suivent la rivière Nam Song à travers champs et villages.\n\nÀ l’approche du soir, trouvez un belvédère ou un endroit au bord de la rivière pour observer la lumière évoluer sur les montagnes. Terminez la journée par un dîner simple, en laissant l’immensité du paysage remplacer le besoin de tout planifier."
+      },
+      {
+        "day": 2,
+        "title": "Grottes, eau et exploration",
+        "summary": "Une découverte guidée par le relief.",
+        "details": "Consacrez la journée à explorer les merveilles naturelles de Vang Vieng. Visitez les grottes voisines en avançant lentement dans ces espaces frais et ombragés façonnés par l’eau au fil du temps. Alternez ces découvertes souterraines avec des moments en plein air : promenades au bord de la rivière, courtes randonnées ou pauses près de l’eau.\n\nL’après-midi reste volontairement flexible. Choisissez une activité adaptée à votre énergie ou reposez-vous simplement au bord de la rivière en regardant les nuages glisser au-dessus de la vallée. Au coucher du soleil, rejoignez un point élevé pour voir le paysage s’adoucir dans la lumière du soir."
+      },
+      {
+        "day": 3,
+        "title": "Matin paisible et départ",
+        "summary": "Quitter les grands espaces.",
+        "details": "Passez votre dernière matinée à savourer le calme de la vallée. La lumière matinale révèle délicatement les couches de brume, les falaises et les champs.\n\nMarchez ou pédalez une dernière fois sur vos chemins favoris avant le départ. Vang Vieng laisse son empreinte par son immensité et son silence, rappelant combien un paysage peut sembler vaste lorsqu’aucune distraction ne vient le troubler."
+      }
+    ],
+    "planning": {
+      "city": "Vang Vieng, Laos",
+      "bestTime": {
+        "months": "Novembre–février (meilleure période), décembre–janvier (plus frais et plus dégagé)",
+        "note": "Des températures plus fraîches, une faible humidité et un ciel dégagé rendent cette période idéale pour les points de vue, les activités sur la rivière et les vols en montgolfière au lever du soleil."
+      },
+      "worstTime": {
+        "months": "Mars–avril (chaud et brumeux), juin–septembre (pluies)",
+        "note": "Mars et avril peuvent être très chauds et affectés par les fumées régionales. De juin à septembre, les pluies fréquentes gonflent les rivières, rendent les sentiers boueux et limitent la visibilité."
+      },
+      "tips": [
+        "Privilégiez les matinées : les points de vue au lever du soleil et les vols en montgolfière offrent les plus beaux ciels.",
+        "Choisissez les activités nautiques selon les conditions : tubing et kayak sont agréables en saison sèche mais à éviter après de fortes pluies.",
+        "Limitez-vous à une activité principale par jour (lagon, randonnée ou rivière) et gardez les après-midis pour le repos.",
+        "Les scooters facilitent l’accès aux lagons et aux grottes, mais roulez prudemment sur les routes poussiéreuses ou glissantes.",
+        "Prévoyez des espèces pour les lagons, petits cafés et arrêts en campagne ; les cartes sont peu acceptées.",
+        "Les soirées sont aujourd’hui paisibles : bars au coucher du soleil et dîners au bord de la rivière conviennent parfaitement au rythme actuel de la ville."
+      ],
+      "withKids": [
+        "Choisissez les lagons les plus calmes et évitez les zones de saut depuis les falaises avec des enfants.",
+        "Commencez les journées tôt afin d’éviter la chaleur et les foules.",
+        "Les activités sur la rivière nécessitent toujours un gilet de sauvetage ; évitez-les lorsque le courant est fort.",
+        "Prévoyez chapeaux, crème solaire et eau, car l’ombre est limitée hors du centre."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Vientiane → Vang Vieng",
+          "note": "Le plus courant est le minibus ou le car (1 h 30 à 2 h via la nouvelle autoroute). Le train est le plus rapide (environ 1 heure), mais nécessite un transfert jusqu’à la gare et une réservation à l’avance."
+        }
+      ],
+      "gettingAround": [
+        "Le vélo est idéal pour les routes le long de la rivière, les villages et la campagne proche.",
+        "Les scooters sont le moyen le plus pratique pour rejoindre grottes, lagons et points de vue ; roulez prudemment sur les routes poussiéreuses ou mouillées.",
+        "La marche convient parfaitement dans le centre-ville et le long de la rivière Nam Song, surtout le matin et au coucher du soleil.",
+        "Les tuk-tuks sont disponibles pour les courts trajets, mais leur disponibilité diminue en dehors des heures de pointe."
+      ],
+      "dayTrips": [
+        {
+          "title": "Grottes, lagons et points de vue",
+          "note": "Le scooter ou le vélo sont les meilleurs moyens d’y accéder. Plusieurs sites peuvent être regroupés dans une même boucle à travers la campagne."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Prévoyez des espèces pour les grottes, les lagons, la location de scooter et les petits cafés de campagne.",
+        "Évitez de conduire un scooter après de fortes pluies : les routes deviennent rapidement boueuses et glissantes.",
+        "Partez tôt pour les points de vue et les activités de plein air afin d’éviter chaleur et affluence.",
+        "Les stations-service sont rares hors de la ville ; faites le plein avant de partir."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Khao piak sen (soupe de nouilles lao)",
+        "Riz gluant avec viandes ou légumes grillés",
+        "Larb (salade de viande ou de champignons)",
+        "Poisson grillé de rivière",
+        "Smoothies aux fruits frais",
+        "Café glacé lao"
+      ],
+      "areas": [
+        {
+          "name": "Rives de la Nam Song",
+          "note": "Idéal en fin d’après-midi et en soirée, avec des repas simples face à la vallée et à la lumière changeante."
+        },
+        {
+          "name": "Centre-ville",
+          "note": "Restaurants et cafés discrets proposant une cuisine simple et nourrissante après une journée en plein air."
+        },
+        {
+          "name": "Routes de campagne",
+          "note": "Quelques petits restaurants près des lagons et des grottes, parfaits pour une pause pendant une balade."
+        }
+      ],
+      "places": [
+        {
+          "name": "Local Lao Eateries",
+          "area": "Centre de Vang Vieng",
+          "reason": "Cuisine lao simple et nourrissante, idéale après une longue journée d’activités en plein air.",
+          "imageUrl": "/src/assets/itineraries/laos/vang-vieng-food/local-lao-eateries.jpg",
+          "lat": 18.9237,
+          "lng": 102.4478
+        },
+        {
+          "name": "Nam Song Riverside Restaurants",
+          "area": "Rivière Nam Song",
+          "reason": "Restaurants en plein air avec vue sur les montagnes et la rivière, où les repas suivent le rythme du coucher du soleil.",
+          "imageUrl": "/src/assets/itineraries/laos/vang-vieng-food/nam-song-riverside-restaurants.jpg",
+          "lat": 18.9209,
+          "lng": 102.4421
+        },
+        {
+          "name": "Countryside Food Stalls",
+          "area": "Routes des lagons et des grottes",
+          "reason": "Petits stands au bord de la route proposant grillades et boissons fraîches, parfaits lors d’une sortie à vélo ou en scooter.",
+          "imageUrl": "/src/assets/itineraries/laos/vang-vieng-food/countryside-food-stalls.jpg",
+          "lat": 18.9365,
+          "lng": 102.4562
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-vientiane-where-capital-life-moves-softly",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "city": "Vientiane",
+    "title": "Vientiane en 3 jours : là où la vie de la capitale s’écoule en douceur",
+    "days": 3,
+    "priceFrom": 170,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/laos/3-days-vientiane-where-capital-life-moves-softly.jpg",
+    "summary": "Cet itinéraire de 3 jours à Vientiane explore l’une des capitales les plus discrètes d’Asie du Sud-Est à travers ses temples, sa vie au bord du Mékong et ses quartiers du quotidien. Conçu pour les voyageurs qui apprécient le calme et la simplicité, il privilégie les monuments modestes, les promenades tranquilles et les moments passés au bord du fleuve, révélant une ville définie par l’équilibre plutôt que par le spectacle.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Promenade le long du Mékong",
+      "Stupa de Pha That Luang",
+      "Wat Si Saket et temples historiques",
+      "Monument Patuxai",
+      "Marchés locaux et cafés",
+      "Soirées paisibles au bord du fleuve"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et soirée au bord du fleuve",
+        "summary": "Premières impressions sur les rives du Mékong.",
+        "details": "Arrivez à Vientiane et imprégnez-vous du rythme particulièrement détendu de la ville. Passez l’après-midi à vous promener le long du Mékong, où de larges promenades et des cafés bordent les rives.\n\nÀ l’approche du soir, restez près du fleuve pour admirer le coucher du soleil et voir la ville ralentir. Profitez d’un dîner simple à proximité en laissant le calme naturel de Vientiane s’installer."
+      },
+      {
+        "day": 2,
+        "title": "Temples, symboles et rues du quotidien",
+        "summary": "Comprendre la ville à travers ses monuments.",
+        "details": "Commencez la journée par la visite du stupa de Pha That Luang, le monument national le plus important du Laos, puis poursuivez vers Wat Si Saket et les temples historiques voisins. Prenez votre temps entre les sites et observez comment ces lieux de culte restent pleinement intégrés à la vie quotidienne.\n\nDans l’après-midi, rendez-vous au monument Patuxai pour profiter de la vue sur la ville avant de parcourir les quartiers et marchés locaux. Terminez la journée dans un café ou autour d’un dîner tranquille."
+      },
+      {
+        "day": 3,
+        "title": "Matin paisible et départ",
+        "summary": "Partir sans se presser.",
+        "details": "Passez votre dernière matinée à profiter de l’atmosphère sereine de Vientiane. Promenez-vous dans vos rues préférées, retournez dans un café apprécié ou installez-vous au bord du fleuve tandis que la ville s’éveille.\n\nSavourez un déjeuner détendu avant votre départ. Vientiane laisse une impression subtile, faite d’espace, de lumière et du rare sentiment d’une capitale qui ne cherche jamais à se précipiter."
+      }
+    ],
+    "planning": {
+      "city": "Vientiane, Laos",
+      "bestTime": {
+        "months": "Novembre–février (meilleure période), décembre–janvier (plus frais)",
+        "note": "Des températures plus fraîches et une humidité plus faible rendent les visites de temples, les balades à vélo et les soirées au bord du Mékong particulièrement agréables."
+      },
+      "worstTime": {
+        "months": "Mars–avril (chaud et brumeux), juin–septembre (pluies)",
+        "note": "Mars et avril peuvent être très chauds et affectés par les fumées régionales. De juin à septembre, les pluies fréquentes peuvent perturber les promenades et influencer le niveau du fleuve."
+      },
+      "tips": [
+        "Adaptez vos attentes : Vientiane se découvre par son rythme plus que par la quantité de sites.",
+        "Les matinées sont idéales pour visiter Wat Si Saket et Pha That Luang avant la chaleur.",
+        "Privilégiez le vélo ou les courts trajets en tuk-tuk ; les distances sont modestes et la circulation légère.",
+        "Réservez les après-midis aux cafés, musées ou lieux ombragés pendant les heures les plus chaudes.",
+        "Les soirées sur les rives du Mékong sont le point fort de la ville, entre coucher de soleil et marché de nuit.",
+        "Prévoyez des espèces ; les cartes sont peu acceptées hors des hôtels et grands restaurants."
+      ],
+      "withKids": [
+        "Les vastes cours des temples et les promenades du fleuve offrent des espaces calmes pour les enfants.",
+        "Limitez les activités extérieures à midi lorsque la chaleur devient forte.",
+        "Les visites au bord du fleuve en début de soirée sont plus tranquilles et adaptées aux familles.",
+        "Prévoyez chapeaux, eau et une petite veste pour les soirées plus fraîches de la saison sèche."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Aéroport international de Wattay → Centre-ville",
+          "note": "Le moyen le plus rapide est le taxi ou le tuk-tuk (10 à 15 minutes jusqu’au centre). Des navettes existent mais sont moins pratiques pour une première visite."
+        }
+      ],
+      "gettingAround": [
+        "Les tuk-tuks sont le moyen le plus courant pour rejoindre les temples, marchés et Patuxai ; convenez du tarif avant le départ.",
+        "Le vélo est idéal grâce au terrain plat et à la faible circulation.",
+        "La marche convient très bien dans les quartiers centraux proches du Mékong, de Wat Si Saket et des cafés.",
+        "Les taxis sont rares et les applications de transport peu fiables ; prévoyez des horaires flexibles."
+      ],
+      "dayTrips": [
+        {
+          "title": "Pha That Luang et circuit des temples",
+          "note": "Le tuk-tuk ou le vélo sont les meilleures options depuis le centre-ville ; les sites sont trop éloignés pour être visités uniquement à pied."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Gardez des espèces ; les tuk-tuks, petits cafés et marchés acceptent rarement les cartes.",
+        "Évitez de marcher entre 12 h et 15 h pendant les mois les plus chauds.",
+        "La circulation est généralement légère, mais prévoyez un peu plus de temps lors des festivals.",
+        "Convenez toujours du prix du tuk-tuk avant le trajet ; le tarif est généralement fixé par course."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Khao piak sen (soupe de nouilles lao)",
+        "Riz gluant avec jeow (sauces pimentées)",
+        "Larb (salade de viande ou de champignons)",
+        "Poisson grillé de rivière",
+        "Tam mak hoong (salade de papaye à la lao)",
+        "Café lao et thé glacé"
+      ],
+      "areas": [
+        {
+          "name": "Rives du Mékong",
+          "note": "Restaurants tournés vers les soirées, parfaits pour savourer une cuisine lao simple au coucher du soleil."
+        },
+        {
+          "name": "Centre-ville et quartier des temples",
+          "note": "Restaurants locaux discrets et cafés servant les plats lao du quotidien."
+        },
+        {
+          "name": "Marchés du matin",
+          "note": "Lieux idéaux pour découvrir soupes, riz gluant et café dans leur contexte quotidien."
+        }
+      ],
+      "places": [
+        {
+          "name": "Local Lao Restaurants (City Centre)",
+          "area": "Centre de Vientiane",
+          "reason": "Cuisine lao simple reflétant le rythme discret et authentique de la capitale.",
+          "imageUrl": "/src/assets/itineraries/laos/vientiante-food/local-lao-restaurants.jpg",
+          "lat": 17.9757,
+          "lng": 102.6331
+        },
+        {
+          "name": "Mekong Riverside Food Stalls",
+          "area": "Rives du Mékong",
+          "reason": "Repas décontractés composés de grillades, salades et boissons à savourer en observant la vie locale.",
+          "imageUrl": "/src/assets/itineraries/laos/vientiane-food/mekong-riverside-food-stalls.jpg",
+          "lat": 17.9656,
+          "lng": 102.6008
+        },
+        {
+          "name": "Morning Market Eateries",
+          "area": "Talat Sao / Marchés locaux",
+          "reason": "Petits-déjeuners simples où soupes et riz gluant font partie du quotidien.",
+          "imageUrl": "/src/assets/itineraries/laos/vientiane-food/morning-market-eateries.jpg",
+          "lat": 17.9718,
+          "lng": 102.6177
+        }
+      ]
+    }
+  }
