@@ -1,0 +1,1063 @@
+
+  {
+    "slug": "4-days-sydney-light-water-and-open-living",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Sydney",
+    "title": "Sydney en 4 jours : lumière, océan et art de vivre en plein air",
+    "days": 4,
+    "priceFrom": 330,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/4-days-sydney-light-water-and-open-living.jpg",
+    "summary": "Cet itinéraire de 4 jours vous invite à découvrir Sydney, la plus grande ville d'Australie, où le port, les plages et la lumière façonnent le quotidien. Entre l'emblématique Sydney Harbour, les traversées en ferry, les promenades côtières et les quartiers animés, la ville se vit avant tout en extérieur. Ce séjour équilibre les sites incontournables, les paysages maritimes et l'art de vivre australien, offrant une immersion dans une métropole où l'océan fait partie intégrante de chaque journée.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Sydney Harbour et ses panoramas emblématiques",
+      "L'Opéra de Sydney et les quais de Circular Quay",
+      "Le Harbour Bridge et ses vues spectaculaires",
+      "La promenade côtière de Bondi à Coogee",
+      "Les traversées en ferry à travers le port",
+      "Une ville ouverte sur la mer et baignée de lumière"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte du port",
+        "summary": "Faire connaissance avec Sydney au bord de l'eau.",
+        "details": "À votre arrivée, rejoignez Circular Quay pour découvrir immédiatement l'atmosphère unique de Sydney. Promenez-vous le long des quais en admirant l'Opéra, les ferries qui sillonnent le port et les nombreux espaces ouverts qui caractérisent la ville.\n\nDans l'après-midi, installez-vous face à la baie afin de profiter du paysage plutôt que de multiplier les visites.\n\nEn soirée, dégustez un dîner sur le front de mer tandis que les dernières lumières du jour illuminent Sydney Harbour."
+      },
+      {
+        "day": 2,
+        "title": "Le Harbour Bridge et les quartiers du port",
+        "summary": "Découvrir Sydney sous un nouvel angle.",
+        "details": "Commencez la journée par la traversée du Harbour Bridge à pied, ou profitez d'un point de vue surélevé pour admirer l'immensité de la baie et ses nombreux bras de mer.\n\nExplorez ensuite les quartiers situés sur la rive nord, où la vie quotidienne reste intimement liée au port.\n\nDans l'après-midi, empruntez un ferry comme le font les habitants afin de rejoindre un autre quartier de Sydney tout en profitant d'une vue exceptionnelle sur la ville.\n\nPassez la soirée dans une ambiance détendue, en profitant des nombreux restaurants et terrasses en plein air."
+      },
+      {
+        "day": 3,
+        "title": "Les plages de Sydney et la côte Pacifique",
+        "summary": "Suivre le rythme de l'océan.",
+        "details": "Consacrez la journée à la célèbre promenade reliant Bondi Beach à Coogee Beach. Ce sentier côtier offre des panoramas spectaculaires sur les falaises, les criques, les plages et l'océan Pacifique.\n\nPrenez le temps de faire plusieurs pauses pour vous baigner, vous détendre ou simplement admirer le paysage.\n\nEn fin d'après-midi, retournez vers le centre-ville avec la sensation d'avoir pleinement profité du mode de vie australien.\n\nTerminez la journée autour d'un dîner simple dans un quartier animé."
+      },
+      {
+        "day": 4,
+        "title": "Derniers instants à Sydney",
+        "summary": "Profiter une dernière fois de l'atmosphère du port.",
+        "details": "Pour cette dernière matinée, retrouvez votre promenade préférée le long du port ou installez-vous dans un café avec vue sur Sydney Harbour afin d'observer le ballet des ferries.\n\nPrenez le temps de savourer une dernière balade avant un déjeuner face à l'eau.\n\nSydney laisse le souvenir d'une ville où la mer, la lumière et les grands espaces font naturellement partie du quotidien."
+      }
+    ],
+    "planning": {
+      "city": "Sydney, Australie",
+      "bestTime": {
+        "months": "Sept.–nov. (printemps) et mars–mai (automne)",
+        "note": "Les températures agréables et le temps généralement ensoleillé sont parfaits pour les promenades côtières, les traversées en ferry et la découverte des différents quartiers."
+      },
+      "worstTime": {
+        "months": "Déc.–fév. (été chaud et très fréquenté), juil.–août (hiver plus frais)",
+        "note": "L'été correspond à la haute saison touristique avec des températures élevées, tandis que l'hiver reste agréable pour visiter la ville mais moins propice aux activités balnéaires."
+      },
+      "tips": [
+        "Profitez des matinées pour visiter les plages, les jardins et les promenades côtières avant les fortes chaleurs.",
+        "Utilisez les ferries comme moyen de transport : ils offrent certaines des plus belles vues sur Sydney Harbour.",
+        "Organisez votre séjour par quartiers : Circular Quay et The Rocks, les plages de l'est ou encore les rives du port méritent chacun une journée dédiée.",
+        "Alternez les moments passés à la plage avec des pauses dans les parcs, les cafés ou les musées afin d'équilibrer vos journées.",
+        "Les repas en terrasse font partie du mode de vie local ; privilégiez les restaurants offrant une vue sur le port lorsque cela est possible.",
+        "Même par temps frais, le soleil australien reste très intense : crème solaire, chapeau et bouteille d'eau sont indispensables."
+      ],
+      "withKids": [
+        "Les traversées en ferry plaisent généralement beaucoup aux enfants.",
+        "La promenade Bondi-Coogee peut être adaptée en ne parcourant que certaines sections entre deux plages.",
+        "Les nombreux parcs et piscines naturelles du port permettent de se baigner en toute sécurité.",
+        "Pensez à emporter de l'eau, de la crème solaire et des chapeaux tout au long de la journée."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "De l'aéroport au centre-ville",
+          "note": "L'aéroport de Sydney est relié directement au centre-ville par le train Airport Link. Les taxis et les services de VTC sont également nombreux et permettent de rejoindre facilement votre hébergement."
+        }
+      ],
+      "gettingAround": [
+        "Les ferries font partie intégrante du réseau de transports publics et constituent l'un des meilleurs moyens de découvrir Sydney Harbour.",
+        "Les trains et les bus desservent efficacement le centre-ville, les quartiers résidentiels et les principales plages.",
+        "Le port et les quartiers centraux se découvrent très facilement à pied grâce à de nombreuses promenades aménagées.",
+        "Les VTC et les taxis sont particulièrement pratiques pour les déplacements en soirée ou entre des quartiers moins bien reliés."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Promenades le long du port",
+          "note": "Des itinéraires piétons parfaitement aménagés relient Circular Quay, The Rocks, Barangaroo et les autres quartiers du front de mer."
+        },
+        {
+          "title": "Traversée de Sydney Harbour",
+          "note": "Traverser le Harbour Bridge à pied ou emprunter un ferry est souvent plus agréable et plus rapide que de contourner le port par la route."
+        },
+        {
+          "title": "Centre-ville ↔ Plages de l'est",
+          "note": "Les lignes de bus et de train permettent de rejoindre facilement Bondi Beach, Coogee et les autres plages de la côte est en un temps de trajet raisonnable."
+        },
+        {
+          "title": "Promenade côtière Bondi ↔ Coogee",
+          "note": "Le célèbre sentier Bondi-Coogee est un parcours linéaire bien balisé qui se termine à proximité des transports publics pour un retour simple vers le centre-ville."
+        }
+      ],
+      "practical": [
+        "Utilisez une carte Opal ou une carte bancaire sans contact pour accéder à l'ensemble des transports publics, y compris les ferries.",
+        "Les traversées en ferry sont particulièrement agréables en milieu de matinée ou en fin d'après-midi, lorsque la lumière est la plus belle.",
+        "Commencez vos journées à la plage tôt le matin afin d'éviter les fortes chaleurs et l'affluence.",
+        "Le soleil australien est particulièrement intense ; crème solaire, chapeau et bouteille d'eau sont indispensables, même lorsque les températures sont modérées.",
+        "Sydney se découvre mieux en consacrant de longues périodes à chaque quartier plutôt qu'en multipliant les visites rapides.",
+        "La circulation routière peut être dense ; les ferries et les trains sont souvent plus rapides et plus pratiques que la voiture."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer de la cuisine australienne contemporaine",
+        "Flat white, le café emblématique d'Australie",
+        "Fish and chips dégusté face à l'océan",
+        "Cuisine australienne aux influences asiatiques",
+        "Petits-déjeuners de café avec pain au levain",
+        "Huîtres fraîches et repas avec vue sur le port"
+      ],
+      "areas": [
+        {
+          "name": "Circular Quay et The Rocks",
+          "note": "Le meilleur secteur pour déjeuner ou dîner face à Sydney Harbour. Les restaurants offrent une vue exceptionnelle sur les ferries, l'Opéra de Sydney et le Harbour Bridge, particulièrement agréable au coucher du soleil."
+        },
+        {
+          "name": "Plages de l'est (Bondi et Coogee)",
+          "note": "Une succession de cafés et de restaurants décontractés où l'on vient naturellement après une baignade, une promenade côtière ou une séance de surf. Ici, les repas suivent le rythme de la plage plus que celui de la vie nocturne."
+        },
+        {
+          "name": "Quartiers du centre (Surry Hills, Darlinghurst)",
+          "note": "Le cœur de la scène gastronomique locale, avec ses cafés branchés, ses boulangeries artisanales et ses restaurants appréciés des habitants au quotidien."
+        }
+      ],
+      "places": [
+        {
+          "name": "Opera Bar",
+          "area": "Circular Quay",
+          "reason": "Adresse emblématique installée au bord de l'eau, offrant une vue imprenable sur l'Opéra de Sydney, le Harbour Bridge et le ballet permanent des ferries. L'endroit idéal pour profiter de l'ambiance unique du port.",
+          "imageUrl": "/src/assets/itineraries/australia/sydney-food/opera-bar.jpg",
+          "lat": -33.8570,
+          "lng": 151.2153
+        },
+        {
+          "name": "The Fish Market Café",
+          "area": "Pyrmont",
+          "reason": "Situé au célèbre Sydney Fish Market, ce café est réputé pour ses poissons et fruits de mer ultra-frais servis dans une ambiance simple et conviviale, parfaite pour le déjeuner.",
+          "imageUrl": "/src/assets/itineraries/australia/sydney-food/sydney-fish-market-cafe.jpg",
+          "lat": -33.8696,
+          "lng": 151.1947
+        },
+        {
+          "name": "Icebergs Dining Room and Bar",
+          "area": "Bondi Beach",
+          "reason": "Restaurant emblématique dominant Bondi Icebergs Pool et l'océan Pacifique, reconnu pour sa cuisine australienne contemporaine et l'une des plus belles vues de Sydney.",
+          "imageUrl": "/src/assets/itineraries/australia/sydney-food/icebergs-dining-room.jpg",
+          "lat": -33.8908,
+          "lng": 151.2773
+        },
+        {
+          "name": "Bills",
+          "area": "Surry Hills",
+          "reason": "Institution de Sydney célèbre pour ses excellents petits-déjeuners, son ambiance chaleureuse et sa cuisine simple mettant en valeur des produits frais de qualité.",
+          "imageUrl": "/src/assets/itineraries/australia/sydney-food/bills-surry-hills.jpg",
+          "lat": -33.8843,
+          "lng": 151.2131
+        },
+        {
+          "name": "Coogee Pavilion",
+          "area": "Coogee",
+          "reason": "Grand restaurant en bord de mer très apprécié après une journée de plage, offrant une atmosphère conviviale, une belle terrasse et une cuisine variée face à l'océan.",
+          "imageUrl": "/src/assets/itineraries/australia/sydney-food/coogee-pavilion.jpg",
+          "lat": -33.9226,
+          "lng": 151.2587
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-melbourne-lanes-ideas-and-everyday-culture",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Melbourne",
+    "title": "Melbourne en 4 jours : ruelles, culture et art de vivre",
+    "days": 4,
+    "priceFrom": 320,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/4-days-melbourne-lanes-ideas-and-everyday-culture.jpg",
+    "summary": "Cet itinéraire de 4 jours vous invite à découvrir Melbourne, capitale culturelle de l'Australie, où l'expérience se construit davantage à travers les quartiers, les cafés et les rencontres que par les monuments emblématiques. Entre les célèbres laneways, les galeries d'art, les promenades le long de la Yarra River et l'atmosphère balnéaire de St Kilda, Melbourne révèle une personnalité créative, détendue et profondément tournée vers la vie quotidienne. Ce séjour privilégie les découvertes à pied, les pauses dans les cafés et l'exploration des différents quartiers pour vivre la ville comme ses habitants.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les célèbres laneways et le street art",
+      "La culture du café et les matinées à l'australienne",
+      "Les promenades le long de la Yarra River",
+      "Les quartiers créatifs et les galeries d'art",
+      "Le front de mer de St Kilda",
+      "Une ville où la culture se vit au quotidien"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte des laneways",
+        "summary": "Découvrir Melbourne à travers ses ruelles emblématiques.",
+        "details": "Après votre arrivée, commencez votre découverte de Melbourne en vous promenant dans les célèbres laneways du centre-ville. Derrière chaque ruelle se cachent des cafés, des bars intimistes, des boutiques indépendantes et des œuvres de street art qui font la réputation de la ville.\n\nPassez l'après-midi à flâner sans itinéraire précis, en prenant le temps de vous arrêter pour un café ou quelques photos.\n\nEn fin de journée, rejoignez les berges de la Yarra River pour admirer les reflets du soleil couchant sur les gratte-ciel."
+      },
+      {
+        "day": 2,
+        "title": "Culture, art et vie urbaine",
+        "summary": "Découvrir l'âme culturelle de Melbourne.",
+        "details": "Commencez la journée dans un café de quartier, où le petit-déjeuner est presque un rituel pour les habitants.\n\nConsacrez ensuite la matinée à la visite d'un musée ou d'une galerie afin de découvrir la scène artistique et culturelle qui fait la renommée de Melbourne.\n\nL'après-midi, promenez-vous le long de la rivière, traversez les différents ponts et observez l'animation des espaces publics où habitants et visiteurs se retrouvent.\n\nLe soir, privilégiez un restaurant de quartier, un pub traditionnel ou une salle de concert intimiste pour profiter de l'ambiance locale."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers, marchés et vie locale",
+        "summary": "Découvrir Melbourne comme ses habitants.",
+        "details": "Consacrez cette journée à l'exploration d'un quartier situé en dehors du centre-ville. Ses marchés, ses rues résidentielles, ses boutiques indépendantes et ses cafés racontent le véritable quotidien de Melbourne.\n\nPrenez le temps de faire des pauses régulières afin de profiter pleinement de l'atmosphère locale.\n\nDans l'après-midi, rejoignez un autre quartier ou revenez tranquillement vers le centre-ville.\n\nTerminez la journée autour d'un dîner simple dans une ambiance conviviale."
+      },
+      {
+        "day": 4,
+        "title": "St Kilda et derniers instants",
+        "summary": "Terminer le séjour entre ville et océan.",
+        "details": "Pour cette dernière journée, rejoignez St Kilda afin de profiter du bord de mer, de sa plage et de sa célèbre jetée. L'immensité de l'océan contraste agréablement avec les ruelles animées du centre-ville.\n\nPrenez le temps de vous détendre face à la mer avant de retourner en ville pour un dernier déjeuner.\n\nMelbourne laisse le souvenir d'une ville créative, accueillante et profondément attachée à son art de vivre."
+      }
+    ],
+    "planning": {
+      "city": "Melbourne, Australie",
+      "bestTime": {
+        "months": "Mars–mai (automne) et septembre–novembre (printemps)",
+        "note": "Les températures agréables sont idéales pour explorer les ruelles, les cafés, les marchés, les galeries et les différents quartiers de Melbourne."
+      },
+      "worstTime": {
+        "months": "Déc.–fév. (fortes chaleurs ponctuelles), juin–août (hiver frais et gris)",
+        "note": "L'été peut connaître des épisodes de chaleur intense, tandis que l'hiver apporte des journées plus fraîches et des soirées plus courtes."
+      },
+      "tips": [
+        "Privilégiez les petits quartiers, les ruelles et les cafés indépendants plutôt que de chercher uniquement les sites touristiques.",
+        "À Melbourne, le café est une véritable institution : prenez le temps de savourer chaque adresse plutôt que d'en visiter plusieurs rapidement.",
+        "Le temps change rapidement ; prévoyez plusieurs couches de vêtements même si les prévisions sont favorables.",
+        "Les marchés et les galeries sont particulièrement agréables en matinée, tandis que les laneways, bars et restaurants s'animent davantage en fin de journée.",
+        "Le réseau de tramways est excellent : utilisez-le pour les trajets plus longs et explorez le reste de la ville à pied.",
+        "Les soirées sont davantage propices aux discussions autour d'un verre ou d'un bon repas qu'à une vie nocturne tapageuse."
+      ],
+      "withKids": [
+        "Les nombreux parcs et les promenades le long de la Yarra River permettent de faire des pauses entre les visites.",
+        "Les marchés et les restaurants décontractés sont bien adaptés aux familles.",
+        "Les courts trajets en tram rendent les déplacements simples avec des enfants.",
+        "Prévoyez des vêtements adaptés aux changements rapides de température."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "De l'aéroport au centre-ville",
+          "note": "L'aéroport de Melbourne est relié au centre-ville par le SkyBus, qui assure des départs fréquents. Les taxis et les VTC permettent également de rejoindre facilement votre hébergement."
+        }
+      ],
+      "gettingAround": [
+        "Le tramway est le principal moyen de transport dans le centre-ville et fait partie intégrante du quotidien des habitants.",
+        "La marche est idéale pour explorer les laneways, les berges de la Yarra River et les différents quartiers.",
+        "Les trains permettent de rejoindre rapidement les quartiers périphériques ainsi que les secteurs côtiers.",
+        "Les VTC et les taxis sont particulièrement pratiques en soirée ou lorsque les conditions météorologiques se dégradent."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Laneways et arcades du centre-ville",
+          "note": "Le cœur de Melbourne se découvre facilement à pied. Les ruelles et passages couverts invitent davantage à la flânerie qu'à un itinéraire précis."
+        },
+        {
+          "title": "Promenades le long de la Yarra River",
+          "note": "Les berges aménagées relient agréablement les espaces publics, les galeries, les restaurants et les principaux lieux culturels du centre-ville."
+        },
+        {
+          "title": "Découverte des quartiers",
+          "note": "Quelques arrêts de tram combinés à des promenades à pied permettent de découvrir la vie quotidienne au-delà du quartier central des affaires."
+        },
+        {
+          "title": "Centre-ville ↔ St Kilda",
+          "note": "Les lignes de tram relient directement le centre-ville à St Kilda, offrant un contraste agréable entre l'animation urbaine et les grands espaces du littoral."
+        }
+      ],
+      "practical": [
+        "Utilisez une carte Myki ou une carte bancaire sans contact pour voyager sur le réseau de tramways et de trains.",
+        "Le centre-ville dispose d'une Free Tram Zone permettant d'emprunter gratuitement les tramways à l'intérieur de cette zone.",
+        "Pour les courtes distances dans le CBD, marcher est souvent plus rapide que prendre le tram.",
+        "La météo de Melbourne peut changer rapidement ; prévoyez toujours une veste légère ou plusieurs couches de vêtements.",
+        "Les marchés et les quartiers commerçants sont particulièrement agréables à découvrir en milieu de matinée.",
+        "Les soirées se prêtent davantage à un dîner, à un verre ou à un concert dans une ambiance conviviale qu'à un programme minuté."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Café de spécialité et petits-déjeuners australiens",
+        "Cuisine australienne contemporaine dans les restaurants de quartier",
+        "Bars à vin des laneways et petites assiettes à partager",
+        "Spécialités des marchés et produits locaux",
+        "Cuisine multiculturelle du centre-ville",
+        "Pains artisanaux, pâtisseries et déjeuners en terrasse"
+      ],
+      "areas": [
+        {
+          "name": "Laneways du CBD",
+          "note": "Un véritable labyrinthe de cafés, bars à vin et petits restaurants cachés dans les ruelles du centre. Ici, chaque repas est l'occasion de découvrir une nouvelle adresse appréciée des habitants."
+        },
+        {
+          "name": "Quartiers créatifs (Fitzroy et Collingwood)",
+          "note": "Ces quartiers branchés concentrent boulangeries artisanales, pubs, cafés indépendants et restaurants où l'on retrouve l'esprit créatif et convivial de Melbourne."
+        },
+        {
+          "name": "Marchés et berges de la Yarra",
+          "note": "Les marchés et les restaurants situés près de la rivière offrent une cuisine simple, variée et authentique, idéale pour un brunch ou un déjeuner décontracté."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pellegrini’s Espresso Bar",
+          "area": "CBD",
+          "reason": "Institution historique de Melbourne, célèbre pour son espresso à l'italienne et son ambiance authentique qui illustre parfaitement la culture du café de la ville.",
+          "imageUrl": "/src/assets/itineraries/australia/melbourne-food/pellegrinis-espresso-bar.jpg",
+          "lat": -37.8136,
+          "lng": 144.9676
+        },
+        {
+          "name": "Chin Chin",
+          "area": "Flinders Lane",
+          "reason": "Restaurant emblématique mêlant saveurs australiennes et asiatiques dans une atmosphère animée, reflet du caractère multiculturel de Melbourne.",
+          "imageUrl": "/src/assets/itineraries/australia/melbourne-food/chin-chin.jpg",
+          "lat": -37.8169,
+          "lng": 144.9689
+        },
+        {
+          "name": "Proud Mary Coffee",
+          "area": "Collingwood",
+          "reason": "Adresse incontournable pour les amateurs de café de spécialité, réputée pour sa torréfaction maison et ses excellents petits-déjeuners servis dans une ambiance détendue.",
+          "imageUrl": "/src/assets/itineraries/australia/melbourne-food/proud-mary-coffee.jpg",
+          "lat": -37.7993,
+          "lng": 144.9870
+        },
+        {
+          "name": "Attica",
+          "area": "Ripponlea",
+          "reason": "L'un des restaurants les plus renommés d'Australie, proposant une cuisine gastronomique créative mettant à l'honneur les ingrédients locaux et les traditions culinaires australiennes.",
+          "imageUrl": "/src/assets/itineraries/australia/melbourne-food/attica.jpg",
+          "lat": -37.8760,
+          "lng": 145.0016
+        },
+        {
+          "name": "Queen Victoria Market Food Hall",
+          "area": "CBD North",
+          "reason": "L'espace restauration du célèbre Queen Victoria Market permet de découvrir la diversité culinaire de Melbourne à travers des spécialités locales et internationales dans une ambiance conviviale.",
+          "imageUrl": "/src/assets/itineraries/australia/melbourne-food/queen-victoria-market.jpg",
+          "lat": -37.8076,
+          "lng": 144.9568
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-brisbane-river-light-and-easy-growth",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Brisbane",
+    "title": "Brisbane en 3 jours : rivière, soleil et douceur de vivre",
+    "days": 3,
+    "priceFrom": 300,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/3-days-brisbane-river-light-and-easy-growth.jpg",
+    "summary": "Cet itinéraire de 3 jours vous invite à découvrir Brisbane, capitale du Queensland, une ville où le climat subtropical, la Brisbane River et les grands espaces extérieurs façonnent naturellement le quotidien. Entre les promenades le long de la rivière, les traversées en CityCat, les jardins de South Bank et les quartiers animés, Brisbane offre une atmosphère détendue, lumineuse et conviviale. Ce séjour privilégie les balades en plein air, les pauses au bord de l'eau et la douceur de vivre qui caractérise l'une des villes les plus agréables d'Australie.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "La Brisbane River et ses promenades aménagées",
+      "Les South Bank Parklands",
+      "Les ferries CityCat sur la rivière",
+      "Le Story Bridge et ses panoramas",
+      "Le climat subtropical propice à la vie en extérieur",
+      "Une ville paisible où l'on prend le temps de vivre"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte de la rivière",
+        "summary": "Découvrir Brisbane au fil de l'eau.",
+        "details": "À votre arrivée, rejoignez les berges de la Brisbane River, véritable colonne vertébrale de la ville. Promenez-vous tranquillement le long des quais afin de découvrir les différents points de vue sur la skyline et les nombreux espaces verts.\n\nDans l'après-midi, profitez des South Bank Parklands, où plages artificielles, pelouses, cafés et jardins illustrent parfaitement l'art de vivre en plein air propre à Brisbane.\n\nTerminez la journée par un dîner au bord de la rivière en admirant les lumières de la ville se refléter sur l'eau."
+      },
+      {
+        "day": 2,
+        "title": "Culture, rivière et vie subtropicale",
+        "summary": "Comprendre le rythme de Brisbane.",
+        "details": "Commencez la journée en embarquant à bord d'un ferry CityCat, utilisé quotidiennement par les habitants. Cette traversée permet d'apprécier la ville sous un angle différent tout en se déplaçant efficacement.\n\nPoursuivez ensuite par la visite des musées, galeries ou espaces culturels situés autour de South Bank ou du centre-ville.\n\nEn raison du climat subtropical, accordez-vous une pause pendant les heures les plus chaudes avant de reprendre vos visites.\n\nEn fin de journée, rejoignez Story Bridge ou un point de vue voisin afin d'admirer Brisbane illuminée."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers paisibles et derniers instants",
+        "summary": "Profiter une dernière fois de l'atmosphère de Brisbane.",
+        "details": "Commencez votre dernière matinée dans un café de quartier ou dans un parc au bord de la Brisbane River afin d'observer le quotidien des habitants.\n\nProfitez d'une dernière promenade le long de la rivière avant de savourer un déjeuner en terrasse.\n\nBrisbane laisse le souvenir d'une ville chaleureuse, accueillante et résolument tournée vers la vie en plein air."
+      }
+    ],
+    "planning": {
+      "city": "Brisbane, Australie",
+      "bestTime": {
+        "months": "Avr.–mai (automne) et sept.–oct. (printemps)",
+        "note": "Les températures sont agréables et l'humidité reste modérée, offrant des conditions idéales pour les promenades le long de la rivière, les traversées en ferry et les repas en terrasse."
+      },
+      "worstTime": {
+        "months": "Déc.–fév. (très chaud et humide), janv.–mars (risque d'orages)",
+        "note": "L'été est marqué par une forte humidité et des orages fréquents en fin de journée, ce qui incite à privilégier les activités le matin et en soirée."
+      },
+      "tips": [
+        "Laissez-vous guider par la Brisbane River : South Bank, le centre-ville et New Farm se découvrent facilement en suivant ses berges.",
+        "Utilisez les ferries CityCat comme moyen de transport : ils offrent également l'une des plus belles façons d'admirer la ville.",
+        "Pendant l'été austral, privilégiez les visites en intérieur ou les pauses à l'ombre durant les heures les plus chaudes.",
+        "Brisbane se vit principalement en extérieur : profitez des parcs, des promenades le long de la rivière et des nombreuses terrasses.",
+        "Les distances restent raisonnables mais les quartiers sont étendus ; combinez la marche avec les ferries ou les bus.",
+        "Les soirées sont conviviales et détendues, idéales pour profiter d'un rooftop ou d'un restaurant avec vue sur la rivière."
+      ],
+      "withKids": [
+        "Les South Bank Parklands et leur lagon sont parfaits pour les familles.",
+        "Les ferries CityCat plaisent beaucoup aux enfants tout en facilitant les déplacements.",
+        "Les larges promenades sont adaptées aux poussettes et aux trottinettes.",
+        "Pensez à emporter de l'eau, un chapeau et de la crème solaire toute l'année."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "De l'aéroport au centre-ville",
+          "note": "L'aéroport de Brisbane est relié directement au centre-ville et à South Bank par l'Airtrain. Les taxis et les VTC permettent également de rejoindre facilement votre hébergement."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir les berges de la Brisbane River, South Bank et les principaux quartiers du centre-ville.",
+        "Les ferries CityCat constituent à la fois un excellent moyen de transport et l'une des meilleures façons de découvrir Brisbane depuis la rivière.",
+        "Les lignes de bus complètent efficacement le réseau en reliant les quartiers situés au-delà des berges.",
+        "Les VTC et les taxis sont particulièrement pratiques lors des fortes chaleurs, des orages ou pour les déplacements en soirée."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Promenades le long de la rivière et South Bank",
+          "note": "Les larges promenades ombragées invitent à marcher tranquillement tout en profitant des nombreux espaces verts et points de vue sur la rivière."
+        },
+        {
+          "title": "Traversées en ferry CityCat",
+          "note": "Utiliser les ferries CityCat comme moyen de transport permet de comprendre facilement l'organisation de Brisbane tout en profitant d'une agréable balade sur la rivière."
+        },
+        {
+          "title": "Centre-ville ↔ Story Bridge",
+          "note": "Quelques minutes de marche ou un court trajet en bus suffisent pour rejoindre Story Bridge et ses magnifiques panoramas sur Brisbane."
+        },
+        {
+          "title": "Quartiers résidentiels, cafés et parcs",
+          "note": "Les bus locaux et la marche permettent de découvrir les cafés de quartier, les parcs et l'atmosphère détendue qui caractérisent Brisbane."
+        }
+      ],
+      "practical": [
+        "Les cartes bancaires sans contact sont acceptées sur les bus, les trains et les ferries du réseau de transports publics.",
+        "Les traversées en CityCat sont particulièrement agréables en milieu de matinée ou en fin d'après-midi, lorsque les températures sont plus douces.",
+        "La chaleur et l'humidité influencent fortement le rythme des visites : privilégiez les déplacements tôt le matin ou après la fin de journée.",
+        "À Brisbane, il est plus important de prévoir des pauses à l'ombre et de rester bien hydraté que de s'inquiéter des distances à parcourir.",
+        "Des orages peuvent se former rapidement pendant les mois les plus chauds ; gardez un programme suffisamment flexible.",
+        "Brisbane se découvre mieux en prenant le temps de profiter de chaque quartier plutôt qu'en cherchant à tout visiter."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cuisine australienne contemporaine en bord de rivière",
+        "Petits-déjeuners et brunchs dans les cafés de Brisbane",
+        "Fruits de mer et produits frais du Queensland",
+        "Halles gourmandes et restauration en plein air",
+        "Déjeuners dans les cafés de quartier",
+        "Bars à vin décontractés et dîners au coucher du soleil"
+      ],
+      "areas": [
+        {
+          "name": "South Bank",
+          "note": "Le cœur de la restauration en plein air de Brisbane. Les restaurants et cafés installés au bord de la Brisbane River offrent une atmosphère détendue, idéale pour profiter du climat subtropical."
+        },
+        {
+          "name": "CBD et berges de la Brisbane River",
+          "note": "Un secteur parfait pour déjeuner au bord de l'eau, mêlant restaurants contemporains, cafés et établissements facilement accessibles grâce aux ferries CityCat."
+        },
+        {
+          "name": "Quartiers de Fortitude Valley et West End",
+          "note": "Des quartiers créatifs réputés pour leurs cafés indépendants, leurs bars animés et leur scène gastronomique multiculturelle, très appréciés des habitants."
+        }
+      ],
+      "places": [
+        {
+          "name": "Eat Street Northshore",
+          "area": "Hamilton",
+          "reason": "Le marché gastronomique le plus emblématique de Brisbane, installé dans des conteneurs colorés au bord de la rivière. On y trouve une grande variété de cuisines du monde dans une ambiance conviviale et animée.",
+          "imageUrl": "/src/assets/itineraries/australia/brisbane-food/eat-street-northshore.jpg",
+          "lat": -27.4404,
+          "lng": 153.0716
+        },
+        {
+          "name": "Stokehouse Q",
+          "area": "South Bank",
+          "reason": "Restaurant moderne offrant une superbe vue sur la Brisbane River, réputé pour ses fruits de mer, sa cuisine australienne raffinée et son atmosphère élégante mais décontractée.",
+          "imageUrl": "/src/assets/itineraries/australia/brisbane-food/stokehouse-q.jpg",
+          "lat": -27.4807,
+          "lng": 153.0225
+        },
+        {
+          "name": "Felix for Goodness",
+          "area": "Brisbane CBD",
+          "reason": "Café très apprécié pour ses petits-déjeuners et brunchs généreux, incarnant parfaitement la culture conviviale des cafés de Brisbane.",
+          "imageUrl": "/src/assets/itineraries/australia/brisbane-food/felix-for-goodness.jpg",
+          "lat": -27.4689,
+          "lng": 153.0264
+        },
+        {
+          "name": "Howard Smith Wharves",
+          "area": "Kangaroo Point",
+          "reason": "Quartier gastronomique installé sous le Story Bridge, regroupant plusieurs restaurants et bars avec une vue spectaculaire sur la rivière, particulièrement agréable au coucher du soleil.",
+          "imageUrl": "/src/assets/itineraries/australia/brisbane-food/howard-smith-wharves.jpg",
+          "lat": -27.4635,
+          "lng": 153.0363
+        },
+        {
+          "name": "Gauge",
+          "area": "South Bank",
+          "reason": "Restaurant réputé mettant à l'honneur les produits de saison australiens à travers une cuisine créative, servie dans une ambiance élégante et sans prétention.",
+          "imageUrl": "/src/assets/itineraries/australia/brisbane-food/gauge-restaurant.jpg",
+          "lat": -27.4809,
+          "lng": 153.0228
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-perth-distance-sun-and-quiet-confidence",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Perth",
+    "title": "Perth en 3 jours : grands espaces, soleil et sérénité",
+    "days": 3,
+    "priceFrom": 310,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/3-days-perth-distance-sun-and-quiet-confidence.jpg",
+    "summary": "Cet itinéraire de 3 jours vous emmène à la découverte de Perth, capitale de l'Australie-Occidentale, réputée pour son ensoleillement exceptionnel, ses vastes espaces et son atmosphère détendue. Entre la Swan River, les panoramas de Kings Park, les plages de l'océan Indien et le charme historique de Fremantle, Perth offre une qualité de vie unique où la nature fait partie intégrante du quotidien. Ce séjour privilégie les promenades en plein air, les couchers de soleil sur l'océan et le rythme paisible qui caractérise cette ville isolée mais résolument tournée vers l'extérieur.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "La Swan River et ses promenades aménagées",
+      "Les panoramas de Kings Park",
+      "Les plages de l'océan Indien",
+      "Le port historique de Fremantle",
+      "Une ville baignée de soleil toute l'année",
+      "Un mode de vie décontracté en plein air"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte de la Swan River",
+        "summary": "Découvrir Perth au fil de l'eau.",
+        "details": "À votre arrivée, commencez votre séjour par une promenade le long de la Swan River. Les larges quais, les espaces verts et les vues dégagées offrent immédiatement un aperçu du caractère paisible de Perth.\n\nDans l'après-midi, poursuivez à pied ou à vélo le long des berges afin d'observer l'équilibre entre les quartiers résidentiels, les parcs et le centre-ville.\n\nEn fin de journée, rejoignez Kings Park pour admirer l'un des plus beaux panoramas sur Perth et la rivière au coucher du soleil."
+      },
+      {
+        "day": 2,
+        "title": "Kings Park, plages et océan Indien",
+        "summary": "Profiter pleinement des grands espaces.",
+        "details": "Commencez la journée par une nouvelle visite de Kings Park ou d'un autre point de vue afin d'apprécier l'immensité de Perth.\n\nDans l'après-midi, rejoignez Cottesloe Beach ou une autre plage de la côte pour profiter de l'océan Indien. Prenez le temps de vous baigner ou simplement de vous détendre face à la mer.\n\nEn soirée, admirez le célèbre coucher de soleil sur l'océan avant de savourer un dîner décontracté en bord de mer."
+      },
+      {
+        "day": 3,
+        "title": "Fremantle et derniers instants",
+        "summary": "Découvrir l'histoire maritime de Perth.",
+        "details": "Consacrez cette dernière journée à Fremantle, charmante ville portuaire connue pour son patrimoine historique, ses marchés et ses anciens entrepôts reconvertis.\n\nFlânez entre les cafés, les boutiques indépendantes et les quais du port avant de profiter d'un dernier déjeuner.\n\nPerth laisse le souvenir d'une ville lumineuse, paisible et profondément connectée à la nature."
+      }
+    ],
+    "planning": {
+      "city": "Perth, Australie-Occidentale, Australie",
+      "bestTime": {
+        "months": "Mars–mai (automne) et septembre–novembre (printemps)",
+        "note": "Les journées sont ensoleillées, les températures agréables et l'humidité faible, offrant des conditions idéales pour profiter des plages, des promenades le long de la rivière et des repas en terrasse."
+      },
+      "worstTime": {
+        "months": "Déc.–fév. (très chaud), juil.–août (plus frais et plus humide)",
+        "note": "L'été peut être marqué par de fortes chaleurs, tandis que l'hiver apporte davantage de fraîcheur et quelques journées plus nuageuses."
+      },
+      "tips": [
+        "Organisez vos visites par secteur — centre-ville, Kings Park, littoral et Fremantle — afin de limiter les déplacements.",
+        "Profitez des matinées et de la fin d'après-midi pour les activités extérieures ; les heures centrales sont souvent très chaudes en été.",
+        "Prenez le temps d'explorer Kings Park, l'un des plus grands parcs urbains au monde, offrant des vues remarquables sur Perth.",
+        "Les plages de Cottesloe et Scarborough sont particulièrement agréables en fin de journée pour admirer le coucher du soleil.",
+        "Les trains et les ferries facilitent les déplacements, même si la voiture reste pratique pour explorer les environs.",
+        "Les soirées à Perth sont paisibles : privilégiez un bon restaurant, un bar avec terrasse ou une promenade au bord de l'eau."
+      ],
+      "withKids": [
+        "Les grands parcs et les plages offrent beaucoup d'espace pour jouer en toute liberté.",
+        "Les ferries sur la Swan River constituent une activité simple et appréciée des enfants.",
+        "Évitez les longues expositions au soleil pendant les heures les plus chaudes et prévoyez une bonne protection solaire.",
+        "Les promenades plates sont idéales pour les poussettes et les vélos."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "De l'aéroport au centre-ville",
+          "note": "L'aéroport de Perth est relié directement au centre-ville par le train Airport Line. Les taxis et les VTC constituent également une solution rapide et pratique pour rejoindre votre hébergement."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir les berges de la Swan River, Kings Park et le centre historique de Fremantle.",
+        "Les trains relient rapidement le centre-ville à Fremantle ainsi qu'aux principaux quartiers côtiers.",
+        "Les bus complètent efficacement le réseau de transport entre les parcs, la rivière et les plages.",
+        "Les VTC et les taxis sont particulièrement utiles pendant les fortes chaleurs ou pour rentrer en soirée."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre-ville ↔ Berges de la Swan River",
+          "note": "Les promenades aménagées, plates et spacieuses, sont parfaites pour marcher ou faire du vélo tout en profitant des paysages de la rivière."
+        },
+        {
+          "title": "Accès à Kings Park",
+          "note": "Kings Park est facilement accessible en bus, en VTC ou à pied pour les plus sportifs. Depuis ses belvédères, il offre les plus belles vues sur Perth et la Swan River."
+        },
+        {
+          "title": "Centre-ville ↔ Cottesloe ou Scarborough",
+          "note": "Les plages sont facilement accessibles en train puis à pied. Mieux vaut privilégier les fins d'après-midi pour profiter de températures plus agréables et des magnifiques couchers de soleil."
+        },
+        {
+          "title": "Perth ↔ Fremantle",
+          "note": "Une ligne de train directe permet de rejoindre rapidement Fremantle et d'y passer une journée entière à explorer son patrimoine maritime et ses marchés."
+        }
+      ],
+      "practical": [
+        "Les cartes bancaires sans contact sont acceptées sur les trains et les bus du réseau Transperth.",
+        "Les distances sont importantes ; il est conseillé de regrouper les visites par secteur afin de limiter les trajets.",
+        "En été, privilégiez les activités extérieures le matin et en fin de journée afin d'éviter les fortes chaleurs.",
+        "Le soleil est particulièrement intense toute l'année : crème solaire, chapeau et bouteille d'eau sont indispensables.",
+        "Les ferries sont moins nombreux que dans d'autres villes australiennes, mais constituent une agréable option lorsqu'ils sont disponibles sur la Swan River.",
+        "Perth se découvre mieux en prenant le temps de profiter de chaque quartier plutôt qu'en cherchant à multiplier les visites."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer d'Australie-Occidentale et produits de l'océan Indien",
+        "Repas décontractés en bord de plage au coucher du soleil",
+        "Cuisine australienne contemporaine mettant en valeur les produits régionaux",
+        "Brunchs et cafés à l'ambiance simple et conviviale",
+        "Spécialités des marchés et du port historique de Fremantle",
+        "Cuisine en plein air portée par le climat ensoleillé de Perth"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville et Swan River",
+          "note": "Les restaurants installés le long de la Swan River proposent une cuisine australienne moderne dans un cadre paisible, où la lumière et les grands espaces font partie intégrante de l'expérience."
+        },
+        {
+          "name": "Quartiers côtiers (Cottesloe et Scarborough)",
+          "note": "Ces stations balnéaires sont réputées pour leurs restaurants de fruits de mer, leurs terrasses face à l'océan Indien et leurs magnifiques couchers de soleil, particulièrement appréciés en fin de journée."
+        },
+        {
+          "name": "Fremantle",
+          "note": "Le quartier historique du port concentre marchés, cafés et restaurants installés dans d'anciens bâtiments industriels, offrant une atmosphère authentique et typiquement ouest-australienne."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bread in Common",
+          "area": "Fremantle",
+          "reason": "L'une des adresses les plus réputées d'Australie-Occidentale, célèbre pour son pain au levain cuit au feu de bois, ses assiettes à partager et sa cuisine simple mettant en valeur des produits de qualité.",
+          "imageUrl": "/src/assets/itineraries/australia/perth-food/bread-in-common.jpg",
+          "lat": -32.0567,
+          "lng": 115.7435
+        },
+        {
+          "name": "Cottesloe Beach Hotel",
+          "area": "Cottesloe",
+          "reason": "Restaurant emblématique face à l'océan Indien, idéal pour savourer des fruits de mer ou un verre tout en admirant l'un des plus beaux couchers de soleil de Perth.",
+          "imageUrl": "/src/assets/itineraries/australia/perth-food/cottesloe-beach-hotel.jpg",
+          "lat": -31.9936,
+          "lng": 115.7526
+        },
+        {
+          "name": "Petition Kitchen",
+          "area": "Perth CBD",
+          "reason": "Restaurant contemporain très apprécié pour sa cuisine élaborée à partir de produits d'Australie-Occidentale, servie dans une ambiance élégante et décontractée.",
+          "imageUrl": "/src/assets/itineraries/australia/perth-food/petition-kitchen.jpg",
+          "lat": -31.9554,
+          "lng": 115.8592
+        },
+        {
+          "name": "Little Creatures Brewery",
+          "area": "Fremantle",
+          "reason": "Brasserie emblématique installée dans un ancien bâtiment industriel du port, réputée pour ses bières artisanales, sa cuisine conviviale et son atmosphère animée en bord de mer.",
+          "imageUrl": "/src/assets/itineraries/australia/perth-food/little-creatures.jpg",
+          "lat": -32.0549,
+          "lng": 115.7448
+        },
+        {
+          "name": "Bib & Tucker",
+          "area": "Leighton Beach",
+          "reason": "Restaurant élégant situé face à l'océan, mettant à l'honneur les produits de saison d'Australie-Occidentale. Une excellente adresse pour un déjeuner en bord de mer ou un dîner au coucher du soleil.",
+          "imageUrl": "/src/assets/itineraries/australia/perth-food/bib-and-tucker.jpg",
+          "lat": -31.9649,
+          "lng": 115.7486
+        }
+      ]
+    }
+  },
+  {
+    "slug": "5-days-tasmania-isolation-weather-and-attention",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Tasmania",
+    "title": "La Tasmanie en 5 jours : nature sauvage, météo et grands espaces",
+    "days": 5,
+    "priceFrom": 340,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/5-days-tasmania-isolation-weather-and-attention.jpg",
+    "summary": "Cet itinéraire de 5 jours vous emmène à la découverte de la Tasmanie, une île australienne réputée pour ses paysages préservés, ses parcs nationaux et son atmosphère paisible. Entre le port historique de Hobart, les panoramas du mont Wellington (kunanyi), les sentiers sauvages de Cradle Mountain et les plages spectaculaires de la péninsule de Freycinet, ce voyage alterne routes panoramiques, randonnées accessibles et immersion dans une nature exceptionnelle. La Tasmanie récompense les voyageurs qui prennent le temps d'explorer ses paysages au rythme des saisons et de la météo.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le front de mer historique de Hobart",
+      "Le parc national de Cradle Mountain–Lake St Clair",
+      "La péninsule de Freycinet et Wineglass Bay",
+      "Les routes panoramiques à travers les montagnes et les forêts",
+      "Une nature préservée et un air d'une grande pureté",
+      "Une île où le calme fait partie de l'expérience"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à Hobart et découverte du port",
+        "summary": "Prendre le temps de découvrir la capitale de la Tasmanie.",
+        "details": "À votre arrivée à Hobart, commencez votre séjour en vous promenant le long du front de mer historique. Les anciens entrepôts, les bateaux de pêche et l'atmosphère maritime donnent immédiatement le ton de votre voyage.\n\nDans l'après-midi, explorez tranquillement les rues du centre-ville avant de profiter d'un dîner dans l'un des restaurants du port, réputés pour leurs produits de la mer."
+      },
+      {
+        "day": 2,
+        "title": "Mont Wellington et panoramas",
+        "summary": "Découvrir Hobart vue d'en haut.",
+        "details": "Rejoignez le sommet du mont Wellington (kunanyi), qui domine toute la région de Hobart. Les conditions météorologiques peuvent changer rapidement, offrant des panoramas toujours différents sur la Derwent River et la ville.\n\nProfitez des sentiers accessibles autour du sommet avant de redescendre vers Hobart pour une après-midi plus détendue.\n\nEn soirée, laissez-vous porter par le rythme tranquille de la ville."
+      },
+      {
+        "day": 3,
+        "title": "Cradle Mountain et nature sauvage",
+        "summary": "Explorer le cœur naturel de la Tasmanie.",
+        "details": "Prenez la route vers le parc national de Cradle Mountain–Lake St Clair en traversant des forêts, des vallées et des paysages montagneux typiques de la Tasmanie.\n\nPromenez-vous autour du Dove Lake en profitant du calme exceptionnel des lieux.\n\nLa météo évolue rapidement : considérez-la comme une partie intégrante de l'expérience avant de passer la nuit dans la région."
+      },
+      {
+        "day": 4,
+        "title": "Péninsule de Freycinet et Wineglass Bay",
+        "summary": "Découvrir l'un des plus beaux paysages d'Australie.",
+        "details": "Partez en direction du parc national de Freycinet, célèbre pour ses formations de granit rose, ses plages de sable blanc et ses eaux turquoise.\n\nRejoignez le point de vue dominant Wineglass Bay afin d'admirer l'une des baies les plus emblématiques du pays.\n\nProfitez ensuite du littoral avant une soirée paisible au cœur de la nature."
+      },
+      {
+        "day": 5,
+        "title": "Dernières découvertes et retour",
+        "summary": "Quitter la Tasmanie en douceur.",
+        "details": "Profitez d'une dernière promenade en pleine nature, d'un arrêt sur la côte ou d'une route panoramique avant de reprendre la direction de Hobart.\n\nLa Tasmanie laisse le souvenir d'une destination où la nature, le silence et les paysages grandioses invitent naturellement à ralentir."
+      }
+    ],
+    "planning": {
+      "city": "Tasmanie, Australie",
+      "bestTime": {
+        "months": "Déc.–mars (été austral)",
+        "note": "Les journées sont longues et les températures plus douces, offrant les meilleures conditions pour les randonnées, les routes panoramiques et les visites des parcs nationaux, même si la météo reste changeante."
+      },
+      "worstTime": {
+        "months": "Juin–août (hiver)",
+        "note": "Les journées sont courtes, les températures peuvent être froides en altitude et certains sentiers ou routes peuvent être temporairement fermés."
+      },
+      "tips": [
+        "Prévoyez un itinéraire flexible en consacrant une à deux journées par région afin d'éviter de longues heures de route.",
+        "La météo change rapidement : gardez toujours une marge dans votre programme et adaptez vos visites en conséquence.",
+        "Les matinées sont idéales pour les randonnées, tandis que les après-midis conviennent parfaitement aux trajets panoramiques ou aux pauses dans les cafés.",
+        "Habillez-vous en plusieurs couches : coupe-vent et vêtements imperméables sont souvent plus utiles qu'un manteau très épais.",
+        "La faune est particulièrement active à l'aube et au crépuscule ; ouvrez l'œil si vous souhaitez observer les animaux sauvages.",
+        "Les stations-service et les restaurants sont parfois éloignés les uns des autres dans les régions isolées ; prévoyez toujours suffisamment de carburant et de provisions."
+      ],
+      "withKids": [
+        "Les sentiers courts et bien aménagés sont plus adaptés que les longues randonnées.",
+        "Les plages, les lacs et les espaces naturels offrent de nombreuses possibilités de jeux en plein air.",
+        "Limitez les longues journées de route afin d'éviter la fatigue.",
+        "Même en été, prévoyez des vêtements chauds et imperméables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Depuis l'Australie continentale vers la Tasmanie",
+          "note": "L'itinéraire commence généralement par un vol à destination de l'aéroport de Hobart ou de Launceston. L'avion est de loin le moyen le plus pratique pour rejoindre la Tasmanie."
+        }
+      ],
+      "gettingAround": [
+        "La voiture de location est indispensable : les distances, les parcs nationaux et les variations météorologiques rendent les transports publics peu adaptés à ce type de voyage.",
+        "Les routes sont globalement en bon état, mais elles deviennent plus étroites en dehors des villes. La faune est particulièrement présente à l'aube et au crépuscule ; conduisez avec prudence."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Hobart ↔ Centre-ville et front de mer",
+          "note": "Le centre historique de Hobart se découvre facilement à pied. Les quartiers plus éloignés sont accessibles en voiture ou en bus."
+        },
+        {
+          "title": "Hobart ↔ Mont Wellington (kunanyi)",
+          "note": "Le sommet est accessible en voiture ou en navette. Vérifiez toujours les conditions météorologiques avant de monter, car elles peuvent évoluer très rapidement."
+        },
+        {
+          "title": "Hobart → Cradle Mountain",
+          "note": "Comptez environ 4 à 5 heures de route à travers l'intérieur de l'île. Faites le plein avant le départ et prévoyez une marge en raison des conditions météo et de la présence d'animaux sauvages."
+        },
+        {
+          "title": "Cradle Mountain → Péninsule de Freycinet",
+          "note": "Cette traversée de la Tasmanie offre des paysages très variés. Faites plusieurs pauses et évitez de rouler dans la précipitation."
+        },
+        {
+          "title": "Freycinet → Hobart",
+          "note": "Le retour emprunte de magnifiques routes côtières et intérieures. Prévoyez suffisamment de temps afin de faire face à d'éventuels ralentissements liés à la météo."
+        }
+      ],
+      "practical": [
+        "Choisissez une voiture de location fiable, équipée d'un bon éclairage pour les trajets sur routes isolées.",
+        "Évitez autant que possible de conduire de nuit en raison de la forte présence d'animaux sauvages sur les routes.",
+        "Consultez chaque jour l'état des routes ainsi que les informations d'accès aux parcs nationaux.",
+        "Les stations-service et les restaurants sont peu nombreux dans les régions les plus isolées : anticipez vos ravitaillements.",
+        "La météo change rapidement ; soyez prêt à modifier votre itinéraire ou à raccourcir certaines randonnées.",
+        "Les distances paraissent courtes sur une carte, mais les temps de trajet sont souvent plus longs qu'ils n'y paraissent."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer de Tasmanie (huîtres, coquilles Saint-Jacques, saumon)",
+        "Produits locaux issus du climat frais et des petites exploitations agricoles",
+        "Cuisine australienne de saison, simple et raffinée",
+        "Restaurants chaleureux parfaits pour les journées fraîches",
+        "Whiskys, cidres et vins de climat frais produits en Tasmanie",
+        "Une gastronomie profondément ancrée dans le terroir et les saisons"
+      ],
+      "areas": [
+        {
+          "name": "Front de mer de Hobart",
+          "note": "Le port historique de Hobart rassemble d'excellents restaurants de fruits de mer mettant en valeur les produits frais de Tasmanie dans une ambiance authentique."
+        },
+        {
+          "name": "Campagne et régions rurales de Tasmanie",
+          "note": "Les fermes, producteurs artisanaux et restaurants de destination illustrent la richesse gastronomique de l'île, fortement influencée par les saisons et les produits locaux."
+        },
+        {
+          "name": "Côte est et région de Freycinet",
+          "note": "Cette région est réputée pour ses huîtres, ses fruits de mer et sa cuisine côtière mettant à l'honneur les produits issus des eaux froides de Tasmanie."
+        }
+      ],
+      "places": [
+        {
+          "name": "Franklin",
+          "area": "Hobart",
+          "reason": "L'un des restaurants les plus prestigieux de Tasmanie, réputé pour ses menus de saison élaborés exclusivement à partir de produits locaux soigneusement sélectionnés.",
+          "imageUrl": "/src/assets/itineraries/australia/tasmania-food/franklin-hobart.jpg",
+          "lat": -42.8814,
+          "lng": 147.3272
+        },
+        {
+          "name": "Mures Upper Deck",
+          "area": "Hobart Waterfront",
+          "reason": "Institution du front de mer de Hobart, célèbre pour ses poissons et fruits de mer fraîchement pêchés ainsi que sa superbe vue sur le port.",
+          "imageUrl": "/src/assets/itineraries/australia/tasmania-food/mures-upper-deck.jpg",
+          "lat": -42.8831,
+          "lng": 147.3326
+        },
+        {
+          "name": "The Agrarian Kitchen Eatery",
+          "area": "New Norfolk",
+          "reason": "Restaurant de référence mettant en valeur l'agriculture tasmanienne grâce à une cuisine de saison inventive, élaborée à partir de produits cultivés localement.",
+          "imageUrl": "/src/assets/itineraries/australia/tasmania-food/agrarian-kitchen.jpg",
+          "lat": -42.7815,
+          "lng": 147.0596
+        },
+        {
+          "name": "Freycinet Marine Farm",
+          "area": "Coles Bay",
+          "reason": "Adresse incontournable pour déguster des huîtres et des fruits de mer directement issus des eaux cristallines de la péninsule de Freycinet.",
+          "imageUrl": "/src/assets/itineraries/australia/tasmania-food/freycinet-marine-farm.jpg",
+          "lat": -42.1279,
+          "lng": 148.2834
+        },
+        {
+          "name": "Cradle Mountain Lodge Highland Restaurant",
+          "area": "Cradle Mountain",
+          "reason": "Restaurant raffiné proposant une cuisine régionale élaborée avec les meilleurs produits tasmaniens, idéale après une journée passée dans les montagnes.",
+          "imageUrl": "/src/assets/itineraries/australia/tasmania-food/highland-restaurant.jpg",
+          "lat": -41.5769,
+          "lng": 145.9337
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-canberra-intention-space-and-quiet-thought",
+    "region": "oceania",
+    "country": "Australia",
+    "city": "Canberra",
+    "title": "Canberra en 3 jours : architecture, nature et mémoire nationale",
+    "days": 3,
+    "priceFrom": 295,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/australia/3-days-canberra-intention-space-and-quiet-thought.jpg",
+    "summary": "Cet itinéraire de 3 jours vous invite à découvrir Canberra, la capitale australienne, une ville pensée avec soin où l'architecture, les espaces verts et les grandes institutions nationales s'intègrent harmonieusement au paysage. Organisée autour du lac Burley Griffin, Canberra séduit par ses vastes perspectives, ses musées de renommée mondiale et ses nombreux espaces naturels. Plus discrète que Sydney ou Melbourne, elle offre une expérience culturelle riche dans une atmosphère calme et reposante.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le Parliament House et son architecture emblématique",
+      "Le lac Burley Griffin et ses promenades panoramiques",
+      "Les musées nationaux et les grandes institutions culturelles",
+      "L'Australian War Memorial",
+      "La nature omniprésente au cœur de la capitale",
+      "Une ville conçue autour de l'espace, de la culture et de la réflexion"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte du cœur de Canberra",
+        "summary": "Prendre ses repères dans une capitale unique.",
+        "details": "À votre arrivée, découvrez les grands axes qui relient le Parliament House, le lac Burley Griffin et les principaux bâtiments officiels. L'urbanisme de Canberra se distingue par ses larges avenues, ses perspectives dégagées et son atmosphère paisible.\n\nDans l'après-midi, promenez-vous le long du lac Burley Griffin, où les espaces verts et les vues ouvertes offrent un contraste agréable avec les institutions gouvernementales.\n\nTerminez la journée en admirant le coucher du soleil au bord du lac."
+      },
+      {
+        "day": 2,
+        "title": "Mémoire nationale et grands musées",
+        "summary": "Explorer l'histoire et la culture australiennes.",
+        "details": "Commencez la journée par la visite de l'Australian War Memorial, l'un des lieux de mémoire les plus importants du pays, où les expositions invitent à la réflexion.\n\nL'après-midi, choisissez un ou deux grands musées ou galeries nationales, comme la National Gallery of Australia ou le National Museum of Australia. Prenez le temps d'apprécier les collections plutôt que de vouloir tout voir.\n\nLa soirée se déroule dans l'ambiance calme qui caractérise Canberra."
+      },
+      {
+        "day": 3,
+        "title": "Nature, panoramas et départ",
+        "summary": "Profiter des derniers paysages de la capitale.",
+        "details": "Consacrez votre dernière matinée à une promenade dans les espaces naturels qui entourent Canberra, où la brousse australienne se mêle harmonieusement à la ville.\n\nRevenez ensuite vers les berges du lac ou revisitez un lieu qui vous a particulièrement marqué avant de savourer un dernier déjeuner.\n\nCanberra laisse le souvenir d'une capitale élégante où l'architecture, la nature et la culture coexistent avec équilibre."
+      }
+    ],
+    "planning": {
+      "city": "Canberra, Australie",
+      "bestTime": {
+        "months": "Mars–mai (automne) et septembre–novembre (printemps)",
+        "note": "Les températures sont agréables et les paysages particulièrement beaux, offrant d'excellentes conditions pour les promenades autour du lac, les visites culturelles et les points de vue panoramiques."
+      },
+      "worstTime": {
+        "months": "Déc.–fév. (chaud et sec), juin–août (froid et gelées)",
+        "note": "L'été peut être très chaud en milieu de journée, tandis que l'hiver apporte des matinées froides et des journées plus courtes."
+      },
+      "tips": [
+        "Suivez l'axe reliant le Parliament House, l'Australian War Memorial et le mont Ainslie pour mieux comprendre la conception de la ville.",
+        "Profitez des grands espaces verts et des larges perspectives, qui font partie intégrante de l'identité de Canberra.",
+        "Prévoyez une demi-journée pour chaque grand musée afin de profiter pleinement des collections.",
+        "Les matinées sont idéales pour les visites culturelles, tandis que les après-midis conviennent parfaitement aux promenades autour du lac et aux pauses dans les cafés.",
+        "La voiture ou le vélo permettent de se déplacer facilement entre les différents quartiers.",
+        "Les soirées sont généralement calmes et propices à un dîner tranquille plutôt qu'à une vie nocturne animée."
+      ],
+      "withKids": [
+        "Les musées proposent de nombreuses expositions interactives adaptées aux familles.",
+        "Les pistes cyclables et les promenades autour du lac sont parfaites pour les vélos et les trottinettes.",
+        "Les grands parcs offrent de vastes espaces pour se détendre entre deux visites.",
+        "Prévoyez plusieurs couches de vêtements, les températures pouvant varier rapidement au cours de la journée."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée à Canberra",
+          "note": "Vous pouvez rejoindre Canberra par avion via l'aéroport de Canberra ou en train et autocar depuis Sydney. La capitale est compacte, mais les différents quartiers sont volontairement espacés."
+        }
+      ],
+      "gettingAround": [
+        "Canberra se découvre idéalement en voiture, à vélo ou à pied grâce à ses larges avenues et à son urbanisme aéré.",
+        "Les distances font partie de la conception de la ville : prenez le temps de profiter des espaces entre les sites emblématiques."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Aéroport / Gare → Centre de Canberra",
+          "note": "Le centre-ville est rapidement accessible en taxi, en VTC ou avec une voiture de location."
+        },
+        {
+          "title": "Parliament House ↔ Lac Burley Griffin",
+          "note": "Une agréable promenade relie ces deux sites à travers de vastes pelouses et des allées aménagées. Le vélo est également un excellent moyen de transport."
+        },
+        {
+          "title": "Lac Burley Griffin ↔ Australian War Memorial",
+          "note": "Le trajet peut s'effectuer en voiture, à vélo ou à pied le long du grand axe monumental de la ville, qui monte progressivement vers le mont Ainslie."
+        },
+        {
+          "title": "Centre-ville ↔ Espaces naturels",
+          "note": "Quelques minutes de route ou de marche suffisent pour rejoindre les réserves naturelles et les nombreux parcs qui entourent Canberra."
+        }
+      ],
+      "practical": [
+        "Une voiture de location ou un vélo facilitent les déplacements entre les principaux sites touristiques.",
+        "Les distances à pied sont plus importantes que dans d'autres capitales, mais elles font partie intégrante de l'expérience de visite.",
+        "Les transports publics sont efficaces, mais la ville a avant tout été conçue pour la voiture et les mobilités douces.",
+        "En été, privilégiez les promenades le matin ou en fin de journée ; en hiver, prévoyez des vêtements chauds pour les matinées parfois très fraîches.",
+        "Le stationnement est généralement simple à proximité des principales institutions nationales.",
+        "Les soirées sont calmes et les déplacements restent fluides, même après les heures d'ouverture des attractions."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cuisine australienne contemporaine mettant à l'honneur les produits de saison",
+        "Cuisine fermière (« farm-to-table ») issue des producteurs de la région",
+        "Cafés chaleureux et culture du brunch à l'australienne",
+        "Vins de climat frais et productions viticoles locales",
+        "Restaurants raffinés à proximité des institutions culturelles",
+        "Une gastronomie élégante, discrète et centrée sur la qualité des produits"
+      ],
+      "areas": [
+        {
+          "name": "NewActon et centre-ville",
+          "note": "Quartier moderne mêlant architecture contemporaine, hôtels design et restaurants raffinés, à proximité du lac Burley Griffin et des principales institutions culturelles."
+        },
+        {
+          "name": "Braddon",
+          "note": "Le quartier gastronomique le plus animé de Canberra, réputé pour ses cafés branchés, ses brunchs et sa cuisine australienne créative."
+        },
+        {
+          "name": "Campagne et environs de Canberra",
+          "note": "Les terres agricoles environnantes alimentent de nombreux restaurants en produits frais, donnant naissance à une cuisine authentique et profondément saisonnière."
+        }
+      ],
+      "places": [
+        {
+          "name": "Aubergine",
+          "area": "Griffith",
+          "reason": "L'une des meilleures tables de Canberra, réputée pour sa cuisine gastronomique précise, élégante et élaborée à partir de produits australiens de saison.",
+          "imageUrl": "/src/assets/itineraries/australia/canberra-food/aubergine-griffith.jpg",
+          "lat": -35.3192,
+          "lng": 149.1418
+        },
+        {
+          "name": "Monster Kitchen & Bar",
+          "area": "NewActon",
+          "reason": "Restaurant contemporain reconnu pour sa cuisine inventive mettant les légumes et les produits locaux à l'honneur, dans un cadre design à deux pas du lac Burley Griffin.",
+          "imageUrl": "/src/assets/itineraries/australia/canberra-food/monster-kitchen-bar.jpg",
+          "lat": -35.2955,
+          "lng": 149.1266
+        },
+        {
+          "name": "Raku",
+          "area": "City Centre",
+          "reason": "Excellente adresse japonaise proposant une cuisine raffinée et une atmosphère élégante, idéale pour un dîner paisible au cœur de Canberra.",
+          "imageUrl": "/src/assets/itineraries/australia/canberra-food/raku-canberra.jpg",
+          "lat": -35.2787,
+          "lng": 149.1296
+        },
+        {
+          "name": "Eightysix",
+          "area": "Braddon",
+          "reason": "Restaurant incontournable de Braddon, apprécié pour sa cuisine australienne moderne, créative et élaborée à partir de produits régionaux de grande qualité.",
+          "imageUrl": "/src/assets/itineraries/australia/canberra-food/eightysix-braddon.jpg",
+          "lat": -35.2716,
+          "lng": 149.1324
+        },
+        {
+          "name": "Pialligo Estate Restaurant",
+          "area": "Pialligo",
+          "reason": "Restaurant installé au cœur d'un domaine rural, réputé pour sa cuisine de saison, son fumoir artisanal et son environnement verdoyant qui reflète parfaitement le lien entre Canberra et sa campagne environnante.",
+          "imageUrl": "/src/assets/itineraries/australia/canberra-food/pialligo-estate.jpg",
+          "lat": -35.3068,
+          "lng": 149.1752
+        }
+      ]
+    }
+  }

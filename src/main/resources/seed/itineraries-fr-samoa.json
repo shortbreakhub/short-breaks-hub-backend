@@ -1,0 +1,182 @@
+
+  {
+    "slug": "4-days-samoa-community-rhythm-and-shared-ground",
+    "region": "oceania",
+    "country": "Samoa",
+    "city": "Upolu & Savai'i",
+    "title": "Les Samoa en 4 jours : communauté, traditions et douceur insulaire",
+    "days": 4,
+    "priceFrom": 330,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/samoa/4-days-samoa-community-rhythm-and-shared-ground.jpg",
+    "summary": "Cet itinéraire de 4 jours aux Samoa vous invite à découvrir un archipel polynésien où la vie quotidienne est profondément ancrée dans les traditions, le sens de la communauté et le respect de la nature. Entre les îles d'Upolu et de Savai'i, les villages ouverts, les plages sauvages, les paysages volcaniques et les lagons tropicaux composent un voyage authentique. Conçu pour équilibrer détente, découvertes culturelles et exploration des paysages naturels, cet itinéraire révèle un mode de vie où le partage et la simplicité occupent une place essentielle.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les villages traditionnels et les fale ouverts",
+      "Le spectaculaire To Sua Ocean Trench",
+      "Une culture fondée sur le partage et la vie communautaire",
+      "Les paysages volcaniques et les routes paisibles de l'intérieur",
+      "Les soirées calmes rythmées par les échanges et la convivialité",
+      "L'hospitalité chaleureuse de la culture samoane"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte de la vie villageoise",
+        "summary": "Entrer dans le rythme des Samoa.",
+        "details": "À votre arrivée aux Samoa, installez-vous tranquillement avant de découvrir un village traditionnel où les maisons ouvertes et la vie communautaire reflètent les valeurs profondes de l'archipel.\n\nPromenez-vous dans les environs en observant le quotidien des habitants avec respect.\n\nDans l'après-midi, profitez d'une plage voisine où les espaces sont partagés naturellement entre les habitants et les visiteurs.\n\nEn soirée, partagez un repas local ou assistez simplement à la vie du village, où les conversations remplacent les distractions modernes."
+      },
+      {
+        "day": 2,
+        "title": "To Sua Ocean Trench et côte tropicale",
+        "summary": "Découvrir l'une des merveilles naturelles des Samoa.",
+        "details": "Commencez la journée par la visite du célèbre To Sua Ocean Trench, une spectaculaire piscine naturelle entourée de végétation tropicale et accessible par une longue échelle.\n\nProfitez d'une baignade dans ses eaux cristallines avant de poursuivre votre découverte du littoral.\n\nL'après-midi est consacré au repos sur une plage ombragée ou à la découverte de petites criques tranquilles.\n\nLa journée se termine paisiblement au coucher du soleil."
+      },
+      {
+        "day": 3,
+        "title": "Paysages volcaniques et traditions",
+        "summary": "Explorer l'intérieur des îles.",
+        "details": "Partez à la découverte de l'intérieur d'Upolu ou rejoignez Savai'i afin d'explorer les anciens champs de lave, les forêts tropicales et les paysages façonnés par l'activité volcanique.\n\nProfitez de courtes promenades et prenez le temps d'échanger avec les habitants afin de mieux comprendre leur histoire et leurs traditions.\n\nLa soirée retrouve naturellement le calme caractéristique des Samoa."
+      },
+      {
+        "day": 4,
+        "title": "Derniers instants et départ",
+        "summary": "Quitter les Samoa en douceur.",
+        "details": "Pour votre dernière matinée, retrouvez une plage ou un village déjà découvert afin de profiter pleinement de l'atmosphère paisible des îles.\n\nPrenez le temps d'observer une dernière fois le rythme de vie local avant de partager un dernier repas.\n\nLes Samoa laissent un souvenir durable grâce à leur hospitalité, leurs traditions vivantes et leur remarquable harmonie avec la nature."
+      }
+    ],
+    "planning": {
+      "city": "Samoa (Upolu et Savaiʻi)",
+      "bestTime": {
+        "months": "Mai–oct. (saison plus sèche et plus fraîche)",
+        "note": "Les températures sont agréables, l'humidité est plus faible et les conditions sont idéales pour visiter les villages, se baigner et parcourir les routes côtières."
+      },
+      "worstTime": {
+        "months": "Nov.–avr. (chaleur, humidité et risque cyclonique)",
+        "note": "Les pluies tropicales et les cyclones saisonniers peuvent perturber les déplacements, notamment après de fortes précipitations."
+      },
+      "tips": [
+        "Respectez le fonctionnement des villages : de nombreuses plages et sites naturels sont gérés par les communautés locales ; acquittez-vous des droits d'entrée et suivez les consignes.",
+        "Le dimanche occupe une place centrale dans la culture samoane : les commerces ferment, les villages ralentissent et les offices religieux rythment la journée.",
+        "Portez une tenue correcte lors de la visite des villages ; il est recommandé de couvrir les épaules et les genoux en dehors des complexes touristiques.",
+        "Prenez le temps de partager les repas avec les habitants lorsque l'occasion se présente ; ils font partie intégrante de l'expérience culturelle.",
+        "Pour un séjour de quatre jours, concentrez-vous sur Upolu ou sur Savai'i afin de profiter pleinement de chaque île sans multiplier les traversées.",
+        "Les soirées sont calmes et conviviales ; les échanges, les chants et le ciel étoilé remplacent naturellement la vie nocturne."
+      ],
+      "withKids": [
+        "Les plages et les lagons sont généralement calmes et adaptés aux familles.",
+        "Les trajets restent relativement courts, même si les routes invitent à rouler tranquillement.",
+        "Les spectacles traditionnels fiafia, mêlant musique et danse, plaisent beaucoup aux enfants.",
+        "Une bonne hydratation, de la crème solaire et des vêtements légers sont indispensables tout au long de l'année."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale aux Samoa",
+          "note": "Les vols internationaux atterrissent à l'aéroport international de Faleolo (APW), situé sur l'île d'Upolu, à l'ouest d'Apia. L'arrivée donne immédiatement le ton du voyage, avec une atmosphère détendue et une route paisible traversant les villages samoans."
+        }
+      ],
+      "gettingAround": [
+        "La voiture est le moyen le plus pratique pour explorer Upolu et Savai'i ; les routes sont simples, panoramiques et traversent de nombreux villages.",
+        "La circulation est lente et sereine, le rythme étant naturellement dicté par la vie locale plutôt que par la vitesse.",
+        "Les bus publics existent mais ne suivent pas d'horaires stricts ; ils conviennent davantage à une immersion culturelle qu'à un programme précis.",
+        "La marche est idéale à l'intérieur des villages et le long des plages, mais peu adaptée pour rejoindre des régions plus éloignées.",
+        "Les déplacements en soirée sont limités : la nuit tombe rapidement et de nombreuses routes ne sont pas éclairées."
+      ],
+      "dayTrips": [
+        {
+          "title": "To Sua Ocean Trench",
+          "note": "Ce site emblématique est accessible par la route depuis Apia en longeant la côte sud d'Upolu. L'accès est géré par la communauté locale et clairement indiqué."
+        },
+        {
+          "title": "Traversée entre Upolu et Savai'i",
+          "note": "Des ferries transportant passagers et véhicules relient Mulifanua (Upolu) à Salelologa (Savai'i). La traversée dure environ une heure, sous réserve des conditions météorologiques."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Village ↔ Littoral",
+          "note": "Les journées sont rythmées par de courts trajets entre les villages et les plages voisines plutôt que par de longues excursions."
+        },
+        {
+          "title": "Route côtière ↔ Intérieur des terres",
+          "note": "Les routes de l'intérieur révèlent les paysages volcaniques, les plantations et les collines verdoyantes, offrant un contraste saisissant avec les côtes bordées de cocotiers."
+        }
+      ],
+      "practical": [
+        "Prévoyez des temps de trajet plus longs que ne le suggèrent les distances ; les villages, les animaux et le rythme local ralentissent naturellement la circulation.",
+        "Arrivez en avance pour les ferries : manquer une traversée peut bouleverser tout le programme de la journée.",
+        "Le dimanche est consacré au repos et aux offices religieux ; profitez-en pour découvrir la culture locale plutôt que pour multiplier les déplacements.",
+        "Gardez toujours un peu d'argent liquide pour régler les droits d'accès demandés par certains villages pour leurs plages ou sites de baignade.",
+        "Les stations-service sont peu nombreuses en dehors d'Apia ; faites le plein avant de partir vers l'intérieur de l'île ou les embarcadères.",
+        "La conduite de nuit est déconseillée en raison du faible éclairage et des routes partagées avec les piétons et les animaux."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "L'Oka I'a (poisson cru mariné au lait de coco, citron vert et légumes)",
+        "Le Palusami (feuilles de taro cuites au lait de coco)",
+        "Les repas traditionnels préparés dans un umū, le four samoan enterré",
+        "Le Faiai Eleni (poisson accompagné de lait de coco et de légumes verts)",
+        "Les fruits tropicaux frais comme la papaye, la banane et le fruit à pain",
+        "Les repas partagés en famille ou au village, au cœur de la tradition samoane"
+      ],
+      "areas": [
+        {
+          "name": "Apia (Upolu)",
+          "note": "La capitale concentre la majorité des restaurants, mêlant cuisine samoane, petits cafés et établissements décontractés dans une ambiance conviviale."
+        },
+        {
+          "name": "Fale de plage et villages",
+          "note": "Les expériences culinaires les plus authentiques se vivent souvent directement dans les hébergements traditionnels, où les repas sont préparés et partagés en communauté."
+        },
+        {
+          "name": "Île de Savai'i",
+          "note": "Une cuisine plus traditionnelle, avec peu de restaurants mais une forte culture familiale autour des repas préparés dans les fours umū."
+        }
+      ],
+      "places": [
+        {
+          "name": "Paddles Restaurant",
+          "area": "Apia (Upolu)",
+          "reason": "Une excellente introduction à la cuisine samoane dans un agréable cadre en bord de mer, proposant un équilibre entre spécialités locales et cuisine internationale.",
+          "imageUrl": "/src/assets/itineraries/samoa/samoa-food/paddles-apia.jpg",
+          "lat": -13.8332,
+          "lng": -171.7660
+        },
+        {
+          "name": "Giordano’s Pizzeria & Restaurant",
+          "area": "Apia (Upolu)",
+          "reason": "Restaurant très apprécié des habitants, offrant une ambiance chaleureuse et représentative des soirées détendues d'Apia.",
+          "imageUrl": "/src/assets/itineraries/samoa/samoa-food/giordanos-apia.jpg",
+          "lat": -13.8326,
+          "lng": -171.7684
+        },
+        {
+          "name": "Scalinis Restaurant",
+          "area": "Apia (Upolu)",
+          "reason": "Institution locale réputée pour son atmosphère paisible, idéale pour savourer un dîner en toute tranquillité près du front de mer.",
+          "imageUrl": "/src/assets/itineraries/samoa/samoa-food/scalinis-apia.jpg",
+          "lat": -13.8339,
+          "lng": -171.7651
+        },
+        {
+          "name": "Ava I Toga Guesthouse Meals",
+          "area": "Village Fales & Beachfronts",
+          "reason": "Des repas faits maison servis en commun, parfaits pour découvrir la cuisine quotidienne et l'hospitalité traditionnelle des Samoa.",
+          "imageUrl": "/src/assets/itineraries/samoa/samoa-food/ava-i-toga-meal.jpg",
+          "lat": -13.8643,
+          "lng": -171.7502
+        },
+        {
+          "name": "Litia Sini Beach Fales Meals",
+          "area": "Savai‘i Island",
+          "reason": "Des repas simples préparés avec des produits locaux et partagés avec les voyageurs, offrant une véritable immersion dans le rythme de vie de Savai'i.",
+          "imageUrl": "/src/assets/itineraries/samoa/samoa-food/litia-sini-meals.jpg",
+          "lat": -13.5774,
+          "lng": -172.4115
+        }
+      ]
+    }
+  }

@@ -1,0 +1,1404 @@
+
+  {
+    "slug": "2-days-bath-stone-curves-and-roman-roots",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Bath",
+    "title": "Bath en 2 jours : Courbes de pierre et racines romaines",
+    "days": 2,
+    "priceFrom": 170,
+    "hero": "/src/assets/itineraries/united-kingdom/2-days-bath-stone-curves-and-roman-roots.jpg",
+    "summary": "Cet itinéraire de 2 jours à Bath explore l’une des villes les plus harmonieuses d’Angleterre sur le plan architectural et l’une des plus riches en strates historiques. Tous les sites proposés figurent régulièrement parmi les principales attractions de Bath et se découvrent facilement à pied. Vous plongerez dans les origines romaines de la ville, parcourrez ses élégantes rues géorgiennes et profiterez de ses points de vue environnants, le tout à un rythme détendu qui permet à l’équilibre et aux proportions de Bath de se révéler naturellement. L’itinéraire est conçu pour les visiteurs découvrant la ville pour la première fois et recherchant de la profondeur plutôt que de la vitesse.",
+    "highlights": [
+      "Roman Baths",
+      "Bath Abbey",
+      "Royal Crescent",
+      "The Circus",
+      "Pulteney Bridge"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Bath romaine et grandeur géorgienne",
+        "summary": "Origines antiques et élégance de la Bath géorgienne.",
+        "details": "Commencez votre visite de Bath aux Roman Baths, l’attraction la plus célèbre de la ville et l’une des mieux notées. Arriver tôt permet d’explorer ce complexe thermal remarquablement préservé avec moins de monde et de comprendre comment l’ingénierie romaine a façonné le développement de la ville. Prenez le temps de suivre le parcours autour du Great Bath, des salles voisines et des espaces muséographiques qui apportent le contexte historique nécessaire.\n\nDepuis les Roman Baths, entrez directement dans Bath Abbey, située juste à côté du complexe et au cœur du centre historique. Son intérieur lumineux et vertical contraste fortement avec les espaces bas et fermés du site romain. Prenez le temps de découvrir aussi bien l’intérieur que les abords de l’abbaye afin d’apprécier sa relation avec la place environnante.\n\nAprès le déjeuner dans le centre-ville, marchez vers le nord jusqu’à The Circus, l’un des plus beaux exemples d’urbanisme géorgien en Angleterre. Continuez vers le Royal Crescent, dont la grande courbe de pierre couleur miel est devenue l’image emblématique de Bath. Promenez-vous le long du croissant puis dans Royal Victoria Park, où les pelouses ouvertes offrent un espace idéal pour faire une pause et prendre la mesure de la ville.\n\nTerminez la journée par une promenade tranquille vers le centre tandis que la lumière du soir adoucit les façades de pierre. Grâce à la configuration compacte de Bath, le trajet du retour paraît contemplatif plutôt que fatigant."
+      },
+      {
+        "day": 2,
+        "title": "Promenades au bord de la rivière et vues en hauteur",
+        "summary": "Ponts, eau et panoramas au-dessus de la ville.",
+        "details": "Commencez votre deuxième journée à Pulteney Bridge, l’un des monuments les plus photographiés de Bath et un incontournable fréquent des classements des visiteurs. Traversez le pont puis suivez la rivière Avon pour une courte promenade au bord de l’eau, à la découverte d’un visage plus calme de la ville.\n\nDepuis la rivière, montez vers l’un des points de vue de Bath, comme Alexandra Park ou un sentier voisin en hauteur. Ces panoramas permettent d’embrasser la ville dans son ensemble et de mieux comprendre sa situation en cuvette au milieu des collines. La montée est régulière plutôt qu’exigeante et récompense l’effort par certaines des plus belles vues de la région.\n\nRetournez dans le centre-ville pour le déjeuner et profitez de l’après-midi librement. C’est l’occasion idéale de revenir dans une rue appréciée, de visiter un petit musée ou de profiter des cafés de Bath sans programme précis.\n\nAchevez votre séjour par une dernière promenade dans le cœur historique, en observant comment les fondations romaines et la vision géorgienne se combinent pour créer une ville cohérente, paisible et profondément humaine par son échelle."
+      }
+    ],
+    "planning": {
+      "city": "Bath, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les températures douces et les longues journées conviennent parfaitement aux points de vue en hauteur, aux promenades au bord de la rivière et aux flâneries dans les rues géorgiennes, sans les foules de la haute saison."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et humide), juillet–août (haute saison très fréquentée)",
+        "note": "L’hiver peut sembler gris et froid dans les grands espaces ouverts, tandis que l’été attire de nombreux visiteurs dans le centre historique compact."
+      },
+      "tips": [
+        "Pensez en boucles plutôt qu’en distances : Bath est petite et les itinéraires Royal Crescent → The Circus → Bath Abbey → rivière évitent les allers-retours.",
+        "Visitez les Roman Baths tôt le matin ou en fin d’après-midi pour réduire les files d’attente et profiter d’une atmosphère plus évocatrice.",
+        "Prenez de la hauteur : les points de vue au-dessus de la ville, près du Royal Crescent ou des bords du Skyline Walk, révèlent toute l’harmonie de Bath.",
+        "Pulteney Bridge et le déversoir sont plus agréables tôt le matin ou au crépuscule, lorsque la foule diminue.",
+        "Les musées sont compacts : associez une visite en intérieur à une promenade en plein air pour garder un bon équilibre.",
+        "Portez des chaussures confortables : les trottoirs de pierre et les pentes douces finissent par se faire sentir sur deux jours."
+      ],
+      "withKids": [
+        "Les courtes distances facilitent les déplacements entre les sites sans fatigue liée aux transports.",
+        "Les Roman Baths sont visuellement captivants, mais peuvent être très fréquentés ; privilégiez les heures creuses.",
+        "Les chemins au bord de la rivière offrent de l’espace pour faire une pause entre deux promenades architecturales.",
+        "Prévoyez de dîner plus tôt : la ville devient agréablement calme après la tombée de la nuit."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Bath",
+          "note": "Les trains directs au départ de London Paddington rejoignent Bath Spa en environ 1 h 20. Le train est le moyen le plus rapide et le plus pratique d’arriver, puisqu’il vous dépose directement dans le centre-ville."
+        },
+        {
+          "title": "En voiture",
+          "note": "Le trajet depuis Londres ou le sud-ouest dure environ 2 à 2 h 30 selon la circulation. Le stationnement dans le centre historique est limité ; utilisez les parkings-relais situés en périphérie."
+        }
+      ],
+      "gettingAround": [
+        "Le cœur historique de Bath est compact et se découvre idéalement entièrement à pied.",
+        "La plupart des principaux sites se trouvent dans un rayon de 10 à 15 minutes de marche.",
+        "Les bus locaux sont surtout utiles pour rejoindre les points de vue périphériques ou les parkings-relais.",
+        "Les taxis sont disponibles, mais rarement nécessaires pour visiter le centre."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Boucle du centre historique",
+          "note": "Les Roman Baths, Bath Abbey, The Circus, le Royal Crescent et Pulteney Bridge forment une boucle naturelle à pied, sans retour sur vos pas."
+        },
+        {
+          "title": "Rivière et points de vue",
+          "note": "Les chemins longeant la rivière Avon et les montées vers Alexandra Park ou les hauteurs ajoutent du relief et de la perspective sans imposer de longues distances."
+        }
+      ],
+      "practical": [
+        "Évitez de conduire dans le centre-ville : les rues étroites et les zones piétonnes ralentissent les déplacements.",
+        "La gare de Bath Spa se trouve à quelques minutes de marche, sur terrain plat, du centre historique.",
+        "Les pavés peuvent devenir glissants lorsqu’ils sont mouillés ; de bonnes chaussures de marche sont importantes.",
+        "La foule atteint son maximum en fin de matinée autour des Roman Baths ; les visites tôt ou tard dans la journée sont plus calmes.",
+        "Les pentes sont douces mais constantes : adaptez votre rythme plutôt que d’enchaîner les montées.",
+        "Bath se découvre mieux par des promenades en boucle que par des trajets point à point."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bath bun",
+        "Cidre du Somerset",
+        "Sunday roast traditionnel",
+        "Cheddar local",
+        "Afternoon tea classique"
+      ],
+      "areas": [
+        {
+          "name": "Historic City Centre",
+          "note": "Quartier compact et facile à parcourir, avec salons de thé, boulangeries et pubs classiques près des Roman Baths et de Bath Abbey, idéal entre deux boucles de visite."
+        },
+        {
+          "name": "Pulteney Bridge & Riverside",
+          "note": "Cafés et restaurants décontractés avec vue sur la rivière, parfaits pour des déjeuners plus lents ou une pause en fin de journée."
+        },
+        {
+          "name": "Upper Town (Royal Crescent / Circus)",
+          "note": "Secteur plus calme et résidentiel, avec des restaurants raffinés et des pubs agréables une fois les foules de la journée dissipées."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sally Lunn’s Historic Eating House",
+          "area": "Historic City Centre",
+          "reason": "L’une des adresses gastronomiques les plus emblématiques de Bath, célèbre pour le Bath bun et profondément liée à l’histoire de la ville.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bath-food/sally-lunns.jpg",
+          "lat": 51.3814,
+          "lng": -2.3587
+        },
+        {
+          "name": "The Pump Room Restaurant",
+          "area": "Historic City Centre",
+          "reason": "Élégante salle à manger géorgienne située à côté des Roman Baths, idéale pour un afternoon tea et pour prolonger l’atmosphère historique.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bath-food/the-pump-room.jpg",
+          "lat": 51.3811,
+          "lng": -2.3586
+        },
+        {
+          "name": "The Raven of Bath",
+          "area": "Upper Town",
+          "reason": "Pub local réputé servant de généreuses tourtes britanniques et des bières, fidèle à la culture gastronomique quotidienne de Bath loin des files touristiques.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bath-food/the-raven.jpg",
+          "lat": 51.3835,
+          "lng": -2.3614
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-bristol-where-creativity-meets-the-harbour",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Bristol",
+    "title": "Bristol en 2 jours : Quand la créativité rencontre le port",
+    "days": 2,
+    "priceFrom": 160,
+    "hero": "/src/assets/itineraries/united-kingdom/2-days-bristol-where-creativity-meets-the-harbour.jpg",
+    "summary": "Cet itinéraire de 2 jours à Bristol met l’accent sur l’héritage maritime de la ville, son énergie créative et son esprit indépendant. Tous les sites inclus figurent régulièrement parmi les attractions les mieux classées de Bristol et reflètent ce qui rend la ville véritablement distinctive, plutôt que générique. Vous explorerez le port historique, découvrirez l’un des plus grands chefs-d’œuvre de l’ingénierie britannique et parcourrez les œuvres de street art ainsi que les quartiers qui définissent le Bristol contemporain. Le rythme est détendu et adapté à la marche, laissant le temps de profiter des cafés, des vues sur l’eau et de l’atmosphère décontractée de la ville.",
+    "highlights": [
+      "Clifton Suspension Bridge",
+      "Harbourside et Wapping Wharf",
+      "SS Great Britain",
+      "Parcours de street art lié à Banksy",
+      "Clifton Village"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Clifton et les icônes maritimes de Bristol",
+        "summary": "Grands ouvrages d’ingénierie, panoramas et port historique.",
+        "details": "Commencez votre visite de Bristol à Clifton, l’un des quartiers les plus séduisants et les mieux notés de la ville. Rendez-vous d’abord au Clifton Suspension Bridge, symbole de l’ingénierie britannique et attraction régulièrement classée numéro un à Bristol. Traversez le pont à pied afin d’admirer les vues spectaculaires sur les gorges de l’Avon, puis poursuivez jusqu’au secteur voisin de Clifton Observatory pour découvrir d’autres points de vue et mieux comprendre l’histoire du pont.\n\nDepuis Clifton, descendez progressivement vers le centre-ville et le quartier du port. Le passage des hauteurs panoramiques aux rues du front de mer permet de saisir pleinement la géographie et le caractère de Bristol. Passez la fin de matinée à marcher le long du Floating Harbour, ancien secteur industriel transformé en l’un des espaces publics les plus agréables de la ville.\n\nDans l’après-midi, visitez le SS Great Britain, l’un des musées maritimes les plus importants du Royaume-Uni et une attraction parmi les mieux classées sur TripAdvisor. Le navire restauré et les expositions interactives permettent de mieux comprendre les liens internationaux de Bristol ainsi que son héritage en matière d’ingénierie. Prévoyez suffisamment de temps pour explorer à la fois le navire et les installations présentées sur les quais environnants.\n\nTerminez la journée autour de Wapping Wharf, un quartier réputé pour sa scène culinaire indépendante et son cadre au bord de l’eau. Profitez d’un dîner détendu près du port, observez les bateaux passer et imprégnez-vous de l’atmosphère créative et paisible de la ville."
+      },
+      {
+        "day": 2,
+        "title": "Street art, quartiers et Bristol créatif",
+        "summary": "Quartiers indépendants, racines de Banksy et vie locale.",
+        "details": "Commencez votre deuxième journée en explorant le visage créatif de Bristol, élément central de son identité contemporaine. Débutez dans les secteurs de Stokes Croft et Nelson Street, où se trouvent certaines des œuvres de street art les plus célèbres de la ville. Ce quartier est étroitement associé à Banksy, et plusieurs œuvres ou lieux liés à ses débuts figurent régulièrement parmi les expériences recommandées aux visiteurs de Bristol.\n\nPoursuivez à pied vers le nord en direction de Gloucester Road, l’une des plus longues artères commerçantes indépendantes du Royaume-Uni. Ce quartier se prête parfaitement à une matinée au rythme lent, entre disquaires, librairies, cafés et petites galeries qui donnent un aperçu du quotidien à Bristol. Déjeunez dans l’un des nombreux cafés indépendants du secteur, représentatifs de la forte culture culinaire locale.\n\nDans l’après-midi, choisissez une halte culturelle tranquille, comme le Bristol Museum & Art Gallery, ou une promenade dans Brandon Hill Park, où se trouve Cabot Tower et d’où l’on profite de vues panoramiques sur la ville. Ces lieux plus paisibles offrent un contraste agréable avec les rues animées et permettent de prendre du recul sur le mélange d’histoire et de créativité propre à Bristol.\n\nAchevez votre séjour par une promenade détendue dans le centre-ville ou le long du port, en revenant éventuellement sur vos endroits préférés de la veille. Les dernières heures sont volontairement peu structurées, renforçant l’idée que Bristol se découvre mieux à un rythme simple, humain et sans précipitation."
+      }
+    ],
+    "planning": {
+      "city": "Bristol, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Le temps doux et les journées plus longues rendent agréables les promenades autour du port, les points de vue depuis le pont et les pauses dans les cafés en extérieur, sans les foules de la haute saison estivale."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et humide), juillet–août (très fréquenté et riche en festivals)",
+        "note": "L’hiver peut être gris et pluvieux, tandis que l’été apporte davantage de visiteurs et des prix plus élevés pendant les festivals ; l’ambiance reste animée, mais moins détendue."
+      },
+      "tips": [
+        "Pensez d’abord au port : le Floating Harbour relie de nombreux lieux essentiels, notamment le SS Great Britain, les musées, les cafés et les bars du soir.",
+        "Marchez entre les différents ensembles de quartiers : Harbourside → Old City → Stokes Croft → Clifton fonctionne très bien sur deux jours.",
+        "Le street art se trouve partout, pas seulement à un endroit précis : regardez en hauteur, au sol et au détour des rues.",
+        "Traversez le Clifton Suspension Bridge à pied pour mieux apprécier son échelle ; les matinées sont plus calmes que le milieu de journée.",
+        "La culture culinaire compte beaucoup : Bristol excelle dans les cafés indépendants, la street food et les boulangeries ; privilégiez plusieurs petites pauses plutôt qu’un seul long repas.",
+        "Attendez-vous à des pentes : des chaussures confortables sont particulièrement utiles pour rejoindre Clifton."
+      ],
+      "withKids": [
+        "Les chemins du Harbourside sont plats, adaptés aux poussettes et ponctués de nombreuses possibilités de pause.",
+        "Le SS Great Britain propose des expositions interactives capables de captiver les enfants.",
+        "Les parcs proches de Clifton offrent des espaces ouverts entre deux promenades.",
+        "Évitez les bars du port tard le soir avec des enfants ; le début de soirée est beaucoup plus calme."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Bristol en train",
+          "note": "L’option la plus rapide et la plus simple consiste à prendre un train direct de London Paddington à Bristol Temple Meads. Le trajet dure généralement entre 1 h 30 et 1 h 45. Temple Meads est la principale gare pour rejoindre le centre-ville."
+        },
+        {
+          "title": "En voiture",
+          "note": "Il est possible de venir en voiture, mais la circulation et le stationnement dans le centre peuvent être frustrants. Pour une visite concentrée sur le cœur de Bristol, le train suivi de déplacements à pied est généralement plus simple."
+        },
+        {
+          "title": "Aéroport de Bristol → Centre-ville",
+          "note": "L’aéroport se trouve à l’extérieur de la ville. Une navette ou un autocar dédié, ainsi que les taxis, constituent les options les plus directes ; prévoyez une marge supplémentaire aux heures de pointe."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le moyen de déplacement principal dans le centre-ville et autour du port ; une fois dans la zone centrale, la plupart des sites essentiels sont proches les uns des autres.",
+        "Bristol est vallonnée, particulièrement autour de Clifton : attendez-vous à des montées et prévoyez de courtes pauses.",
+        "Les bus sont utiles pour les trajets plus longs entre Clifton, le centre et les quartiers périphériques, mais ils peuvent sembler plus lents que la marche sur les courtes distances.",
+        "Les taxis et services de VTC sont pratiques pour franchir le dénivelé entre Clifton et le port, ou en cas de pluie.",
+        "Le vélo est possible, mais les pentes et la circulation de Bristol le rendent plus adapté aux cyclistes expérimentés."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Jour 1 : Clifton Village → Clifton Suspension Bridge → Harbourside",
+          "note": "Commencez à Clifton Village, entre cafés et rues géorgiennes, puis marchez jusqu’au Clifton Suspension Bridge et à ses points de vue. Descendez ensuite vers le Floating Harbour pour visiter le SS Great Britain et passer la soirée autour de Wapping Wharf."
+        },
+        {
+          "title": "Jour 2 : Secteurs de street art → Gloucester Road → Parc ou musée",
+          "note": "Concentrez-vous sur Stokes Croft et Nelson Street pour les fresques, puis remontez tranquillement vers Gloucester Road et ses commerces indépendants. Terminez par Brandon Hill et Cabot Tower, ou par le Bristol Museum & Art Gallery, pour une conclusion plus calme."
+        }
+      ],
+      "practical": [
+        "Portez des chaussures confortables : les pentes de Bristol, en particulier entre Clifton et le port, représentent un véritable effort sur deux jours.",
+        "Si votre temps est limité, privilégiez le Clifton Suspension Bridge, le SS Great Britain et une promenade consacrée au street art ; ce sont les expériences qui reflètent le mieux l’identité centrale de cet itinéraire.",
+        "Les soirées se prêtent particulièrement bien au Harbourside : Wapping Wharf et les ruelles voisines au bord de l’eau invitent aux dîners tranquilles et aux promenades.",
+        "En cas de pluie, commencez par le Bristol Museum & Art Gallery plutôt que par le street art en extérieur, puis revenez dehors lorsque les averses s’atténuent.",
+        "Pour les points de vue de Clifton, le début de matinée est plus calme et mieux adapté aux photos ; la lumière de fin d’après-midi peut également être superbe au-dessus des gorges.",
+        "Séjournez si possible dans le centre, autour de Harbourside ou d’Old City : sur deux jours, il est plus facile de limiter les transports et de maximiser la marche."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Street food servie dans les conteneurs de Cargo",
+        "Cidre du West Country",
+        "Café artisanal",
+        "Brunch britannique moderne",
+        "Pâtisseries de boulangeries indépendantes"
+      ],
+      "areas": [
+        {
+          "name": "Harbourside / Wapping Wharf",
+          "note": "Quartier créatif au bord de l’eau, avec des commerces alimentaires indépendants, des cuisines installées dans des conteneurs et des adresses décontractées directement sur le port."
+        },
+        {
+          "name": "Stokes Croft / Gloucester Road",
+          "note": "Quartiers connus pour leurs cafés indépendants, leurs adresses adaptées aux végétariens et leur culture culinaire informelle, locale et communautaire."
+        },
+        {
+          "name": "Clifton Village",
+          "note": "Quartier élégant mais paisible, avec cafés, boulangeries et restaurants adaptés aux repas plus lents après les promenades et les points de vue."
+        }
+      ],
+      "places": [
+        {
+          "name": "Wapping Wharf Cargo Containers",
+          "area": "Harbourside / Wapping Wharf",
+          "reason": "Ensemble de conteneurs maritimes reconvertis accueillant certains des vendeurs de street food et des restaurants décontractés indépendants les plus appréciés de Bristol.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bristol-food/wapping-wharf.jpg",
+          "lat": 51.4478,
+          "lng": -2.5984
+        },
+        {
+          "name": "The Bristolian Café",
+          "area": "Stokes Croft",
+          "reason": "Café local très apprécié, connu pour ses petits-déjeuners et brunchs généreux, parfaitement représentatifs de la scène culinaire indépendante et détendue de Bristol.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bristol-food/the-bristolian.jpg",
+          "lat": 51.4624,
+          "lng": -2.5897
+        },
+        {
+          "name": "Primrose Café",
+          "area": "Clifton Village",
+          "reason": "Café de quartier apprécié des habitants pour ses plats simples et de saison, ainsi que pour son atmosphère paisible à l’écart de l’agitation du port.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/bristol-food/primrose-cafe.jpg",
+          "lat": 51.4572,
+          "lng": -2.6193
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-day-cambridge-colleges-and-river-cam",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Cambridge",
+    "title": "Cambridge en 3 jours : les incontournables et ses collèges intemporels",
+    "days": 3,
+    "priceFrom": 180,
+    "hero": "/src/assets/itineraries/united-kingdom/3-day-cambridge-colleges-and-river-cam.jpg",
+    "summary": "Cet itinéraire de 3 jours à Cambridge met à l’honneur les sites les plus emblématiques et les mieux notés de la ville, régulièrement classés parmi les meilleures attractions de TripAdvisor. Vous découvrirez les célèbres collèges de l’université, vous promènerez le long de The Backs, profiterez d’une traditionnelle balade en punt sur la rivière Cam et explorerez le riche patrimoine culturel de Cambridge à travers ses musées, ses églises et ses rues historiques. Le rythme est volontairement détendu et entièrement accessible à pied, laissant le temps d’apprécier l’architecture, les espaces verts et les paysages au bord de l’eau sans se presser. Conçu pour une première découverte de la ville, cet itinéraire offre une expérience complète de Cambridge dans un parcours clair, logique et mémorable.",
+    "highlights": [
+      "King’s College Chapel",
+      "Balade en punt sur la rivière Cam",
+      "Trinity College et St John's College",
+      "Promenade le long de The Backs",
+      "Fitzwilliam Museum"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "King’s College et le cœur historique",
+        "summary": "Les collèges les plus emblématiques de Cambridge et son centre historique.",
+        "details": "Commencez votre découverte de Cambridge par King's College Chapel, le monument le plus emblématique de la ville et régulièrement classé comme sa principale attraction sur TripAdvisor. Arrivez le matin afin d’apprécier pleinement l’ampleur de son architecture gothique, sa célèbre voûte en éventail et ses remarquables vitraux. Prenez le temps de profiter de l’atmosphère des lieux plutôt que de les traverser rapidement : c’est l’un des véritables temps forts de tout le voyage.\n\nÀ la sortie de King's College, rejoignez directement le centre historique en explorant Senate House Passage et les rues universitaires environnantes. Continuez jusqu’à Market Square, où le marché en plein air anime la ville depuis des siècles. Ce quartier offre une excellente première immersion dans la vie quotidienne de Cambridge, mêlant traditions universitaires et activité locale.\n\nPassez l’après-midi à flâner dans les rues et ruelles voisines, en admirant l’architecture et l’atmosphère propre aux collèges. Faites une pause déjeuner près du marché ou le long de Trinity Street, où de nombreux cafés occupent de magnifiques bâtiments historiques. Gardez un rythme tranquille : cette journée est consacrée à la découverte et à l’immersion plutôt qu’à parcourir de longues distances.\n\nEn fin d’après-midi, rejoignez à pied Great St Mary's Church. L’ascension de la tour est facultative, mais l’église et la place qui l’entoure font partie intégrante du cœur historique de Cambridge et figurent régulièrement parmi les recommandations incontournables. Terminez la journée par une promenade paisible dans le centre-ville, en profitant de l’ambiance calme et universitaire qui fait la renommée de Cambridge."
+      },
+      {
+        "day": 2,
+        "title": "The Backs, Trinity et la rivière Cam",
+        "summary": "Paysages au bord de l’eau, collèges emblématiques et les vues les plus photographiées de Cambridge.",
+        "details": "Cette deuxième journée est consacrée à la partie la plus pittoresque et la plus photographiée de Cambridge : The Backs. Commencez la matinée par une promenade le long de la rivière Cam, en suivant les sentiers bordés de pelouse qui passent derrière plusieurs des collèges les plus prestigieux de l’université. Ce parcours figure régulièrement parmi les expériences les mieux notées sur TripAdvisor grâce à son cadre paisible et à ses vues emblématiques.\n\nAu fil de la promenade, vous longerez Trinity College et St John's College, deux établissements prestigieux au cœur de l’identité de Cambridge. Prenez le temps d’explorer leurs cours et leurs jardins, en observant les différences architecturales entre les différentes époques de construction. St John's College abrite également le Mathematical Bridge, un petit monument célèbre souvent cité parmi les incontournables de la ville.\n\nLa fin de matinée ou le début d’après-midi constitue le meilleur moment pour profiter d’une traditionnelle balade en punt sur la rivière Cam. Il s’agit de l’une des activités emblématiques de Cambridge et d’une expérience parmi les mieux classées sur TripAdvisor. Que vous choisissiez une visite guidée ou que vous dirigiez vous-même l’embarcation, cette promenade offre des points de vue uniques sur les collèges depuis la rivière, tout en permettant de mieux comprendre l’histoire de la ville.\n\nAprès la balade en punt, profitez d’un déjeuner détendu à proximité, puis consacrez le reste de l’après-midi à retrouver vos endroits préférés le long de The Backs ou à vous installer au bord de la rivière. Aujourd’hui, l’accent est mis sur les paysages et l’atmosphère plutôt que sur l’accumulation de visites. Terminez la journée par une promenade paisible alors que la lumière du soir enveloppe doucement la rivière et les bâtiments des collèges."
+      },
+      {
+        "day": 3,
+        "title": "Fitzwilliam Museum et la culture de Cambridge",
+        "summary": "Des collections muséales de renommée mondiale pour une conclusion culturelle tout en douceur.",
+        "details": "Commencez votre dernière journée au Fitzwilliam Museum, l’un des sites les mieux notés de Cambridge et un habitué du top 10 de TripAdvisor. Ses collections vont des antiquités classiques aux peintures européennes et aux arts décoratifs, ce qui en fait l’un des plus remarquables musées gratuits du Royaume-Uni. Prévoyez suffisamment de temps pour explorer en profondeur une ou deux sections plutôt que d’essayer de tout voir.\n\nAprès la visite du musée, revenez tranquillement vers le centre-ville en traversant des quartiers que vous reconnaîtrez désormais des jours précédents. Cette impression de familiarité renforce le sentiment d’avoir véritablement découvert la ville. Arrêtez-vous pour déjeuner dans un café du centre historique ou dans une rue plus calme à proximité.\n\nDans l’après-midi, retournez à Market Square ou dans les rues voisines pour faire quelques derniers achats ou trouver des souvenirs. Si le temps le permet, profitez d’une dernière promenade le long de la rivière Cam ou dans le jardin d’un collège que vous avez particulièrement apprécié durant votre séjour. Cette dernière journée est volontairement paisible, laissant le temps de savourer les souvenirs du voyage plutôt que d’ajouter de nouvelles visites importantes.\n\nTerminez votre séjour à Cambridge par un dîner détendu dans le centre-ville, célébrant ainsi la fin d’une découverte à la fois compacte et complète de l’une des plus anciennes et des plus belles villes universitaires d’Angleterre."
+      }
+    ],
+    "planning": {
+      "city": "Cambridge, England, United Kingdom",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre–octobre (début de l’automne)",
+        "note": "Ces périodes offrent un climat agréable, de longues journées et peu de conditions extrêmes, idéales pour explorer les collèges, faire une balade en punt et profiter des rives de la rivière Cam."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et gris), juillet–août (haute saison)",
+        "note": "L’hiver offre une atmosphère particulière mais reste froid et humide, tandis que l’été attire un grand nombre de visiteurs, rendant les ruelles des collèges et les embarcadères des punts beaucoup plus fréquentés."
+      },
+      "tips": [
+        "Séjournez près du centre historique afin de pouvoir tout découvrir à pied et d’éviter les contraintes liées aux transports.",
+        "Visitez les collèges tôt le matin ou en fin d’après-midi, lorsque les groupes organisés sont moins nombreux et que la lumière est plus douce.",
+        "Les balades en punt sont particulièrement agréables en milieu de matinée ou en début de soirée ; les files d’attente à midi sont longues et l’ambiance moins paisible.",
+        "The Backs se découvrent en prenant son temps : ne vous précipitez pas d’une chapelle à l’autre.",
+        "Les cyclistes sont prioritaires : soyez attentif aux vélos dans les rues et les chemins étroits.",
+        "Emportez plusieurs couches de vêtements ainsi qu’une veste imperméable légère ; le temps peut changer rapidement, même en été."
+      ],
+      "withKids": [
+        "Les chemins au bord de la rivière et The Backs offrent de grands espaces pour se déplacer tranquillement entre les collèges.",
+        "Une balade en punt est une activité ludique et peu fatigante pour les enfants, comparée à une journée principalement consacrée aux musées.",
+        "Market Square permet de faire facilement une pause repas grâce à ses nombreux stands et espaces pour s’asseoir.",
+        "Évitez les espaces intérieurs les plus exigus des collèges pendant les heures de forte affluence si vous voyagez avec de jeunes enfants."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Cambridge",
+          "note": "Cambridge est facilement accessible depuis Londres grâce à des trains directs, le trajet durant généralement entre 50 et 70 minutes au départ de London King's Cross ou London Liverpool Street. Les trains circulent fréquemment tout au long de la journée, ce qui fait du rail l'option la plus rapide et la plus pratique."
+        },
+        {
+          "title": "En voiture",
+          "note": "Le trajet depuis Londres prend environ 1 h 30 à 2 h selon la circulation. Le stationnement dans le centre-ville est limité et coûteux ; les parkings Park & Ride situés en périphérie sont vivement recommandés si vous arrivez en voiture."
+        }
+      ],
+      "gettingAround": [
+        "Le centre-ville de Cambridge est compact et se découvre idéalement à pied ; la plupart des principaux sites se trouvent à 10 à 15 minutes de marche les uns des autres.",
+        "Le vélo est extrêmement populaire, mais les visiteurs doivent rester vigilants : la circulation cycliste est dense et les cyclistes sont prioritaires dans de nombreuses rues.",
+        "Les bus locaux sont surtout utiles pour les quartiers périphériques ; ils sont rarement nécessaires pour une visite classique des collèges.",
+        "Les taxis sont facilement disponibles, mais généralement inutiles pour visiter le centre historique."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre historique et collèges",
+          "note": "King's College, Trinity College, St John's College, Market Square et Great St Mary's Church se trouvent tous à quelques minutes de marche les uns des autres dans un secteur central très compact."
+        },
+        {
+          "title": "The Backs et la rivière Cam",
+          "note": "The Backs se découvrent idéalement à pied ou en punt ; l'accès en voiture est limité et déconseillé."
+        },
+        {
+          "title": "Fitzwilliam Museum",
+          "note": "Situé à quelques minutes au sud du centre historique, il est facilement accessible à pied en 10 à 15 minutes depuis le cœur de la ville."
+        }
+      ],
+      "practical": [
+        "Évitez de conduire dans le centre-ville : les restrictions de circulation et la priorité accordée aux cyclistes rendent la conduite lente et peu agréable.",
+        "Si vous arrivez en train, Cambridge Station se trouve à environ 20 à 25 minutes à pied du centre historique ; des taxis et des bus sont disponibles devant la gare.",
+        "Les parkings Park & Ride (Trumpington, Madingley Road, Milton et Newmarket Road) sont efficaces et bien indiqués.",
+        "La plupart des rues du centre sont étroites et partagées avec les cyclistes ; restez attentif lorsque vous vous déplacez à pied.",
+        "Cambridge est une ville plate, ce qui rend la marche agréable, mais les distances peuvent sembler plus longues pendant les heures d’affluence de la mi-journée.",
+        "Prévoyez vos horaires d’arrivée et de départ en privilégiant la marche plutôt que les transports : Cambridge se découvre pleinement en restant au cœur de la ville et en prenant son temps."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Afternoon Tea traditionnel",
+        "Sunday Roast (rôti britannique traditionnel)",
+        "Fish and Chips",
+        "Déjeuners dans les cafés des collèges",
+        "Bière artisanale ou ale locale",
+        "Desserts britanniques classiques"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville / secteur de Market Square",
+          "note": "Le cœur de Cambridge, où se trouvent cafés, pubs et restaurants décontractés au milieu des rues historiques et des bâtiments universitaires. Un endroit idéal pour faire une pause repas entre deux visites."
+        },
+        {
+          "name": "The Backs / secteur de la rivière",
+          "note": "Un agréable quartier au bord de la rivière, parfait pour un déjeuner tranquille, un repas dans un pub ou un dîner après une balade en punt avec vue sur la rivière Cam."
+        },
+        {
+          "name": "Mill Road",
+          "note": "Une rue à l’atmosphère plus locale, bordée de restaurants indépendants et d’adresses appréciées des habitants plutôt que des touristes."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Eagle",
+          "area": "Centre-ville",
+          "reason": "Pub historique étroitement associé à la vie de Cambridge, réputé pour sa cuisine britannique traditionnelle et son importance historique dans la ville.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/cambridge-food/the-eagle.jpg",
+          "lat": 52.2052,
+          "lng": 0.1218
+        },
+        {
+          "name": "Fitzbillies",
+          "area": "Centre-ville / secteur de Market Square",
+          "reason": "Boulangerie emblématique de Cambridge, célèbre pour ses Chelsea buns et ses pâtisseries traditionnelles, très appréciée pour le petit-déjeuner ou le goûter.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/cambridge-food/fitzbillies.jpg",
+          "lat": 52.2043,
+          "lng": 0.1223
+        },
+        {
+          "name": "The Anchor",
+          "area": "Bord de rivière / The Backs",
+          "reason": "Pub au bord de la rivière proposant des repas et des boissons dans une atmosphère détendue, avec vue sur les punts et les jardins des collèges le long de la rivière Cam.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/cambridge-food/the-anchor.jpg",
+          "lat": 52.2104,
+          "lng": 0.1158
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-edinburgh-stone-stories-and-high-ground",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "title": "Édimbourg en 3 jours : Pierre, récits et hauteurs",
+    "days": 3,
+    "priceFrom": 220,
+    "hero": "/src/assets/itineraries/united-kingdom/3-days-edinburgh-stone-stories-and-high-ground.jpg",
+    "summary": "Cet itinéraire de 3 jours à Édimbourg explore l’une des capitales les plus atmosphériques d’Europe, entre rues médiévales, élégance géorgienne et points de vue naturels spectaculaires. Tous les lieux proposés figurent régulièrement parmi les principales attractions de la ville et reflètent ce qui rend Édimbourg unique, au-delà d’une image trop lisse. Vous passerez à pied de la vieille ville à la ville nouvelle, gagnerez des points de vue en hauteur et découvrirez la profondeur littéraire et historique de la capitale à un rythme calme mais immersif. L’itinéraire est conçu pour une première visite, avec suffisamment de structure tout en laissant de la place à la flânerie.",
+    "highlights": [
+      "Edinburgh Castle",
+      "Royal Mile",
+      "Holyrood Palace",
+      "Arthur’s Seat",
+      "Calton Hill"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Vieille ville et Royal Mile",
+        "summary": "Rues médiévales et axe historique d’Édimbourg.",
+        "details": "Commencez votre visite d’Édimbourg dans la vieille ville, où le caractère médiéval se ressent immédiatement. Débutez à Edinburgh Castle, spectaculairement installé sur Castle Rock et régulièrement classé comme la principale attraction de la ville. Prenez le temps de découvrir les expositions intérieures ainsi que les vues panoramiques, qui permettent de mieux comprendre la géographie d’Édimbourg.\n\nDepuis le château, descendez lentement le Royal Mile, l’itinéraire historique reliant la forteresse au Palace of Holyroodhouse. En chemin, explorez les closes et les ruelles latérales qui révèlent les différentes strates d’histoire cachées derrière l’axe principal. Ces passages étroits sont essentiels pour comprendre la configuration dense et verticale de la ville.\n\nFaites une pause déjeuner sur le Royal Mile ou dans une rue plus calme à proximité afin d’éviter les endroits les plus fréquentés. Dans l’après-midi, poursuivez jusqu’à Holyrood Palace, résidence officielle du monarque en Écosse, située à la lisière de la vieille ville.\n\nTerminez la journée par une promenade détendue en remontant la vieille ville à la tombée du jour, lorsque les bâtiments de pierre prennent une allure plus sombre et plus théâtrale."
+      },
+      {
+        "day": 2,
+        "title": "Élégance de la ville nouvelle et vues urbaines",
+        "summary": "Ordre géorgien et perspectives en hauteur.",
+        "details": "Commencez la deuxième journée dans la ville nouvelle d’Édimbourg, qui contraste fortement avec la vieille ville médiévale. Parcourez ses larges rues et ses élégantes terrasses afin d’apprécier l’urbanisme géorgien dans toute sa maîtrise. Ce quartier est souvent négligé par les visiteurs pressés, alors qu’il constitue une part essentielle de l’identité de la ville.\n\nDepuis la ville nouvelle, marchez jusqu’à Calton Hill, l’un des points de vue les plus accessibles d’Édimbourg. La courte montée offre de vastes panoramas sur la vieille ville, la ville nouvelle et le Firth of Forth au loin. Les monuments installés sur la colline apportent une atmosphère singulière, presque classique.\n\nAprès le déjeuner dans le centre-ville, consacrez l’après-midi à des galeries, librairies ou musées qui reflètent les traditions littéraires et intellectuelles d’Édimbourg. Le rythme est volontairement modéré afin de laisser du temps à la promenade et à la réflexion.\n\nAchevez la journée par une marche en soirée dans Princes Street Gardens ou dans les rues plus tranquilles entre la vieille ville et la ville nouvelle, en observant comment les différentes époques se juxtaposent."
+      },
+      {
+        "day": 3,
+        "title": "Arthur’s Seat et grands paysages",
+        "summary": "Nature, hauteur et conclusion spectaculaire.",
+        "details": "Commencez votre dernière journée par Holyrood Park et l’ascension d’Arthur’s Seat, une ancienne colline volcanique dominant la ville. Il s’agit de l’une des expériences les plus recommandées à Édimbourg, avec des vues incomparables sur la capitale et la campagne environnante. L’itinéraire peut être adapté à différents niveaux de forme physique, et même une montée partielle offre déjà de très belles perspectives.\n\nAprès la descente, retournez vers le centre-ville pour déjeuner et vous reposer. Le contraste entre le paysage sauvage et les rues urbaines constitue l’une des qualités essentielles d’Édimbourg et apparaît particulièrement clairement au cours de cette journée.\n\nDans l’après-midi, profitez de temps libre pour revenir dans un quartier apprécié ou découvrir une zone plus tranquille. Vous pouvez notamment marcher le long du Water of Leith ou retourner dans la vieille ville pour de dernières découvertes.\n\nTerminez votre séjour par un dernier point de vue ou une promenade en soirée, en réfléchissant à une ville façonnée autant par son relief que par son histoire. La force d’Édimbourg réside dans la rencontre entre la pierre, les récits et le paysage, qui laisse une impression durable même après une courte visite."
+      }
+    ],
+    "planning": {
+      "city": "Édimbourg, Écosse, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les journées plus longues et les températures plus douces conviennent aux promenades sur les crêtes, aux points de vue du château et aux flâneries dans les quartiers sans les foules des grands festivals."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid, vent et journées courtes), août (foules des festivals)",
+        "note": "L’hiver apporte des vents mordants et peu de lumière, tandis que les festivals d’août saturent la vieille ville et font grimper les prix : une période animée, mais moins propice à la contemplation."
+      },
+      "tips": [
+        "Organisez les visites selon l’altitude : prévoyez les points hauts comme le château, Arthur’s Seat et Calton Hill le matin, lorsque le vent est souvent plus calme et la lumière plus nette.",
+        "Consacrez des journées distinctes à la vieille ville et à la ville nouvelle : leur contraste fait partie de l’expérience, mais les allers-retours sont fatigants.",
+        "Marchez en descente autant que possible ; le relief d’Édimbourg se fait rapidement sentir.",
+        "Utilisez les closes et les wynds pour vous éloigner de la foule : beaucoup révèlent des aspects plus calmes de la ville.",
+        "La météo change vite ; emportez une couche coupe-vent même par temps ensoleillé.",
+        "Les soirées se prêtent davantage aux pubs, aux points de vue et aux promenades lentes qu’aux nuits très tardives."
+      ],
+      "withKids": [
+        "Holyrood Park offre de grands espaces entre les rues historiques denses.",
+        "Les visites du château sont captivantes, mais exposées au vent ; prévoyez plusieurs couches et gardez un programme ciblé.",
+        "De courts trajets en bus permettent de gérer les pentes sans perdre ses repères.",
+        "Prévoyez de dîner plus tôt : la ville se rafraîchit rapidement après le coucher du soleil."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Édimbourg",
+          "note": "Les trains directs au départ de London King’s Cross mettent environ 4 h 30 à 5 h et arrivent à Edinburgh Waverley Station, au cœur de la ville. Le train est l’option la plus confortable et la plus pratique pour rejoindre directement le centre."
+        },
+        {
+          "title": "Edinburgh Airport → Centre-ville",
+          "note": "Le tram Airlink et les bus relient l’aéroport au centre-ville en environ 30 minutes. Les taxis sont plus rapides, mais nettement plus chers."
+        }
+      ],
+      "gettingAround": [
+        "La vieille ville et la ville nouvelle d’Édimbourg sont compactes et se découvrent idéalement à pied.",
+        "Attendez-vous à des pentes, des escaliers et des pavés irréguliers : l’effort de marche est supérieur à ce que les distances laissent penser.",
+        "Les bus locaux sont fréquents et utiles pour gérer le relief, notamment entre la vieille ville, la ville nouvelle et Holyrood Park.",
+        "Les trams desservent peu de lignes et sont surtout utiles pour les transferts vers l’aéroport.",
+        "Les taxis sont facilement disponibles, mais rarement nécessaires dans les quartiers centraux."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Vieille ville et Royal Mile",
+          "note": "Edinburgh Castle, le Royal Mile, les closes et Holyrood Palace forment un axe descendant unique, idéal à parcourir à pied avec de fréquentes pauses."
+        },
+        {
+          "title": "Ville nouvelle et Calton Hill",
+          "note": "Les larges rues géorgiennes s’associent naturellement à la courte montée vers Calton Hill, offrant un contraste de dimensions, d’ordre et de perspectives."
+        },
+        {
+          "title": "Holyrood Park et Arthur’s Seat",
+          "note": "Les paysages ouverts remplacent les promenades urbaines ; les itinéraires peuvent être adaptés à la météo et à la condition physique, et même une ascension partielle reste très gratifiante."
+        }
+      ],
+      "practical": [
+        "Prévoyez les sections en montée plus tôt dans la journée, lorsque vous avez davantage d’énergie et que la météo est souvent meilleure.",
+        "Les marches en pierre et les pavés deviennent glissants sous la pluie ; de bonnes chaussures sont indispensables.",
+        "Edinburgh Waverley Station se trouve dans une vallée ; attendez-vous à devoir monter en arrivant ou en repartant à pied.",
+        "L’exposition au vent augmente fortement sur Castle Rock, Calton Hill et Arthur’s Seat ; emportez plusieurs couches toute l’année.",
+        "Pendant les festivals, surtout en août, la vitesse de déplacement à pied diminue considérablement dans la vieille ville.",
+        "Édimbourg se découvre mieux en regroupant les sites selon leur altitude plutôt que leur distance."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Haggis, neeps and tatties",
+        "Cullen skink",
+        "Saumon fumé écossais",
+        "Plats de venaison",
+        "Cranachan"
+      ],
+      "areas": [
+        {
+          "name": "Old Town",
+          "note": "Quartier historique et plein d’atmosphère, avec des pubs traditionnels et des cuisines écossaises décontractées installées dans les closes à proximité du Royal Mile."
+        },
+        {
+          "name": "New Town",
+          "note": "Plus raffiné et plus aéré, avec des restaurants écossais modernes, des bars à vin et une ambiance plus calme après les visites."
+        },
+        {
+          "name": "Leith",
+          "note": "Quartier portuaire tourné vers la gastronomie, connu pour ses restaurants décontractés, ses fruits de mer et sa cuisine écossaise contemporaine."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Witchery by the Castle",
+          "area": "Old Town",
+          "reason": "Restaurant emblématique et chargé d’atmosphère près d’Edinburgh Castle, proposant des plats écossais classiques dans un décor historique éclairé aux chandelles.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/edinburgh-food/the-witchery.jpg",
+          "lat": 55.9489,
+          "lng": -3.1999
+        },
+        {
+          "name": "Oink",
+          "area": "Old Town",
+          "reason": "Adresse locale décontractée très appréciée, spécialisée dans les petits pains garnis de porc rôti écossais, idéale pour un déjeuner rapide en parcourant le Royal Mile.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/edinburgh-food/oink.jpg",
+          "lat": 55.9496,
+          "lng": -3.1897
+        },
+        {
+          "name": "The Scran & Scallie",
+          "area": "New Town",
+          "reason": "Gastropub réputé servant une cuisine écossaise généreuse et très bien exécutée dans une atmosphère de quartier détendue.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/edinburgh-food/scran-and-scallie.jpg",
+          "lat": 55.9587,
+          "lng": -3.2113
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-glasgow-grit-geometry-and-great-museums",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Glasgow",
+    "title": "Glasgow en 2 jours : Caractère, architecture et grands musées",
+    "days": 2,
+    "priceFrom": 155,
+    "hero": "/src/assets/itineraries/united-kingdom/2-days-glasgow-grit-geometry-and-great-museums.jpg",
+    "summary": "Cet itinéraire de 2 jours à Glasgow met en lumière la forte identité culturelle de la ville en associant des musées de renommée mondiale, une architecture remarquable et des quartiers façonnés par la musique, l’art et l’industrie. Tous les lieux proposés figurent régulièrement parmi les principales attractions de Glasgow et illustrent ce qui rend la ville véritablement unique. Vous découvrirez de grandes avenues victoriennes, des quartiers créatifs et certains des meilleurs musées gratuits du Royaume-Uni, à un rythme détendu mais immersif, idéal pour une première visite.",
+    "highlights": [
+      "Kelvingrove Art Gallery and Museum",
+      "University of Glasgow",
+      "Glasgow Cathedral",
+      "Merchant City",
+      "Riverside Museum"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "West End, musées et architecture",
+        "summary": "Le cœur culturel de Glasgow et son identité architecturale.",
+        "details": "Commencez votre découverte de Glasgow dans le West End, régulièrement considéré comme l’un des quartiers les plus agréables de la ville. Visitez d’abord le Kelvingrove Art Gallery and Museum, l’un des musées les plus fréquentés du Royaume‑Uni et une attraction majeure de Glasgow. Ses collections vont des beaux-arts à l’histoire naturelle, tandis que le bâtiment lui-même constitue un chef-d’œuvre architectural. Prenez le temps de sélectionner ce qui vous intéresse plutôt que d’essayer de tout voir.\n\nTraversez ensuite Kelvingrove Park jusqu’à l’Université de Glasgow. Son bâtiment principal, avec sa tour néogothique et ses cloîtres, est l’un des monuments les plus reconnaissables de la ville et offre de belles vues sur le West End. Promenez-vous sur le campus et dans les rues voisines afin de ressentir l’énergie étudiante du quartier.\n\nDans l’après-midi, explorez les rues remplies de cafés indépendants, de librairies et de petites galeries. Cette partie de Glasgow met en valeur le côté créatif de la ville et sa culture sociale détendue. Déjeunez sur place et laissez-vous du temps pour flâner.\n\nTerminez la journée dans le West End ou le centre-ville, où les salles de concert et les pubs témoignent de la réputation de Glasgow comme l’une des grandes villes musicales du Royaume-Uni."
+      },
+      {
+        "day": 2,
+        "title": "Cathédrale, rues historiques et rivière Clyde",
+        "summary": "Le Glasgow historique et sa réinvention moderne.",
+        "details": "Commencez la journée à la cathédrale de Glasgow, l’un des plus beaux édifices médiévaux d’Écosse. À proximité se trouve la Necropolis, un cimetière victorien installé sur une colline dominant la cathédrale. Les chemins en hauteur offrent des vues remarquables sur Glasgow et permettent de comprendre son développement industriel.\n\nRejoignez ensuite Merchant City, quartier réputé pour ses anciens entrepôts, ses lieux culturels et ses rues agréables pour les piétons. Déjeunez dans l’un des nombreux cafés ou petits restaurants du secteur.\n\nL’après-midi, dirigez-vous vers la rivière Clyde pour visiter le Riverside Museum, autre attraction incontournable de Glasgow. Son architecture contemporaine spectaculaire et ses expositions consacrées aux transports racontent l’histoire de la construction navale et du patrimoine industriel de la ville. Poursuivez par une promenade le long de la rivière afin d’observer la transformation des anciens docks.\n\nConcluez votre séjour par une promenade ou un dîner paisible au bord de la Clyde ou dans le centre-ville, en repensant à une ville qui associe caractère, créativité et générosité."
+      }
+    ],
+    "planning": {
+      "city": "Glasgow, Écosse, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), août–septembre (début de l’automne)",
+        "note": "Les journées plus longues et les températures douces rendent agréables les promenades entre les quartiers, le long de la rivière et entre les musées, sans les foules de la haute saison."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid, humide et journées courtes)",
+        "note": "L’hiver apporte peu de lumière et de fréquentes pluies, ce qui réduit l’attrait des promenades, même si les musées restent excellents toute l’année."
+      },
+      "tips": [
+        "Pensez par quartiers : le centre-ville et le West End remplissent parfaitement deux journées.",
+        "Les musées sont gratuits : choisissez-en un ou deux et prenez le temps d’en profiter.",
+        "Marchez autant que possible : le plan en damier facilite l’orientation et révèle le caractère urbain de Glasgow.",
+        "Utilisez le métro avec modération ; la marche et les bus permettent souvent de mieux découvrir la ville.",
+        "Gardez une veste de pluie légère, même lorsque le ciel paraît dégagé.",
+        "Les pubs et la cuisine locale font partie intégrante de l’expérience culturelle."
+      ],
+      "withKids": [
+        "Kelvingrove et le Riverside Museum sont interactifs et adaptés aux familles.",
+        "Les larges trottoirs et les parcs du West End offrent de l’espace entre les visites.",
+        "De courtes visites de musées sont plus agréables que plusieurs longues étapes.",
+        "Prévoyez des soirées calmes : les journées de marche sont bien remplies."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Glasgow (train)",
+          "note": "Les trains directs depuis London Euston mettent environ 4 h 30 à 5 h. Le train est le moyen le plus confortable pour arriver directement au centre-ville."
+        },
+        {
+          "title": "Édimbourg → Glasgow (train)",
+          "note": "Les trains circulent toutes les 15 minutes et le trajet dure environ 50 minutes, ce qui en fait l’une des liaisons interurbaines les plus pratiques du Royaume-Uni."
+        },
+        {
+          "title": "En avion",
+          "note": "L’aéroport international de Glasgow se situe à environ 15 à 20 minutes du centre-ville en taxi ou en bus-navette. Il dessert principalement des destinations britanniques et européennes."
+        },
+        {
+          "title": "En voiture",
+          "note": "L’accès à Glasgow est simple, mais le stationnement dans le centre est limité et coûteux. Les transports publics ou le train restent préférables."
+        }
+      ],
+      "gettingAround": [
+        "Glasgow est plus étendue que de nombreuses villes britanniques, mais ses quartiers sont bien reliés par la marche, les bus et quelques stations de métro.",
+        "La marche fonctionne surtout à l’intérieur de chaque quartier (West End, centre-ville, Merchant City).",
+        "Les bus locaux couvrent la plupart des trajets et permettent d’observer la ville au niveau de la rue.",
+        "Le métro est utile entre le centre-ville et le West End, mais son réseau reste limité.",
+        "Les taxis sont abordables pour les courts trajets, surtout par mauvais temps."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "West End : Kelvingrove → Université de Glasgow",
+          "note": "Le musée Kelvingrove, le parc et l’université sont proches les uns des autres et se découvrent idéalement à pied."
+        },
+        {
+          "title": "Cathédrale et Necropolis",
+          "note": "La cathédrale et la Necropolis sont voisines mais nécessitent quelques montées et escaliers."
+        },
+        {
+          "title": "Merchant City",
+          "note": "Quartier plat et agréable pour les piétons, parfait pour les cafés, le déjeuner et les promenades."
+        },
+        {
+          "title": "River Clyde → Riverside Museum",
+          "note": "Le Riverside Museum est facilement accessible en bus, en métro suivi d’une courte marche ou en taxi. Les quais rénovés invitent ensuite à la promenade."
+        }
+      ],
+      "practical": [
+        "Organisez vos journées par quartier plutôt que par distance.",
+        "Le temps change rapidement ; la pluie influence davantage le confort que les kilomètres.",
+        "Prévoyez un peu de marge entre les quartiers : les trajets prennent souvent plus de temps que prévu.",
+        "Les soirées dans les pubs, restaurants et salles de concert font partie intégrante de l’expérience.",
+        "Les musées sont gratuits mais riches : un grand musée par jour suffit largement.",
+        "Glasgow est réputée pour son accueil chaleureux et son atmosphère détendue."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Petit-déjeuner écossais traditionnel",
+        "Haggis, neeps & tatties",
+        "Fish supper (fish and chips écossais)",
+        "Cullen Skink",
+        "Tourtes et ragoûts traditionnels de pub"
+      ],
+      "areas": [
+        {
+          "name": "West End",
+          "note": "Quartier étudiant autour de l’Université de Glasgow, avec cafés, restaurants décontractés et pubs parfaits après une journée de musées."
+        },
+        {
+          "name": "Merchant City",
+          "note": "Ancien quartier d’entrepôts devenu un haut lieu de la gastronomie et de la culture."
+        },
+        {
+          "name": "City Centre",
+          "note": "Quadrillage dense de rues regroupant pubs traditionnels, boulangeries et restaurants écossais modernes près des principaux transports."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Ubiquitous Chip",
+          "area": "West End",
+          "reason": "Institution de Glasgow réputée pour sa cuisine écossaise contemporaine dans un cadre verdoyant.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/glasgow-food/the-ubiquitous-chip.jpg",
+          "lat": 55.8759,
+          "lng": -4.2936
+        },
+        {
+          "name": "The Horseshoe Bar",
+          "area": "City Centre",
+          "reason": "Pub historique célèbre pour son immense comptoir et sa cuisine britannique traditionnelle.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/glasgow-food/the-horseshoe-bar.jpg",
+          "lat": 55.8617,
+          "lng": -4.2559
+        },
+        {
+          "name": "Singl-end Merchant City",
+          "area": "Merchant City",
+          "reason": "Café-restaurant apprécié pour les petits-déjeuners et déjeuners, idéal entre deux visites.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/glasgow-food/singl-end-merchant-city.jpg",
+          "lat": 55.8584,
+          "lng": -4.2446
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-lake-district-water-stone-and-open-skies",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Lake District",
+    "title": "Lake District en 3 jours : Eau, pierre et grands espaces",
+    "days": 3,
+    "priceFrom": 210,
+    "hero": "/src/assets/itineraries/united-kingdom/3-days-lake-district-water-stone-and-open-skies.jpg",
+    "summary": "Cet itinéraire de 3 jours dans le Lake District met l’accent sur les paysages, les lacs et les villages les plus emblématiques de la région, tous régulièrement recommandés parmi les principales attractions du parc. Conçu pour les visiteurs souhaitant profiter de la beauté naturelle sans entreprendre de randonnées extrêmes, il associe promenades au bord des lacs, points de vue panoramiques et villages traditionnels à un rythme calme et sans précipitation. Chaque journée explore une partie différente du parc national, ce qui permet d’en apprécier la diversité tout en conservant des distances de déplacement réalistes et agréables.",
+    "highlights": [
+      "Lake Windermere",
+      "Village de Grasmere",
+      "Derwentwater",
+      "Castlerigg Stone Circle",
+      "Vallée de Borrowdale"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Windermere et vues sur le lac",
+        "summary": "Le plus grand lac d’Angleterre et une douce introduction au paysage.",
+        "details": "Commencez votre visite du Lake District au lac Windermere, le plus grand et le plus accessible du parc national. Débutez la journée par une promenade au bord de l’eau ou une courte croisière afin d’apprécier l’ampleur des collines qui s’élèvent directement autour du lac. Cette région figure régulièrement parmi les meilleures expériences du Lake District et constitue une introduction idéale à ses paysages.\n\nAprès la matinée au bord du lac, explorez l’une des villes voisines, comme Bowness-on-Windermere ou Ambleside. Vous y trouverez des cafés, des boutiques locales et des points de vue qui facilitent l’adoption d’un rythme plus lent. Déjeunez sur place et prenez le temps d’observer l’animation sur l’eau.\n\nDans l’après-midi, rejoignez en voiture ou à pied un point de vue plus élevé au-dessus du lac. Ces perspectives permettent de comprendre comment les lacs s’insèrent entre les reliefs environnants et offrent des vues classiques du Lake District sans nécessiter de randonnée exigeante.\n\nTerminez la journée par un dîner détendu près de Windermere, idéalement au moment où la lumière du soir devient plus douce sur l’eau et où le paysage paraît particulièrement paisible."
+      },
+      {
+        "day": 2,
+        "title": "Grasmere et le pays de Wordsworth",
+        "summary": "Vie de village, patrimoine littéraire et paysages classiques.",
+        "details": "Commencez la deuxième journée à Grasmere, l’un des villages les plus célèbres du Lake District et une étape régulièrement recommandée aux visiteurs. Promenez-vous dans le village et le long du lac de Grasmere, où des sentiers plats offrent de belles vues encadrées par les collines environnantes.\n\nDécouvrez les lieux associés à William Wordsworth, dont la poésie a profondément influencé la manière dont le Lake District est perçu aujourd’hui. Même sans visiter chaque site, le simple fait de marcher dans ce paysage permet de comprendre pourquoi la région a inspiré des générations d’écrivains et d’artistes.\n\nAprès le déjeuner à Grasmere, parcourez les vallées voisines en vous arrêtant devant de petites églises, des ponts de pierre et des points de vue. L’accent est mis sur l’observation plutôt que sur la distance : de courtes promenades et des arrêts fréquents permettent au paysage de se révéler naturellement.\n\nRetournez à votre hébergement en fin d’après-midi et profitez d’une soirée tranquille. Comparé aux lacs les plus fréquentés, Grasmere conserve une atmosphère paisible idéale pour la réflexion et le voyage lent."
+      },
+      {
+        "day": 3,
+        "title": "Keswick, Derwentwater et paysages anciens",
+        "summary": "Lacs du nord et vastes paysages spectaculaires.",
+        "details": "Commencez votre dernière journée à Keswick, une ville de marché animée située au bord de Derwentwater. Ce lac est souvent considéré comme l’un des plus beaux du parc national, avec de vastes vues dégagées et des sentiers faciles adaptés à la plupart des visiteurs.\n\nFaites une promenade tranquille le long du rivage ou une courte excursion en bateau afin d’admirer les reliefs environnants depuis l’eau. La lumière changeante et les reflets font de Derwentwater un lieu très apprécié des photographes comme des promeneurs occasionnels.\n\nDans l’après-midi, visitez Castlerigg Stone Circle, l’un des sites préhistoriques les plus atmosphériques de Grande-Bretagne. Installé en hauteur au-dessus des vallées, le cercle de pierres offre des vues panoramiques et un puissant sentiment de lien avec le paysage ancien.\n\nAchevez votre séjour dans le Lake District par une route panoramique ou une promenade dans la vallée de Borrowdale, où les pentes abruptes, les routes paisibles et les grands espaces constituent une conclusion parfaite. Ces derniers instants mettent l’accent sur l’espace et le silence, laissant une impression durable du caractère naturel de la région."
+      }
+    ],
+    "planning": {
+      "city": "Parc national du Lake District, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les longues journées, les vallées plus vertes et l’absence de conditions extrêmes rendent les promenades, les balades au bord des lacs et les arrêts dans les villages agréables sans la congestion de la haute saison."
+      },
+      "worstTime": {
+        "months": "Novembre–février (froid, humide et journées courtes), juillet–août (haute saison très fréquentée)",
+        "note": "L’hiver apporte peu de lumière et des pluies fréquentes en altitude, tandis que les foules estivales encombrent les routes étroites et les villages populaires au bord des lacs."
+      },
+      "tips": [
+        "Organisez votre séjour par vallées plutôt que par distance : choisissez un lac ou une vallée par jour afin d’éviter de passer trop de temps sur les routes étroites.",
+        "Consultez la météo chaque matin : les conditions changent rapidement ; remplacez les randonnées par des promenades au bord des lacs si le temps se dégrade.",
+        "Commencez tôt : les sentiers populaires et les parkings se remplissent rapidement, surtout en été.",
+        "Les chemins peuvent être humides toute l’année ; des chaussures imperméables et plusieurs couches de vêtements sont plus importantes que la saison.",
+        "Les villages font partie du rythme du voyage : arrêtez-vous pour prendre le thé, découvrir les boulangeries et profiter de pauses tranquilles.",
+        "Les transports publics relient les principaux centres, mais une voiture offre davantage de flexibilité pour explorer les vallées les plus calmes."
+      ],
+      "withKids": [
+        "Privilégiez les promenades de basse altitude, comme les rives des lacs ou les crêtes faciles telles que Catbells, plutôt que les longues ascensions.",
+        "Les bateaux sur Windermere ou Derwentwater apportent de la variété sans fatiguer les jambes.",
+        "Les villages de pierre et les courts sentiers en forêt offrent des pauses naturelles entre les grands paysages ouverts.",
+        "Emportez des vêtements imperméables même par beau temps le matin : les conditions peuvent changer rapidement."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Lake District en train",
+          "note": "Les trains directs de London Euston à Oxenholme Lake District mettent environ 2 h 30 à 3 h. Depuis Oxenholme, des trains locaux rejoignent Windermere en une vingtaine de minutes."
+        },
+        {
+          "title": "Manchester → Lake District",
+          "note": "Les trains au départ de Manchester Airport ou Manchester Piccadilly rejoignent Windermere en environ 1 h 30 à 2 h, souvent avec une correspondance. Il s’agit de l’un des itinéraires d’arrivée les plus pratiques."
+        },
+        {
+          "title": "En voiture",
+          "note": "La voiture offre la plus grande flexibilité pour explorer les vallées et les lacs. Attendez-vous à des routes étroites, à une conduite lente et à des possibilités de stationnement limitées dans les villages populaires en haute saison."
+        }
+      ],
+      "gettingAround": [
+        "Le Lake District ne se parcourt pas entièrement à pied : un moyen de transport est indispensable pour passer d’une vallée à l’autre.",
+        "Une voiture offre le plus de liberté, notamment pour Castlerigg Stone Circle, Borrowdale et les points de vue situés au-dessus des lacs.",
+        "Des bus publics relient les principaux centres comme Windermere, Grasmere et Keswick, mais les trajets sont plus lents et demandent de la préparation.",
+        "Les bateaux sur Windermere et Derwentwater offrent un moyen de transport panoramique tout en réduisant l’utilisation de la voiture.",
+        "La marche convient surtout aux déplacements locaux : rives des lacs, boucles autour des villages et courts sentiers sur les reliefs."
+      ],
+      "dayTrips": [
+        {
+          "title": "Windermere et les lacs du sud",
+          "note": "Concentrez-vous sur les promenades au bord du lac, les croisières et les villes voisines comme Bowness ou Ambleside. Une fois installé près du lac, les déplacements en voiture restent limités."
+        },
+        {
+          "title": "Grasmere et les reliefs centraux",
+          "note": "Exploration centrée sur le village, avec de courtes promenades, des sites littéraires et des trajets tranquilles dans les vallées. Les routes sont étroites, mais les distances courtes."
+        },
+        {
+          "title": "Keswick, Derwentwater et Borrowdale",
+          "note": "Paysages du nord du Lake District avec vues dégagées, sentiers au bord du lac et route panoramique dans la vallée. Castlerigg Stone Circle s’intègre naturellement à cette journée."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Promenades au bord des lacs et dans les villages",
+          "note": "Une fois garé, la plupart des déplacements se font à pied : rues de village, rives des lacs et courts sentiers définissent le rythme quotidien."
+        }
+      ],
+      "practical": [
+        "Prévoyez une seule zone principale par jour : traverser le parc à plusieurs reprises fait perdre du temps et de l’énergie.",
+        "Les parkings de Windermere, Grasmere et Keswick se remplissent tôt ; arrivez avant le milieu de la matinée en haute saison.",
+        "La météo change vite : adaptez les points de vue et les promenades si la pluie ou les nuages s’installent sur les hauteurs.",
+        "Les routes sont lentes et sinueuses ; les courtes distances prennent souvent plus de temps que prévu.",
+        "Les sentiers peuvent être boueux toute l’année ; des chaussures imperméables comptent davantage que le niveau de forme physique.",
+        "Le Lake District récompense la lenteur : moins d’étapes, des pauses plus longues et des déplacements sans précipitation."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cumberland sausage",
+        "Sticky toffee pudding",
+        "Agneau du Lake District",
+        "Pain d’épices de Grasmere",
+        "Cream tea traditionnel"
+      ],
+      "areas": [
+        {
+          "name": "Windermere & Bowness",
+          "note": "La base la plus animée mais aussi la plus pratique, avec un large choix de pubs, de cafés au bord du lac et de restaurants décontractés après les croisières et les promenades."
+        },
+        {
+          "name": "Grasmere Village",
+          "note": "Petit village traditionnel proposant salons de thé, boulangeries et pubs, parfaitement adaptés aux journées de promenade tranquille."
+        },
+        {
+          "name": "Keswick",
+          "note": "Centre animé du nord avec pubs classiques et cafés, idéal après les promenades autour de Derwentwater et les routes panoramiques voisines."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Drunken Duck Inn",
+          "area": "Near Ambleside",
+          "reason": "Auberge de campagne réputée proposant une cuisine britannique raffinée préparée avec des produits locaux du Lake District dans une atmosphère détendue.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/lake-district-food/the-drunken-duck-inn.jpg",
+          "lat": 54.3836,
+          "lng": -3.0373
+        },
+        {
+          "name": "Grasmere Gingerbread Shop",
+          "area": "Grasmere",
+          "reason": "Boulangerie historique célèbre pour son pain d’épices unique, un classique du Lake District et une étape facile lors de la visite du village.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/lake-district-food/grasmere-gingerbread-shop.jpg",
+          "lat": 54.4583,
+          "lng": -3.0247
+        },
+        {
+          "name": "The Square Orange Café Bar",
+          "area": "Keswick",
+          "reason": "Adresse décontractée très appréciée pour le déjeuner et les dîners tôt en soirée, idéale pour les marcheurs terminant une journée autour de Derwentwater.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/lake-district-food/square-orange-keswick.jpg",
+          "lat": 54.6004,
+          "lng": -3.134
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-london-beyond-the-postcards",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "London",
+    "title": "Londres en 4 jours : Icônes, quartiers et sites intemporels",
+    "days": 4,
+    "priceFrom": 260,
+    "hero": "/src/assets/itineraries/united-kingdom/4-days-london-beyond-the-postcards.jpg",
+    "summary": "Cet itinéraire de 4 jours à Londres est conçu pour les visiteurs découvrant la ville pour la première fois et souhaitant associer ses monuments les plus emblématiques à ses quartiers les plus riches en caractère. Tous les sites inclus figurent régulièrement parmi les attractions les mieux classées de Londres sur TripAdvisor et dans les principaux guides de voyage.",
+    "highlights": [
+      "Buckingham Palace et relève de la garde",
+      "Westminster Abbey et Big Ben",
+      "Tower of London et Tower Bridge",
+      "British Museum",
+      "Camden Market",
+      "Greenwich et le méridien d’origine"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Londres royale et Westminster",
+        "summary": "Les monuments royaux de Londres et son cœur historique.",
+        "details": "Commencez votre découverte de Londres à Buckingham Palace, résidence de la monarchie britannique. Traversez St James’s Park en direction de Westminster Abbey, l’un des édifices religieux les plus importants du Royaume-Uni. Poursuivez devant Big Ben et les Houses of Parliament, puis promenez-vous le long de la South Bank pour profiter de vues classiques sur la Tamise."
+      },
+      {
+        "day": 2,
+        "title": "La City, la Tour et la Tamise",
+        "summary": "Le Londres médiéval face à la silhouette moderne de la ville.",
+        "details": "Explorez la Tower of London, l’une des attractions les mieux notées de la ville et le lieu où sont conservés les joyaux de la Couronne. Traversez Tower Bridge à pied, puis poursuivez le long de la Tamise. Dans l’après-midi, découvrez la City de Londres, notamment St Paul’s Cathedral et les rues historiques environnantes."
+      },
+      {
+        "day": 3,
+        "title": "Musées et culture du West End",
+        "summary": "Des musées de renommée mondiale et le Londres culturel.",
+        "details": "Passez la matinée au British Museum, régulièrement classé parmi les meilleures attractions de Londres. Après le déjeuner, explorez les rues et les marchés de Covent Garden. En soirée, profitez de l’ambiance de Soho ou assistez à une représentation théâtrale dans le West End."
+      },
+      {
+        "day": 4,
+        "title": "Quartiers : Camden et Greenwich",
+        "summary": "Caractère local et découvertes historiques.",
+        "details": "Visitez Camden Market pour découvrir son atmosphère animée, sa culture de rue et ses nombreux stands de restauration. Plus tard, rendez-vous à Greenwich pour vous tenir sur la ligne du méridien d’origine, explorer Greenwich Park et admirer les vues panoramiques sur la Tamise et Canary Wharf."
+      }
+    ],
+    "planning": {
+      "city": "Londres, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les longues journées, les températures douces et les parcs plus verdoyants rendent les visites à pied agréables, sans les foules de la haute saison estivale."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et journées courtes), juillet–août (haute saison très fréquentée)",
+        "note": "En hiver, les journées sont courtes et humides, tandis que l’été apporte de fortes affluences touristiques et des transports bondés, notamment autour des principaux sites."
+      },
+      "tips": [
+        "Organisez vos journées par quartier plutôt que par attraction : Londres est immense, alors donnez à chaque journée un point d’ancrage local, à l’est, au nord, au sud ou dans le centre.",
+        "Utilisez partout une carte bancaire sans contact ou une Oyster card : considérez les bus et le métro comme une partie de l’expérience, et pas seulement comme un moyen de transport.",
+        "Marchez entre les sites proches : certains des meilleurs moments à Londres se trouvent entre deux destinations.",
+        "Les parcs servent de points d’équilibre : Hyde Park, Regent’s Canal, Greenwich Park et Hampstead Heath permettent de ralentir le rythme.",
+        "Les musées sont gratuits mais fatigants : limitez-vous à un seul par jour et associez-le à du temps passé en extérieur.",
+        "Prévoyez plusieurs couches de vêtements et un parapluie compact toute l’année ; le temps change rapidement."
+      ],
+      "withKids": [
+        "Les parcs, les marchés et les promenades au bord de la rivière équilibrent les musées et la densité urbaine.",
+        "Les bus sont souvent plus amusants que le métro pour les enfants et permettent de mieux s’orienter en restant à la surface.",
+        "Prévoyez des journées plus courtes : l’étendue de Londres peut rapidement fatiguer les jeunes voyageurs.",
+        "Les marchés alimentaires et les boulangeries permettent de manger avec souplesse, sans devoir prévoir de longs repas assis."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Heathrow (LHR) → Centre de Londres",
+          "note": "Option la plus rapide : la ligne Elizabeth jusqu’aux secteurs de Paddington ou Tottenham Court Road. Autres possibilités : la ligne Piccadilly, plus lente mais directe, ou le Heathrow Express jusqu’à Paddington, plus rapide mais nettement plus cher."
+        },
+        {
+          "title": "Gatwick (LGW) → Centre de Londres",
+          "note": "Le Gatwick Express rejoint Victoria rapidement, mais à un tarif élevé. Thameslink constitue souvent l’option offrant le meilleur rapport qualité-prix vers London Bridge, Blackfriars ou St Pancras, selon l’emplacement de votre hébergement."
+        },
+        {
+          "title": "Stansted (STN) / Luton (LTN) → Centre de Londres",
+          "note": "Le Stansted Express dessert Liverpool Street ; Luton dispose de liaisons ferroviaires vers le centre de Londres, souvent via Thameslink. Prévoyez une marge de temps supplémentaire pour ces deux aéroports."
+        },
+        {
+          "title": "Eurostar (St Pancras) → Votre hôtel",
+          "note": "St Pancras se trouve déjà dans le centre de Londres. Utilisez le métro ou prenez un taxi pour un court trajet selon la quantité de bagages ; évitez la voiture, car la circulation dans le centre est lente et coûteuse."
+        }
+      ],
+      "gettingAround": [
+        "Utilisez une carte bancaire sans contact ou une Oyster card : validez à l’entrée et à la sortie dans le métro et les trains ; dans les bus, une seule validation à la montée suffit.",
+        "Le métro est le moyen le plus rapide pour les longues distances ; les bus sont plus lents mais excellents pour admirer la ville et s’orienter en restant à la surface.",
+        "La marche est souvent la meilleure option dans les quartiers centraux : de nombreux sites majeurs sont plus proches qu’ils ne le paraissent sur une carte.",
+        "Évitez de conduire : péage urbain, stationnement limité et circulation lente rendent la voiture peu avantageuse pour les visiteurs.",
+        "Pour les sorties tardives, les bus de nuit et le Night Tube sur certaines lignes peuvent être utiles ; les taxis et services de VTC complètent les autres options."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Jour 1 : Buckingham Palace → Westminster → South Bank",
+          "note": "Cette journée se parcourt principalement à pied. Utilisez le métro uniquement en cas de mauvais temps ou pour économiser votre énergie ; la promenade le long de la South Bank fait partie intégrante de l’expérience."
+        },
+        {
+          "title": "Jour 2 : Tower of London et Tower Bridge → City de Londres (St Paul’s)",
+          "note": "Utilisez le métro ou le DLR pour gagner du temps, puis suivez à pied les chemins longeant la Tamise entre Tower Bridge et les étapes voisines au bord de l’eau. Une fois sur place, la City se découvre idéalement à pied."
+        },
+        {
+          "title": "Jour 3 : British Museum → Covent Garden → Soho / West End",
+          "note": "Cet ensemble central se parcourt très facilement à pied. Le métro reste facultatif et sert surtout à raccourcir le trajet entre Bloomsbury et le West End si nécessaire."
+        },
+        {
+          "title": "Jour 4 : Camden Market → Greenwich (méridien d’origine)",
+          "note": "Il est préférable d’organiser cette journée autour de deux secteurs, séparés par un trajet principal en transports. Camden invite à marcher et à flâner ; Greenwich est facilement accessible en métro puis DLR, en navette fluviale ou en train selon votre point de départ."
+        }
+      ],
+      "practical": [
+        "Réservez à l’avance les billets à horaire fixe lorsque cela est nécessaire, car certaines attractions majeures affichent complet pendant les périodes de forte affluence.",
+        "Commencez tôt pour visiter la Tower of London et le secteur de Westminster afin de réduire les files d’attente et d’éviter une partie de la foule.",
+        "Londres compte de nombreux escaliers : portez des chaussures confortables et prévoyez de courtes pauses entre les quartiers.",
+        "Préparez un programme simple en cas de pluie : le temps londonien peut changer rapidement, et les musées ainsi que les marchés constituent les meilleures solutions de repli.",
+        "Après un spectacle dans le West End, les transports peuvent être très fréquentés : repérez à l’avance les options de bus de nuit ou de métro les plus proches.",
+        "Structurez chaque journée par quartier ; traverser plusieurs fois la ville est l’une des principales façons dont les visiteurs perdent du temps."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Petit-déjeuner anglais traditionnel",
+        "Sunday roast avec Yorkshire pudding",
+        "Fish and chips",
+        "Afternoon tea",
+        "Plats des marchés de street food",
+        "Tourtes britanniques classiques"
+      ],
+      "areas": [
+        {
+          "name": "Westminster / Covent Garden",
+          "note": "Quartier central de visites avec pubs historiques, cafés et restaurants fiables entre les principaux monuments et les théâtres."
+        },
+        {
+          "name": "Soho",
+          "note": "Quartier dense connu pour ses restaurants ouverts tard, ses adresses décontractées et sa cuisine internationale, aux côtés des pubs londoniens traditionnels."
+        },
+        {
+          "name": "Camden",
+          "note": "Secteur organisé autour du marché, proposant une grande variété de street food et de repas informels, particulièrement adapté aux déjeuners flexibles."
+        },
+        {
+          "name": "Greenwich",
+          "note": "Quartier paisible au bord de la rivière, avec des pubs et des cafés parfaits pour se détendre après une promenade dans le parc ou une visite de musée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Borough Market Food Stalls",
+          "area": "Southwark",
+          "reason": "Marché alimentaire emblématique de Londres proposant un large choix de plats britanniques et internationaux, apprécié pour les déjeuners décontractés et la possibilité de goûter plusieurs spécialités.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/london-food/borough-market.jpg",
+          "lat": 51.5055,
+          "lng": -0.091
+        },
+        {
+          "name": "The Churchill Arms",
+          "area": "Notting Hill",
+          "reason": "Pub londonien classique réputé pour ses ales traditionnelles et ses plats généreux, représentatif de la culture historique des pubs de la capitale.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/london-food/churchill-arms.jpg",
+          "lat": 51.5079,
+          "lng": -0.1956
+        },
+        {
+          "name": "Camden Market Street Food Stalls",
+          "area": "Camden",
+          "reason": "Grande concentration de vendeurs de street food proposant des repas souples et informels, à l’image de la scène culinaire multiculturelle de Londres.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/london-food/camden-market.jpg",
+          "lat": 51.5413,
+          "lng": -0.142
+        },
+        {
+          "name": "Greenwich Riverside Pubs",
+          "area": "Greenwich",
+          "reason": "Pubs et cafés au bord de la rivière proposant des repas détendus avec vue sur la Tamise, particulièrement adaptés à un dernier repas pris à un rythme plus tranquille.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/london-food/greenwich-riverside.jpg",
+          "lat": 51.4811,
+          "lng": 0.0059
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-oxford-spires-courtyards-and-slow-thoughts",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "title": "Oxford en 2 jours : Flèches, cours et pensées tranquilles",
+    "days": 2,
+    "priceFrom": 165,
+    "hero": "/src/assets/itineraries/united-kingdom/2-days-oxford-spires-courtyards-and-slow-thoughts.jpg",
+    "summary": "Cet itinéraire de 2 jours à Oxford explore l’une des villes les plus riches d’Angleterre sur les plans intellectuel et architectural, en mettant l’accent sur ses collèges historiques, ses bibliothèques et ses paysages au bord de l’eau. Tous les lieux proposés figurent régulièrement parmi les principales attractions d’Oxford et se découvrent facilement à pied. Le rythme est volontairement calme afin de laisser le temps de parcourir les cours, d’admirer les flèches et de s’imprégner de l’atmosphère universitaire paisible qui définit la ville. Conçu pour une première visite, l’itinéraire équilibre les monuments emblématiques et les moments de réflexion le long de la rivière.",
+    "highlights": [
+      "Bodleian Library",
+      "Radcliffe Camera",
+      "Christ Church College",
+      "Collèges de l’Université d’Oxford",
+      "Promenade en barque sur la rivière Cherwell"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Collèges historiques et cœur d’Oxford",
+        "summary": "Bibliothèques, flèches et siècles de savoir.",
+        "details": "Commencez votre visite d’Oxford à la Bodleian Library, l’une des plus anciennes bibliothèques d’Europe et le cœur intellectuel de la ville. Même vues de l’extérieur, la bibliothèque et la Radcliffe Camera forment l’une des scènes les plus reconnaissables et les plus photographiées d’Oxford. Une visite guidée permet de mieux comprendre les traditions de l’université et le rôle joué par la bibliothèque dans le rayonnement mondial du savoir.\n\nDepuis la Bodleian, avancez lentement dans les rues voisines en passant devant plusieurs collèges historiques, dont les cours et les portails révèlent différentes strates de l’histoire architecturale. Prenez le temps d’entrer dans un ou deux collèges afin de découvrir ces espaces calmes et fermés qui contrastent avec l’animation des rues extérieures.\n\nContinuez vers Christ Church College, l’un des plus grands et des plus célèbres collèges d’Oxford. Son grand hall, sa prairie et sa chapelle aux allures de cathédrale en font un incontournable pour de nombreux visiteurs et une présence régulière dans les classements des principales attractions de la ville. Après la visite, déjeunez dans les environs en conservant un rythme détendu.\n\nConsacrez l’après-midi à une promenade sans itinéraire strict, en suivant les flèches et les ruelles de pierre plutôt qu’une carte. Ce temps libre est essentiel pour comprendre le caractère d’Oxford. Terminez la journée par une marche en soirée dans le centre historique, lorsque la ville retrouve un rythme plus calme."
+      },
+      {
+        "day": 2,
+        "title": "Rivières, prairies et grands espaces",
+        "summary": "L’Oxford verdoyante et ses promenades contemplatives.",
+        "details": "Commencez votre deuxième journée au bord de la rivière Cherwell ou dans les prairies voisines, où le cadre naturel d’Oxford apparaît pleinement. Une promenade paisible en barque constitue l’une des activités les plus populaires de la ville et offre une perspective plus calme sur les marges de l’université, loin des murs de pierre et des rues animées.\n\nAprès la promenade en barque ou à pied le long de la rivière, retournez vers le centre-ville pour déjeuner, revoir vos endroits préférés ou découvrir un petit musée. Grâce à sa configuration compacte, Oxford permet d’alterner facilement activités et pauses, et les cafés installés dans des bâtiments historiques offrent des lieux idéaux pour ralentir.\n\nDans l’après-midi, promenez-vous dans des espaces comme University Parks ou Christ Church Meadow, où les grandes zones vertes invitent à réfléchir à la relation entre la ville et son paysage. Ces lieux sont régulièrement recommandés par les visiteurs comme des éléments essentiels de l’expérience oxfordienne.\n\nAchevez votre séjour par une dernière promenade dans les rues historiques près de la Bodleian, en admirant une dernière fois les flèches et les cours. Oxford se découvre lentement, et deux jours suffisent pour repartir avec une compréhension claire de son esprit universitaire durable."
+      }
+    ],
+    "planning": {
+      "city": "Oxford, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre (début de l’automne)",
+        "note": "Les températures douces et les journées plus longues sont idéales pour les promenades entre les collèges, les sentiers dans les prairies et les moments tranquilles au bord de la rivière, sans la congestion de la haute saison."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et journées courtes), juillet–août (haute saison très fréquentée)",
+        "note": "Les journées d’hiver sont brèves et humides, tandis que l’été attire de nombreux visiteurs dans les ruelles étroites et aux entrées des collèges."
+      },
+      "tips": [
+        "Pensez en petites boucles : Radcliffe Camera → Bodleian → Broad Street → cours des collèges forme un parcours naturel qui évite les allers-retours.",
+        "Visitez les collèges tôt le matin ou en fin d’après-midi, lorsque la lumière est douce et les groupes moins nombreux.",
+        "La promenade en barque sur le Cherwell est plus calme que sur la portion de la Tamise ; privilégiez le milieu de matinée ou le début de soirée.",
+        "Christ Church Meadow permet de ralentir ; associez les intérieurs denses des collèges à un grand espace vert.",
+        "Vérifiez les horaires d’ouverture des collèges : certains ferment à la mi-journée ou demandent un petit droit d’entrée.",
+        "De bonnes chaussures sont importantes : les pavés, les marches et les surfaces de pierre fatiguent vite."
+      ],
+      "withKids": [
+        "Les prairies et les chemins au bord de l’eau offrent de grands espaces entre les cours plus silencieuses.",
+        "La promenade en barque est attrayante et demande peu d’effort par rapport à une journée chargée en musées.",
+        "Limitez les visites intérieures et alternez avec des promenades en plein air.",
+        "Prévoyez de dîner plus tôt : la ville devient agréablement calme après le crépuscule."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → Oxford",
+          "note": "Les trains directs au départ de London Paddington rejoignent Oxford en environ 1 heure. La fréquence des services fait du train le moyen le plus rapide et le plus pratique d’arriver."
+        },
+        {
+          "title": "En voiture",
+          "note": "Le trajet depuis Londres dure environ 1 h 30 à 2 h selon la circulation. Le stationnement dans le centre d’Oxford est limité ; les parkings-relais en périphérie sont fortement recommandés."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique d’Oxford est compact et se découvre idéalement entièrement à pied.",
+        "La plupart des principaux sites se trouvent à 10 à 15 minutes de marche du secteur de la Bodleian.",
+        "Le vélo est extrêmement répandu, mais les visiteurs doivent rester attentifs aux cyclistes rapides dans les rues partagées.",
+        "Les bus locaux sont surtout utiles pour rejoindre les parkings-relais ou les quartiers périphériques.",
+        "Les taxis sont disponibles, mais rarement nécessaires pour une visite classique de deux jours."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre historique et collèges",
+          "note": "La Bodleian Library, la Radcliffe Camera, Broad Street, Christ Church College et les cours des collèges environnants forment une boucle compacte et facile à parcourir."
+        },
+        {
+          "title": "Rivière Cherwell et prairies",
+          "note": "Les embarcadères, Christ Church Meadow et University Parks se découvrent idéalement à pied, en associant vues sur la rivière et grands espaces verts."
+        }
+      ],
+      "practical": [
+        "Évitez de conduire dans le centre-ville : les rues étroites, les zones piétonnes et la priorité donnée aux vélos rendent les déplacements lents.",
+        "La gare d’Oxford se trouve à 15 à 20 minutes de marche du centre historique ; des taxis et des bus sont disponibles à la sortie.",
+        "Les horaires d’ouverture des collèges changent chaque jour ; vérifiez-les à l’avance pour éviter de trouver les grilles fermées en cours de promenade.",
+        "Les pavés et les surfaces de pierre peuvent devenir glissants lorsqu’ils sont mouillés ; des chaussures confortables sont essentielles.",
+        "La foule atteint son maximum en fin de matinée près de la Radcliffe Camera et de Christ Church ; les visites tôt ou tard dans la journée sont plus calmes.",
+        "Oxford se découvre mieux par des promenades en boucle que par une planification point à point."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Afternoon tea classique",
+        "Déjeuner traditionnel au pub (tourte ou Sunday roast)",
+        "Saucisses d’Oxford",
+        "Café torréfié localement",
+        "Gâteaux et scones britanniques"
+      ],
+      "areas": [
+        {
+          "name": "Historic City Centre",
+          "note": "Dense en collèges et en bibliothèques, ce secteur convient parfaitement aux salons de thé, cafés et pubs classiques entre de courtes boucles de promenade."
+        },
+        {
+          "name": "Jericho",
+          "note": "Quartier détendu juste au nord du centre, connu pour ses restaurants indépendants et sa cuisine locale du quotidien."
+        },
+        {
+          "name": "Riverside & Meadows",
+          "note": "Idéal pour des cafés et des pubs tranquilles près du Cherwell, parfait après une promenade en barque ou dans les prairies."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Eagle and Child",
+          "area": "Historic City Centre",
+          "reason": "L’un des pubs les plus célèbres d’Oxford, historiquement associé aux écrivains et aux universitaires, proposant une cuisine de pub classique dans un cadre académique.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/oxford-food/the-eagle-and-child.jpg",
+          "lat": 51.7546,
+          "lng": -1.2599
+        },
+        {
+          "name": "Vaults & Garden Café",
+          "area": "Historic City Centre",
+          "reason": "Café très apprécié à côté de la Radcliffe Camera, idéal pour le petit-déjeuner ou le déjeuner avec vue sur l’architecture la plus emblématique d’Oxford.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/oxford-food/vaults-and-garden.jpg",
+          "lat": 51.7529,
+          "lng": -1.2544
+        },
+        {
+          "name": "The Trout Inn",
+          "area": "Riverside & Meadows",
+          "reason": "Pub traditionnel au bord de la rivière, juste à l’extérieur du centre, parfait pour un repas détendu après une promenade à pied ou en barque.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/oxford-food/the-trout-inn.jpg",
+          "lat": 51.7729,
+          "lng": -1.2834
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-york-walls-and-whispering-streets",
+    "region": "europe",
+    "country": "United Kingdom",
+    "city": "York",
+    "title": "York en 2 jours : Remparts, cathédrale et ruelles murmurantes",
+    "days": 2,
+    "priceFrom": 150,
+    "hero": "/src/assets/itineraries/united-kingdom/2-days-york-walls-and-whispering-streets.jpg",
+    "summary": "Cet itinéraire de 2 jours à York explore l’une des villes historiques les mieux préservées d’Angleterre, en mettant l’accent sur des sites régulièrement classés parmi les principales attractions de la ville. Vous marcherez sur les anciens remparts, visiterez la magnifique York Minster et parcourrez des rues médiévales révélant plusieurs strates d’histoire romaine, viking et normande. Le rythme est détendu et les distances sont courtes, ce qui convient parfaitement aux visiteurs découvrant York pour la première fois sans vouloir se presser. Chaque journée associe des sites emblématiques à des moments plus calmes, permettant au caractère de la ville de se dévoiler naturellement.",
+    "highlights": [
+      "York Minster",
+      "Remparts de York",
+      "The Shambles",
+      "National Railway Museum",
+      "Clifford’s Tower"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "York Minster et la ville ancienne",
+        "summary": "Grandeur de la cathédrale et rues médiévales.",
+        "details": "Commencez votre visite de York à York Minster, l’une des plus grandes cathédrales gothiques d’Europe et le monument le plus emblématique de la ville. Arrivez le matin pour apprécier l’ampleur du bâtiment, la finesse de la pierre sculptée et les remarquables vitraux. Prenez également le temps d’en faire le tour à l’extérieur, où la cathédrale domine les rues voisines et rappelle l’importance historique de York.\n\nDepuis la cathédrale, explorez à pied les rues médiévales environnantes. Traversez Deangate et Petergate en vous dirigeant progressivement vers The Shambles. Cette ruelle étroite bordée de maisons à colombages est l’une des plus photographiées d’Angleterre et figure régulièrement parmi les principales attractions de York. Prenez le temps de flâner lentement, en observant les façades en surplomb et les petites boutiques indépendantes.\n\nAprès le déjeuner dans le centre-ville, poursuivez vers Clifford’s Tower, un donjon d’époque normande offrant des vues en hauteur sur les toits de York. La tour apporte un contexte historique utile et une perspective différente sur l’organisation de la ville. En fin d’après-midi, commencez une promenade tranquille sur une section des remparts de York, qui entourent une grande partie du centre historique.\n\nTerminez la journée par une promenade en soirée dans la vieille ville, en profitant de l’atmosphère plus paisible lorsque les visiteurs à la journée repartent et que les rues retrouvent une ambiance plus intime et intemporelle."
+      },
+      {
+        "day": 2,
+        "title": "Remparts et patrimoine ferroviaire",
+        "summary": "Promenades panoramiques et histoire industrielle.",
+        "details": "Commencez la deuxième journée par une promenade plus longue sur les remparts de York, l’un des systèmes de fortifications urbaines les mieux préservés d’Angleterre et une expérience parmi les mieux notées de la ville. Le parcours offre des vues changeantes sur les églises, les jardins et les bâtiments historiques, tout en aidant à comprendre comment York s’est développée au fil des siècles.\n\nAprès avoir terminé le circuit des remparts, rendez-vous au National Railway Museum. Régulièrement classé parmi les principales attractions de York, le musée retrace l’histoire ferroviaire britannique à travers des locomotives emblématiques, dont le Flying Scotsman. Ses vastes galeries et sa présentation claire en font une visite captivante, même pour les personnes peu passionnées par les trains.\n\nDans l’après-midi, retournez vers le centre-ville pour un déjeuner détendu et un peu de temps libre. C’est une bonne occasion de revenir dans une rue appréciée, de découvrir un petit musée ou simplement de vous installer dans un café pour observer la vie quotidienne dans ce décor historique.\n\nAchevez votre séjour à York par une dernière promenade dans le centre-ville ou le long de la rivière Ouse, en repensant à cette expérience compacte mais riche en histoire. La grande force de York réside dans la facilité avec laquelle son passé se découvre à pied, ce qui permet à deux jours de sembler complets sans jamais donner l’impression d’être précipités."
+      }
+    ],
+    "planning": {
+      "city": "York, Angleterre, Royaume-Uni",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), septembre–octobre (début de l’automne)",
+        "note": "Les températures douces, les journées plus longues et l’absence de conditions extrêmes rendent agréables et atmosphériques les promenades sur les remparts, le long de la rivière et dans les rues étroites."
+      },
+      "worstTime": {
+        "months": "Décembre–février (froid et journées courtes), juillet–août (haute saison très fréquentée)",
+        "note": "Les journées d’hiver sont courtes et humides, tandis que l’été attire de nombreux visiteurs dans les étroites rues médiévales de la ville."
+      },
+      "tips": [
+        "Commencez par les remparts : parcourez le circuit complet tôt le matin pour vous orienter avant que la ville ne se remplisse.",
+        "Visitez York Minster tôt le matin ou en fin d’après-midi : la lumière est plus douce et les files d’attente plus courtes.",
+        "The Shambles est plus agréable avant 9 h ou après la tombée de la nuit ; les foules de la mi-journée en atténuent le charme.",
+        "Organisez la visite à pied plutôt qu’en fonction des transports : la plupart des sites majeurs se trouvent dans un centre compact et facile à parcourir.",
+        "Les soirées le long de la rivière Ouse permettent de ralentir après les rues animées.",
+        "Portez de bonnes chaussures de marche : pavés, marches et ruelles irrégulières font partie de l’expérience."
+      ],
+      "withKids": [
+        "Les promenades sur les remparts et le long de la rivière offrent de l’espace pour bouger entre les rues plus denses.",
+        "De courtes visites de musée fonctionnent mieux que plusieurs longues étapes en intérieur.",
+        "Les histoires de fantômes et les visites historiques sont captivantes sans nécessiter de longues explications.",
+        "Prévoyez des dîners plus tôt : la ville devient agréablement calme après la tombée de la nuit."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Londres → York en train",
+          "note": "Des trains directs au départ de London King’s Cross rejoignent York en environ 2 heures et circulent fréquemment. Le train est le moyen le plus rapide et le plus pratique d’arriver à York, la gare se trouvant juste à l’extérieur des remparts."
+        },
+        {
+          "title": "Manchester / Leeds → York en train",
+          "note": "York est très bien reliée aux villes du nord de l’Angleterre. Le trajet dure environ 25 minutes depuis Leeds et près de 1 h 30 depuis Manchester."
+        },
+        {
+          "title": "En voiture",
+          "note": "Il est possible de venir en voiture, mais ce n’est pas idéal pour visiter le centre historique. Le stationnement à l’intérieur des remparts est limité ; les parkings-relais situés en périphérie sont vivement recommandés."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique de York est compact et se découvre idéalement entièrement à pied ; la plupart des sites majeurs se trouvent à 10 ou 15 minutes de marche les uns des autres.",
+        "Les remparts et les rues médiévales comportent des marches et des surfaces irrégulières ; de bonnes chaussures de marche sont indispensables.",
+        "Les bus locaux sont surtout utiles pour les parkings-relais ou pour rejoindre les quartiers périphériques ; ils sont rarement nécessaires pour visiter le centre.",
+        "Les taxis sont faciles à trouver, mais généralement inutiles pour les visiteurs logeant dans la vieille ville."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre historique : York Minster → The Shambles → Clifford’s Tower",
+          "note": "Le premier jour se concentre sur le cœur médiéval de York. York Minster, Petergate, The Shambles et Clifford’s Tower sont proches les uns des autres et se relient idéalement à pied."
+        },
+        {
+          "title": "Circuit des remparts",
+          "note": "Les remparts entourent le centre historique et sont accessibles depuis plusieurs portes. Le circuit complet permet de s’orienter et d’admirer des vues variées sur la ville."
+        },
+        {
+          "title": "Gare de York → National Railway Museum",
+          "note": "Le musée se trouve à quelques minutes de marche sur terrain plat depuis la gare de York, légèrement en dehors du cœur médiéval. Il s’intègre facilement à une promenade sur les remparts ou le long de la rivière."
+        }
+      ],
+      "practical": [
+        "Évitez de conduire dans la ville fortifiée : les rues étroites, les zones piétonnes et le stationnement limité rendent la marche beaucoup plus simple.",
+        "La gare de York se trouve à environ 10 à 15 minutes à pied de York Minster, en passant par les remparts ou les chemins longeant la rivière.",
+        "Parcourez les remparts par temps sec si possible ; les marches en pierre peuvent être glissantes après la pluie.",
+        "Le début de matinée et la soirée sont les meilleurs moments pour profiter de The Shambles et des sections des remparts sans trop de foule.",
+        "York récompense les visites répétées : parcourir les mêmes rues à différents moments de la journée révèle des ambiances changeantes.",
+        "Deux jours conviennent parfaitement à une première visite ; rester plus longtemps fonctionne mieux en ralentissant le rythme plutôt qu’en ajoutant davantage de sites."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Yorkshire pudding traditionnel",
+        "Sunday roast à la manière du Yorkshire",
+        "Fish and chips",
+        "Thé du Yorkshire",
+        "Desserts classiques des pubs britanniques"
+      ],
+      "areas": [
+        {
+          "name": "Historic City Centre",
+          "note": "Cœur médiéval compact autour de York Minster et de The Shambles, avec pubs, salons de thé et restaurants décontractés adaptés aux pauses entre deux visites."
+        },
+        {
+          "name": "River Ouse / King’s Staith",
+          "note": "Secteur au bord de la rivière proposant des repas détendus dans des pubs et des cafés, idéal pour se reposer après les promenades sur les remparts et dans les rues animées."
+        },
+        {
+          "name": "Stonegate & Petergate Area",
+          "note": "Ruelles historiques proches de York Minster, avec salons de thé traditionnels et restaurants classiques intégrés au tissu ancien de la ville."
+        }
+      ],
+      "places": [
+        {
+          "name": "The Golden Fleece",
+          "area": "Historic City Centre",
+          "reason": "L’un des plus anciens pubs de York, connu pour sa cuisine britannique classique et son fort caractère local au cœur du quartier médiéval.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/york-food/the-golden-fleece.jpg",
+          "lat": 53.9607,
+          "lng": -1.0806
+        },
+        {
+          "name": "Bettys Café Tea Rooms",
+          "area": "Stonegate",
+          "reason": "Salon de thé emblématique du Yorkshire, célèbre pour son afternoon tea et ses pâtisseries traditionnelles, souvent associé à une promenade dans les rues historiques.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/york-food/bettys-cafe-tearooms.jpg",
+          "lat": 53.9623,
+          "lng": -1.0827
+        },
+        {
+          "name": "The Star Inn The City",
+          "area": "River Ouse",
+          "reason": "Pub au bord de la rivière proposant des repas détendus avec vue sur l’Ouse, particulièrement adapté à une soirée plus tranquille après les promenades en ville.",
+          "imageUrl": "/src/assets/itineraries/united-kingdom/york-food/the-star-inn-the-city.jpg",
+          "lat": 53.9594,
+          "lng": -1.0839
+        }
+      ]
+    }
+  }

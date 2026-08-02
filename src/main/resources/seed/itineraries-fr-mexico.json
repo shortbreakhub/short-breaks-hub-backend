@@ -1,0 +1,912 @@
+
+  {
+    "slug": "3-days-guanajuato-colour-below-and-above",
+    "region": "americas",
+    "country": "Mexico",
+    "city": "Guanajuato",
+    "title": "Guanajuato en 3 jours : la couleur, en dessous et au-dessus",
+    "days": 3,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mexico/3-days-guanajuato-colour-below-and-above.jpg",
+    "summary": "Cet itinéraire de 3 jours à Guanajuato explore une ville façonnée par les descentes, les montées et l’improvisation. Accrochée aux collines et traversée par des tunnels souterrains, Guanajuato se découvre verticalement : les rues se replient, les escaliers grimpent et les façades colorées accompagnent chaque pas. L’itinéraire équilibre points de vue, ruelles intimes et places théâtrales pour comprendre la ville en montant et en redescendant sans cesse.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Panorama coloré des collines",
+      "Le Callejón del Beso",
+      "Les tunnels souterrains",
+      "Le Teatro Juárez",
+      "Les belvédères dominant toute la vallée",
+      "Une ville façonnée par les descentes et les retours"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, descente et première immersion",
+        "summary": "Entrer dans la ville en se resserrant.",
+        "details": "Descendez vers le centre historique où les rues deviennent plus étroites et les couleurs plus intenses. Passez l’après-midi à explorer places, ruelles et escaliers avant de terminer près du Teatro Juárez, dont l’élégance contraste avec l’atmosphère vivante des environs."
+      },
+      {
+        "day": 2,
+        "title": "Ruelles, histoires et vie verticale",
+        "summary": "Comprendre l’intimité de la ville.",
+        "details": "Parcourez les passages étroits, notamment le Callejón del Beso, puis grimpez jusqu’à un belvédère pour admirer les toits empilés. Faites des pauses régulières avant de redescendre en fin de journée."
+      },
+      {
+        "day": 3,
+        "title": "Sous terre, à ciel ouvert et départ",
+        "summary": "Découvrir la circulation cachée.",
+        "details": "Explorez une partie des tunnels souterrains avant de retrouver les rues familières du centre. Privilégiez la redécouverte plutôt que la nouveauté, puis profitez d’un dernier déjeuner avant votre départ."
+      }
+    ],
+    "planning": {
+      "city": "Guanajuato, Mexique",
+      "bestTime": {
+        "months": "Oct.–nov., mars–avr.",
+        "note": "Le temps sec et la lumière claire rendent les belvédères et les promenades particulièrement agréables."
+      },
+      "worstTime": {
+        "months": "Juin–sept., fin oct.",
+        "note": "Les pluies estivales et le Festival Cervantino entraînent davantage de foule."
+      },
+      "tips": [
+        "Pensez verticalement pour organiser vos journées.",
+        "Se perdre fait partie de l’expérience.",
+        "Distinguez les visites en surface et dans les tunnels.",
+        "Un grand belvédère par jour suffit.",
+        "Profitez des animations musicales en soirée.",
+        "Portez de bonnes chaussures."
+      ],
+      "withKids": [
+        "Les places permettent des pauses.",
+        "Le funiculaire évite certaines montées.",
+        "Limitez les parcours avec beaucoup d’escaliers.",
+        "Les pauses l’après-midi sont utiles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion (via les aéroports voisins)",
+          "note": "Guanajuato ne possède pas son propre aéroport. La plupart des voyageurs arrivent via  (León/Guanajuato), puis rejoignent la ville par la route."
+        },
+        {
+          "title": "Aéroport → Guanajuato",
+          "note": "Les transferts se font généralement en navette, voiture privée ou taxi, avec une descente progressive vers la vallée."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique se visite principalement à pied.",
+        "Les dénivelés sont constants.",
+        "Les taxis sont pratiques pour remonter.",
+        "Les bus sont peu utiles aux visiteurs.",
+        "La voiture est déconseillée dans le centre."
+      ],
+      "dayMoves": [
+        {
+          "title": "Descente vers le centre historique",
+          "note": "L’arrivée mène naturellement vers des rues plus étroites et plus colorées."
+        },
+        {
+          "title": "Boucles verticales",
+          "note": "Chaque journée alterne montée vers un point de vue et retour dans les ruelles."
+        },
+        {
+          "title": "Surface ↔ Tunnels",
+          "note": "Les tunnels assurent la circulation tandis que les rues restent piétonnes et animées."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Belvédères et funiculaire",
+          "note": "Quelques montées offrent une vue complète sur la vallée."
+        },
+        {
+          "title": "Villes voisines (facultatif)",
+          "note": "Des excursions sont possibles, mais cet itinéraire privilégie Guanajuato."
+        }
+      ],
+      "practical": [
+        "De bonnes chaussures sont indispensables.",
+        "Réservez les montées au matin ou au soir.",
+        "Utilisez les belvédères pour vous repérer.",
+        "Les taxis sont abordables.",
+        "Les pavés deviennent glissants sous la pluie.",
+        "Reprendre les mêmes itinéraires facilite l’orientation."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Enchiladas mineras",
+        "Chiles rellenos",
+        "Gorditas de maïs",
+        "Soupes mexicaines traditionnelles",
+        "Confiseries locales",
+        "Café et pan dulce"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Places, ruelles et restaurants traditionnels sont parfaits entre deux montées."
+        },
+        {
+          "name": "Autour du Teatro Juárez",
+          "note": "Le cœur culturel de la ville, idéal en soirée."
+        },
+        {
+          "name": "Belvédères sur les collines",
+          "note": "Terrasses avec vue, idéales en fin d’après-midi."
+        }
+      ],
+      "places": [
+        {
+          "name": "Truco 7",
+          "area": "Centre historique",
+          "reason": "Restaurant réputé servant une cuisine traditionnelle de Guanajuato dans une ambiance chaleureuse.",
+          "imageUrl": "/src/assets/itineraries/mexico/guanajuato-food/truco-7.jpg",
+          "lat": 21.0169,
+          "lng": -101.2574
+        },
+        {
+          "name": "Casa Valadez",
+          "area": "Autour du Teatro Juárez",
+          "reason": "Institution située sur le Jardín de la Unión, parfaite pour un dîner paisible.",
+          "imageUrl": "/src/assets/itineraries/mexico/guanajuato-food/casa-valadez.jpg",
+          "lat": 21.0166,
+          "lng": -101.2578
+        },
+        {
+          "name": "Café Tal",
+          "area": "Centre historique",
+          "reason": "Café apprécié pour son café, ses pâtisseries et ses repas légers.",
+          "imageUrl": "/src/assets/itineraries/mexico/guanajuato-food/cafe-tal.jpg",
+          "lat": 21.0175,
+          "lng": -101.2563
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-merida-stone-shade-and-maya-continuity",
+    "region": "americas",
+    "country": "Mexico",
+    "city": "Mérida",
+    "title": "Mérida en 4 jours : pierre, ombre et continuité maya",
+    "days": 4,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mexico/4-days-merida-stone-shade-and-maya-continuity.jpg",
+    "summary": "Cet itinéraire de 4 jours à Mérida vous fait découvrir la capitale du Yucatán comme une ville façonnée par la chaleur, la pierre calcaire et la présence ininterrompue de la civilisation maya. Construite avec des bâtiments bas tournés vers l’intérieur, Mérida vous invite à avancer au rythme de l’ombre et du repos plutôt que de la vitesse. Conçu pour équilibrer rues coloniales, baignades dans les cenotes et découverte des anciennes cités voisines, cet itinéraire présente Mérida non comme une simple porte d’entrée vers les ruines, mais comme une continuité vivante d’un territoire et de ses traditions.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Centre historique et architecture tournée vers l’intérieur",
+      "Plaza Grande et son ambiance animée en soirée",
+      "La géométrie maya de style Puuc à Uxmal",
+      "Les cenotes comme refuges naturels contre la chaleur",
+      "Marchés, hamacs et cuisine yucatèque",
+      "Une ville façonnée par la chaleur et la continuité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, ombre et premiers instants de calme",
+        "summary": "Découvrir la ville à travers sa chaleur.",
+        "details": "Arrivez à Mérida et commencez à explorer lentement le centre historique en restant près des arcades et des rues ombragées. Ici, les bâtiments sont tournés vers l’intérieur : patios, murs épais et constructions basses répondent directement au climat.\n\nL’après-midi, reposez-vous volontairement pendant les heures les plus chaudes, puis ressortez lorsque la lumière devient plus douce.\n\nTerminez la journée sur la Plaza Grande, où familles, musiciens et vendeurs se retrouvent à mesure que la fraîcheur du soir s’installe. Profitez ensuite d’un dîner paisible à proximité."
+      },
+      {
+        "day": 2,
+        "title": "Marchés, gastronomie et continuité du quotidien",
+        "summary": "Comprendre Mérida à travers son rythme de vie.",
+        "details": "Passez la matinée dans les marchés locaux pour observer comment les produits frais, les épices et les plats préparés reflètent les racines mayas et les traditions régionales. La cuisine yucatèque est singulière, authentique et profondément ancrée dans son territoire.\n\nAlternez entre cafés ombragés et petites boutiques, en évitant les longues promenades à la mi-journée.\n\nL’après-midi, retournez à votre hébergement ou installez-vous dans un café avec patio pour vous reposer.\n\nÀ la tombée de la soirée, parcourez à nouveau les rues familières et laissez la répétition transformer peu à peu la ville en un lieu familier."
+      },
+      {
+        "day": 3,
+        "title": "Uxmal et l’harmonie de l’Antiquité",
+        "summary": "Percevoir la continuité sans distance.",
+        "details": "Partez tôt pour visiter Uxmal et promenez-vous parmi les constructions de style Puuc, qui mettent en valeur la géométrie, l’alignement et la sobriété. La Pyramide du Magicien impressionne davantage par son intention que par sa monumentalité.\n\nPrenez le temps de vous asseoir et d’observer : ce site récompense davantage l’immobilité qu’une visite précipitée.\n\nRetournez à Mérida dans l’après-midi et accordez-vous un moment de repos.\n\nLa soirée reste volontairement simple afin de laisser les impressions de la journée trouver naturellement leur place."
+      },
+      {
+        "day": 4,
+        "title": "Eaux des cenotes, retour aux habitudes et départ",
+        "summary": "Rafraîchir le corps, conserver l’esprit du lieu.",
+        "details": "Passez la matinée dans un cenote voisin, en descendant dans des cavités calcaires où l’eau, la lumière et le silence offrent une véritable sensation de renouveau. La baignade y est davantage une expérience réparatrice qu’une simple activité de loisir.\n\nRevenez à Mérida pour un dernier déjeuner dans un endroit que vous connaissez déjà.\n\nPartez sans vous presser. Mérida laisse son empreinte avec discrétion : une ville qui traverse le temps en tournant la vie vers l’intérieur et en laissant la continuité faire le reste."
+      }
+    ],
+    "planning": {
+      "city": "Mérida, Yucatán, Mexico",
+      "bestTime": {
+        "months": "Nov.–fév. (saison sèche plus fraîche), mars (inter-saison)",
+        "note": "Une humidité plus faible et des températures plus douces rendent les promenades en ville, les visites des sites archéologiques et les excursions vers les cenotes plus agréables."
+      },
+      "worstTime": {
+        "months": "Mai–sept. (chaud et humide), août–oct. (pluies et tempêtes)",
+        "note": "La chaleur et l’humidité extrêmes limitent les activités en journée, tandis que les orages de l’après-midi peuvent perturber les visites à la fin de l’été."
+      },
+      "tips": [
+        "Respectez le rythme de la sieste : les matinées et les soirées sont les meilleurs moments pour sortir, tandis que la mi-journée est faite pour l’ombre, les musées ou le repos.",
+        "Explorez la ville par petites boucles : le centre historique se découvre mieux à travers des promenades courtes et répétées que par de longs itinéraires.",
+        "Les soirées appartiennent à la plaza : concerts gratuits, marchés et promenades illustrent parfaitement la continuité de la vie locale.",
+        "Prévoyez une seule grande excursion par jour : Uxmal *ou* les cenotes *ou* le littoral — enchaîner plusieurs visites est fatigant.",
+        "Hydratez-vous régulièrement et portez des vêtements légers toute l’année ; la pierre calcaire réfléchit fortement la chaleur.",
+        "La cuisine est à la fois délicate et riche en saveurs : les longs déjeuners et les dîners relativement tôt s’accordent naturellement avec le climat."
+      ],
+      "withKids": [
+        "Les places et les larges trottoirs permettent de se promener tranquillement en soirée.",
+        "Les cenotes offrent des pauses rafraîchissantes — privilégiez les sites facilement accessibles.",
+        "Évitez les longues marches à la mi-journée et prévoyez régulièrement des haltes à l’ombre.",
+        "Les soirées qui se terminent tôt s’accordent bien avec le rythme et la chaleur de la ville."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée par avion",
+          "note": "La plupart des voyageurs arrivent via , situé à proximité de la ville. Le trajet jusqu’au centre historique est court et simple."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le transfert s’effectue généralement en taxi, en service de VTC ou via la navette de l’hôtel. Les distances sont courtes, mais la chaleur de la mi-journée rend un transport direct préférable à un trajet à pied avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique est compact et se découvre facilement à pied, surtout le matin et en soirée.",
+        "Les déplacements s’organisent autour de l’ombre : les arcades, les ruelles étroites et les patios comptent davantage que la distance.",
+        "Les taxis et les services de VTC sont largement utilisés pour les déplacements à la mi-journée ou les trajets plus longs par forte chaleur.",
+        "Des bus publics sont disponibles, mais ils sont moins pratiques pour les visiteurs qui se concentrent sur le centre-ville et les sites voisins.",
+        "Le vélo est envisageable, mais la chaleur et l’humidité limitent le confort en dehors des premières heures de la journée."
+      ],
+      "dayMoves": [
+        {
+          "title": "Courtes boucles à pied à l’ombre",
+          "note": "Les déplacements quotidiens privilégient des itinéraires courts et répétés dans le centre plutôt qu’une exploration linéaire."
+        },
+        {
+          "title": "Sortie le matin → Repos l’après-midi → Retour en soirée",
+          "note": "Les journées s’organisent naturellement autour d’une période active le matin, d’une pause à la mi-journée et d’un retour convivial sur les places en soirée."
+        },
+        {
+          "title": "Se repérer grâce à l’architecture tournée vers l’intérieur",
+          "note": "Les patios, les musées et les cafés servent de points de repère lorsque la chaleur limite les déplacements à l’extérieur."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Site archéologique d’Uxmal",
+          "note": "Accessible en voiture, dans le cadre d’une excursion organisée ou en bus. Un départ matinal est indispensable pour éviter la chaleur et l’affluence."
+        },
+        {
+          "title": "Cenotes des environs",
+          "note": "Les cenotes sont accessibles après un court trajet hors de la ville ; la plupart des visiteurs utilisent un taxi, une voiture de location ou un transfert organisé plutôt que les transports publics."
+        }
+      ],
+      "practical": [
+        "La chaleur détermine le rythme de la journée : partez tôt, reposez-vous à la mi-journée, puis reprenez vos promenades après le coucher du soleil.",
+        "Hydratez-vous régulièrement ; emportez toujours de l’eau, même pour les courtes promenades.",
+        "Portez des vêtements légers et une protection solaire tout au long de l’année.",
+        "N’enchaînez pas les longues excursions : une seule sortie importante par jour permet de préserver votre énergie.",
+        "Les déplacements en soirée sont limités : la plupart des activités se concentrent autour de Plaza Grande et des rues voisines.",
+        "La répétition facilite l’orientation : emprunter plusieurs fois les mêmes itinéraires permet de repérer rapidement les zones ombragées."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cochinita pibil",
+        "Papadzules",
+        "Panuchos et salbutes",
+        "Sopa de lima",
+        "Relleno negro",
+        "Agua de chaya"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Les bâtiments bas tournés vers l’intérieur et les arcades regroupent les meilleurs restaurants traditionnels yucatèques — idéal pour revenir plusieurs fois, au fil des promenades matinales et des soirées."
+        },
+        {
+          "name": "Autour de Plaza Grande",
+          "note": "Le cœur animé de la ville en soirée, avec des restaurants traditionnels et des cafés réputés — parfait après le coucher du soleil lorsque la chaleur retombe."
+        },
+        {
+          "name": "Nord de Mérida (quartier contemporain)",
+          "note": "Une scène gastronomique plus calme et aérée, proposant des interprétations modernes de la cuisine locale — idéale pour un dîner soigneusement choisi en dehors du centre historique."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Chaya Maya",
+          "area": "Centre historique",
+          "reason": "L'une des adresses traditionnelles les plus réputées de Mérida pour découvrir les grands classiques de la cuisine yucatèque — authentique, fiable et idéale pour une première découverte des saveurs locales.",
+          "imageUrl": "/src/assets/itineraries/mexico/merida-food/la-chaya-maya.jpg",
+          "lat": 20.9696,
+          "lng": -89.6201
+        },
+        {
+          "name": "Manjar Blanco",
+          "area": "Centre historique",
+          "reason": "Restaurant avec patio proposant des recettes yucatèques traditionnelles transmises au fil des générations — paisible, ombragé et parfait pour un long déjeuner adapté au rythme imposé par la chaleur.",
+          "imageUrl": "/src/assets/itineraries/mexico/merida-food/manjar-blanco.jpg",
+          "lat": 20.9699,
+          "lng": -89.6234
+        },
+        {
+          "name": "Mercado Lucas de Gálvez",
+          "area": "Centre historique",
+          "reason": "Le principal marché de la ville, où les panuchos, les salbutes, les jus de fruits frais et les repas du quotidien reflètent le véritable rythme de vie local plutôt qu'une mise en scène touristique.",
+          "imageUrl": "/src/assets/itineraries/mexico/merida-food/mercado-lucas-de-galvez.jpg",
+          "lat": 20.9679,
+          "lng": -89.6230
+        },
+        {
+          "name": "Apoala Mexican Cuisine",
+          "area": "Autour de Plaza Grande",
+          "reason": "Restaurant réputé proposant une cuisine régionale et du mezcal dans un agréable patio — une atmosphère conviviale et élégante, sans ostentation.",
+          "imageUrl": "/src/assets/itineraries/mexico/merida-food/apoala.jpg",
+          "lat": 20.9690,
+          "lng": -89.6212
+        },
+        {
+          "name": "Kuuk",
+          "area": "Nord de Mérida (quartier contemporain)",
+          "reason": "Restaurant gastronomique revisitant la cuisine yucatèque avec des techniques modernes et des ingrédients régionaux — à réserver pour une soirée gastronomique soigneusement planifiée.",
+          "imageUrl": "/src/assets/itineraries/mexico/merida-food/kuuk.jpg",
+          "lat": 20.9995,
+          "lng": -89.5996
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-oaxaca-ritual-flavour-and-continuity",
+    "region": "americas",
+    "country": "Mexico",
+    "city": "Oaxaca",
+    "title": "Oaxaca en 4 jours : rituel, saveurs et continuité",
+    "days": 4,
+    "priceFrom": 215,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mexico/4-days-oaxaca-ritual-flavour-and-continuity.jpg",
+    "summary": "Cet itinéraire de 4 jours à Oaxaca explore l’une des villes les plus profondément ancrées dans la continuité culturelle du Mexique, où l’héritage autochtone, les pratiques rituelles et la vie quotidienne demeurent indissociables. Conçu pour équilibrer patrimoine, gastronomie, artisanat et paysages environnants, il invite à entrer dans le rythme d’Oaxaca plutôt qu’à simplement la visiter.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Le centre historique et ses espaces rituels",
+      "Les marchés, les moles et la culture culinaire",
+      "Monte Albán et l’héritage zapotèque",
+      "Les villages d’artisans",
+      "Hierve el Agua",
+      "Une ville façonnée par la répétition et le sens"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rues de pierre et premier rythme",
+        "summary": "Entrer dans un rituel vivant.",
+        "details": "Arrivez à Oaxaca et parcourez à pied le centre historique. Les bâtiments bas, les rues pavées et les patios ombragés créent immédiatement une atmosphère intime. Passez l’après-midi sur le Zócalo ou dans un café avant un dîner de spécialités locales."
+      },
+      {
+        "day": 2,
+        "title": "Marchés, cuisine et mémoire culturelle",
+        "summary": "Comprendre Oaxaca par le goût.",
+        "details": "Découvrez les marchés Benito Juárez ou 20 de Noviembre, goûtez le mole, le chocolat et les spécialités régionales, puis accordez-vous un après-midi plus calme dans les rues ou patios du centre."
+      },
+      {
+        "day": 3,
+        "title": "Monte Albán et la continuité ancienne",
+        "summary": "Voir les origines sans distance.",
+        "details": "Partez tôt pour Monte Albán, admirez les plateformes dominant la vallée d’Oaxaca et prenez le temps d’observer le silence et les perspectives avant de revenir en ville pour une soirée paisible."
+      },
+      {
+        "day": 4,
+        "title": "Artisanat, paysages et départ",
+        "summary": "Quitter la ville par le savoir-faire.",
+        "details": "Visitez un village d’artisans ou Hierve el Agua, puis revenez à Oaxaca pour un dernier déjeuner avant le départ."
+      }
+    ],
+    "planning": {
+      "city": "Oaxaca, Mexique",
+      "bestTime": {
+        "months": "Mars–mai, oct.–nov.",
+        "note": "Le temps sec et les températures agréables sont idéaux pour explorer la ville, les sites archéologiques et les environs."
+      },
+      "worstTime": {
+        "months": "Juin–sept., fin oct.",
+        "note": "Les pluies estivales et les grands festivals peuvent entraîner davantage de foule."
+      },
+      "tips": [
+        "Organisez vos journées autour des marchés et des repas.",
+        "Consacrez des journées distinctes au centre et aux excursions.",
+        "Visitez Monte Albán tôt le matin.",
+        "Dégustez le mezcal avec modération et curiosité.",
+        "Tenez compte des fêtes locales.",
+        "Les places et la cuisine de rue rythment les soirées."
+      ],
+      "withKids": [
+        "Les soirées sur le Zócalo sont animées.",
+        "Les marchés plaisent aux familles.",
+        "Limitez-vous à une grande excursion par jour.",
+        "Chapeau, eau et ombre sont indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "Oaxaca est desservie par , situé à proximité de la ville avec un transfert rapide vers le centre historique."
+        },
+        {
+          "title": "Aéroport → Centre historique",
+          "note": "La plupart des voyageurs utilisent un taxi ou un transfert organisé par leur hébergement. Les distances sont courtes et la circulation reste modérée."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique se découvre entièrement à pied.",
+        "Les taxis sont économiques pour les courts trajets.",
+        "Les bus sont rarement nécessaires aux visiteurs.",
+        "La marche rythme naturellement la découverte.",
+        "Le vélo est peu courant dans le centre."
+      ],
+      "dayMoves": [
+        {
+          "title": "Centre historique et marchés",
+          "note": "Le Zócalo, le marché Benito Juárez et les rues voisines forment une boucle facilement parcourue à pied."
+        },
+        {
+          "title": "Oaxaca → Monte Albán",
+          "note": "Monte Albán est accessible en taxi, colectivo ou excursion organisée."
+        },
+        {
+          "title": "Centre → Quartiers d’artisans",
+          "note": "Les secteurs artisanaux se rejoignent facilement en taxi."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Villages d’artisans",
+          "note": "Teotitlán del Valle ou San Bartolo Coyotepec se visitent généralement en demi-journée."
+        },
+        {
+          "title": "Hierve el Agua",
+          "note": "Accessible en excursion organisée ou en transport privé."
+        }
+      ],
+      "practical": [
+        "L’altitude et le soleil nécessitent un rythme modéré.",
+        "Les matinées sont idéales pour les sites archéologiques.",
+        "Les trajets hors de la ville sont plus longs qu’ils n’en ont l’air.",
+        "Les soirées sont calmes et conviviales.",
+        "Prévoyez des espèces pour les taxis et marchés.",
+        "Revenir dans les mêmes rues aide à mieux comprendre la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Mole",
+        "Tlayudas",
+        "Chocolat d’Oaxaca",
+        "Chapulines",
+        "Tamales oaxaqueños",
+        "Mezcal"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Marchés et restaurants traditionnels au cœur de la vie quotidienne."
+        },
+        {
+          "name": "Marchés Benito Juárez / 20 de Noviembre",
+          "note": "Espaces animés où se mêlent cuisine, ingrédients et échanges."
+        },
+        {
+          "name": "Jalatlaco et environs",
+          "note": "Quartiers plus paisibles avec d’excellentes adresses locales."
+        }
+      ],
+      "places": [
+        {
+          "name": "Boulenc",
+          "area": "Centre historique",
+          "reason": "Boulangerie-café réputée pour ses pains au levain et ses excellents petits-déjeuners.",
+          "imageUrl": "/src/assets/itineraries/mexico/oaxaca-food/boulenc.jpg",
+          "lat": 17.0656,
+          "lng": -96.7244
+        },
+        {
+          "name": "Los Danzantes Oaxaca",
+          "area": "Centre historique",
+          "reason": "Restaurant renommé proposant une cuisine régionale et du mezcal dans un agréable patio.",
+          "imageUrl": "/src/assets/itineraries/mexico/oaxaca-food/los-danzantes.jpg",
+          "lat": 17.0637,
+          "lng": -96.7223
+        },
+        {
+          "name": "La Olla",
+          "area": "Centre historique",
+          "reason": "Cuisine traditionnelle mettant à l’honneur les produits de saison d’Oaxaca.",
+          "imageUrl": "/src/assets/itineraries/mexico/oaxaca-food/la-olla.jpg",
+          "lat": 17.0662,
+          "lng": -96.724
+        },
+        {
+          "name": "Mercado 20 de Noviembre (Pasillo de Humo)",
+          "area": "Marchés Benito Juárez / 20 de Noviembre",
+          "reason": "Célèbre allée des grillades, emblématique de la gastronomie populaire d’Oaxaca.",
+          "imageUrl": "/src/assets/itineraries/mexico/oaxaca-food/mercado-20-de-noviembre-pasillo-de-humo.jpg",
+          "lat": 17.0619,
+          "lng": -96.7246
+        },
+        {
+          "name": "Itanoní",
+          "area": "Jalatlaco et environs",
+          "reason": "Adresse réputée pour ses variétés de maïs indigène et ses préparations traditionnelles.",
+          "imageUrl": "/src/assets/itineraries/mexico/oaxaca-food/itanoni.jpg",
+          "lat": 17.0832,
+          "lng": -96.7422
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-san-miguel-held-by-light-and-craft",
+    "region": "north_america",
+    "country": "Mexico",
+    "city": "San Miguel de Allende",
+    "title": "San Miguel de Allende en 3 jours : portée par la lumière et l'artisanat",
+    "days": 3,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mexico/3-days-san-miguel-held-by-light-and-craft.jpg",
+    "summary": "Cet itinéraire de 3 jours à San Miguel de Allende explore une ville façonnée par la pierre, la lumière et l’artisanat. Ici, les mêmes rues révèlent un nouveau visage à chaque heure de la journée. Pensé pour équilibrer promenades paisibles, rencontres avec les artisans et soirées sans hâte, il invite à habiter le rythme de la ville plutôt qu’à simplement la parcourir.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Parroquia de San Miguel Arcángel selon la lumière",
+      "Les rues pavées et le centre historique",
+      "Les ateliers d’artisans",
+      "Les patios, terrasses et cours intérieures",
+      "Les vues depuis les rooftops au coucher du soleil",
+      "Une ville façonnée par la répétition et le soin"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rues de pierre et première immersion",
+        "summary": "Découvrir la ville en ralentissant.",
+        "details": "Commencez votre découverte dans le centre historique, où les rues pavées et les bâtiments rapprochés imposent naturellement un rythme plus lent. Faites le tour de la Parroquia et observez la lumière transformer progressivement les façades. Terminez la journée par un dîner sur une terrasse ou un rooftop."
+      },
+      {
+        "day": 2,
+        "title": "Artisanat et savoir-faire",
+        "summary": "Comprendre la ville par le travail.",
+        "details": "Visitez des galeries, ateliers et espaces artisanaux afin de découvrir un savoir-faire toujours vivant. Alternez entre patios, rues ombragées et espaces intérieurs avant de refaire, en soirée, les mêmes parcours sous une lumière différente."
+      },
+      {
+        "day": 3,
+        "title": "Lumière, répétition et départ",
+        "summary": "Quitter la ville sans la quitter vraiment.",
+        "details": "Reprenez votre promenade préférée, installez-vous dans un café ou sur une place plus longtemps que la veille et profitez d’un dernier déjeuner avant le départ. San Miguel laisse une impression douce et durable."
+      }
+    ],
+    "planning": {
+      "city": "San Miguel de Allende, Mexique",
+      "bestTime": {
+        "months": "Oct.–nov., mars–avr.",
+        "note": "Une lumière limpide et des températures agréables rendent les promenades, patios et rooftops particulièrement plaisants."
+      },
+      "worstTime": {
+        "months": "Juin–sept., fin déc.–janv.",
+        "note": "Les pluies estivales et les vacances d’hiver entraînent davantage de fréquentation et des soirées plus fraîches."
+      },
+      "tips": [
+        "Laissez la lumière guider votre journée.",
+        "Privilégiez de courtes boucles à pied.",
+        "Prenez le temps d’échanger avec les artisans.",
+        "Un seul point de vue élevé par jour suffit.",
+        "Profitez des rooftops en soirée.",
+        "Portez de bonnes chaussures pour les rues pavées."
+      ],
+      "withKids": [
+        "Le centre compact facilite les déplacements.",
+        "Les places sont idéales pour faire une pause.",
+        "Réservez les montées aux heures fraîches.",
+        "Dînez tôt avec les enfants."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion (via les aéroports voisins)",
+          "note": "San Miguel de Allende ne possède pas d’aéroport. La plupart des voyageurs arrivent via  (León/Guanajuato) ou , avant de rejoindre la ville par la route."
+        },
+        {
+          "title": "Aéroport → San Miguel de Allende",
+          "note": "Les transferts se font généralement en navette, voiture privée ou taxi. Le trajet est progressif malgré une distance modérée."
+        }
+      ],
+      "gettingAround": [
+        "Le centre historique se découvre entièrement à pied.",
+        "Les rues pavées et les pentes imposent naturellement un rythme lent.",
+        "Les taxis sont économiques.",
+        "Les bus sont rarement utiles aux visiteurs.",
+        "Conduire dans le centre est peu pratique."
+      ],
+      "dayMoves": [
+        {
+          "title": "Boucles dans le centre historique",
+          "note": "La Parroquia, les places, ateliers, cafés et rooftops forment de courtes promenades circulaires."
+        },
+        {
+          "title": "Intérieurs ↔ Rues",
+          "note": "Les allers-retours entre patios, galeries et rues lumineuses rythment naturellement la visite."
+        },
+        {
+          "title": "Centre → Belvédères / Rooftops",
+          "note": "Quelques marches suffisent pour profiter de nouveaux points de vue."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Sanctuaire d’Atotonilco",
+          "note": "Accessible en taxi ou lors d’une excursion d’une demi-journée."
+        },
+        {
+          "title": "Campagne environnante",
+          "note": "Une courte escapade est possible, mais le cœur de l’expérience reste la ville."
+        }
+      ],
+      "practical": [
+        "Les pavés ralentissent la marche.",
+        "Privilégiez les promenades le matin et le soir.",
+        "Prévoyez une veste pour les rooftops.",
+        "Les taxis sont bon marché, prévoyez des espèces.",
+        "Restez principalement dans le centre.",
+        "Revenir dans les mêmes rues enrichit l’expérience."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Enchiladas mineras",
+        "Chiles rellenos",
+        "Moles traditionnels",
+        "Tortillas fraîches et salsas",
+        "Pan dulce et café de olla",
+        "Dîner en rooftop selon la saison"
+      ],
+      "areas": [
+        {
+          "name": "Centre historique",
+          "note": "Cafés, patios et restaurants traditionnels jalonnent les rues pavées."
+        },
+        {
+          "name": "Autour de la Parroquia",
+          "note": "Idéal pour les petits-déjeuners, déjeuners en terrasse et soirées."
+        },
+        {
+          "name": "Quartiers en hauteur et rooftops",
+          "note": "Restaurants avec vue sur la ville, parfaits au coucher du soleil."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hecho en México",
+          "area": "Centre historique",
+          "reason": "Restaurant apprécié pour sa cuisine régionale mexicaine authentique.",
+          "imageUrl": "/src/assets/itineraries/mexico/san-miguel-de-allende-food/hecho-en-mexico.jpg",
+          "lat": 20.9147,
+          "lng": -100.7468
+        },
+        {
+          "name": "La Parada",
+          "area": "Centre historique",
+          "reason": "Adresse conviviale réputée pour ses enchiladas et ses moles.",
+          "imageUrl": "/src/assets/itineraries/mexico/san-miguel-de-allende-food/la-parada.jpg",
+          "lat": 20.9156,
+          "lng": -100.7461
+        },
+        {
+          "name": "The Rooftop at Selina",
+          "area": "Quartiers en hauteur et rooftops",
+          "reason": "Rooftop populaire offrant une belle vue sur le centre historique.",
+          "imageUrl": "/src/assets/itineraries/mexico/san-miguel-de-allende-food/the-rooftop-selina.jpg",
+          "lat": 20.9169,
+          "lng": -100.7439
+        },
+        {
+          "name": "Nectar",
+          "area": "Autour de la Parroquia",
+          "reason": "Restaurant contemporain mettant en valeur les ingrédients mexicains.",
+          "imageUrl": "/src/assets/itineraries/mexico/san-miguel-de-allende-food/nectar.jpg",
+          "lat": 20.9159,
+          "lng": -100.7447
+        },
+        {
+          "name": "Café de la Mancha",
+          "area": "Autour de la Parroquia",
+          "reason": "Café paisible réputé pour son café et ses pâtisseries.",
+          "imageUrl": "/src/assets/itineraries/mexico/san-miguel-de-allende-food/cafe-de-la-mancha.jpg",
+          "lat": 20.9162,
+          "lng": -100.7464
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-tulum-ruins-light-and-fragile-balance",
+    "region": "americas",
+    "country": "Mexico",
+    "city": "Tulum",
+    "title": "Tulum en 3 jours : ruines, lumière et équilibre fragile",
+    "days": 3,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mexico/3-days-tulum-ruins-light-and-fragile-balance.jpg",
+    "summary": "Cet itinéraire de 3 jours à Tulum explore une ville côtière définie par son exposition — au soleil, à la mer, à l’histoire et à leurs conséquences. Perchées au-dessus de la mer des Caraïbes, les ruines de Tulum dominent un équilibre fragile entre la pierre calcaire, la jungle et l’eau. Conçu pour alterner le calme des premières heures du matin, les baignades dans les cenotes et des moments de repos volontaire, cet itinéraire présente Tulum comme une destination qui récompense la retenue. Ici, la lumière est omniprésente et l’équilibre est un choix conscient.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Ruines mayas perchées au-dessus de la mer des Caraïbes",
+      "Lumière matinale et air marin",
+      "Les cenotes comme sources vitales creusées dans le calcaire",
+      "Plages bordées par la jungle et baignades paisibles",
+      "Déplacements lents pour éviter la chaleur et la foule",
+      "Une côte façonnée par la beauté et la fragilité"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, littoral et première découverte",
+        "summary": "Découvrir la lumière sans filtre.",
+        "details": "Arrivez à Tulum et commencez par une courte promenade le long du littoral, où le sable blanc, les eaux peu profondes et le vaste ciel dégagé créent immédiatement une impression de clarté. La chaleur s’installe tôt et demeure présente tout au long de la journée.\n\nL’après-midi, profitez d’une courte baignade et reposez-vous régulièrement à l’ombre des palmiers ou de simples abris. L’environnement invite naturellement à la modération.\n\nTerminez la journée par un dîner servi tôt, tandis que le coucher du soleil colore la mer. À Tulum, la nuit retrouve rapidement son calme lorsque l’on évite les excès."
+      },
+      {
+        "day": 2,
+        "title": "Ruines, hauteur et poids de l’histoire",
+        "summary": "Découvrir les origines au bord du monde.",
+        "details": "Commencez tôt par la visite des ruines de Tulum, avant que la foule et la chaleur ne deviennent dominantes. Promenez-vous parmi les structures dressées au sommet des falaises qui surplombent la mer des Caraïbes, où l’histoire et la géographie semblent naturellement se rejoindre.\n\nPrenez le temps de vous asseoir plutôt que de photographier : la force du site réside dans sa position bien plus que dans ses détails.\n\nL’après-midi, rafraîchissez-vous dans un cenote voisin en descendant dans la fraîcheur du calcaire, où l’eau et le silence permettent au corps de retrouver son équilibre.\n\nLa soirée reste simple et sans précipitation."
+      },
+      {
+        "day": 3,
+        "title": "Retour, eau et départ",
+        "summary": "Partir avec légèreté.",
+        "details": "Consacrez votre dernière matinée à une plage paisible ou retournez brièvement dans un cenote, en privilégiant ce qui vous est déjà familier plutôt que la nouveauté.\n\nRestez assis plus longtemps que vous ne marchez, en laissant le bruit de la mer remplacer le tumulte intérieur.\n\nProfitez d’un dernier déjeuner avant votre départ.\n\nTulum laisse une impression durable : un lieu d’une grande beauté qui ne peut être préservé qu’à condition d’être découvert avec douceur et respect."
+      }
+    ],
+    "planning": {
+      "city": "Tulum, Quintana Roo, Mexico",
+      "bestTime": {
+        "months": "Nov.–mars (saison sèche)",
+        "note": "Une humidité plus faible, un ciel plus dégagé et une mer plus calme rendent les visites matinales des ruines, les matinées à la plage et les baignades dans les cenotes particulièrement agréables."
+      },
+      "worstTime": {
+        "months": "Mai–sept. (chaud et humide), août–oct. (tempêtes et sargasses)",
+        "note": "La chaleur intense limite les activités aux premières heures de la journée, tandis que les sargasses saisonnières et les tempêtes peuvent affecter la qualité des plages."
+      },
+      "tips": [
+        "Préservez vos matinées : les ruines et les plages se découvrent idéalement dès l’ouverture, lorsque la lumière est douce et la fréquentation encore faible.",
+        "Choisissez un seul point fort par jour : ruines *ou* cenotes *ou* plage — en multiplier plusieurs atténue l’expérience du lieu.",
+        "Respectez la fragilité des lieux : récifs, cenotes et ruines nécessitent une fréquentation responsable ; suivez toujours les règles d’accès et les restrictions en vigueur.",
+        "Le vélo est pratique sur place, mais les distances entre la ville et la plage sont plus importantes qu’elles n’y paraissent ; planifiez vos déplacements avec soin.",
+        "Hydratation et recherche d’ombre sont essentielles ; le sable et la pierre calcaire réfléchissent fortement la chaleur.",
+        "Les soirées sont plus paisibles dans le centre-ville ; Tulum Pueblo offre une atmosphère plus reposante après une journée passée sur le littoral."
+      ],
+      "withKids": [
+        "Commencez les journées tôt afin d’éviter la chaleur et la foule.",
+        "Les cenotes facilement accessibles offrent des pauses rafraîchissantes adaptées aux familles.",
+        "Limitez le temps passé dans les clubs de plage et alternez avec des repas en ville et des moments de repos.",
+        "Une protection solaire et un répulsif contre les insectes sont indispensables."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée par avion",
+          "note": "La plupart des voyageurs arrivent via , puis poursuivent leur trajet vers le sud jusqu’à Tulum par voie terrestre. Les arrivées directes via le nouveau  sont de plus en plus fréquentes, mais restent encore limitées."
+        },
+        {
+          "title": "Aéroport → Tulum",
+          "note": "Les transferts s’effectuent généralement en navette, en transfert privé ou en voiture de location. Depuis Cancún, le trajet est relativement long ; un transport direct et climatisé est donc préférable à une succession de correspondances."
+        }
+      ],
+      "gettingAround": [
+        "Tulum est répartie sur plusieurs zones distinctes : la ville, les ruines, la zone balnéaire et les cenotes sont séparés les uns des autres.",
+        "Le vélo convient parfaitement aux courts trajets plats entre le centre-ville et les plages voisines lorsque la chaleur le permet.",
+        "Les taxis sont couramment utilisés pour rejoindre la zone balnéaire et pour les retours en soirée.",
+        "La voiture de location offre la plus grande flexibilité pour visiter les cenotes et accéder aux ruines dès le matin.",
+        "La marche est adaptée aux déplacements locaux, mais elle est rarement pratique entre les différentes zones en raison des distances et de l’exposition au soleil."
+      ],
+      "dayMoves": [
+        {
+          "title": "Départ tôt le matin",
+          "note": "Les ruines et les plages se découvrent idéalement dès l’ouverture ; privilégiez un transport permettant d’arriver tôt plutôt que la solution la plus pratique."
+        },
+        {
+          "title": "Retraite à la mi-journée",
+          "note": "L’après-midi se prête davantage aux cenotes, aux cafés ombragés ou au repos à votre hébergement qu’aux déplacements."
+        },
+        {
+          "title": "Courts retours en soirée",
+          "note": "Les activités du soir restent proches de votre point de départ : les distances parcourues diminuent à mesure que l’énergie et la tolérance à la chaleur baissent."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Zone archéologique de Tulum",
+          "note": "Accessible à vélo, en taxi ou en voiture avant l’arrivée de la foule. Une visite matinale permet d’éviter la chaleur, l’affluence et les distractions visuelles."
+        },
+        {
+          "title": "Circuit des cenotes",
+          "note": "Les cenotes sont accessibles en voiture, en taxi ou dans le cadre d’un transfert organisé. Les distances sont courtes mais ne se parcourent pas à pied ; prévoyez un seul groupe de cenotes par excursion."
+        }
+      ],
+      "practical": [
+        "La chaleur détermine le rythme des déplacements : partez tôt, reposez-vous à la mi-journée et limitez les transferts durant l’après-midi.",
+        "Hydratation et protection solaire sont indispensables, même pour de courts trajets.",
+        "Le vélo est un moyen de transport efficace, mais il nécessite un départ matinal et une bonne gestion des zones d’ombre.",
+        "Évitez d’enchaîner plusieurs sites : une seule destination principale par jour permet de préserver l’équilibre du voyage.",
+        "Les déplacements en soirée sont plus fluides dans le centre-ville que dans la zone balnéaire.",
+        "Les milieux naturels sont fragiles : respectez les restrictions d’accès et les règles de circulation afin de les préserver."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Ceviche (poisson ou crevettes)",
+        "Tacos aux fruits de mer frais",
+        "Cochinita pibil",
+        "Aguachile",
+        "Jus de fruits tropicaux frais",
+        "Poisson simplement grillé au citron vert"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville de Tulum (Pueblo)",
+          "note": "Une cuisine locale authentique, offrant un excellent rapport qualité-prix dans une ambiance plus paisible — idéale pour les soirées après une journée à la plage ou dans les cenotes."
+        },
+        {
+          "name": "Route côtière de Tulum",
+          "note": "Des restaurants face à la mer proposant une cuisine légère mettant en valeur la qualité des ingrédients — parfaits pour un dîner en début de soirée au moment du coucher du soleil, lorsque la chaleur diminue."
+        },
+        {
+          "name": "Corridor des cenotes",
+          "note": "Des restaurants simples et dispersés le long de la route intérieure — pratiques pour déjeuner après la visite d’un cenote sans avoir à retourner vers la côte."
+        }
+      ],
+      "places": [
+        {
+          "name": "Taqueria Honorio",
+          "area": "Centre-ville de Tulum (Pueblo)",
+          "reason": "Adresse incontournable appréciée des habitants pour ses tacos de cochinita pibil servis dès le matin et ses viandes régionales longuement mijotées — simple, authentique et profondément ancrée dans le quotidien local.",
+          "imageUrl": "/src/assets/itineraries/mexico/tulum-food/taqueria-honorio.jpg",
+          "lat": 20.2129,
+          "lng": -87.4630
+        },
+        {
+          "name": "El Camello Jr.",
+          "area": "Centre-ville de Tulum (Pueblo)",
+          "reason": "Restaurant réputé pour ses fruits de mer frais préparés avec simplicité et servis généreusement — une halte idéale pour le déjeuner après la visite des ruines ou des cenotes.",
+          "imageUrl": "/src/assets/itineraries/mexico/tulum-food/el-camello-jr.jpg",
+          "lat": 20.2154,
+          "lng": -87.4586
+        },
+        {
+          "name": "Sale e Pepe",
+          "area": "Route côtière de Tulum",
+          "reason": "Restaurant installé en bord de mer proposant une cuisine légère aux influences méditerranéennes — une atmosphère plus sereine et authentique que les établissements les plus tendance.",
+          "imageUrl": "/src/assets/itineraries/mexico/tulum-food/sale-e-pepe.jpg",
+          "lat": 20.1609,
+          "lng": -87.4545
+        },
+        {
+          "name": "Hartwood",
+          "area": "Route côtière de Tulum",
+          "reason": "Restaurant renommé cuisinant au feu de bois, mettant à l’honneur les produits de saison avec simplicité et maîtrise — à réserver pour une soirée gastronomique soigneusement choisie.",
+          "imageUrl": "/src/assets/itineraries/mexico/tulum-food/hartwood.jpg",
+          "lat": 20.1584,
+          "lng": -87.4541
+        },
+        {
+          "name": "Cenote Zacil-Ha Restaurant",
+          "area": "Corridor des cenotes",
+          "reason": "Restaurant simple et convivial situé à côté d’un cenote facilement accessible — idéal pour reprendre des forces sans multiplier les déplacements.",
+          "imageUrl": "/src/assets/itineraries/mexico/tulum-food/cenote-zacil-ha-restaurant.jpg",
+          "lat": 20.2307,
+          "lng": -87.4326
+        }
+      ]
+    }
+  }

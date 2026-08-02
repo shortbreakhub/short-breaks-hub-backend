@@ -1,0 +1,747 @@
+
+  {
+    "slug": "3-days-ha-long-bay-where-stone-rises-from-water",
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "city": "Ha Long Bay",
+    "title": "La baie d’Ha Long en 3 jours : là où la pierre émerge de l’eau",
+    "days": 3,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/vietnam/3-days-ha-long-bay-where-stone-rises-from-water.jpg",
+    "summary": "Cet itinéraire de 3 jours dans la baie d’Ha Long explore le paysage marin le plus emblématique du Vietnam à travers ses îles calcaires, ses criques paisibles et une lente progression sur les eaux ouvertes. Conçu pour éviter les visites précipitées, il met l’accent sur la lumière, l’espace et la répétition, laissant l’immensité et la sérénité de la baie rythmer chaque journée plutôt qu’une simple liste de sites à voir.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Formations karstiques calcaires",
+      "Croisière avec nuit à bord dans la baie",
+      "Criques paisibles et eaux ouvertes",
+      "Grottes et lagons abrités",
+      "Lever et coucher du soleil depuis le pont",
+      "Un rythme paisible guidé par les marées et la lumière"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Départ et eaux ouvertes",
+        "summary": "Laisser la terre derrière soi.",
+        "details": "Quittez le continent et embarquez à bord d’un bateau en direction de la baie d’Ha Long. À mesure que le littoral s’éloigne, les piliers calcaires commencent à surgir de l’eau, créant un paysage à la fois immense et enveloppant.\n\nPassez l’après-midi sur le pont ou dans les espaces abrités du bateau, en regardant la baie se dévoiler lentement. L’objectif n’est pas l’activité, mais l’adaptation — laisser le rythme de l’eau et des distances prendre naturellement le dessus. À l’approche du soir, profitez du dîner à bord tout en observant le ciel s’assombrir autour des îles."
+      },
+      {
+        "day": 2,
+        "title": "Îles, silence et lumière changeante",
+        "summary": "Une journée entièrement façonnée par la baie.",
+        "details": "Levez-vous tôt pour découvrir la baie d’Ha Long dans son moment le plus paisible. La lumière du matin révèle peu à peu les différentes couches de roche, de brume et d’eau qui entourent doucement le bateau.\n\nPassez la journée à naviguer entre les îles, avec quelques escales dans des grottes ou des lagons tranquilles. Chaque déplacement est lent et réfléchi. Baignez-vous, asseyez-vous ou contemplez simplement les variations de lumière.\n\nÀ l’approche du coucher du soleil, retrouvez les eaux ouvertes où les reflets s’étendent à la surface. La journée ne s’achève pas par une conclusion, mais par le calme — l’eau retenant les derniers éclats de lumière."
+      },
+      {
+        "day": 3,
+        "title": "Calme du matin et retour",
+        "summary": "Ramener la baie avec soi jusqu’à la terre.",
+        "details": "Passez votre dernière matinée sur le pont en regardant la baie s’éveiller lentement. Le petit-déjeuner se savoure sans hâte, accompagné de paysages qui n’ont besoin d’aucun commentaire.\n\nCommencez le trajet de retour vers le continent en observant comment la terre reprend progressivement sa place. Quittez la baie d’Ha Long avec le sentiment que son empreinte ne réside pas dans des sites particuliers, mais dans l’expérience de l’espace — la pierre s’élevant paisiblement hors de l’eau, indifférente au regard qu’on lui porte."
+      }
+    ],
+    "planning": {
+      "city": "Hạ Long Bay, Vietnam",
+      "bestTime": {
+        "months": "Octobre–novembre, mars–avril",
+        "note": "Ces saisons intermédiaires offrent des températures plus agréables, une humidité plus faible et une meilleure visibilité, idéales pour les croisières, le kayak et l’observation des formations calcaires sans chaleur excessive ni brouillard."
+      },
+      "worstTime": {
+        "months": "Juin–août (tempêtes), janvier–février (froid et brumeux)",
+        "note": "L’été peut apporter de fortes pluies et des tempêtes susceptibles de perturber les croisières. De janvier à février, le temps est souvent froid, brumeux et sujet au brouillard, ce qui réduit la visibilité des pitons calcaires et limite le temps passé sur le pont."
+      },
+      "tips": [
+        "Choisissez une croisière de 2 jours/1 nuit ou de 3 jours/2 nuits avec peu de cabines : les petits bateaux offrent une atmosphère plus paisible et un meilleur accès aux zones calmes.",
+        "Privilégiez les périodes de beau temps : les matinées calmes offrent la meilleure lumière et une eau lisse, idéales pour le kayak et les photographies.",
+        "Prévoyez plusieurs couches de vêtements : les matinées et les soirées sur l’eau peuvent être fraîches, même pendant les mois les plus chauds.",
+        "Évitez les itinéraires trop chargés : le temps passé sur le pont, une sortie tranquille en kayak et les couchers de soleil valent davantage qu’une succession rapide de grottes.",
+        "Si la mer est agitée, évitez les bateaux rapides et privilégiez une balade en kayak par mer calme ou un moment de détente sur le pont.",
+        "Les espèces sont utiles pour les petits suppléments ; la connexion réseau peut être limitée une fois la croisière commencée."
+      ],
+      "withKids": [
+        "Choisissez une croisière avec un bateau stable et un briefing de sécurité ; renseignez-vous à l’avance sur la disponibilité de gilets de sauvetage pour enfants.",
+        "Le kayak est préférable lorsque la mer est calme ; prévoyez une activité sur le pont si les conditions se dégradent.",
+        "Les cabines peuvent être compactes ; limitez les bagages et prévoyez une routine simple à bord.",
+        "Les couchers tôt sont recommandés : l’air marin et les activités fatiguent souvent plus les enfants qu’on ne l’imagine."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Hanoi → baie d’Ha Long",
+          "note": "Le moyen le plus courant est le bus de transfert de la croisière ou une voiture privée depuis Hanoi (environ 2 h 30 à 3 h 30 par l’autoroute). Certaines croisières proposent également une prise en charge directement à votre hôtel à Hanoi."
+        }
+      ],
+      "gettingAround": [
+        "Une fois à bord, tous les déplacements se font en bateau de croisière ; l’organisation quotidienne est entièrement assurée par l’opérateur de la croisière.",
+        "Les déplacements à terre sont limités et se font généralement à l’aide de petites embarcations pour rejoindre les grottes, les plages ou les lagons.",
+        "Aucun transport local indépendant n’est nécessaire pendant la croisière."
+      ],
+      "dayTrips": [],
+      "dayMoves": [],
+      "practical": [
+        "Confirmez le lieu et l’heure de prise en charge auprès de votre opérateur de croisière la veille du départ.",
+        "Voyagez léger : les cabines sont compactes et l’espace de rangement est limité.",
+        "Les conditions météorologiques peuvent modifier les itinéraires ; la flexibilité fait partie de l’expérience de la baie d’Ha Long.",
+        "Le réseau mobile peut être faible une fois la croisière commencée ; téléchargez à l’avance tout ce dont vous aurez besoin."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Fruits de mer frais (calamars grillés, crevettes, palourdes)",
+        "Crabe vapeur",
+        "Fondue de fruits de mer",
+        "Cha Muc (galette de calamar de Ha Long)",
+        "Riz ou nouilles sautés (style servi à bord)",
+        "Fruits tropicaux de saison"
+      ],
+      "areas": [
+        {
+          "name": "Ha Long City (Bai Chay / Hon Gai)",
+          "note": "Restaurants locaux et établissements spécialisés dans les fruits de mer avant ou après la croisière. Idéal pour un repas décontracté plutôt que pour une destination gastronomique."
+        },
+        {
+          "name": "Cruise Ports & Waterfront Areas",
+          "note": "Quelques restaurants pratiques sont répartis autour des ports de départ des croisières. Adaptés pour un repas rapide, mais ils ne constituent pas l’un des points forts du voyage."
+        }
+      ],
+      "places": [
+        {
+          "name": "Linh Dan Restaurant",
+          "area": "Ha Long City",
+          "reason": "Restaurant de fruits de mer apprécié des habitants depuis de nombreuses années, réputé pour son crabe frais, ses calamars et ses préparations simples mettant en valeur les produits locaux.",
+          "imageUrl": "",
+          "lat": 20.9511,
+          "lng": 107.0843
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-hanoi-where-stories-circle-back",
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "title": "Hanoi en 4 jours : là où les histoires reviennent toujours",
+    "days": 4,
+    "priceFrom": 200,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/vietnam/4-days-hanoi-where-stories-circle-back.jpg",
+    "summary": "Cet itinéraire de 4 jours à Hanoi explore la capitale du Vietnam à travers les différentes strates de son histoire, le calme de ses lacs et la vie étroitement tissée de ses quartiers. Conçu comme une alternance entre mouvement et pause, il équilibre avenues coloniales, quartiers anciens, mémoire politique et culture quotidienne de la rue, laissant le rythme circulaire de Hanoi — où passé et présent se rencontrent sans cesse — se révéler naturellement.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Rues et ruelles du Vieux Quartier",
+      "Lac Hoan Kiem et matinées paisibles",
+      "Temple de la Littérature",
+      "Architecture de l’époque coloniale",
+      "Cafés locaux et culture de la cuisine de rue",
+      "Soirées rythmées par les conversations et le mouvement"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers cercles",
+        "summary": "Entrer dans la ville par le mouvement.",
+        "details": "Arrivez à Hanoi et commencez par une promenade dans le Vieux Quartier, où rues étroites, devantures de boutiques et motos forment un réseau dense et vivant. Avancez lentement, en laissant le rythme de la ville se révéler plutôt qu’en cherchant à le maîtriser.\n\nEn fin d’après-midi, faites le tour du lac Hoan Kiem, où les habitants se retrouvent pour faire de l’exercice, discuter ou simplement marquer une pause. Terminez la journée par un repas simple au bord de la rue, en écoutant la ville poursuivre son mouvement autour de vous."
+      },
+      {
+        "day": 2,
+        "title": "Savoir, mémoire et cours paisibles",
+        "summary": "Le visage contemplatif de Hanoi.",
+        "details": "Commencez la journée au Temple de la Littérature, la plus ancienne université du Vietnam, où cours et stèles de pierre témoignent de plusieurs siècles de savoir et de continuité. Parcourez calmement les lieux, en observant comment l’espace invite naturellement à ralentir l’attention.\n\nDans l’après-midi, explorez les rues voisines bordées de bâtiments de l’époque coloniale, les cafés et les avenues ombragées, en remarquant le dialogue architectural entre les différentes époques. Terminez la journée par une pause tranquille dans un café, où la conversation et l’observation remplacent l’itinéraire."
+      },
+      {
+        "day": 3,
+        "title": "Vie de quartier et rituels du quotidien",
+        "summary": "Hanoi telle qu’elle vit aujourd’hui.",
+        "details": "Consacrez la journée à l’exploration des quartiers situés au-delà du Vieux Quartier. Visitez des marchés locaux, de petits temples et des rues résidentielles où les habitudes quotidiennes façonnent davantage la ville que les monuments.\n\nFaites souvent des pauses — Hanoi récompense l’immobilité autant que le mouvement. En soirée, revenez vers le lac ou dans une rue devenue familière pour dîner, en observant comment la ville se répète sans jamais devenir figée."
+      },
+      {
+        "day": 4,
+        "title": "Lumière du matin et départ",
+        "summary": "Quitter la ville à travers la répétition.",
+        "details": "Passez votre dernière matinée près du lac Hoan Kiem, où la lumière matinale, l’exercice et les conversations tranquilles définissent le début de la journée.\n\nProfitez d’un petit-déjeuner ou d’un café détendu avant votre départ. Hanoi laisse son empreinte à travers le retour — des histoires, des rues et des gestes qui reviennent en cercle, familiers mais jamais tout à fait identiques."
+      }
+    ],
+    "planning": {
+      "city": "Hanoi, Vietnam",
+      "bestTime": {
+        "months": "Octobre–novembre, mars–avril",
+        "note": "Ces saisons intermédiaires offrent un air plus frais, une humidité plus faible et un ciel plus dégagé — des conditions idéales pour parcourir le Vieux Quartier à pied, profiter des matinées au bord du lac et découvrir les cafés sans chaleur accablante."
+      },
+      "worstTime": {
+        "months": "Juin–août (chaud et humide), janvier–février (froid et humide)",
+        "note": "Les mois d’été sont très chauds et humides, avec des orages soudains. De janvier à février, le temps peut sembler étonnamment froid et humide, notamment à l’intérieur des bâtiments non chauffés."
+      },
+      "tips": [
+        "Pensez en boucles plutôt qu’en lignes droites : explorez un quartier à la fois et revenez dans les cafés ou les rues qui vous sont devenus familiers — Hanoi se révèle à travers la répétition.",
+        "Promenez-vous tôt autour du lac Hoàn Kiếm, entre 6 h et 8 h : les habitants font de l’exercice, l’air est plus frais et la ville semble plus intime.",
+        "Utilisez Grab pour les trajets plus longs ; parcourir quelques pâtés de maisons à pied est agréable, mais la circulation rend les longues promenades fatigantes.",
+        "La cuisine de rue est particulièrement animée le matin et le soir — la mi-journée convient mieux aux cafés en intérieur ou aux musées.",
+        "Prévoyez plusieurs couches de vêtements : des vêtements légers pour la chaleur de la journée et une veste fine pour les soirées fraîches ou l’humidité hivernale.",
+        "Les espèces sont indispensables pour la cuisine de rue et les petites boutiques ; les distributeurs sont fréquents, mais pas présents partout."
+      ],
+      "withKids": [
+        "Alternez l’animation du Vieux Quartier avec des espaces ouverts comme le lac Hoàn Kiếm ou les chemins autour de West Lake.",
+        "Les musées et les cafés offrent des pauses calmes et climatisées entre deux explorations dans les rues.",
+        "Évitez les heures de pointe, de 7 h à 9 h et de 16 h 30 à 18 h 30, lorsque vous vous déplacez avec des enfants.",
+        "Gardez des en-cas, de l’eau et des lingettes à portée de main — l’exploration urbaine est ici particulièrement intense sur le plan sensoriel."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Noi Bai International Airport (HAN) → centre-ville",
+          "note": "Option la plus pratique : Grab ou taxi (environ 35–50 min selon la circulation). Les navettes de l’aéroport sont moins chères, mais plus lentes et moins pratiques avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "La marche convient surtout aux secteurs compacts comme le Vieux Quartier et les environs du lac Hoan Kiem.",
+        "Grab, en voiture ou à moto, est le moyen le plus simple de parcourir de plus longues distances ou de passer d’un quartier à l’autre.",
+        "Des trajets en cyclo sont proposés autour du Vieux Quartier et du lac pour de courtes balades riches en atmosphère, plutôt que pour leur efficacité comme moyen de transport."
+      ],
+      "dayTrips": [],
+      "dayMoves": [],
+      "practical": [
+        "Traversez les rues calmement et d’un pas régulier — la circulation s’adapte aux mouvements prévisibles.",
+        "Évitez les longs trajets pendant les heures de pointe, approximativement de 7 h à 9 h et de 16 h 30 à 18 h 30.",
+        "Gardez de petites coupures pour la cuisine de rue, les cafés et les cyclos.",
+        "Les trottoirs peuvent être irréguliers ou encombrés — portez des chaussures confortables et attendez-vous à devoir parfois marcher sur la chaussée."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pho (bœuf ou poulet)",
+        "Bun Cha",
+        "Banh Cuon (rouleaux de riz cuits à la vapeur)",
+        "Cha Ca (poisson au curcuma)",
+        "Bun Thang",
+        "Egg Coffee (Ca Phe Trung)"
+      ],
+      "areas": [
+        {
+          "name": "Old Quarter",
+          "note": "Réseau dense de stands de cuisine de rue et de petites adresses. Idéal pour découvrir les plats classiques de Hanoi et la culture culinaire quotidienne, surtout le matin et le soir."
+        },
+        {
+          "name": "Hoan Kiem Lake Area",
+          "note": "Mélange de cafés traditionnels et de restaurants décontractés près du lac. Idéal pour le petit-déjeuner, les pauses café et les repas tranquilles en soirée."
+        },
+        {
+          "name": "West Lake (Tay Ho)",
+          "note": "Quartier plus ouvert, à l’atmosphère résidentielle, avec des restaurants locaux et des cafés. Convient aux repas pris sans hâte et aux soirées plus calmes."
+        },
+        {
+          "name": "French Quarter",
+          "note": "Rues plus larges et bâtiments de l’époque coloniale, avec des restaurants où l’on s’installe à table et des cafés. Adapté à des repas plus calmes entre deux visites."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pho Gia Truyen Bat Dan",
+          "area": "Old Quarter",
+          "reason": "L’une des adresses de pho les plus célèbres de Hanoi, connue pour son bouillon de bœuf riche et sa popularité durable auprès des habitants.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hanoi-food/pho-gia-truyen-bat-dan.JPG",
+          "lat": 21.0357,
+          "lng": 105.847
+        },
+        {
+          "name": "Bun Cha Huong Lien",
+          "area": "Old Quarter / Hoan Kiem Area",
+          "reason": "Adresse réputée pour son Bun Cha au porc grillé accompagné de sauce, appréciée aussi bien des habitants que des visiteurs.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hanoi-food/bun-cha-huong-lien.jpg",
+          "lat": 21.0226,
+          "lng": 105.848
+        },
+        {
+          "name": "Cha Ca Thang Long",
+          "area": "Old Quarter",
+          "reason": "Restaurant établi de longue date, spécialisé dans le plat emblématique de Hanoi à base de poisson au curcuma, préparé à table.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hanoi-food/cha-ca-thang-long.jpg",
+          "lat": 21.0353,
+          "lng": 105.8489
+        },
+        {
+          "name": "Giang Cafe",
+          "area": "Hoan Kiem Lake Area",
+          "reason": "Café historique auquel on attribue la popularisation de l’Egg Coffee, une spécialité de Hanoi à savourer lentement.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hanoi-food/giang-cafe.jpg",
+          "lat": 21.0288,
+          "lng": 105.8485
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-ho-chi-minh-city-where-the-city-never-settles",
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "title": "Hô Chi Minh-Ville en 4 jours : là où la ville ne s’arrête jamais",
+    "days": 4,
+    "priceFrom": 210,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/vietnam/4-days-ho-chi-minh-city-where-the-city-never-settles.jpg",
+    "summary": "Cet itinéraire de 4 jours à Hô Chi Minh-Ville explore la plus grande ville du Vietnam à travers son énergie, son histoire et la vie quotidienne de ses rues. Conçu pour équilibrer mémoire et mouvement, il relie les monuments coloniaux, les sites liés à la guerre, les rues de quartier et l’agitation constante qui définit aujourd’hui la ville. Hô Chi Minh-Ville ne se révèle pas en ralentissant, mais en poursuivant sa marche en avant.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Architecture coloniale française",
+      "War Remnants Museum",
+      "Tunnels de Cu Chi",
+      "Ben Thanh Market et cuisine de rue",
+      "Cafés et ruelles de quartier",
+      "Vie urbaine après la tombée de la nuit"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et mouvement urbain",
+        "summary": "Premier contact avec le rythme de la ville.",
+        "details": "Arrivez à Hô Chi Minh-Ville et commencez par une promenade tranquille dans les rues voisines afin d’observer le mouvement constant de la ville — motos, vendeurs ambulants, cafés et rassemblements informels.\n\nPassez l’après-midi à explorer les quartiers centraux marqués par l’architecture coloniale française, en remarquant la manière dont les bâtiments anciens s’insèrent dans un environnement urbain en perpétuel mouvement. Terminez la journée par un dîner dans un restaurant local, suivi d’une courte promenade en soirée, tandis que la ville devient plus bruyante plutôt que plus calme."
+      },
+      {
+        "day": 2,
+        "title": "Mémoire, conflit et perspective",
+        "summary": "Comprendre le passé de la ville.",
+        "details": "Passez la matinée au War Remnants Museum, où l’histoire moderne du Vietnam est présentée de manière directe, sans mise en scène spectaculaire. Prenez le temps de parcourir lentement les expositions et de laisser place à la réflexion.\n\nDans l’après-midi, explorez les rues ou les cafés voisins afin d’assimiler cette expérience. Gardez une soirée calme mais attentive, en observant comment la vie quotidienne se poursuit sans interruption autour de lieux profondément marqués par la mémoire."
+      },
+      {
+        "day": 3,
+        "title": "Au-delà de la ville : Cu Chi",
+        "summary": "Terre, résistance et distance.",
+        "details": "Partez en excursion aux tunnels de Cu Chi pour comprendre le paysage rural qui entourait autrefois la ville et les stratégies qu’il a contribué à façonner. Parcourez les lieux lentement, en privilégiant le contexte plutôt que la curiosité du site.\n\nRevenez à Hô Chi Minh-Ville dans l’après-midi, lorsque le contraste entre la campagne paisible et la densité urbaine devient évident. Profitez d’un dîner tranquille une fois de retour en ville."
+      },
+      {
+        "day": 4,
+        "title": "Marchés, ruelles et départ",
+        "summary": "Quitter la ville à travers sa vie quotidienne.",
+        "details": "Passez votre dernière matinée au Ben Thanh Market ou explorez les ruelles voisines, où les stands de nourriture, les petites boutiques et les habitudes quotidiennes se croisent de très près.\n\nSavourez un dernier café dans un établissement local avant votre départ. Hô Chi Minh-Ville laisse son empreinte non par une impression de conclusion, mais par la continuité — une ville qui ne s’interrompt jamais complètement, même lorsque l’histoire reste toute proche."
+      }
+    ],
+    "planning": {
+      "city": "Ho Chi Minh City (Saigon), Vietnam",
+      "bestTime": {
+        "months": "Décembre–mars (meilleure période dans l’ensemble), janvier–février (période idéale)",
+        "note": "Ces mois sont plus secs et légèrement plus frais, ce qui rend les promenades, la découverte de la cuisine de rue et les excursions à la journée, comme Cu Chi ou le delta du Mékong, plus agréables et plus fiables."
+      },
+      "worstTime": {
+        "months": "Mai–octobre (saison des pluies), avril (mois le plus chaud)",
+        "note": "De mai à octobre, les fortes averses fréquentes de l’après-midi peuvent inonder les rues et perturber la circulation. Avril est souvent extrêmement chaud et humide, ce qui rend les visites à la mi-journée éprouvantes."
+      },
+      "tips": [
+        "Organisez vos journées selon les variations d’énergie : matinées consacrées aux visites, après-midis aux pauses en intérieur, soirées à la cuisine de rue et à la vie nocturne.",
+        "Pour traverser la route, marchez lentement et de manière prévisible — les motos circulent autour de vous ; hésiter crée de la confusion.",
+        "Utilisez Grab, en moto ou en voiture, pour économiser du temps et de l’énergie ; la circulation rend les longues distances à pied peu efficaces.",
+        "La cuisine de rue est particulièrement agréable après le coucher du soleil, lorsque les températures baissent et que les stands sont les plus animés.",
+        "Gardez de petites coupures sur vous — de nombreux cafés, marchés et stands de nourriture fonctionnent principalement en espèces.",
+        "Attendez-vous au bruit et au mouvement même tard dans la nuit ; choisissez soigneusement votre hébergement si vous êtes sensible au son."
+      ],
+      "withKids": [
+        "Alternez les rues animées avec des pauses plus calmes dans des musées, des cafés ou des parcs.",
+        "Évitez les longues promenades à la mi-journée — la chaleur, la circulation et le bruit peuvent être éprouvants pour les enfants.",
+        "Utilisez les voitures Grab plutôt que les motos lorsque vous voyagez avec des enfants.",
+        "Gardez à portée de main des en-cas, de l’eau et des lingettes humides — la chaleur et la poussière s’accumulent rapidement."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Tan Son Nhat Airport (SGN) → centre-ville (District 1)",
+          "note": "Option la plus pratique : voiture Grab (environ 20–40 min selon la circulation). Les bus publics sont moins chers, mais plus lents et moins pratiques avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "Grab, en voiture ou en moto, est le moyen le plus efficace de se déplacer dans la ville en raison de la circulation et de la chaleur.",
+        "La marche convient bien aux zones compactes comme District 1, mais les longues distances sont fatigantes et peu efficaces.",
+        "Les taxis traditionnels existent, mais Grab offre généralement des tarifs et des itinéraires plus clairs."
+      ],
+      "dayTrips": [
+        {
+          "title": "Tunnels de Cu Chi",
+          "note": "Le mieux est de les visiter dans le cadre d’une excursion organisée d’une demi-journée ou avec un chauffeur privé (environ 1,5–2 h par trajet). Les transports publics sont possibles, mais très lents et complexes."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Attendez-vous à une circulation dense presque à toute heure — prévoyez une marge entre les activités.",
+        "Utilisez les motos Grab si vous voyagez seul afin de mieux vous faufiler dans la circulation ; choisissez une voiture Grab pour davantage de confort ou lorsque vous voyagez avec des enfants.",
+        "Traversez les rues lentement et avec assurance — les véhicules contournent les piétons.",
+        "Gardez de petites coupures pour les marchés, les cafés et la cuisine de rue."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Pho (bœuf ou poulet)",
+        "Banh Mi",
+        "Com Tam (riz brisé)",
+        "Bun Thit Nuong",
+        "Hu Tieu",
+        "Café vietnamien glacé (Ca Phe Sua Da)"
+      ],
+      "areas": [
+        {
+          "name": "District 1",
+          "note": "Quartier central offrant une forte concentration de cuisine de rue, de cafés et de restaurants décontractés. Idéal pour une première visite et pour découvrir facilement différentes spécialités entre deux sites."
+        },
+        {
+          "name": "Ben Thanh & Surrounding Alleys",
+          "note": "Zone gastronomique animée avec des marchés, des stands de rue installés de longue date et des restaurants locaux. Idéale pour des promenades gourmandes le matin et le soir."
+        },
+        {
+          "name": "District 3",
+          "note": "Plus résidentiel et plus local que District 1, ce quartier est connu pour ses restaurants traditionnels et sa culture des cafés."
+        },
+        {
+          "name": "Chinatown (Cholon / District 5)",
+          "note": "Centre de la cuisine sino-vietnamienne, célèbre pour ses nouilles, ses soupes aux herbes et ses marchés couverts très animés. À explorer de préférence pendant la journée."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pho Hoa Pasteur",
+          "area": "District 3",
+          "reason": "L’un des restaurants de pho les mieux établis de Hô Chi Minh-Ville, réputé depuis longtemps pour la régularité de sa qualité et sa popularité auprès des habitants.",
+          "imageUrl": "/src/assets/itineraries/vietnam/ho-chi-minh-city-food/pho-hoa-pasteur.jpg",
+          "lat": 10.7829,
+          "lng": 106.6949
+        },
+        {
+          "name": "Banh Mi Huynh Hoa",
+          "area": "District 1",
+          "reason": "Échoppe emblématique de banh mi, célèbre pour ses garnitures généreuses et ses files d’attente constantes, souvent considérée comme l’une des meilleures de la ville.",
+          "imageUrl": "/src/assets/itineraries/vietnam/ho-chi-minh-city-food/banh-mi-huynh-hoa.jpg",
+          "lat": 10.77,
+          "lng": 106.6927
+        },
+        {
+          "name": "Com Tam Ba Ghien",
+          "area": "District 3",
+          "reason": "Adresse locale populaire pour les plats de riz brisé, notamment au porc grillé, fréquentée par les habitants au déjeuner comme au dîner.",
+          "imageUrl": "/src/assets/itineraries/vietnam/ho-chi-minh-city-food/com-tam-ba-ghien.jpg",
+          "lat": 10.7733,
+          "lng": 106.6844
+        },
+        {
+          "name": "Ben Thanh Street Food Market",
+          "area": "Ben Thanh Area",
+          "reason": "Lieu pratique pour goûter plusieurs plats vietnamiens en une seule visite, particulièrement adapté aux courts séjours.",
+          "imageUrl": "/src/assets/itineraries/vietnam/ho-chi-minh-city-food/ben-thanh-street-food-market.jpg",
+          "lat": 10.7723,
+          "lng": 106.6983
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-hoi-an-where-lanterns-hold-the-evening",
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "title": "Hoi An en 4 jours : là où les lanternes retiennent le soir",
+    "days": 4,
+    "priceFrom": 190,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/vietnam/4-days-hoi-an-where-lanterns-hold-the-evening.jpg",
+    "summary": "Cet itinéraire de 4 jours à Hoi An explore l’une des villes les plus évocatrices du Vietnam à travers son vieux quartier préservé, la vie au bord de la rivière, la campagne environnante et les paisibles lisières du littoral. Conçu pour ralentir le rythme après les grandes villes, il équilibre histoire, artisanat et temps libre, laissant le doux tempo de Hoi An et sa lumière du soir définir l’expérience.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Hoi An Ancient Town",
+      "Soirées éclairées par les lanternes le long de la rivière",
+      "Maisons traditionnelles et salles d’assemblée",
+      "Balades à vélo dans la campagne et les rizières",
+      "An Bang Beach et calme du littoral",
+      "Cuisine locale et petits ateliers"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et lumière de la vieille ville",
+        "summary": "Premiers pas dans un rythme plus lent.",
+        "details": "Arrivez à Hoi An et laissez-vous gagner par le rythme détendu de la ville. Passez l’après-midi à parcourir l’Ancient Town, où les maisons en bois, les temples et les ruelles étroites témoignent de plusieurs siècles de commerce et d’artisanat.\n\nÀ l’approche du soir, restez près de la rivière tandis que les lanternes s’allument et que la ville se fond dans une lumière chaleureuse. Prenez un dîner simple à proximité et laissez l’atmosphère donner le ton sans vous presser."
+      },
+      {
+        "day": 2,
+        "title": "Artisanat, histoire et rues paisibles",
+        "summary": "Hoi An au-delà des apparences.",
+        "details": "Commencez la journée en explorant les maisons traditionnelles, les salles d’assemblée et les petits musées du vieux quartier. Visitez des ateliers locaux pour découvrir des savoir-faire comme la confection sur mesure, la fabrication de lanternes ou le travail du bois, qui continuent de façonner l’identité de Hoi An.\n\nDans l’après-midi, éloignez-vous des rues les plus fréquentées, flânez dans des ruelles plus calmes ou reposez-vous dans des cafés ombragés. La journée est volontairement légère et privilégie l’observation à l’accumulation de visites."
+      },
+      {
+        "day": 3,
+        "title": "Chemins de campagne et air marin",
+        "summary": "Au-delà des murs de la ville.",
+        "details": "Passez la matinée à vélo ou à pied dans la campagne voisine, où les rizières, les rivières et les villages entourent Hoi An. Le déplacement reste doux, guidé davantage par les chemins que par les destinations.\n\nDans l’après-midi, rendez-vous à An Bang Beach pour profiter de la mer. Marchez le long du rivage, reposez-vous à l’ombre et appréciez le contraste entre le calme de l’intérieur des terres et l’étendue de l’eau. Revenez à Hoi An le soir pour une nouvelle promenade sous les lanternes."
+      },
+      {
+        "day": 4,
+        "title": "Matinée lente et départ",
+        "summary": "Partir dans le calme.",
+        "details": "Passez votre dernière matinée à retrouver une rue, un café ou un coin de rivière que vous avez particulièrement apprécié. Regardez les boutiques ouvrir, les bateaux glisser silencieusement sur l’eau et la ville entrer doucement dans la journée.\n\nSavourez un déjeuner tranquille avant votre départ. Hoi An laisse son empreinte avec douceur — par la lumière, la répétition et des soirées qui semblent suspendues plutôt que véritablement terminées."
+      }
+    ],
+    "planning": {
+      "city": "Hoi An, Vietnam",
+      "bestTime": {
+        "months": "Février–avril (meilleure période dans l’ensemble), août (fenêtre sèche)",
+        "note": "Ces périodes sont généralement chaudes mais supportables, avec moins de tempêtes — idéales pour parcourir l’Ancient Town à pied, profiter des soirées au bord de la rivière, faire du vélo jusqu’aux rizières et prévoir des pauses à la plage."
+      },
+      "worstTime": {
+        "months": "Octobre–novembre (risque d’inondation), juin–juillet (chaud et humide)",
+        "note": "Octobre et novembre peuvent apporter de fortes pluies et des inondations occasionnelles le long de la Thu Bon River, ce qui peut gêner les promenades du soir. Juin et juillet sont très chauds et humides, rendant les visites à la mi-journée fatigantes."
+      },
+      "tips": [
+        "Organisez vos journées selon les températures : matinées pour les promenades dans l’Old Town, après-midis pour les cafés, le spa ou la plage, soirées au bord de la rivière éclairée par les lanternes.",
+        "Consultez le calendrier lunaire : les soirées de pleine lune sous les lanternes sont très atmosphériques, mais aussi très fréquentées — arrivez plus tôt pour profiter de la lumière sans la foule.",
+        "Pour les vêtements sur mesure, planifiez les essayages au début de votre séjour afin de laisser le temps aux ajustements ; évitez de tout repousser au dernier jour.",
+        "Roulez tranquillement : les routes plates facilitent les trajets à vélo vers An Bang Beach et les villages environnants — partez tôt pour éviter la chaleur.",
+        "Emportez une protection légère contre la pluie ; les averses peuvent être brèves mais intenses, surtout près de la rivière.",
+        "Les espèces sont utiles pour les petits restaurants, les bateaux-lanternes et les boutiques locales."
+      ],
+      "withKids": [
+        "L’Ancient Town est en grande partie interdite aux voitures le soir — les promenades en famille y sont plus sûres et plus calmes.",
+        "Les balades en bateau sous les lanternes sont courtes et tranquilles ; partez en début de soirée pour une expérience plus paisible.",
+        "Alternez culture et détente : les matinées à An Bang Beach compensent les promenades entre les temples.",
+        "Emportez des chapeaux, de la crème solaire et des gourdes réutilisables — l’ombre est limitée à la mi-journée."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Da Nang International Airport (DAD) → Hoi An",
+          "note": "Option la plus pratique : Grab ou taxi (environ 45–60 min). Les navettes et transferts privés sont également courants ; les bus publics sont moins chers, mais plus lents et moins pratiques avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "L’Ancient Town de Hoi An est compacte et se découvre idéalement à pied, surtout le soir lorsque les rues sont en grande partie interdites aux voitures.",
+        "Les vélos sont parfaits pour parcourir la campagne, les rizières et les routes menant à An Bang Beach.",
+        "Grab ou les taxis sont utiles pour les transferts depuis l’aéroport, les trajets vers la plage ou en cas de fortes pluies ou de chaleur extrême."
+      ],
+      "dayTrips": [
+        {
+          "title": "Villages de campagne et rizières",
+          "note": "Facilement accessibles à vélo depuis l’Old Town ou par de courts trajets en taxi. Le terrain plat rend le vélo accessible à la plupart des voyageurs."
+        },
+        {
+          "title": "An Bang Beach",
+          "note": "Le mieux est de s’y rendre à vélo (environ 20–30 min) ou en Grab/taxi (environ 10–15 min). Allez-y tôt le matin ou en fin d’après-midi pour éviter la chaleur."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Les hôtels et maisons d’hôtes mettent souvent des vélos gratuitement à disposition — vérifiez leur disponibilité à votre arrivée.",
+        "Évitez de rouler ou de marcher près de la rivière sous de fortes pluies en raison des inondations occasionnelles pendant les mois humides.",
+        "Gardez de petites coupures pour les bateaux-lanternes, les ateliers, les cafés et les stands de nourriture locale.",
+        "Les soirées sont les plus animées dans l’Old Town — arrivez plus tôt si vous préférez des promenades plus calmes."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Cao Lau",
+        "White Rose Dumplings (Banh Bao Vac)",
+        "Mi Quang",
+        "Riz au poulet de Hoi An (Com Ga)",
+        "Banh Mi (façon Hoi An)",
+        "Che (desserts sucrés vietnamiens)"
+      ],
+      "areas": [
+        {
+          "name": "Hoi An Ancient Town",
+          "note": "Principal quartier gastronomique, avec des spécialités régionales traditionnelles et des restaurants établis de longue date. À découvrir de préférence à pied, surtout en fin d’après-midi et en soirée."
+        },
+        {
+          "name": "Riverside & Night Market Area",
+          "note": "Restaurants décontractés et cuisine de rue le long de la rivière, avec une ambiance animée après le coucher du soleil. Idéal pour des dîners tranquilles accompagnés d’une promenade sous les lanternes."
+        },
+        {
+          "name": "Countryside Villages",
+          "note": "Petits restaurants locaux et cuisine familiale près des rizières et des itinéraires cyclables. Idéal pour une pause déjeuner pendant une balade dans la campagne."
+        },
+        {
+          "name": "An Bang Beach",
+          "note": "Cafés en bord de mer et restaurants de fruits de mer à l’atmosphère décontractée. Adaptés aux pauses de l’après-midi et aux repas en début de soirée face à la mer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Morning Glory Original",
+          "area": "Hoi An Ancient Town",
+          "reason": "Restaurant réputé mettant en valeur la cuisine du centre du Vietnam, souvent recommandé aux visiteurs découvrant la région pour la première fois et souhaitant un aperçu varié.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hoi-an-food/morning-glory-original.jpg",
+          "lat": 15.8799,
+          "lng": 108.3289
+        },
+        {
+          "name": "Banh Mi Phuong",
+          "area": "Hoi An Ancient Town",
+          "reason": "Adresse célèbre pour ses banh mi, connue pour son pain frais et ses garnitures équilibrées ; elle reste populaire tout au long de la journée.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hoi-an-food/banh-mi-phuong.jpg",
+          "lat": 15.8796,
+          "lng": 108.3282
+        },
+        {
+          "name": "Ba Le Well Restaurant",
+          "area": "Hoi An Ancient Town",
+          "reason": "Adresse locale appréciée depuis longtemps, spécialisée dans le Cao Lau, le Mi Quang et les plats traditionnels de Hoi An.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hoi-an-food/ba-le-well-restaurant.jpg",
+          "lat": 15.8791,
+          "lng": 108.3256
+        },
+        {
+          "name": "An Bang Beach Seafood Restaurants",
+          "area": "An Bang Beach",
+          "reason": "Ensemble de restaurants décontractés en bord de plage servant des fruits de mer frais et des plats vietnamiens simples dans une ambiance côtière paisible.",
+          "imageUrl": "/src/assets/itineraries/vietnam/hoi-an-food/an-bang-beach-seafood-restaurants.jpg",
+          "lat": 15.9055,
+          "lng": 108.3462
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-hue-where-empires-linger-in-silence",
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "city": "Huế",
+    "title": "Huế en 3 jours : là où les empires demeurent dans le silence",
+    "days": 3,
+    "priceFrom": 180,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/vietnam/3-days-hue-where-empires-linger-in-silence.jpg",
+    "summary": "Cet itinéraire de 3 jours à Huế explore l’ancienne capitale impériale du Vietnam à travers ses citadelles, ses tombeaux, ses rivières et ses rues paisibles façonnées par les cérémonies et la mémoire. Conçu pour ralentir le rythme après des villes plus animées, il équilibre patrimoine monumental et instants du quotidien, laissant le caractère réservé de Huế et le poids de son histoire se révéler tout en douceur.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Cité impériale et Citadelle",
+      "Tombeaux royaux le long de la rivière des Parfums",
+      "Croisière sur la rivière des Parfums",
+      "Pagodes et jardins de temples",
+      "Rues paisibles et cafés locaux",
+      "Architecture de l’époque impériale"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et cité impériale",
+        "summary": "Premières rencontres avec le cérémonial et l’espace.",
+        "details": "Arrivez à Huế et commencez par visiter la Cité impériale, autrefois siège des empereurs Nguyen. Traversez les portes, les cours et les vestiges des palais, en laissant l’ampleur et la solennité des lieux donner le ton.\n\nDans l’après-midi, explorez les rues voisines ou reposez-vous dans des cafés ombragés. Terminez la journée par une promenade paisible le long de la rivière des Parfums, en observant comment la ville s’apaise doucement à l’approche du soir."
+      },
+      {
+        "day": 2,
+        "title": "Tombeaux, rivière et réflexion",
+        "summary": "La mémoire au-delà des remparts.",
+        "details": "Consacrez la journée à la visite des tombeaux royaux dispersés le long de la rivière des Parfums, chacun installé dans un vaste domaine paysager où l’architecture se mêle harmonieusement à la nature. Déplacez-vous lentement d’un site à l’autre, en prenant régulièrement le temps d’apprécier l’atmosphère plutôt que de vous presser.\n\nEnvisagez une courte croisière sur la rivière afin de découvrir Huế depuis l’eau, où temples, jardins et berges se dévoilent à un rythme paisible. Revenez ensuite en ville pour une soirée tranquille."
+      },
+      {
+        "day": 3,
+        "title": "Pagodes, rues et départ",
+        "summary": "Quitter la ville dans le calme des détails.",
+        "details": "Commencez votre dernière matinée par la visite d’une pagode ou d’un jardin de temple, où l’encens, l’ombre et les sons invitent naturellement à la réflexion.\n\nPassez le reste de votre temps à parcourir des rues devenues familières ou à savourer un dernier repas dans un restaurant local. Quittez Huế avec le sentiment d’une ville qui ne cherche jamais à attirer l’attention — sa présence demeure à travers le silence, la symétrie et la mémoire."
+      }
+    ],
+    "planning": {
+      "city": "Hue, Vietnam",
+      "bestTime": {
+        "months": "Février–avril (meilleure période dans l’ensemble), mars (période idéale)",
+        "note": "Ces mois offrent des températures plus douces et des précipitations plus faibles, idéales pour explorer la Cité impériale, longer la rivière des Parfums à vélo et visiter les tombeaux royaux sans être constamment gêné par la météo."
+      },
+      "worstTime": {
+        "months": "Septembre–novembre (fortes pluies et inondations), juin–août (très chaud)",
+        "note": "De septembre à novembre, les pluies prolongées et les inondations peuvent perturber les visites des sites extérieurs. De juin à août, la chaleur et l’humidité rendent les visites des vastes ruines particulièrement éprouvantes à la mi-journée."
+      },
+      "tips": [
+        "Commencez tôt la visite de la Cité impériale : les matinées sont plus fraîches et plus calmes, ce qui permet d’apprécier pleinement les détails et les dimensions des lieux sans la foule.",
+        "Regroupez les visites des tombeaux royaux selon leur emplacement le long de la rivière afin de limiter les allers-retours ; les distances sont plus importantes qu’elles n’en ont l’air.",
+        "Utilisez la rivière des Parfums pour rythmer votre journée : une courte promenade ou une balade en bateau permet de faire une pause entre les principaux sites historiques.",
+        "Prévoyez des pauses en intérieur ou à l’ombre entre 12 h et 15 h ; les monuments de Huế sont vastes et largement exposés au soleil.",
+        "Habillez-vous avec sobriété pour les temples et les tombeaux, tout en privilégiant des vêtements respirants pour plus de confort.",
+        "Les soirées sont paisibles : privilégiez un dîner au bord de la rivière ou une promenade nocturne plutôt que la vie nocturne."
+      ],
+      "withKids": [
+        "Choisissez quelques sites essentiels (la Cité impériale et un ou deux tombeaux) plutôt que d’essayer de tout visiter.",
+        "Les grandes cours sont adaptées aux poussettes, mais la gestion de la chaleur reste essentielle — privilégiez les visites tôt le matin ou en fin de journée.",
+        "Les promenades au bord de la rivière et les balades en bateau offrent des pauses reposantes entre les visites.",
+        "Prévoyez des chapeaux, de l’eau et de la crème solaire ; les zones d’ombre sont limitées dans les ensembles historiques."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Phu Bai International Airport (HUI) → ville de Huế",
+          "note": "Option la plus pratique : Grab ou taxi (environ 25–35 min). Des navettes et des transferts privés sont également disponibles ; les bus publics sont moins chers, mais plus lents et moins pratiques avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "La Cité impériale et les quartiers centraux se parcourent facilement à pied, surtout tôt le matin et en fin d’après-midi.",
+        "Grab ou les taxis sont le moyen le plus simple de rejoindre les tombeaux royaux dispersés le long de la rivière des Parfums.",
+        "Le vélo convient bien aux itinéraires plats près de la rivière et dans les rues plus calmes, mais les distances jusqu’aux tombeaux peuvent être importantes."
+      ],
+      "dayTrips": [
+        {
+          "title": "Tombeaux royaux le long de la rivière des Parfums",
+          "note": "Le mieux est de les visiter en Grab/taxi, avec un chauffeur privé, ou en combinant une balade en bateau et de courts trajets par la route. Les sites sont dispersés et ne peuvent pas être rejoints de manière pratique uniquement à pied."
+        },
+        {
+          "title": "Croisière sur la rivière des Parfums",
+          "note": "De courtes excursions en bateau partent des embarcadères centraux et offrent un moyen paisible et pittoresque de relier les pagodes, les secteurs des tombeaux et le centre-ville."
+        }
+      ],
+      "dayMoves": [],
+      "practical": [
+        "Commencez tôt les visites en plein air — les monuments de Huế sont vastes et très exposés au soleil dès la mi-journée.",
+        "Regroupez les visites des tombeaux selon leur direction afin de réduire les temps de trajet et la fatigue.",
+        "Gardez de petites coupures pour les bateaux, les temples et les petits cafés.",
+        "Attendez-vous à des soirées très calmes ; les possibilités de transport se raréfient après la tombée de la nuit."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bun Bo Hue",
+        "Banh Khoai (crêpe croustillante de Huế)",
+        "Com Hen (riz aux petites palourdes)",
+        "Nem Lui (brochettes de porc à la citronnelle)",
+        "Banh Beo / Banh Nam / Banh Loc (petites assiettes de Huế)",
+        "Che Hue (desserts sucrés de style impérial)"
+      ],
+      "areas": [
+        {
+          "name": "Imperial City & Citadel Area",
+          "note": "Restaurants traditionnels et petites adresses locales servant les grands classiques de Huế. Idéal pour déjeuner entre les visites du palais et de la citadelle."
+        },
+        {
+          "name": "Perfume River Riverside",
+          "note": "Restaurants paisibles et cafés près de la rivière, idéaux pour un repas tranquille après les visites ou en début de soirée."
+        },
+        {
+          "name": "Dong Ba Market Area",
+          "note": "Important centre de cuisine locale, avec des spécialités authentiques de Huế et des stands de cuisine de rue. À visiter de préférence le matin ou en début d’après-midi."
+        },
+        {
+          "name": "City Centre (South of the River)",
+          "note": "Choix plus large de restaurants décontractés et de cafés, adapté aux dîners et aux soirées tranquilles."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bun Bo Hue Ba Tuyet",
+          "area": "City Centre",
+          "reason": "Adresse locale réputée, spécialisée dans le Bun Bo Hue aux saveurs profondes et authentiques, très appréciée des habitants.",
+          "imageUrl": "/src/assets/itineraries/vietnam/Hue-food/bun-bo-hue-ba-tuyet.jpg",
+          "lat": 16.4621,
+          "lng": 107.5889
+        },
+        {
+          "name": "Hanh Restaurant",
+          "area": "City Centre",
+          "reason": "Restaurant familial établi de longue date, célèbre pour les petites spécialités de Huế comme le Banh Khoai et le Banh Beo.",
+          "imageUrl": "/src/assets/itineraries/vietnam/Hue-food/hanh-restaurant.jpg",
+          "lat": 16.4646,
+          "lng": 107.5907
+        },
+        {
+          "name": "Dong Ba Market Food Stalls",
+          "area": "Dong Ba Market",
+          "reason": "Adresse fiable pour goûter plusieurs spécialités de Huế en un seul lieu, au cœur de la culture culinaire locale quotidienne.",
+          "imageUrl": "/src/assets/itineraries/vietnam/Hue-food/dong-ba-market-food-stalls.jpg",
+          "lat": 16.4744,
+          "lng": 107.5857
+        }
+      ]
+    }
+  }

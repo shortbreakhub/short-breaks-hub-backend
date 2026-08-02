@@ -1,0 +1,736 @@
+
+  {
+    "slug": "4-days-bogota-altitude-ideas-and-renewal",
+    "region": "americas",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "title": "Bogotá en 4 jours : altitude, culture et renouveau",
+    "days": 4,
+    "priceFrom": 230,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/colombia/4-days-bogota-altitude-ideas-and-renewal.jpg",
+    "summary": "Cet itinéraire de 4 jours à Bogotá vous invite à découvrir la capitale colombienne comme une ville façonnée par son altitude, sa richesse culturelle et sa capacité constante à se réinventer. Installée sur les hauts plateaux andins, Bogotá se révèle davantage à travers ses musées, ses quartiers historiques, ses cafés et ses librairies qu'à travers de grands monuments spectaculaires. Conçu pour équilibrer découvertes culturelles, rythme quotidien et panoramas en altitude, cet itinéraire présente Bogotá comme une ville que l'on comprend autant par la réflexion que par la marche.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le quartier historique de La Candelaria",
+      "Le Musée de l'Or et l'héritage précolombien",
+      "Le panorama exceptionnel depuis Monserrate",
+      "Les cafés indépendants et les librairies de quartier",
+      "Le street art et la créativité de Bogotá",
+      "Une capitale façonnée par l'altitude et les idées"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et découverte du centre historique",
+        "summary": "Rencontrer Bogotá à travers son histoire.",
+        "details": "À votre arrivée, commencez votre découverte par le quartier de La Candelaria, où rues coloniales, fresques murales et bâtiments historiques condensent plusieurs siècles d'histoire dans un espace agréable à parcourir à pied. Marchez tranquillement afin de vous acclimater à l'altitude et de trouver naturellement votre rythme.\n\nDans l'après-midi, installez-vous dans un café ou visitez une petite galerie d'art pour observer le quotidien des étudiants, des artistes et des habitants qui donnent vie au quartier.\n\nTerminez cette première journée par un dîner paisible à proximité de votre hébergement afin de laisser votre corps s'adapter progressivement à l'altitude."
+      },
+      {
+        "day": 2,
+        "title": "Le Musée de l'Or et le patrimoine colombien",
+        "summary": "Comprendre la profondeur culturelle du pays.",
+        "details": "Consacrez votre matinée au célèbre Musée de l'Or, dont les collections révèlent toute la richesse artistique et spirituelle des civilisations précolombiennes. Plus qu'un simple musée d'objets précieux, il raconte les fondements de l'histoire colombienne.\n\nL'après-midi, poursuivez votre découverte des institutions culturelles voisines, des bibliothèques ou des centres artistiques, qui illustrent l'importance accordée au savoir dans la vie de Bogotá.\n\nProfitez ensuite d'un dîner sans précipitation, laissant naturellement place aux échanges et aux réflexions inspirées par la journée."
+      },
+      {
+        "day": 3,
+        "title": "Monserrate et les quartiers contemporains",
+        "summary": "Découvrir Bogotá d'en haut puis au cœur de ses quartiers.",
+        "details": "Commencez la journée par l'ascension du mont Monserrate, en téléphérique ou en funiculaire. Depuis le sommet, Bogotá dévoile toute son immensité, étendue sur le plateau andin plutôt que tournée vers les gratte-ciel.\n\nAprès la descente, explorez des quartiers comme Chapinero ou Zona G, où cafés, restaurants et boutiques témoignent de la vitalité et de la modernité de la Colombie contemporaine.\n\nLaissez votre soirée suivre vos envies, sans programme trop rigide."
+      },
+      {
+        "day": 4,
+        "title": "Derniers instants à Bogotá",
+        "summary": "Quitter la ville avec un nouveau regard.",
+        "details": "Profitez de votre dernière matinée pour retourner dans une rue, un café ou un musée qui vous a particulièrement marqué. À Bogotá, les lieux familiers prennent rapidement une nouvelle dimension lorsqu'on ralentit le rythme.\n\nSavourez un dernier déjeuner avant votre départ en observant la ville poursuivre son mouvement, complexe, dynamique et profondément vivante.\n\nBogotá laisse une impression durable à ceux qui prennent le temps de la découvrir avec curiosité et patience."
+      }
+    ],
+    "planning": {
+      "city": "Bogotá, Colombie",
+      "bestTime": {
+        "months": "Déc.–mars (saison la plus sèche), juil.–août (seconde période sèche)",
+        "note": "Les matinées sont généralement plus dégagées et les précipitations moins fréquentes, offrant d'excellentes conditions pour admirer les panoramas depuis Monserrate, parcourir La Candelaria et profiter des cafés en terrasse."
+      },
+      "worstTime": {
+        "months": "Avr.–juin, sept.–nov. (saisons des pluies)",
+        "note": "Les averses de l'après-midi sont fréquentes et peuvent modifier le programme de la journée, même si Bogotá conserve tout son charme et son animation."
+      },
+      "tips": [
+        "Prenez le temps de vous acclimater : Bogotá est située à plus de 2 600 mètres d'altitude ; privilégiez une première journée composée de promenades tranquilles et de pauses dans les cafés.",
+        "Alternez les ambiances : consacrez une journée à La Candelaria pour son patrimoine historique, puis découvrez Chapinero ou Zona G pour la Bogotá contemporaine.",
+        "Une seule montée en altitude par jour suffit : Monserrate offre une vue d'ensemble idéale sans qu'il soit nécessaire de multiplier les panoramas.",
+        "Les musées se prêtent parfaitement aux matinées, tandis que les balades dans les quartiers sont plus agréables l'après-midi.",
+        "Les embouteillages influencent davantage les temps de trajet que les distances ; privilégiez la marche à l'intérieur d'un quartier puis utilisez un VTC ou le TransMilenio pour changer de secteur.",
+        "Si vous êtes présent un dimanche, profitez de la Ciclovía, lorsque de nombreuses grandes avenues sont réservées aux piétons et aux cyclistes."
+      ],
+      "withKids": [
+        "Les grandes places et les nombreux parcs permettent d'alterner facilement visites et moments de détente.",
+        "Les musées interactifs rendent l'histoire plus accessible aux plus jeunes.",
+        "Limitez les montées importantes à une seule excursion par jour.",
+        "Prévoyez des vêtements chauds, les températures pouvant varier rapidement au cours de la journée."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale (aéroport El Dorado)",
+          "note": "L'aéroport international El Dorado, situé à l'ouest de Bogotá, est moderne, bien organisé et constitue la principale porte d'entrée du pays. Les formalités sont généralement rapides, mais les temps de transfert vers le centre-ville varient selon la circulation."
+        },
+        {
+          "title": "Aéroport → Quartiers de Bogotá",
+          "note": "Le trajet jusqu'à La Candelaria, Chapinero ou Zona G dure habituellement entre 30 et 60 minutes. À Bogotá, la circulation influence davantage le temps de parcours que la distance elle-même."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour explorer chaque quartier individuellement, notamment La Candelaria ou Chapinero, où les rues sont denses, animées et riches en découvertes.",
+        "Les VTC et les taxis constituent le moyen le plus pratique pour rejoindre les différents quartiers, tout en limitant les efforts liés à l'altitude et aux trajets plus complexes.",
+        "Le TransMilenio, le réseau de bus à haut niveau de service de Bogotá, est rapide et efficace mais souvent très fréquenté ; il convient davantage à un usage ponctuel qu'à un moyen de transport principal pour les visiteurs.",
+        "La circulation rythme la journée : même de courtes distances peuvent demander du temps, ce qui encourage à organiser les visites quartier par quartier."
+      ],
+      "dayTrips": [
+        {
+          "title": "Monserrate",
+          "note": "Accessible en téléphérique, en funiculaire ou à pied, Monserrate offre le panorama le plus spectaculaire sur Bogotá. Une seule montée suffit généralement pour apprécier pleinement la ville vue d'en haut."
+        },
+        {
+          "title": "Cathédrale de Sel de Zipaquirá (en option)",
+          "note": "Située au nord de Bogotá, cette excursion occupe une demi-journée ou une journée complète et nécessite un transport organisé. Elle s'intègre idéalement si vous disposez de temps supplémentaire."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Aéroport ↔ Hébergement",
+          "note": "Après votre arrivée, privilégiez un transfert direct vers votre hébergement afin de récupérer tranquillement de l'altitude et d'éviter les déplacements inutiles."
+        },
+        {
+          "title": "Boucles à pied dans La Candelaria",
+          "note": "Le quartier historique se découvre idéalement au fil de promenades reliant musées, places, églises, cafés et œuvres de street art, plutôt que par des trajets d'un point à un autre."
+        },
+        {
+          "title": "Centre historique ↔ Quartiers modernes",
+          "note": "Les déplacements en VTC entre La Candelaria et Chapinero ou Zona G illustrent parfaitement le contraste entre le patrimoine historique de Bogotá et son visage contemporain."
+        }
+      ],
+      "practical": [
+        "Organisez vos journées par quartier plutôt que par attraction : traverser la ville à plusieurs reprises fait perdre beaucoup de temps et d'énergie.",
+        "L'altitude accentue la fatigue ; limitez les déplacements le premier jour afin de faciliter l'acclimatation.",
+        "Les matinées offrent généralement les meilleures conditions de circulation ; les embouteillages et les averses deviennent plus fréquents dans l'après-midi.",
+        "Le dimanche, la Ciclovía transforme de nombreuses grandes avenues en espaces réservés aux piétons et aux cyclistes, offrant une manière agréable de découvrir la ville.",
+        "Une seule visite à Monserrate est généralement suffisante : le panorama est exceptionnel, mais répéter l'ascension apporte peu de nouveautés tout en augmentant la fatigue.",
+        "Bogotá se découvre mieux en prenant son temps : moins de déplacements, davantage de temps dans chaque quartier et un rythme plus posé permettent d'en apprécier pleinement l'atmosphère."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Ajiaco santafereño",
+        "Bandeja paisa (portion adaptée au style de Bogotá)",
+        "Tamales bogotanos",
+        "Empanadas accompagnées de sauce ají",
+        "Arepas au fromage",
+        "Chocolate santafereño (chocolat chaud servi avec du fromage)",
+        "Café colombien fraîchement torréfié"
+      ],
+      "areas": [
+        {
+          "name": "La Candelaria",
+          "note": "Le cœur historique de Bogotá, où l'on trouve des restaurants traditionnels, des cafés de caractère et les grandes spécialités bogotanas héritées de la culture andine."
+        },
+        {
+          "name": "Chapinero et Zona G",
+          "note": "Les quartiers gastronomiques les plus réputés de la ville, mêlant cuisine colombienne contemporaine, excellents cafés et restaurants d'inspiration internationale."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Puerta Falsa",
+          "area": "La Candelaria",
+          "reason": "Institution historique de Bogotá, célèbre pour son ajiaco, ses tamales et son chocolate santafereño, servis dans un cadre chargé de plusieurs siècles d'histoire.",
+          "imageUrl": "/src/assets/itineraries/colombia/bogota-food/la-puerta-falsa.jpg",
+          "lat": 4.5979,
+          "lng": -74.0759
+        },
+        {
+          "name": "Capitalino Restaurant",
+          "area": "La Candelaria",
+          "reason": "Une excellente adresse pour découvrir les grands classiques de la cuisine colombienne dans une présentation soignée, à quelques pas du centre historique.",
+          "imageUrl": "/src/assets/itineraries/colombia/bogota-food/capitalino.jpg",
+          "lat": 4.5986,
+          "lng": -74.0752
+        },
+        {
+          "name": "Leo",
+          "area": "Zona G",
+          "reason": "Restaurant de renommée internationale qui met en lumière l'extraordinaire biodiversité colombienne à travers une cuisine créative, raffinée et profondément enracinée dans les traditions du pays.",
+          "imageUrl": "/src/assets/itineraries/colombia/bogota-food/leo.jpg",
+          "lat": 4.6555,
+          "lng": -74.0576
+        },
+        {
+          "name": "Mini Mal",
+          "area": "Chapinero",
+          "reason": "Table contemporaine très appréciée, valorisant les ingrédients autochtones colombiens grâce à une cuisine inventive, précise et respectueuse des produits locaux.",
+          "imageUrl": "/src/assets/itineraries/colombia/bogota-food/mini-mal.jpg",
+          "lat": 4.6478,
+          "lng": -74.0615
+        },
+        {
+          "name": "Café San Alberto",
+          "area": "La Candelaria",
+          "reason": "Café de spécialité réputé pour la qualité exceptionnelle de ses cafés colombiens, où chaque tasse est préparée avec soin afin d'apprécier pleinement les arômes des meilleurs terroirs du pays.",
+          "imageUrl": "/src/assets/itineraries/colombia/bogota-food/cafe-san-alberto.jpg",
+          "lat": 4.5975,
+          "lng": -74.0754
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-medellin-stitching-a-city-back-together",
+    "region": "americas",
+    "country": "Colombia",
+    "city": "Medellín",
+    "title": "Medellín en 4 jours : une ville qui s'est reconstruite par les liens",
+    "days": 4,
+    "priceFrom": 225,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/colombia/4-days-medellin-stitching-a-city-back-together.jpg",
+    "summary": "Cet itinéraire de 4 jours à Medellín vous fait découvrir une ville dont la plus grande réussite n'est pas d'avoir réinventé son identité, mais d'avoir su se reconstruire en reconnectant ses habitants. Nichée au cœur de la vallée d'Aburrá, Medellín a progressivement relié ses quartiers de montagne au centre-ville, les espaces publics à la vie quotidienne, et son histoire à un nouvel élan d'optimisme. Conçu pour alterner promenades de quartier, découvertes culturelles et points de vue en altitude, cet itinéraire montre comment Medellín se comprend avant tout à travers les liens qu'elle crée entre les personnes et les lieux.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Le Metrocable et la connexion entre les quartiers de la vallée",
+      "La transformation de la Comuna 13 et son street art",
+      "La Plaza Botero et la richesse culturelle de la ville",
+      "Les cafés de quartier et les corridors verts",
+      "Les panoramas sur la vallée d'Aburrá",
+      "Une ville façonnée par la solidarité et le renouveau"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers repères dans la vallée",
+        "summary": "Comprendre la géographie de Medellín.",
+        "details": "À votre arrivée à Medellín, commencez par une promenade tranquille dans les quartiers centraux afin de découvrir une ville qui s'étire le long de la vallée d'Aburrá plutôt que de s'élever verticalement. Les nombreux espaces verts et les places ouvertes apportent une agréable sensation de respiration.\n\nDans l'après-midi, rejoignez la Plaza Botero, où les sculptures monumentales de Fernando Botero occupent naturellement l'espace public. Installez-vous quelques instants pour observer les habitants évoluer autour des œuvres dans une ambiance détendue.\n\nTerminez la journée par un dîner dans un quartier voisin. Medellín se découvre d'abord par sa douceur de vivre plutôt que par l'intensité."
+      },
+      {
+        "day": 2,
+        "title": "Le Metrocable et les quartiers en hauteur",
+        "summary": "Quand les transports rapprochent les habitants.",
+        "details": "Commencez la journée à bord du Metrocable qui relie les quartiers installés sur les collines. Au fil de l'ascension, la perspective sur toute la vallée change progressivement. Plus qu'une attraction touristique, ce réseau constitue un véritable moyen de transport quotidien qui a profondément transformé la ville.\n\nPrenez le temps de parcourir les quartiers à pied, idéalement avec un guide local ou en respectant pleinement la vie des habitants. Observez comment les espaces publics favorisent naturellement les rencontres et les échanges.\n\nRedescendez dans la vallée en fin d'après-midi avant de profiter d'un moment de repos.\n\nLaissez cette journée illustrer toute l'importance des connexions qui ont façonné Medellín."
+      },
+      {
+        "day": 3,
+        "title": "Comuna 13 : mémoire et renaissance",
+        "summary": "Regarder le passé sans y rester enfermé.",
+        "details": "Consacrez votre matinée à la découverte de la Comuna 13. Montez lentement ses escaliers, empruntez les escalators urbains et prenez le temps d'admirer les nombreuses fresques murales qui racontent l'histoire du quartier. Ici, le street art est autant un témoignage qu'un symbole de renouveau.\n\nÉcoutez davantage que vous ne parlez : ce sont les habitants qui donnent tout son sens à l'histoire de Medellín.\n\nDans l'après-midi, retrouvez le centre-ville ou installez-vous dans un quartier de cafés afin de retrouver une atmosphère plus paisible avant la soirée.\n\nLaissez votre soirée suivre votre humeur, dans un esprit de réflexion et de détente."
+      },
+      {
+        "day": 4,
+        "title": "Espaces verts et derniers instants",
+        "summary": "Quitter Medellín avec confiance.",
+        "details": "Profitez de votre dernière matinée pour retourner dans un lieu que vous avez particulièrement apprécié, qu'il s'agisse d'un café, d'un parc ou d'un belvédère. À Medellín, les lieux familiers deviennent rapidement attachants.\n\nPromenez-vous ensuite le long des corridors verts ou des berges aménagées de la rivière afin d'observer comment la ville poursuit sereinement sa transformation.\n\nSavourez un dernier déjeuner avant votre départ. Medellín laisse le souvenir d'une ville qui a choisi le dialogue, les liens humains et l'espoir plutôt que le repli sur son passé."
+      }
+    ],
+    "planning": {
+      "city": "Medellín, Colombie",
+      "bestTime": {
+        "months": "Déc.–mars (saison la plus sèche), juil.–août (seconde période sèche)",
+        "note": "Les températures restent agréables toute l'année, mais ces mois offrent généralement un temps plus sec, idéal pour les trajets en Metrocable, les promenades dans les quartiers et les activités en plein air."
+      },
+      "worstTime": {
+        "months": "Avr.–juin, sept.–nov. (saisons des pluies)",
+        "note": "Les averses de l'après-midi sont fréquentes et peuvent perturber les visites extérieures, notamment dans les quartiers situés sur les collines."
+      },
+      "tips": [
+        "Découvrez Medellín à travers ses transports publics : le métro et le Metrocable racontent bien mieux l'histoire de la ville que de simples trajets en taxi.",
+        "Distinguez mémoire et présent : la Comuna 13 témoigne du passé, tandis que les autres quartiers montrent le dynamisme actuel de Medellín.",
+        "Privilégiez les collines le matin, lorsque le ciel est généralement plus dégagé pour profiter des panoramas.",
+        "Alternez les visites chargées d'histoire avec des moments de détente dans les parcs, les jardins ou les cafés.",
+        "Les visites guidées locales permettent de mieux comprendre les quartiers tout en respectant leurs habitants.",
+        "Les soirées sont conviviales et détendues : profitez des places animées et des restaurants de quartier pour découvrir l'atmosphère chaleureuse de Medellín."
+      ],
+      "withKids": [
+        "Les trajets en téléphérique plaisent généralement beaucoup aux enfants tout en limitant la fatigue liée à la marche.",
+        "Les nombreux parcs et le Jardin botanique offrent d'excellents espaces pour faire des pauses.",
+        "Évitez de multiplier les parcours comportant de longues séries d'escaliers dans la même journée.",
+        "Gardez toujours une veste imperméable à portée de main, les averses pouvant arriver rapidement."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale (aéroport José María Córdova)",
+          "note": "L'aéroport international de Medellín est situé à Rionegro, à l'extérieur de la vallée d'Aburrá. Le trajet jusqu'au centre-ville dure généralement entre 45 et 75 minutes selon la circulation et les conditions météorologiques."
+        },
+        {
+          "title": "Aéroport → Quartiers de Medellín",
+          "note": "Les transferts directs vers El Poblado, Laureles ou le centre-ville sont les plus pratiques après votre arrivée. La descente vers la vallée offre déjà un bel aperçu de la géographie allongée qui caractérise Medellín."
+        }
+      ],
+      "gettingAround": [
+        "Le métro constitue la colonne vertébrale des déplacements à Medellín : propre, efficace et parfaitement intégré à la vie quotidienne des habitants.",
+        "Les lignes de Metrocable sont avant tout un moyen de transport public essentiel, bien plus qu'une attraction touristique. Elles illustrent parfaitement la manière dont la ville a reconnecté les quartiers construits sur les collines.",
+        "La marche est idéale pour découvrir chaque quartier individuellement, notamment les secteurs centraux, les quartiers de cafés et les zones commerçantes.",
+        "Les VTC et les taxis sont particulièrement pratiques en soirée ou pour traverser rapidement la vallée lorsque le temps ou la météo limitent les alternatives.",
+        "Les pluies de l'après-midi peuvent ralentir les déplacements dans les quartiers en hauteur ; il est donc préférable de prévoir les trajets en altitude durant la matinée."
+      ],
+      "dayTrips": [
+        {
+          "title": "Comuna 13",
+          "note": "Accessible en métro puis par un court trajet en transport local. Une visite accompagnée d'un guide permet de mieux comprendre l'histoire du quartier, son évolution et la vie quotidienne de ses habitants."
+        },
+        {
+          "title": "Lignes de Metrocable vers les collines",
+          "note": "Les lignes K ou J permettent de découvrir Medellín sous le regard de ses habitants. Plus qu'un panorama, elles offrent une véritable immersion dans un réseau de transport devenu un symbole du renouveau urbain."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Aéroport ↔ Hébergement",
+          "note": "Les transferts privés ou partagés restent la solution la plus confortable compte tenu de la distance entre l'aéroport et la vallée."
+        },
+        {
+          "title": "Boucles à pied dans le centre de Medellín",
+          "note": "La Plaza Botero et les principaux espaces culturels voisins se découvrent idéalement au fil de promenades tranquilles, laissant les œuvres d'art et les places publiques donner naturellement le rythme de la visite."
+        },
+        {
+          "title": "Correspondances métro ↔ Metrocable",
+          "note": "Les correspondances entre le métro et le Metrocable sont simples et parfaitement intégrées. Les emprunter fait pleinement partie de l'expérience permettant de comprendre comment Medellín relie les quartiers des collines au fond de la vallée."
+        },
+        {
+          "title": "Déplacements entre les quartiers",
+          "note": "De courts trajets en VTC permettent de rejoindre facilement El Poblado, Laureles ou le centre historique sans perdre inutilement du temps ni de l'énergie."
+        }
+      ],
+      "practical": [
+        "Privilégiez les transports publics : le métro et le Metrocable racontent beaucoup mieux l'histoire de Medellín que les déplacements en voiture.",
+        "Organisez les visites en altitude le matin afin de profiter d'un ciel généralement plus dégagé avant les pluies de l'après-midi.",
+        "Évitez de multiplier les changements de quartier ; Medellín se découvre davantage en prenant le temps d'explorer chaque secteur en profondeur.",
+        "Respectez le rythme de vie des quartiers construits sur les collines : les infrastructures y répondent avant tout aux besoins quotidiens des habitants.",
+        "Les quartiers centraux restent animés et agréables en soirée, mais les taxis ou les VTC constituent souvent le moyen le plus pratique pour rentrer après la nuit tombée.",
+        "À Medellín, les transports sont bien plus qu'un simple moyen de se déplacer : ils incarnent un projet de société fondé sur la connexion, l'accessibilité et le rapprochement entre les habitants."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bandeja paisa",
+        "Arepa paisa",
+        "Sancocho antioqueño",
+        "Chorizo antioqueño",
+        "Empanadas accompagnées de sauce ají",
+        "Patacón au hogao",
+        "Café colombien fraîchement torréfié"
+      ],
+      "areas": [
+        {
+          "name": "El Poblado",
+          "note": "Le principal quartier gastronomique de Medellín, où les spécialités traditionnelles de l'Antioquia côtoient une cuisine colombienne contemporaine ainsi que de nombreux cafés de spécialité."
+        },
+        {
+          "name": "Laureles et Estadio",
+          "note": "Des quartiers résidentiels appréciés pour leur atmosphère détendue, leurs restaurants de quartier et leur cuisine antioquienne authentique du quotidien."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hacienda Junín",
+          "area": "Centro",
+          "reason": "Institution emblématique de Medellín, réputée pour sa bandeja paisa traditionnelle et son rôle historique dans la culture culinaire de la ville.",
+          "imageUrl": "/src/assets/itineraries/colombia/medellin-food/hacienda-junin.jpg",
+          "lat": 6.2476,
+          "lng": -75.5658
+        },
+        {
+          "name": "Mondongos",
+          "area": "El Poblado",
+          "reason": "Adresse incontournable très appréciée des habitants, célèbre pour ses généreuses portions de sancocho antioqueño, de bandeja paisa et d'autres grands classiques régionaux.",
+          "imageUrl": "/src/assets/itineraries/colombia/medellin-food/mondongos.jpg",
+          "lat": 6.2097,
+          "lng": -75.5664
+        },
+        {
+          "name": "Carmen Medellín",
+          "area": "El Poblado",
+          "reason": "Restaurant gastronomique de référence proposant une interprétation contemporaine de la cuisine colombienne, mettant à l'honneur les produits régionaux avec élégance et créativité.",
+          "imageUrl": "/src/assets/itineraries/colombia/medellin-food/carmen.jpg",
+          "lat": 6.2085,
+          "lng": -75.5676
+        },
+        {
+          "name": "In Situ",
+          "area": "Jardín Botánico",
+          "reason": "Restaurant paisible niché au cœur du Jardin botanique de Medellín, privilégiant les produits frais et de saison dans un cadre verdoyant offrant une agréable parenthèse loin de l'animation urbaine.",
+          "imageUrl": "/src/assets/itineraries/colombia/medellin-food/in-situ.jpg",
+          "lat": 6.2705,
+          "lng": -75.5630
+        },
+        {
+          "name": "Pergamino Café",
+          "area": "El Poblado",
+          "reason": "L'un des cafés de spécialité les plus réputés de Medellín, idéal pour découvrir les meilleurs cafés colombiens préparés avec précision dans une ambiance propice à la dégustation.",
+          "imageUrl": "/src/assets/itineraries/colombia/medellin-food/pergamino.jpg",
+          "lat": 6.2089,
+          "lng": -75.5671
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-cartagena-walls-heat-and-caribbean-memory",
+    "region": "americas",
+    "country": "Colombia",
+    "city": "Cartagena",
+    "title": "Carthagène en 3 jours : remparts, chaleur et mémoire des Caraïbes",
+    "days": 3,
+    "priceFrom": 235,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/colombia/3-days-cartagena-walls-heat-and-caribbean-memory.jpg",
+    "summary": "Cet itinéraire de 3 jours à Carthagène vous invite à découvrir la grande cité portuaire des Caraïbes colombiennes comme une ville façonnée autant par ses remparts que par son climat tropical. Protégée derrière ses fortifications et bercée par les vents marins, Carthagène se révèle progressivement à travers ses façades colorées, ses ruelles ombragées, sa musique omniprésente et le rythme paisible de la vie quotidienne. Conçu pour alterner promenades historiques, immersion dans les quartiers et moments de détente face à la mer, cet itinéraire propose de vivre Carthagène non comme un décor à parcourir rapidement, mais comme une ville qui se découvre en prenant le temps d'y appartenir.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les ruelles et balcons de la vieille ville fortifiée",
+      "La lumière, la chaleur et l'atmosphère des Caraïbes",
+      "L'ambiance authentique du quartier de Getsemaní",
+      "Le Castillo San Felipe de Barajas et son impressionnant système défensif",
+      "Les promenades au coucher du soleil sur les remparts",
+      "Une ville façonnée par son histoire et son climat"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premiers pas dans la cité fortifiée",
+        "summary": "Laisser la ville imposer son rythme.",
+        "details": "À votre arrivée à Carthagène, commencez votre découverte à l'intérieur de la vieille ville fortifiée, où les ruelles étroites, les balcons fleuris et les façades pastel créent une atmosphère chaleureuse typiquement caribéenne. Marchez lentement et recherchez régulièrement l'ombre : ici, c'est la chaleur qui dicte naturellement le rythme de la journée.\n\nDans l'après-midi, installez-vous dans un patio ou un café afin de profiter du calme et de l'ambiance locale plutôt que de multiplier les visites.\n\nEn fin de journée, promenez-vous sur les remparts au coucher du soleil, lorsque la lumière des Caraïbes adoucit la pierre et que la chaleur commence enfin à retomber. Terminez la soirée par un dîner en terrasse, sans vous presser."
+      },
+      {
+        "day": 2,
+        "title": "Getsemaní et la mémoire vivante de Carthagène",
+        "summary": "Découvrir la ville au-delà des remparts.",
+        "details": "Consacrez votre matinée au quartier de Getsemaní, où fresques murales, musique de rue et vie de quartier témoignent d'une culture toujours bien vivante. Prenez le temps d'observer comment le passé continue de s'exprimer dans le quotidien des habitants.\n\nL'après-midi, visitez le Castillo San Felipe de Barajas. Parcourez ses galeries, ses rampes et ses tunnels afin de comprendre la remarquable stratégie défensive imaginée pour protéger la ville. Depuis les hauteurs, la structure de la cité fortifiée apparaît clairement.\n\nRevenez ensuite dans le centre historique pour profiter d'un moment de repos.\n\nLe soir, laissez-vous guider par les sons de la ville plutôt que par un programme précis."
+      },
+      {
+        "day": 3,
+        "title": "Derniers instants entre remparts et mer",
+        "summary": "Quitter Carthagène sans se presser.",
+        "details": "Profitez de votre dernière matinée pour retrouver une rue, une place ou un café qui vous a particulièrement marqué à l'intérieur des remparts. Lorsque l'on ralentit le rythme, Carthagène devient rapidement familière.\n\nAccordez-vous ensuite une dernière promenade au bord de la mer afin de laisser la brise des Caraïbes tempérer la chaleur de la ville.\n\nSavourez un dernier déjeuner avant votre départ. Carthagène laisse le souvenir d'une ville où les remparts, le climat tropical et la mémoire des siècles forment un ensemble profondément harmonieux."
+      }
+    ],
+    "planning": {
+      "city": "Carthagène, Colombie",
+      "bestTime": {
+        "months": "Déc.–mars (saison sèche)",
+        "note": "L'humidité est plus faible et le ciel plus dégagé, offrant d'excellentes conditions pour explorer la vieille ville, parcourir les remparts et profiter des soirées en plein air."
+      },
+      "worstTime": {
+        "months": "Mai–nov. (chaud, humide et pluvieux)",
+        "note": "L'humidité élevée limite les activités en journée et les averses de l'après-midi sont fréquentes, particulièrement entre septembre et novembre."
+      },
+      "tips": [
+        "Préservez les heures les plus chaudes : privilégiez les promenades le matin et en fin de journée, en réservant les après-midis aux patios, aux musées ou aux cafés climatisés.",
+        "Organisez votre visite par quartiers : la vieille ville fortifiée, Getsemaní et les remparts méritent chacun un moment distinct.",
+        "Parcourez les remparts au coucher du soleil : la chaleur diminue progressivement tandis que la lumière sublime les fortifications.",
+        "Hydratez-vous régulièrement et portez des vêtements légers : les murs de pierre conservent longtemps la chaleur, même après le coucher du soleil.",
+        "Limitez les déplacements inutiles : l'essentiel de l'expérience se concentre à l'intérieur ou à proximité immédiate des remparts.",
+        "Le soir, laissez-vous porter par l'ambiance : musique, terrasses et conversations animent naturellement les rues de Carthagène."
+      ],
+      "withKids": [
+        "Privilégiez les promenades tôt le matin afin d'éviter les fortes chaleurs et l'affluence.",
+        "Les remparts offrent de grands espaces ouverts et bénéficient souvent d'une agréable brise marine.",
+        "Préférez plusieurs courtes balades à l'intérieur de la ville fortifiée plutôt qu'une longue marche continue.",
+        "Une pause en début d'après-midi est vivement recommandée lorsque les températures sont élevées."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale (aéroport international Rafael Núñez)",
+          "note": "L'aéroport de Carthagène se trouve à seulement quelques minutes du centre historique. Les trajets jusqu'à la ville fortifiée, Getsemaní ou Bocagrande durent généralement entre 10 et 20 minutes selon la circulation."
+        },
+        {
+          "title": "Aéroport → Quartiers historiques",
+          "note": "Le taxi ou le VTC est le moyen le plus pratique après l'arrivée, notamment en raison de la chaleur et des bagages. Les distances sont courtes, mais marcher avec des valises sous le climat tropical est peu agréable."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir la ville fortifiée et Getsemaní. Les distances sont réduites, mais la chaleur invite naturellement à ralentir le rythme.",
+        "Les taxis ou les VTC sont particulièrement pratiques pour rejoindre le Castillo San Felipe de Barajas ainsi que pour les transferts vers l'aéroport.",
+        "La chaleur de l'après-midi limite souvent les déplacements à pied ; les promenades sont beaucoup plus agréables tôt le matin ou après le coucher du soleil.",
+        "La circulation peut être dense en dehors des remparts, mais elle a peu d'impact si vous séjournez dans le centre historique.",
+        "Les remparts et le front de mer bénéficient d'une agréable brise des Caraïbes qui rend les promenades plus confortables."
+      ],
+      "dayTrips": [
+        {
+          "title": "Castillo San Felipe de Barajas",
+          "note": "Le taxi ou le VTC est recommandé pour rejoindre la forteresse, afin d'éviter la chaleur et la montée exposée au soleil. L'ascension finale est courte mais peu ombragée."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Aéroport ↔ Hébergement",
+          "note": "Le taxi ou le VTC constitue la solution la plus simple et la plus confortable compte tenu du climat et de la courte durée du trajet."
+        },
+        {
+          "title": "Promenades dans la ville fortifiée",
+          "note": "Les balades sont particulièrement agréables le matin et en fin de journée. Les ruelles étroites, les patios et les zones ombragées permettent de mieux supporter la chaleur."
+        },
+        {
+          "title": "Vieille ville ↔ Getsemaní",
+          "note": "Le trajet se fait facilement à pied le matin ou en soirée. Aux heures les plus chaudes, un court déplacement en taxi est souvent plus confortable."
+        },
+        {
+          "title": "Centre historique ↔ Castillo San Felipe",
+          "note": "Un court trajet en voiture permet d'éviter une marche sous un soleil intense et de conserver son énergie pour explorer les galeries et les tunnels de la forteresse."
+        }
+      ],
+      "practical": [
+        "Organisez vos déplacements en fonction de la température plutôt que des distances : Carthagène est compacte, mais la chaleur tropicale peut rapidement fatiguer.",
+        "Alternez marche et taxi selon les moments de la journée : l'une permet de s'imprégner de l'atmosphère, l'autre offre un confort appréciable sous le climat des Caraïbes.",
+        "Évitez les longues promenades au milieu de la journée ; les pauses font pleinement partie de l'expérience de la ville.",
+        "Les quartiers historiques restent animés et agréables en soirée, mais les taxis ou les VTC demeurent une solution pratique après la nuit tombée.",
+        "Emportez toujours une bouteille d'eau, même pour de courtes promenades : l'hydratation est essentielle sous ce climat.",
+        "Carthagène se découvre davantage en revenant sur les mêmes lieux à différents moments de la journée qu'en cherchant à tout voir d'un seul trait."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Arepa de huevo",
+        "Posta negra cartagenera",
+        "Arroz con coco",
+        "Pargo rojo frit entier",
+        "Ceviche des Caraïbes",
+        "Patacones accompagnés de hogao",
+        "Jus de fruits tropicaux préparés à la demande"
+      ],
+      "areas": [
+        {
+          "name": "Ville fortifiée (Centro Histórico)",
+          "note": "Le cœur historique de Carthagène, où les tables les plus élégantes mettent à l'honneur la cuisine colombienne des Caraïbes. Les patios ombragés et les demeures coloniales invitent à prendre le temps de savourer chaque repas, à l'abri de la chaleur tropicale."
+        },
+        {
+          "name": "Getsemaní",
+          "note": "Quartier vivant et authentique, apprécié pour son ambiance décontractée, ses bonnes adresses locales et ses terrasses animées où la musique accompagne naturellement les soirées."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Cevichería",
+          "area": "Ville fortifiée",
+          "reason": "Adresse emblématique de Carthagène, réputée pour ses ceviches et ses fruits de mer d'une grande fraîcheur, véritable reflet de l'identité culinaire des Caraïbes colombiennes.",
+          "imageUrl": "/src/assets/itineraries/colombia/cartagena-food/la-cevicheria.jpg",
+          "lat": 10.4236,
+          "lng": -75.5514
+        },
+        {
+          "name": "La Vitrola",
+          "area": "Ville fortifiée",
+          "reason": "Institution incontournable de la ville, célèbre pour sa posta negra cartagenera et sa cuisine caribéenne raffinée, servies dans un élégant décor au charme intemporel.",
+          "imageUrl": "/src/assets/itineraries/colombia/cartagena-food/la-vitrola.jpg",
+          "lat": 10.4231,
+          "lng": -75.5519
+        },
+        {
+          "name": "Celele",
+          "area": "Getsemaní",
+          "reason": "Restaurant contemporain plusieurs fois récompensé, mettant en valeur les produits des Caraïbes colombiennes à travers une cuisine créative, documentée et profondément ancrée dans les traditions régionales.",
+          "imageUrl": "/src/assets/itineraries/colombia/cartagena-food/celele.jpg",
+          "lat": 10.4195,
+          "lng": -75.5476
+        },
+        {
+          "name": "Café Havana",
+          "area": "Getsemaní",
+          "reason": "Lieu emblématique des soirées cartaginoises, où musique cubaine, cocktails et ambiance chaleureuse des Caraïbes se retrouvent dans une atmosphère conviviale devenue incontournable.",
+          "imageUrl": "/src/assets/itineraries/colombia/cartagena-food/cafe-havana.jpg",
+          "lat": 10.4192,
+          "lng": -75.5473
+        },
+        {
+          "name": "Demente",
+          "area": "Getsemaní",
+          "reason": "Adresse très appréciée avec sa terrasse ouverte, idéale pour partager une cuisine décontractée aux influences caribéennes dans l'un des quartiers les plus animés et créatifs de Carthagène.",
+          "imageUrl": "/src/assets/itineraries/colombia/cartagena-food/demente.jpg",
+          "lat": 10.4188,
+          "lng": -75.5479
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-coffee-region-worked-land-and-green-rhythm",
+    "region": "americas",
+    "country": "Colombia",
+    "city": "Salento & Cocora Valley",
+    "title": "La région du café colombien en 3 jours : terres cultivées et harmonie verdoyante",
+    "days": 3,
+    "priceFrom": 215,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/colombia/3-days-coffee-region-worked-land-and-green-rhythm.jpg",
+    "summary": "Cet itinéraire de 3 jours vous emmène au cœur de l'Eje Cafetero, la région caféière emblématique de la Colombie, où les paysages sont le fruit du travail quotidien des hommes autant que de la nature. Entre Salento et la vallée de Cocora, le voyage alterne plantations de café, sentiers ruraux et douceur de vivre des villages andins. Ici, la beauté ne réside pas dans une nature sauvage, mais dans un territoire patiemment façonné par les générations de producteurs, où chaque journée suit le rythme des saisons, de l'altitude et des récoltes.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non inclus.",
+    "highlights": [
+      "Les plantations de café et les secrets de leur production",
+      "Le charme coloré et paisible de Salento",
+      "La vallée de Cocora et ses majestueux palmiers à cire",
+      "Les sentiers ruraux entre collines et vallées",
+      "Le quotidien rythmé par la culture du café",
+      "Des paysages façonnés par le travail et l'équilibre avec la nature"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée à Salento et découverte du village",
+        "summary": "Adopter le rythme de la campagne colombienne.",
+        "details": "À votre arrivée à Salento, prenez le temps de parcourir ses rues paisibles, bordées de maisons colorées, de petits cafés et de balcons fleuris. L'atmosphère y est bien plus calme que dans les grandes villes colombiennes, invitant naturellement à ralentir.\n\nDans l'après-midi, poursuivez votre promenade vers les points de vue ou les chemins qui entourent le village afin d'observer comment les plantations agricoles remplacent progressivement les forêts des montagnes.\n\nTerminez la journée par un dîner dans le centre de Salento. Ici, les soirées sont courtes : la région se réveille dès l'aube pour une nouvelle journée de travail."
+      },
+      {
+        "day": 2,
+        "title": "Plantation de café et savoir-faire local",
+        "summary": "Comprendre ce qui fait vivre cette région.",
+        "details": "Consacrez votre matinée à la visite d'une plantation de café en activité. Promenez-vous entre les caféiers et découvrez comment l'altitude, l'ombre, le climat et le moment de la récolte influencent la qualité des grains. La transformation du café révèle un véritable savoir-faire artisanal bien au-delà d'un simple produit agricole.\n\nPrenez le temps d'échanger avec les producteurs et d'observer leur travail quotidien. Ici, le café fait partie d'un mode de vie, bien plus que d'une démonstration destinée aux visiteurs.\n\nDans l'après-midi, revenez tranquillement vers Salento ou profitez d'un moment de repos afin de savourer pleinement tout ce que vous avez appris.\n\nLa journée s'achève dans le calme ; la richesse de cette expérience tient davantage à ce que l'on découvre qu'aux kilomètres parcourus."
+      },
+      {
+        "day": 3,
+        "title": "Vallée de Cocora et derniers paysages",
+        "summary": "Découvrir la grandeur des paysages andins.",
+        "details": "Partez tôt le matin vers la vallée de Cocora afin de profiter de ses paysages souvent enveloppés de brume. Les immenses palmiers à cire, symboles nationaux de la Colombie, s'élèvent au-dessus des prairies et offrent un contraste spectaculaire avec les terres cultivées de la région.\n\nEmpruntez les sentiers à votre rythme en tenant compte du relief et des changements rapides de météo propres aux Andes.\n\nPrenez régulièrement le temps de vous arrêter afin d'observer la manière dont les espaces agricoles et la nature préservée coexistent harmonieusement.\n\nDe retour à Salento, profitez d'un dernier déjeuner avant votre départ. L'Eje Cafetero laisse le souvenir d'un territoire où la patience, le travail et la nature avancent depuis toujours au même rythme."
+      }
+    ],
+    "planning": {
+      "city": "Région caféière colombienne (Eje Cafetero)",
+      "bestTime": {
+        "months": "Déc.–mars (saison la plus sèche), juil.–août (seconde période sèche)",
+        "note": "Les matinées sont généralement plus dégagées et les pluies moins fréquentes, offrant de bonnes conditions pour visiter les plantations, admirer la vallée de Cocora et flâner dans les villages."
+      },
+      "worstTime": {
+        "months": "Avr.–juin, sept.–nov. (saisons des pluies)",
+        "note": "Les averses de l'après-midi sont fréquentes et peuvent rendre les sentiers boueux ou limiter les panoramas, même si la végétation est alors particulièrement luxuriante."
+      },
+      "tips": [
+        "Ne sous-estimez pas le relief : les distances sont souvent courtes, mais les montées peuvent être exigeantes en altitude.",
+        "Prévoyez une activité principale par jour : une plantation de café, la vallée de Cocora ou un village andin méritent chacun une visite à part entière.",
+        "Profitez des matinées pour les randonnées et les visites de fermes ; les après-midis sont idéaux pour les cafés, les pauses ou les découvertes à l'abri des éventuelles averses.",
+        "Une visite guidée d'une finca permet de mieux comprendre toutes les étapes de la culture et de la transformation du café.",
+        "Prévoyez des chaussures adaptées : les chemins alternent terre, herbe, pierres et zones parfois boueuses selon la météo.",
+        "Les soirées sont paisibles et conviviales : un dîner tôt et quelques échanges avec les habitants s'accordent parfaitement au rythme de la région."
+      ],
+      "withKids": [
+        "Les plantations proposant des démonstrations et des activités participatives captivent facilement les enfants.",
+        "Privilégiez une boucle courte dans la vallée de Cocora plutôt qu'une randonnée complète.",
+        "Un poncho ou une veste imperméable légère est recommandé en raison des averses soudaines.",
+        "Les places des villages offrent d'agréables espaces pour faire des pauses entre deux visites."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée régionale (aéroports d'Armenia ou de Pereira)",
+          "note": "La plupart des voyageurs arrivent par les aéroports d'Armenia (AXM) ou de Pereira (PEI). Depuis l'un ou l'autre, il faut généralement entre 45 et 75 minutes de route pour rejoindre Salento, selon la circulation et les conditions météorologiques."
+        },
+        {
+          "title": "Aéroport → Salento",
+          "note": "Un transfert privé, un taxi ou une navette partagée constitue la solution la plus pratique. Les bus locaux nécessitent plusieurs correspondances et sont peu adaptés lorsque l'on voyage avec des bagages."
+        }
+      ],
+      "gettingAround": [
+        "Salento se découvre facilement à pied, mais les rues sont souvent pentues et pavées de manière irrégulière.",
+        "Les célèbres jeeps Willys sont le principal moyen de transport pour rejoindre les plantations de café et la vallée de Cocora.",
+        "Les courtes distances peuvent demander plus de temps qu'il n'y paraît en raison du relief, des chemins boueux et des changements rapides de météo.",
+        "Les averses surviennent fréquemment en fin de journée ; il est donc préférable de prévoir les principaux déplacements le matin.",
+        "Les transports publics desservent la région, mais restent relativement lents et peu pratiques pour accéder aux sites ruraux."
+      ],
+      "dayTrips": [
+        {
+          "title": "Visites de fincas caféières",
+          "note": "La plupart des plantations sont accessibles en jeep ou après un court trajet sur route. Il est également possible d'y aller à pied, mais certains chemins sont escarpés et peuvent devenir glissants après la pluie."
+        },
+        {
+          "title": "Vallée de Cocora",
+          "note": "L'accès se fait presque exclusivement en jeep Willys au départ de la place principale de Salento. Les départs sont réguliers dès le début de la matinée."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Salento ↔ Plantations de café",
+          "note": "La jeep ou un transport organisé permet d'économiser ses forces pour profiter pleinement de la visite, plutôt que de les consacrer aux montées parfois exigeantes."
+        },
+        {
+          "title": "Salento ↔ Vallée de Cocora",
+          "note": "Les jeeps Willys du matin constituent la solution la plus fiable pour rejoindre la vallée. Des retours sont assurés tout au long de l'après-midi."
+        },
+        {
+          "title": "Promenades dans le village et vers les belvédères",
+          "note": "Les circuits sont relativement courts, mais le relief invite à marcher tranquillement afin de profiter pleinement des paysages andins."
+        }
+      ],
+      "practical": [
+        "Organisez vos déplacements en fonction de la météo plutôt que des distances : une averse peut rapidement transformer les sentiers en chemins boueux.",
+        "Utilisez les jeeps pour rejoindre les zones en altitude et gardez votre énergie pour les visites des plantations ou les randonnées dans la vallée de Cocora.",
+        "Partez tôt pour la vallée de Cocora afin de profiter des meilleures vues avant l'arrivée des nuages et des pluies de l'après-midi.",
+        "De bonnes chaussures de randonnée ou de marche sont bien plus importantes que la vitesse de déplacement : les conditions évoluent rapidement selon la météo.",
+        "Les soirées sont très calmes et les possibilités de transport deviennent plus limitées après la tombée de la nuit.",
+        "L'Eje Cafetero se découvre mieux en prenant son temps : privilégiez quelques visites approfondies plutôt qu'un programme trop chargé."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Truite accompagnée de patacones",
+        "Bandeja paisa (version traditionnelle de la région)",
+        "Café de spécialité issu d'une seule plantation",
+        "Arepa antioqueña",
+        "Chocolat chaud servi avec du fromage",
+        "Boissons traditionnelles à base de panela",
+        "Jus de fruits locaux (lulo, guanábana, mûre andine)"
+      ],
+      "areas": [
+        {
+          "name": "Centre de Salento",
+          "note": "Le cœur du village se parcourt entièrement à pied. On y trouve des restaurants familiaux, des cafés de spécialité et une ambiance paisible où les repas suivent encore le rythme de la vie agricole."
+        },
+        {
+          "name": "Fincas et campagne environnante",
+          "note": "Les plantations de café et les fermes des environs proposent une cuisine simple, généreuse et authentique, directement inspirée du quotidien des producteurs de café."
+        }
+      ],
+      "places": [
+        {
+          "name": "Bernabé Café & Bistro",
+          "area": "Centre de Salento",
+          "reason": "L'une des meilleures tables de Salento, réputée pour sa cuisine régionale soignée, ses produits locaux de qualité et son atmosphère calme qui invite à prendre son temps.",
+          "imageUrl": "/src/assets/itineraries/colombia/coffee-region-food/bernabe.jpg",
+          "lat": 4.6379,
+          "lng": -75.5706
+        },
+        {
+          "name": "Brunch de Salento",
+          "area": "Centre de Salento",
+          "reason": "Une excellente adresse pour un déjeuner ou un brunch tranquille, mettant en valeur les produits de la région caféière dans une cuisine colombienne simple et généreuse.",
+          "imageUrl": "/src/assets/itineraries/colombia/coffee-region-food/brunch-de-salento.jpg",
+          "lat": 4.6376,
+          "lng": -75.5702
+        },
+        {
+          "name": "Café Jesús Martín",
+          "area": "Centre de Salento",
+          "reason": "Café historique apprécié pour la qualité de ses cafés de spécialité et ses préparations artisanales, parfait pour découvrir la véritable culture caféière de Salento.",
+          "imageUrl": "/src/assets/itineraries/colombia/coffee-region-food/cafe-jesus-martin.jpg",
+          "lat": 4.6378,
+          "lng": -75.5708
+        },
+        {
+          "name": "El Rancherito del Paisa",
+          "area": "Centre de Salento",
+          "reason": "Restaurant traditionnel sans prétention, réputé pour ses généreuses portions de truite et de bandeja paisa, fidèles à la cuisine familiale de la région andine.",
+          "imageUrl": "/src/assets/itineraries/colombia/coffee-region-food/el-rancherito.jpg",
+          "lat": 4.6369,
+          "lng": -75.5697
+        },
+        {
+          "name": "Finca El Ocaso (Coffee Farm Meals)",
+          "area": "Fincas et campagne environnante",
+          "reason": "Une plantation de café en activité où l'on déguste une cuisine simple et locale après la visite, offrant une immersion authentique dans le quotidien des producteurs et de la culture du café.",
+          "imageUrl": "/src/assets/itineraries/colombia/coffee-region-food/finca-el-ocaso.jpg",
+          "lat": 4.6397,
+          "lng": -75.5791
+        }
+      ]
+    }
+  }

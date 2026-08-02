@@ -1,0 +1,371 @@
+
+  {
+    "slug": "2-days-karakorum-where-empire-left-no-walls",
+    "region": "east-asia",
+    "country": "Mongolia",
+    "city": "Karakorum",
+    "title": "Karakorum en 2 jours : Là où l’empire n’a laissé aucun rempart",
+    "days": 2,
+    "priceFrom": 170,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mongolia/2-days-karakorum-where-empire-left-no-walls.jpg",
+    "summary": "Cet itinéraire de 2 jours à Karakorum explore l’ancienne capitale de l’Empire mongol à travers les vastes steppes, les pierres des monastères et le silence de la vallée de l’Orkhon. Pensé pour être vécu lentement, il laisse les paysages, le vent et l’horizon raconter l’histoire d’un lieu autrefois au centre du monde.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Monastère d’Erdene Zuu",
+      "Ruines de l’ancienne Karakorum",
+      "Paysages ouverts de la vallée de l’Orkhon",
+      "Balades dans la steppe",
+      "Le silence porté par le vent",
+      "Les fondations d’un empire disparu"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et mémoire de pierre",
+        "summary": "Comprendre une capitale à travers ses vestiges.",
+        "details": "Commencez votre visite au monastère d’Erdene Zuu, dont les murs de pierre se dressent au milieu des vastes plaines. Poursuivez jusqu’aux ruines de l’ancienne Karakorum, où les fragments du passé prennent tout leur sens grâce à l’immensité du paysage. Terminez la journée en admirant la lumière du soir sur la steppe."
+      },
+      {
+        "day": 2,
+        "title": "Vallée de l’Orkhon et départ",
+        "summary": "Quitter les lieux dans l’immensité.",
+        "details": "Passez la matinée à parcourir tranquillement la vallée de l’Orkhon, entre prairies, rivière et ciel ouvert. Prenez le temps d’observer le paysage avant un déjeuner simple puis votre départ. Karakorum laisse le souvenir d’un empire évoqué davantage par l’espace que par ses monuments."
+      }
+    ],
+    "planning": {
+      "city": "Karakorum (Kharkhorin), province d’Övörkhangai, Mongolie",
+      "bestTime": {
+        "months": "Juin–août (idéal), fin mai et septembre",
+        "note": "L’été offre des températures agréables et des routes accessibles pour explorer la vallée de l’Orkhon."
+      },
+      "worstTime": {
+        "months": "Novembre–mars (froid extrême), avril (venteux et poussiéreux)",
+        "note": "L’hiver est très rigoureux et le printemps apporte souvent du vent et des tempêtes de poussière."
+      },
+      "tips": [
+        "Venez pour les paysages autant que pour l’histoire.",
+        "Associez le monastère d’Erdene Zuu à une excursion dans la vallée de l’Orkhon.",
+        "La lumière du matin et de la fin d’après-midi est idéale.",
+        "Privilégiez un chauffeur ou un guide local.",
+        "Prévoyez plusieurs couches de vêtements, même en été.",
+        "Emportez eau, en-cas et cartes hors ligne."
+      ],
+      "withKids": [
+        "Les chevaux et la steppe captivent souvent davantage les enfants que les sites historiques.",
+        "Utilisez un véhicule pour limiter les longues marches.",
+        "Protégez-vous du soleil et du vent.",
+        "Une nuit en camp de yourtes est une expérience mémorable."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Oulan-Bator → Karakorum (Kharkhorin)",
+          "note": "Comptez environ 6 à 8 heures de route depuis Oulan-Bator. Un chauffeur privé ou un circuit organisé est la solution la plus fiable."
+        },
+        {
+          "title": "Vol intérieur + route (saisonnier)",
+          "note": "En été, certains voyageurs rejoignent un aéroport régional avant de poursuivre en voiture."
+        }
+      ],
+      "gettingAround": [
+        "Les déplacements se font essentiellement en voiture.",
+        "La marche est adaptée uniquement autour du monastère et des ruines.",
+        "Les distances dans la vallée sont importantes malgré les apparences.",
+        "Un chauffeur local facilite les déplacements."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Monastère d’Erdene Zuu et ruines de Karakorum",
+          "note": "Les deux sites sont proches l’un de l’autre et se visitent facilement à pied une fois sur place."
+        },
+        {
+          "title": "Exploration de la vallée de l’Orkhon",
+          "note": "À découvrir lentement en voiture, ponctuée de nombreux arrêts."
+        }
+      ],
+      "practical": [
+        "Regroupez vos déplacements par secteur.",
+        "L’état des routes varie selon les saisons.",
+        "La météo influence fortement les trajets.",
+        "Les stations-service et restaurants sont rares.",
+        "Prévoyez des espèces.",
+        "Le voyage privilégie la contemplation plutôt que la rapidité."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Buuz",
+        "Khuushuur",
+        "Suutei Tsai (thé au lait salé)"
+      ],
+      "areas": [
+        {
+          "name": "Village de Karakorum / Kharkhorin",
+          "note": "Petit village avec quelques maisons d’hôtes et restaurants servant une cuisine mongole simple et authentique."
+        },
+        {
+          "name": "Camps de yourtes et campagne",
+          "note": "Les repas sont généralement préparés par les camps et mettent à l’honneur viande, produits laitiers et spécialités de la steppe."
+        }
+      ],
+      "places": []
+    }
+  },
+  {
+    "slug": "2-days-terelj-where-the-land-opens-you",
+    "region": "east-asia",
+    "country": "Mongolia",
+    "city": "Gorkhi–Terelj National Park",
+    "title": "Gorkhi–Terelj en 2 jours : Là où la terre vous ouvre",
+    "days": 2,
+    "priceFrom": 160,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mongolia/2-days-terelj-where-the-land-opens-you.jpg",
+    "summary": "Cet itinéraire de 2 jours dans le parc national de Gorkhi–Terelj est une introduction paisible aux paysages mongols, où prairies, formations granitiques, rivières et ciel immense invitent à ralentir. Conçu comme une pause ressourçante après la ville, il privilégie la marche, l’observation et la simplicité.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Prairies ouvertes et formations granitiques",
+      "Turtle Rock et vallées environnantes",
+      "Balades au bord de la rivière",
+      "Séjour en camp de yourtes",
+      "Peu de programme, beaucoup d’espace",
+      "Une nature proche et accessible"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et premier souffle",
+        "summary": "Laisser le paysage élargir la journée.",
+        "details": "À votre arrivée, parcourez tranquillement les prairies jusqu’à Turtle Rock, puis poursuivez à pied dans les vallées ou le long de la rivière. En soirée, installez-vous dans un camp de yourtes ou un lodge pour profiter du calme et du ciel étoilé."
+      },
+      {
+        "day": 2,
+        "title": "Collines, rivière et départ",
+        "summary": "Repartir avec un esprit apaisé.",
+        "details": "Commencez la journée par une promenade ou une courte montée vers un point de vue. Après un déjeuner simple, reprenez la route vers Oulan-Bator en emportant avec vous le souvenir des grands espaces de Terelj."
+      }
+    ],
+    "planning": {
+      "city": "Parc national de Gorkhi–Terelj, Mongolie",
+      "bestTime": {
+        "months": "Juin–août (idéal), fin mai et septembre",
+        "note": "L’été offre des températures agréables et des conditions parfaites pour les randonnées, les balades à cheval et les nuits en yourte."
+      },
+      "worstTime": {
+        "months": "Novembre–mars (froid extrême), avril (venteux et poussiéreux)",
+        "note": "L’hiver est très rigoureux et le printemps peut être marqué par de fortes rafales et la poussière."
+      },
+      "tips": [
+        "Gardez un programme souple.",
+        "Profitez des lumières du matin et de la fin d’après-midi.",
+        "Passez une nuit en yourte si possible.",
+        "Habillez-vous en plusieurs couches.",
+        "Privilégiez un chauffeur local.",
+        "Acceptez de vous déconnecter."
+      ],
+      "withKids": [
+        "Les vallées et rochers stimulent l’imagination.",
+        "Les courtes balades à cheval plaisent souvent aux enfants.",
+        "Surveillez les enfants près des falaises et des rivières.",
+        "Prévoyez protection solaire et vêtements coupe-vent."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Oulan-Bator → Parc national de Gorkhi–Terelj",
+          "note": "Le parc se situe à environ 1 h 30 à 2 h de route d’Oulan-Bator. Un chauffeur privé, un transfert ou une excursion organisée est recommandé."
+        }
+      ],
+      "gettingAround": [
+        "Il n’existe pas de transport public dans le parc.",
+        "Les camps et lodges sont éloignés les uns des autres.",
+        "La marche est idéale autour des hébergements et des sites naturels.",
+        "L’équitation est une expérience traditionnelle, plus qu’un moyen de transport."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Turtle Rock et vallées centrales",
+          "note": "Accès en voiture puis découverte à pied."
+        },
+        {
+          "title": "Sentiers de rivière et points de vue",
+          "note": "Courtes promenades depuis les camps ou parkings."
+        }
+      ],
+      "practical": [
+        "Prévoyez un trajet aller et un trajet retour sans multiplier les déplacements.",
+        "Les routes deviennent parfois des pistes.",
+        "La météo influence les conditions de circulation.",
+        "Gardez des espèces.",
+        "Le réseau mobile est limité.",
+        "Terelj invite à rester sur place plutôt qu’à circuler."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Buuz",
+        "Khuushuur",
+        "Suutei Tsai (thé au lait salé)",
+        "Ragoût simple de viande et légumes"
+      ],
+      "areas": [
+        {
+          "name": "Camps de yourtes et lodges",
+          "note": "Les repas sont généralement inclus et suivent le rythme des hébergements."
+        },
+        {
+          "name": "Entrée du parc / Haltes routières",
+          "note": "Quelques cafés familiaux proposent une cuisine mongole simple et nourrissante."
+        }
+      ],
+      "places": []
+    }
+  },
+  {
+    "slug": "3-days-ulaanbaatar-where-the-city-meets-the-steppe",
+    "region": "east-asia",
+    "country": "Mongolia",
+    "city": "Ulaanbaatar",
+    "title": "Oulan-Bator en 3 jours : Là où la ville rencontre la steppe",
+    "days": 3,
+    "priceFrom": 180,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/mongolia/3-days-ulaanbaatar-where-the-city-meets-the-steppe.jpg",
+    "summary": "Cet itinéraire de 3 jours à Oulan-Bator explore la capitale de la Mongolie comme un lieu de transition entre traditions nomades et vie moderne, vastes paysages et rues animées. Il équilibre découvertes culturelles et grands espaces, révélant avec douceur la résilience discrète de la ville.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Monastère de Gandan",
+      "Place Sükhbaatar",
+      "Musées consacrés à l’histoire nomade",
+      "Quartiers de yourtes (ger)",
+      "Immenses ciels et collines",
+      "Une capitale façonnée par l’adaptation"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée et grands espaces",
+        "summary": "Premiers pas entre ville et horizon.",
+        "details": "Commencez votre séjour sur la place Sükhbaatar, vaste cœur civique d’Oulan-Bator. Flânez dans les rues voisines et prenez le temps d’observer la rencontre entre modernité et traditions avant un dîner paisible."
+      },
+      {
+        "day": 2,
+        "title": "Monastère et culture",
+        "summary": "Trouver le calme au cœur de la ville.",
+        "details": "Visitez le monastère de Gandan, où prières et chants créent une atmosphère sereine. L’après-midi, découvrez un musée consacré à l’histoire mongole et à la culture nomade avant de rejoindre les hauteurs en fin de journée."
+      },
+      {
+        "day": 3,
+        "title": "Collines et départ",
+        "summary": "Quitter la ville vers la steppe.",
+        "details": "Profitez d’un point de vue sur les quartiers de yourtes ou les collines environnantes. Déjeunez tranquillement avant votre départ, avec le souvenir d’une ville ouverte sur les grands espaces."
+      }
+    ],
+    "planning": {
+      "city": "Ulaanbaatar, Mongolia",
+      "bestTime": {
+        "months": "Juin–août (idéal), fin mai et septembre",
+        "note": "L’été offre des températures agréables pour explorer la ville et la steppe."
+      },
+      "worstTime": {
+        "months": "Novembre–mars (froid extrême), avril (venteux et poussiéreux)",
+        "note": "Les températures hivernales peuvent descendre bien en dessous de -20 °C."
+      },
+      "tips": [
+        "Prévoyez une excursion vers la steppe.",
+        "Commencez vos visites tôt le matin.",
+        "Habillez-vous en plusieurs couches.",
+        "Privilégiez taxis ou chauffeurs.",
+        "Vérifiez la qualité de l’air.",
+        "Gardez des espèces."
+      ],
+      "withKids": [
+        "Les monastères et parcs offrent de grands espaces.",
+        "Les excursions dans la steppe plaisent beaucoup aux enfants.",
+        "Évitez l’hiver avec de jeunes enfants.",
+        "Prévoyez une protection solaire en été."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée internationale (Aéroport international Chinggis Khaan)",
+          "note": "L’aéroport est situé à l’extérieur de la ville. Les transferts organisés ou les taxis sont les options les plus pratiques."
+        }
+      ],
+      "gettingAround": [
+        "Les taxis et chauffeurs privés sont les moyens de transport les plus pratiques.",
+        "La marche convient uniquement aux quartiers centraux.",
+        "Les applications de VTC sont disponibles de façon variable.",
+        "Les bus sont économiques mais peu intuitifs pour les visiteurs."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "Centre-ville (place Sükhbaatar)",
+          "note": "À explorer à pied."
+        },
+        {
+          "title": "Monastères et musées",
+          "note": "Privilégiez le taxi entre les sites."
+        },
+        {
+          "title": "Périphérie et collines",
+          "note": "Un véhicule est nécessaire pour rejoindre les points de vue."
+        }
+      ],
+      "steppeAccess": [
+        {
+          "title": "Oulan-Bator → Terelj / Steppe",
+          "note": "Les excursions sont plus simples avec un chauffeur ou un circuit organisé."
+        }
+      ],
+      "practical": [
+        "Regroupez les visites par secteur.",
+        "Évitez les heures de pointe.",
+        "Gardez des espèces pour les taxis.",
+        "Adaptez-vous aux conditions météo.",
+        "Les transports demandent de l’organisation.",
+        "Le véritable voyage commence souvent vers la steppe."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Buuz",
+        "Khuushuur",
+        "Tsuivan",
+        "Bansh",
+        "Suutei Tsai (thé au lait salé)",
+        "Aaruul"
+      ],
+      "areas": [
+        {
+          "name": "City Centre / Sukhbaatar Square Area",
+          "note": "Restaurants servant les grands classiques mongols."
+        },
+        {
+          "name": "Gandan Monastery Area",
+          "note": "Petites cantines traditionnelles."
+        },
+        {
+          "name": "Outskirts / Ger District Edge",
+          "note": "Cuisine simple inspirée des traditions de la steppe."
+        }
+      ],
+      "places": [
+        {
+          "name": "Modern Nomads",
+          "area": "City Centre",
+          "reason": "Restaurant réputé proposant des spécialités mongoles comme les buuz et le tsuivan.",
+          "imageUrl": "/src/assets/itineraries/mongolia/ulaanbaatar-food/modern-nomads.jpg",
+          "lat": 47.9189,
+          "lng": 106.917
+        }
+      ]
+    }
+  }

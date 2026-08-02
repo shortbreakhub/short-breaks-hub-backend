@@ -65,11 +65,6 @@ public class ItinerarySeeder implements CommandLineRunner {
             int created = 0;
             for (SeedItineraryDTO dto : seedItineraries) {
 
-                if (dto.getFoodRecommendation() == null) {
-                    System.out.println("❌ Food is NULL for itinerary: " + dto.getSlug());
-                    continue; // or handle later
-                }
-
                 if (dto.getPlanning() == null && dto.getTransport() == null && dto.getFoodRecommendation() == null) continue;
 
                 Itinerary itinerary = itineraryBySlug.get(dto.getSlug());

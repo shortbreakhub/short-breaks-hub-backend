@@ -1,0 +1,1279 @@
+
+  {
+    "slug": "3-days-calgary-between-prairie-and-ascent",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Calgary",
+    "title": "Calgary en 3 jours : entre prairie et élévation",
+    "days": 3,
+    "priceFrom": 245,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/3-days-calgary-between-prairie-and-ascent.jpg",
+    "summary": "Cet itinéraire de 3 jours à Calgary explore une ville façonnée par l’ouverture et la transition. Située entre les immenses prairies et l’élévation soudaine des Rocheuses, Calgary associe le pragmatisme de la frontière à une ambition moderne. Conçu pour équilibrer les promenades au bord de la rivière, les quartiers culturels et les vastes horizons, cet itinéraire présente Calgary comme une ville définie moins par ce qu’elle est que par ce vers quoi elle mène.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les promenades le long de la Bow River",
+      "La skyline du centre-ville et les ponts",
+      "Le Peace Bridge et l’architecture contemporaine",
+      "Heritage Park et son histoire",
+      "Le Stampede et l’identité de l’Ouest",
+      "Une ville façonnée par la transition et l’espace"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rivière et premier horizon",
+        "summary": "Découvrir la ville par l’espace.",
+        "details": "Arrivez à Calgary et commencez par les promenades le long de la Bow River, où l’eau, le ciel et la silhouette de la ville s’étendent à l’horizontale. Traversez le Peace Bridge, observez les cyclistes et les joggeurs, puis terminez la journée par un dîner au bord de la rivière alors que la lumière décline sur les prairies."
+      },
+      {
+        "day": 2,
+        "title": "Mémoire, renouveau et cœur civique",
+        "summary": "Comprendre le passé sous l’élan du présent.",
+        "details": "Passez la matinée à Heritage Park ou dans un site historique comparable avant de revenir vers le centre pour explorer les lieux culturels et les cafés de quartier. En soirée, promenez-vous autour du Stampede Park et laissez un dîner tranquille conclure la journée."
+      },
+      {
+        "day": 3,
+        "title": "Repères, retour et départ",
+        "summary": "Partir avec une direction.",
+        "details": "Retrouvez votre portion préférée de la Bow River ou un café apprécié, puis profitez d’un dernier déjeuner en regardant vers l’ouest où se dessinent les Rocheuses. Calgary laisse une impression de résilience, de préparation et d’élan."
+      }
+    ],
+    "planning": {
+      "city": "Calgary, Alberta, Canada",
+      "bestTime": {
+        "months": "Juin–sept.",
+        "note": "Les journées longues et ensoleillées sont idéales pour les promenades au bord de la rivière et les excursions vers les contreforts."
+      },
+      "worstTime": {
+        "months": "Janv.–févr., mars–avr.",
+        "note": "Le froid hivernal, le vent et les changements rapides de météo compliquent les activités extérieures."
+      },
+      "tips": [
+        "Observez le ciel : la météo change vite.",
+        "Utilisez les rivières pour retrouver votre équilibre.",
+        "Explorez les différents quartiers séparément.",
+        "Une montée ou un belvédère par jour suffit.",
+        "Les distances sont importantes.",
+        "Les soirées sont conviviales mais discrètes."
+      ],
+      "withKids": [
+        "Les parcs et les berges offrent beaucoup d’espace.",
+        "Les rues larges limitent la fatigue.",
+        "Prévoyez plusieurs couches de vêtements.",
+        "Les escapades nature sont faciles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "Calgary est desservie par , l’un des principaux hubs de l’Ouest canadien et la principale porte d’entrée vers les Rocheuses."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "L’aéroport se trouve au nord-est du centre. Taxi, VTC ou bus permettent de rejoindre directement le cœur de la ville en 20 à 30 minutes selon la circulation."
+        }
+      ],
+      "gettingAround": [
+        "Le centre-ville et les berges se découvrent facilement à pied.",
+        "Le CTrain est efficace pour les trajets plus longs.",
+        "Les chemins le long de la rivière sont conçus pour la marche et le vélo.",
+        "Les taxis et VTC sont largement disponibles.",
+        "Une voiture est utile si vous poursuivez vers les contreforts ou les montagnes."
+      ],
+      "dayMoves": [
+        {
+          "title": "Bow River et ponts",
+          "note": "Les itinéraires le long de la Bow River constituent l’ossature du séjour."
+        },
+        {
+          "title": "Centre-ville ↔ Heritage Park",
+          "note": "Heritage Park se rejoint facilement en voiture, taxi ou transports publics suivis d’une courte marche."
+        },
+        {
+          "title": "Stampede Grounds",
+          "note": "Accessible à pied, en CTrain ou par un court trajet en VTC."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Contreforts ou bord des prairies (optionnel)",
+          "note": "Une courte excursion révèle la transition entre les prairies et les premiers reliefs des Rocheuses."
+        }
+      ],
+      "practical": [
+        "Le vent influence davantage les déplacements que les distances.",
+        "Superposez les vêtements toute l’année.",
+        "Les soirées sont calmes.",
+        "Déplacez-vous sans précipitation.",
+        "Partez tôt vers Banff ou Lake Louise.",
+        "Revenir vers la rivière aide à retrouver ses repères."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bœuf de l’Alberta",
+        "Steakhouse typique de Calgary",
+        "Bières artisanales locales",
+        "Brunchs généreux",
+        "Cuisine réconfortante inspirée des Prairies"
+      ],
+      "areas": [
+        {
+          "name": "Centre-ville / Bow River",
+          "note": "Restaurants accessibles à pied le long de la rivière."
+        },
+        {
+          "name": "East Village",
+          "note": "Quartier rénové avec restaurants modernes et cafés."
+        },
+        {
+          "name": "17th Avenue SW",
+          "note": "Artère animée mêlant adresses décontractées et gastronomiques."
+        }
+      ],
+      "places": [
+        {
+          "name": "River Café",
+          "area": "Centre-ville / Bow River",
+          "reason": "Restaurant gastronomique emblématique installé sur Prince’s Island Park, mettant à l’honneur les produits canadiens et régionaux.",
+          "imageUrl": "/src/assets/itineraries/canada/calgary-food/river-cafe.jpg",
+          "lat": 51.0558,
+          "lng": -114.0719
+        },
+        {
+          "name": "Caesar’s Steak House & Lounge",
+          "area": "Centre-ville / Bow River",
+          "reason": "Steakhouse classique réputé pour son bœuf de l’Alberta.",
+          "imageUrl": "/src/assets/itineraries/canada/calgary-food/caesars-steak-house.jpg",
+          "lat": 51.0456,
+          "lng": -114.0699
+        },
+        {
+          "name": "Charbar",
+          "area": "East Village",
+          "reason": "Restaurant moderne apprécié pour sa cuisine au feu de bois et sa vue sur la Bow River.",
+          "imageUrl": "/src/assets/itineraries/canada/calgary-food/charbar.jpg",
+          "lat": 51.0478,
+          "lng": -114.0472
+        },
+        {
+          "name": "Ten Foot Henry",
+          "area": "17th Avenue SW",
+          "reason": "Restaurant de quartier réputé pour sa cuisine centrée sur les légumes dans une ambiance détendue.",
+          "imageUrl": "/src/assets/itineraries/canada/calgary-food/ten-foot-henry.jpg",
+          "lat": 51.0379,
+          "lng": -114.0705
+        },
+        {
+          "name": "OEB Breakfast Co.",
+          "area": "Centre-ville / Bow River",
+          "reason": "Adresse locale populaire pour le petit-déjeuner, idéale avant une promenade le long de la rivière.",
+          "imageUrl": "/src/assets/itineraries/canada/calgary-food/oeb-breakfast-co.jpg",
+          "lat": 51.0471,
+          "lng": -114.0627
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2-days-lake-louise-clarity-at-altitude",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Lake Louise",
+    "title": "Lake Louise en 2 jours : la clarté en altitude",
+    "days": 2,
+    "priceFrom": 280,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/2-days-lake-louise-clarity-at-altitude.jpg",
+    "summary": "Cet itinéraire de 2 jours à Lake Louise explore l’un des paysages alpins les plus emblématiques du Canada à travers le silence, l’altitude et la retenue. Conçu pour équilibrer les matins paisibles, les promenades au bord du lac et les points de vue environnants, il présente Lake Louise non comme une simple photo, mais comme un environnement qui évolue avec la lumière et le temps. Ici, la clarté naît de l’altitude et le silence accomplit l’essentiel.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les eaux turquoise du lac Louise",
+      "La lumière et les reflets du petit matin",
+      "Les sentiers au bord du lac et les points de vue en hauteur",
+      "Le lac Moraine et la vallée des Dix Pics",
+      "Les couleurs glaciaires et l’immensité des montagnes",
+      "Un paysage façonné par la clarté et le calme"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, rive du lac et premier silence",
+        "summary": "Découvrir le lac sans se presser.",
+        "details": "Arrivez si possible tôt à Lake Louise, lorsque l’eau est immobile et que sa couleur semble presque irréelle. Marchez lentement le long de la rive, en laissant les reflets, la température et le silence donner le rythme.\n\nEn fin de matinée, poursuivez sur un sentier facile ou reposez-vous sur un banc en observant la lumière évoluer sur les sommets. Le lac récompense davantage la patience que le mouvement.\n\nL’après-midi, accordez-vous un vrai temps de repos. L’altitude et l’exposition fatiguent plus qu’on ne le croit.\n\nTerminez la journée dans le calme, lorsque les visiteurs quittent progressivement les lieux."
+      },
+      {
+        "day": 2,
+        "title": "Hauteur, perspective et départ",
+        "summary": "Voir la clarté d’en haut.",
+        "details": "Commencez la matinée par une courte montée vers un belvédère ou un sentier voisin, où la géométrie du lac prend tout son sens dans le vaste bassin alpin. Si les conditions le permettent, poursuivez ensuite vers le lac Moraine avant de revenir déjeuner près de Lake Louise. Repartez avec une perception plus nette des proportions : Lake Louise laisse une impression pure, sans excès."
+      }
+    ],
+    "planning": {
+      "city": "Lake Louise, Alberta, Canada",
+      "bestTime": {
+        "months": "Juin–sept.",
+        "note": "Les sentiers ouverts, les rives accessibles et les longues journées permettent de profiter des matinées calmes avant l’arrivée de la foule."
+      },
+      "worstTime": {
+        "months": "Nov.–avr.",
+        "note": "L’hiver apporte un froid intense et un accès limité, sauf pour les sports de neige."
+      },
+      "tips": [
+        "Préservez vos matinées : arrivez très tôt au bord du lac.",
+        "Un seul objectif par demi-journée suffit.",
+        "Acceptez les effets de l’altitude : hydratez-vous et avancez lentement.",
+        "Réservez les navettes à l’avance.",
+        "La météo change rapidement : prévoyez plusieurs couches.",
+        "S’asseoir face au lac fait partie de l’expérience."
+      ],
+      "withKids": [
+        "Les sentiers plats sont adaptés aux familles.",
+        "Limitez les montées raides.",
+        "Prévoyez des vêtements chauds et une protection solaire.",
+        "Partir tôt réduit la fatigue et la foule."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "La plupart des visiteurs arrivent via , principale porte d’entrée vers les Rocheuses canadiennes."
+        },
+        {
+          "title": "Calgary → Lake Louise",
+          "note": "Le trajet par la Transcanadienne dure environ deux heures. Une voiture de location ou une navette constitue la solution la plus pratique."
+        }
+      ],
+      "gettingAround": [
+        "Le village et les rives se découvrent à pied.",
+        "Les navettes saisonnières de Parcs Canada sont le principal moyen d’accéder au lac Louise et au lac Moraine.",
+        "L’accès en voiture est fortement réglementé.",
+        "Le vélo est possible mais peu pratique pendant les périodes de forte affluence.",
+        "Les taxis et VTC sont peu nombreux."
+      ],
+      "dayMoves": [
+        {
+          "title": "Village → Rives du lac Louise",
+          "note": "Une navette matinale ou une arrivée avant l’aube favorise le calme et les reflets."
+        },
+        {
+          "title": "Boucles du rivage et courtes montées",
+          "note": "Les sentiers faciles renforcent la sensation de clarté sans effort excessif."
+        },
+        {
+          "title": "Lake Louise ↔ Lac Moraine",
+          "note": "Les navettes de Parcs Canada permettent un accès maîtrisé à la vallée des Dix Pics."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "",
+          "note": "Accessible uniquement en navette ou lors d’une excursion organisée, le lac Moraine offre une perspective plus resserrée et verticale qui complète le vaste bassin de Lake Louise."
+        }
+      ],
+      "practical": [
+        "Réservez les navettes longtemps à l’avance.",
+        "Partir tôt est plus important qu’aller vite.",
+        "L’altitude augmente discrètement la fatigue.",
+        "La météo change rapidement.",
+        "Les soirées retrouvent naturellement leur calme.",
+        "Lake Louise récompense la précision dans le choix des horaires."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Plats réconfortants alpins canadiens",
+        "Cuisine gastronomique inspirée des Rocheuses",
+        "Pâtisseries et sandwichs frais",
+        "Petits-déjeuners copieux",
+        "Chocolat chaud ou café après une promenade au bord du lac"
+      ],
+      "areas": [
+        {
+          "name": "Rives du lac Louise",
+          "note": "Quelques restaurants avec une atmosphère exceptionnelle au bord de l’eau."
+        },
+        {
+          "name": "Village de Lake Louise",
+          "note": "Petit ensemble de cafés et restaurants pratiques pour le petit-déjeuner ou le dîner."
+        }
+      ],
+      "places": [
+        {
+          "name": "Fairview Bar & Restaurant",
+          "area": "Rives du lac Louise",
+          "reason": "Salle à manger classique avec vue sur le lac Louise, proposant une cuisine canadienne réconfortante.",
+          "imageUrl": "/src/assets/itineraries/canada/lake-louise-food/fairview-bar-and-restaurant.jpg",
+          "lat": 51.4168,
+          "lng": -116.2174
+        },
+        {
+          "name": "Lakeview Lounge",
+          "area": "Rives du lac Louise",
+          "reason": "Salon détendu offrant une vue panoramique sur le lac, idéal pour un verre ou un repas léger.",
+          "imageUrl": "/src/assets/itineraries/canada/lake-louise-food/lakeview-lounge.jpg",
+          "lat": 51.4167,
+          "lng": -116.2176
+        },
+        {
+          "name": "Bill Peyto’s Café",
+          "area": "Village de Lake Louise",
+          "reason": "Café apprécié pour ses petits-déjeuners rapides, son café et ses sandwichs.",
+          "imageUrl": "/src/assets/itineraries/canada/lake-louise-food/bill-peytos-cafe.jpg",
+          "lat": 51.4254,
+          "lng": -116.1776
+        },
+        {
+          "name": "Laggan’s Bakery",
+          "area": "Village de Lake Louise",
+          "reason": "Boulangerie réputée pour ses viennoiseries, ses tartes et ses encas à emporter.",
+          "imageUrl": "/src/assets/itineraries/canada/lake-louise-food/laggans-bakery.jpg",
+          "lat": 51.4257,
+          "lng": -116.1781
+        },
+        {
+          "name": "The Station Restaurant",
+          "area": "Village de Lake Louise",
+          "reason": "Restaurant historique servant des repas copieux dans une ambiance simple.",
+          "imageUrl": "/src/assets/itineraries/canada/lake-louise-food/the-station-restaurant.jpg",
+          "lat": 51.4259,
+          "lng": -116.1784
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-montreal-between-language-and-desire",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Montréal",
+    "title": "Montréal en 4 jours : entre la langue et le désir",
+    "days": 4,
+    "priceFrom": 245,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/4-days-montreal-between-language-and-desire.jpg",
+    "summary": "Cet itinéraire de 4 jours à Montréal explore une ville façonnée par la dualité : français et anglais, retenue et plaisir, discipline hivernale et ouverture estivale. Conçu pour équilibrer rues historiques, vie de quartier et points de vue en hauteur, il présente Montréal comme une ville qui se révèle par la conversation, la gastronomie et la répétition.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les rues pavées du Vieux-Montréal",
+      "Les vues depuis le mont Royal",
+      "Les cafés du Plateau",
+      "Les marchés, boulangeries et dîners tardifs",
+      "Les terrasses et la convivialité",
+      "Une ville façonnée par la langue et la gourmandise"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, vieilles pierres et première conversation",
+        "summary": "Écouter la ville parler.",
+        "details": "Arrivez dans le Vieux-Montréal et découvrez ses façades de pierre, ses rues étroites et les berges du fleuve. Écoutez les passages naturels entre le français, l’anglais et toutes les nuances qui les relient. Installez-vous ensuite en terrasse près du Vieux-Port avant un dîner qui se prolonge naturellement dans la soirée."
+      },
+      {
+        "day": 2,
+        "title": "Hauteur, nature et perspective",
+        "summary": "Comprendre la ville d’en haut.",
+        "details": "Montez au mont Royal à pied ou en transport, traversez les sentiers boisés puis profitez du panorama. Passez du temps à observer plutôt qu’à photographier avant de redescendre dans les quartiers voisins pour déjeuner et vous promener."
+      },
+      {
+        "day": 3,
+        "title": "Quartiers, gourmandise et quotidien",
+        "summary": "Vivre la ville plutôt que la visiter.",
+        "details": "Explorez le Plateau et ses rues résidentielles bordées d’escaliers, d’arbres et de petites boutiques. Faites souvent une pause pour un café, du pain ou une conversation. Le soir, choisissez un restaurant qui reflète la confiance de Montréal dans les plaisirs de la table."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, air du fleuve et départ",
+        "summary": "Partir sans choisir un camp.",
+        "details": "Revenez dans votre rue, marché ou café préféré. Promenez-vous une dernière fois près du fleuve avant un dernier déjeuner. Montréal laisse une impression chaleureuse et vivante."
+      }
+    ],
+    "planning": {
+      "city": "Montréal, Canada",
+      "bestTime": {
+        "months": "Mai–juin, sept.–oct.",
+        "note": "Les températures agréables et les longues soirées sont idéales pour les promenades, les marchés et les terrasses."
+      },
+      "worstTime": {
+        "months": "Janv.–févr., juil.–août",
+        "note": "Le froid hivernal ou les festivals estivaux peuvent compliquer les déplacements."
+      },
+      "tips": [
+        "Écoutez avant de parler : le français domine mais le bilinguisme est naturel.",
+        "Découvrez la ville quartier par quartier.",
+        "Laissez la gastronomie vous guider.",
+        "Une seule montée au mont Royal suffit.",
+        "Privilégiez la marche puis le métro.",
+        "Les soirées appartiennent aux terrasses et aux longues conversations."
+      ],
+      "withKids": [
+        "Les parcs offrent des pauses agréables.",
+        "Les marchés sont parfaits pour des repas flexibles.",
+        "Le métro limite la fatigue.",
+        "Les festivals d’été sont appréciés des familles."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": " est compact et fonctionnel, permettant de rejoindre rapidement la ville."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "Les bus et taxis relient directement les quartiers centraux."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir les quartiers.",
+        "Le métro est rapide et facile à utiliser.",
+        "Le vélo fonctionne très bien pendant les beaux jours.",
+        "Les bus complètent le réseau.",
+        "Les taxis et VTC sont pratiques après les longs dîners."
+      ],
+      "dayMoves": [
+        {
+          "title": "Vieux-Montréal ↔ Vieux-Port",
+          "note": "Les rues plates relient facilement le cœur historique aux berges."
+        },
+        {
+          "title": "",
+          "note": "Accessible à pied ou en transport, cette montée offre une perspective unique."
+        },
+        {
+          "title": "Boucles dans le Plateau",
+          "note": "À parcourir entièrement à pied pour découvrir cafés, escaliers et rythme résidentiel."
+        },
+        {
+          "title": "Retour vers le fleuve",
+          "note": "Revenir plusieurs fois au bord de l’eau permet de mieux comprendre la ville."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Canal de Lachine",
+          "note": "Une agréable promenade à pied ou à vélo reliant le centre historique aux anciens quartiers industriels."
+        }
+      ],
+      "practical": [
+        "La signalisation du métro est bilingue mais principalement en français.",
+        "Les distances restent raisonnables mais s’additionnent.",
+        "L’hiver ralentit naturellement le rythme.",
+        "Les festivals peuvent modifier certains itinéraires.",
+        "Les terrasses rendent les soirées très animées.",
+        "Montréal se découvre mieux en restant longtemps dans chaque quartier."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Bagel montréalais",
+        "Poutine",
+        "Sandwich au smoked meat",
+        "Croissants et pâtisseries françaises",
+        "Brunch québécois",
+        "Barre Nanaimo"
+      ],
+      "areas": [
+        {
+          "name": "Vieux-Montréal / Vieux-Port",
+          "note": "Cadre historique idéal pour les bistrots et les terrasses."
+        },
+        {
+          "name": "Plateau Mont-Royal",
+          "note": "Quartier de cafés, boulangeries et restaurants du quotidien."
+        },
+        {
+          "name": "Mile End",
+          "note": "Haut lieu des bagels, des boulangeries et des adresses indépendantes."
+        }
+      ],
+      "places": [
+        {
+          "name": "Schwartz’s Deli",
+          "area": "Plateau Mont-Royal",
+          "reason": "L'institution la plus célèbre de Montréal pour les sandwiches au smoked meat.",
+          "imageUrl": "/src/assets/itineraries/canada/montreal-food/schwartzs-deli.jpg",
+          "lat": 45.5167,
+          "lng": -73.5791
+        },
+        {
+          "name": "St-Viateur Bagel",
+          "area": "Mile End",
+          "reason": "Boulangerie emblématique de bagels cuits au feu de bois.",
+          "imageUrl": "/src/assets/itineraries/canada/montreal-food/st-viateur-bagel.jpg",
+          "lat": 45.5236,
+          "lng": -73.5981
+        },
+        {
+          "name": "Fairmount Bagel",
+          "area": "Mile End",
+          "reason": "Le rival historique de St‑Viateur, apprécié pour ses bagels légèrement plus sucrés.",
+          "imageUrl": "/src/assets/itineraries/canada/montreal-food/fairmount-bagel.jpg",
+          "lat": 45.5231,
+          "lng": -73.6015
+        },
+        {
+          "name": "La Banquise",
+          "area": "Plateau Mont-Royal",
+          "reason": "L'une des adresses les plus connues pour la poutine.",
+          "imageUrl": "/src/assets/itineraries/canada/montreal-food/la-banquise.jpg",
+          "lat": 45.5254,
+          "lng": -73.5749
+        },
+        {
+          "name": "Toqué!",
+          "area": "Vieux-Montréal / Vieux-Port",
+          "reason": "Restaurant gastronomique emblématique mettant en valeur la cuisine québécoise moderne.",
+          "imageUrl": "/src/assets/itineraries/canada/montreal-food/toque.jpg",
+          "lat": 45.5036,
+          "lng": -73.5587
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-ottawa-civic-calm-and-quiet-edges",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Ottawa",
+    "title": "Ottawa en 3 jours : sérénité civique et horizons paisibles",
+    "days": 3,
+    "priceFrom": 240,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/3-days-ottawa-civic-calm-and-quiet-edges.jpg",
+    "summary": "Cet itinéraire de 3 jours à Ottawa explore la capitale du Canada comme une ville façonnée par la fonction, l’équilibre et la retenue. Alternant espaces civiques, quartiers résidentiels et échappées naturelles, il présente Ottawa non comme un symbole, mais comme un système vivant où la gouvernance reste à taille humaine et où les marges tranquilles comptent autant que le centre.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La Colline du Parlement",
+      "Les promenades du canal Rideau",
+      "Le rythme du marché ByWard",
+      "L'évasion naturelle du parc de la Gatineau",
+      "Les cafés de quartier et les soirées paisibles",
+      "Une capitale façonnée par l'équilibre et la raison d'être"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, cœur civique et premières impressions",
+        "summary": "Comprendre la capitale par son échelle.",
+        "details": "Arrivez à Ottawa et commencez près de la Colline du Parlement, où l’architecture, les pelouses et la rivière instaurent un sentiment d’ordre sans excès. Promenez-vous tranquillement avant de suivre les sentiers riverains. Ottawa se révèle davantage par ses espaces que par le spectacle. Terminez la journée par un dîner dans un quartier voisin."
+      },
+      {
+        "day": 2,
+        "title": "Marchés, eau et quotidien",
+        "summary": "Voir la ville en action.",
+        "details": "Passez la matinée au marché ByWard, où les étals, les cafés et le commerce quotidien donnent de la texture à la ville. L’après-midi, longez le canal Rideau en observant joggeurs, cyclistes et changements de saison. Revenez le soir dans un café ou un restaurant déjà découvert pour apprécier la force de la répétition."
+      },
+      {
+        "day": 3,
+        "title": "Nature, retour et départ",
+        "summary": "Quitter la ville en douceur.",
+        "details": "Passez la matinée au parc de la Gatineau ou dans un autre espace vert voisin avant un dernier déjeuner à Ottawa. Retrouvez une rue ou un tronçon du canal que vous avez apprécié. Ottawa laisse une impression discrète mais durable."
+      }
+    ],
+    "planning": {
+      "city": "Ottawa, Canada",
+      "bestTime": {
+        "months": "Mai–juin, sept.–oct.",
+        "note": "Les températures douces sont idéales pour les promenades le long du canal et les vues sur le Parlement."
+      },
+      "worstTime": {
+        "months": "Janv.–févr., juil.–août",
+        "note": "Le froid hivernal ou les festivals estivaux peuvent rendre le centre plus chargé."
+      },
+      "tips": [
+        "Associez un site civique à un moment de calme.",
+        "Marchez chaque jour le long du canal Rideau.",
+        "Visitez la Colline du Parlement tôt le matin ou au crépuscule.",
+        "Un musée par jour suffit.",
+        "Traversez les ponts vers Gatineau pour changer de perspective.",
+        "Les soirées sont calmes : dînez relativement tôt."
+      ],
+      "withKids": [
+        "Les berges offrent beaucoup d'espace.",
+        "Les musées interactifs plaisent aux familles.",
+        "Les distances sont courtes.",
+        "Prévoyez des vêtements chauds en hiver."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": " est compact et efficace, offrant une arrivée simple et proche du centre."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "Les taxis, VTC et bus rejoignent rapidement le centre-ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est le meilleur moyen de découvrir le cœur civique.",
+        "Les chemins du canal Rideau servent à la fois d’itinéraire et de promenade.",
+        "L’O-Train et les bus relient facilement les quartiers plus éloignés.",
+        "Le vélo est agréable le long du canal et de la rivière.",
+        "Les taxis facilitent l’accès aux espaces naturels."
+      ],
+      "dayMoves": [
+        {
+          "title": "Colline du Parlement ↔ Berges",
+          "note": "De courtes promenades relient les espaces officiels aux rives ouvertes."
+        },
+        {
+          "title": "Boucles du marché ByWard",
+          "note": "Des itinéraires compacts révèlent le rythme quotidien d’Ottawa."
+        },
+        {
+          "title": "Le long du canal Rideau",
+          "note": "Suivre le canal structure naturellement chaque journée."
+        },
+        {
+          "title": "Centre-ville → Nature",
+          "note": "Quelques minutes suffisent pour passer de la ville au paysage."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "",
+          "note": "Un court trajet en voiture ou en bus mène à la forêt et aux points de vue sans rompre le lien avec la capitale."
+        }
+      ],
+      "practical": [
+        "La marche est idéale dans le centre.",
+        "Le vent est fréquent le long du canal.",
+        "En hiver, privilégiez chaleur et adhérence.",
+        "Les festivals attirent du monde mais les déplacements restent simples.",
+        "Les ponts marquent un changement d’ambiance.",
+        "Les transports doivent accompagner le rythme paisible de la ville."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Queue de castor (BeaverTail)",
+        "Shawarma à la mode d’Ottawa",
+        "Poutine",
+        "Viennoiseries et petits-déjeuners en café",
+        "Plats réconfortants canadiens de saison"
+      ],
+      "areas": [
+        {
+          "name": "Marché ByWard",
+          "note": "Le principal quartier gourmand d’Ottawa."
+        },
+        {
+          "name": "Centretown / Centre-ville",
+          "note": "Cafés et restaurants près du Parlement et du canal."
+        },
+        {
+          "name": "Hintonburg",
+          "note": "Restaurants de quartier dans une ambiance plus locale."
+        }
+      ],
+      "places": [
+        {
+          "name": "BeaverTails (ByWard Market)",
+          "area": "Marché ByWard",
+          "reason": "La gourmandise emblématique d’Ottawa, à déguster chaude en flânant dans le marché.",
+          "imageUrl": "/src/assets/itineraries/canada/ottawa-food/beavertails-byward-market.jpg",
+          "lat": 45.4296,
+          "lng": -75.69
+        },
+        {
+          "name": "Play Food & Wine",
+          "area": "Marché ByWard",
+          "reason": "Restaurant canadien contemporain réputé pour ses petites assiettes raffinées.",
+          "imageUrl": "/src/assets/itineraries/canada/ottawa-food/play-food-and-wine.jpg",
+          "lat": 45.4276,
+          "lng": -75.6922
+        },
+        {
+          "name": "Elgin Street Diner",
+          "area": "Centretown / Centre-ville",
+          "reason": "Diner classique d’Ottawa servant une cuisine réconfortante à toute heure.",
+          "imageUrl": "/src/assets/itineraries/canada/ottawa-food/elgin-street-diner.jpg",
+          "lat": 45.4199,
+          "lng": -75.6929
+        },
+        {
+          "name": "Supply and Demand",
+          "area": "Hintonburg",
+          "reason": "Excellent restaurant de quartier réputé pour ses pâtes fraîches et ses fruits de mer.",
+          "imageUrl": "/src/assets/itineraries/canada/ottawa-food/supply-and-demand.jpg",
+          "lat": 45.4029,
+          "lng": -75.727
+        },
+        {
+          "name": "Drip House",
+          "area": "Centretown / Centre-ville",
+          "reason": "Café apprécié pour son excellent café et ses petits-déjeuners légers.",
+          "imageUrl": "/src/assets/itineraries/canada/ottawa-food/drip-house.jpg",
+          "lat": 45.4175,
+          "lng": -75.695
+        }
+      ]
+    }
+  },
+  {
+    "slug": "3-days-quebec-city-enclosure-memory-and-continuity",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Québec City",
+    "title": "Québec en 3 jours : enceinte, mémoire et continuité",
+    "days": 3,
+    "priceFrom": 245,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/3-days-quebec-city-enclosure-memory-and-continuity.jpg",
+    "summary": "Cet itinéraire de 3 jours à Québec explore la plus ancienne ville du Canada comme un lieu d’enceinte et de continuité. Construite à l’intérieur de ses murs et façonnée par le fleuve, l’hiver et la langue, Québec se révèle davantage par la répétition que par la découverte. Conçu pour équilibrer les promenades dans la Haute-Ville et la Basse-Ville, la quiétude des rives et les repas sans hâte, l’itinéraire considère la ville non comme une relique, mais comme un système vivant qui n’a jamais eu besoin de se réinventer.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Les rues de la Haute-Ville et les remparts fortifiés",
+      "La texture du Petit-Champlain dans la Basse-Ville",
+      "Le Château Frontenac et sa présence civique",
+      "Le fleuve Saint-Laurent et ses vastes horizons",
+      "Les cafés, les bistrots et le rythme quotidien francophone",
+      "Une ville façonnée par l’enceinte et la mémoire"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, Haute-Ville et première sensation d’enceinte",
+        "summary": "Apprendre la ville par le resserrement.",
+        "details": "Arrivez à Québec et commencez par la Haute-Ville, où les rues de pierre, les remparts fortifiés et les bâtiments étroitement regroupés réduisent immédiatement l’échelle. Marchez délibérément le long de la rue Saint-Jean et dans les rues environnantes, en laissant l’enceinte vous donner vos premiers repères.\n\nDans l’après-midi, suivez les remparts et la terrasse Dufferin, où le fleuve Saint-Laurent s’ouvre soudainement sous la ville. Le contraste entre les rues resserrées et l’immensité de l’eau définit l’équilibre de Québec.\n\nTerminez la journée par un dîner dans la Haute-Ville, en gardant une soirée lente et propice à la conversation."
+      },
+      {
+        "day": 2,
+        "title": "Descente, textures et vie quotidienne",
+        "summary": "Comprendre la continuité par le mouvement.",
+        "details": "Commencez la journée en descendant vers la Basse-Ville, en empruntant les escaliers étroits qui mènent au Petit-Champlain. Ici, les couleurs, les boutiques d’artisans et les petits cafés créent une atmosphère intime plutôt qu’un spectacle.\n\nPrenez le temps de repasser dans les mêmes rues et remarquez à quelle vitesse elles deviennent familières. Québec récompense davantage le retour que l’élargissement du parcours.\n\nDans l’après-midi, marchez le long du fleuve ou faites une pause dans un café, en laissant l’eau et le vent suspendre le temps.\n\nTerminez la journée par un long repas, en laissant la langue et les rituels porter la soirée."
+      },
+      {
+        "day": 3,
+        "title": "Répétition, air du fleuve et adieu",
+        "summary": "Partir sans desserrer l’étreinte.",
+        "details": "Consacrez la dernière matinée à retrouver vos rues préférées dans la Haute-Ville ou la Basse-Ville, en choisissant la familiarité plutôt que la nouveauté.\n\nMarchez une dernière fois sur les chemins tournés vers le fleuve et regardez les navires avancer lentement à contre-courant.\n\nProfitez d’un dernier déjeuner avant le départ. Québec laisse son impression intacte : un lieu qui ne s’est jamais étendu vers l’extérieur parce qu’il n’en a jamais eu besoin."
+      }
+    ],
+    "planning": {
+      "city": "Quebec City, Canada",
+      "bestTime": {
+        "months": "Mai–juin (fin du printemps), sept.–oct. (début de l’automne)",
+        "note": "Les températures douces et la lumière délicate rendent les promenades dans la vieille ville fortifiée, les escaliers et les terrasses donnant sur le fleuve à la fois confortables et pleines d’atmosphère."
+      },
+      "worstTime": {
+        "months": "Janv.–févr. (très froid), juil.–août (fréquenté et chaud)",
+        "note": "Le froid intense de l’hiver limite les longues promenades en extérieur, tandis que les foules du cœur de l’été resserrent encore davantage la vieille ville compacte."
+      },
+      "tips": [
+        "Pensez en termes d’enceintes : la Haute-Ville, la Basse-Ville et les rives du fleuve méritent chacune des plages de temps distinctes et sans précipitation.",
+        "Acceptez les mouvements verticaux : les escaliers et les changements d’altitude font partie du récit — prévoyez moins de transitions chaque jour.",
+        "Marchez le long des remparts : ici, les fortifications ne sont pas des frontières, mais des promenades qui expliquent la continuité de la ville.",
+        "Les matinées tôt et les soirées ramènent le calme — les foules de la journée diminuent dès que la lumière change.",
+        "Laissez les repas ralentir le temps : les cafés et les bistrots correspondent mieux au rythme contemplatif de la ville qu’une course d’un site à l’autre.",
+        "Habillez-vous pour la pierre et le vent — les couches restent importantes même pendant les mois les plus doux au bord du fleuve."
+      ],
+      "withKids": [
+        "Les murs, les portes et les escaliers donnent l’impression d’un livre d’histoires grandeur nature.",
+        "Limitez les boucles riches en escaliers à une par jour afin de réduire la fatigue.",
+        "Les parcs et les terrasses offrent de l’espace pour faire une pause entre les rues.",
+        "Les visites hivernales nécessitent des vêtements très chauds et des périodes plus courtes en extérieur."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": " est petit et efficace, permettant de rejoindre directement la ville sans longues contraintes de transfert."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "Les taxis ou les liaisons en bus rejoignent le cœur historique de manière fiable ; le trajet est suffisamment court pour que l’arrivée ne semble jamais déconnectée de la ville."
+        }
+      ],
+      "gettingAround": [
+        "La marche est essentielle — Québec se révèle par la répétition et l’enceinte plutôt que par la distance.",
+        "La Haute-Ville et la Basse-Ville se découvrent mieux comme deux zones de promenade distinctes que dans une boucle continue.",
+        "Les bus publics sont pratiques pour relier le cœur historique aux quartiers extérieurs, mais moins utiles à l’intérieur même de la vieille ville.",
+        "Les taxis permettent de mieux gérer la fatigue liée au dénivelé, notamment après des journées riches en escaliers.",
+        "Les conditions hivernales ralentissent les déplacements — l’adhérence et le rythme comptent davantage que le choix de l’itinéraire."
+      ],
+      "dayMoves": [
+        {
+          "title": "Fortifications de la Haute-Ville",
+          "note": "Les remparts et les rues encloses se parcourent délibérément, renforçant les sensations d’échelle, de mémoire et de confinement."
+        },
+        {
+          "title": "Haute-Ville ↔ Basse-Ville",
+          "note": "Les escaliers et les rues en pente imposent un effort volontaire ; la descente révèle les textures, tandis que la montée rétablit la sensation d’enceinte."
+        },
+        {
+          "title": "",
+          "note": "Une liaison facultative entre la Haute-Ville et la Basse-Ville qui permet de préserver son énergie sans rompre la continuité du récit."
+        },
+        {
+          "title": "Rives du fleuve Saint-Laurent",
+          "note": "Les chemins plats et exposés au vent le long du fleuve contrastent fortement avec le réseau resserré des rues situées plus haut."
+        }
+      ],
+      "dayTrips": [
+        {
+          "title": "Île d’Orléans",
+          "note": "Un court trajet en voiture ou en bus permet de découvrir un rythme rural et une autre perspective sur le fleuve sans rompre le cadre historique de la ville."
+        }
+      ],
+      "practical": [
+        "Les distances sont courtes, mais le dénivelé est constant — prévoyez moins de transitions plutôt qu’une couverture plus large.",
+        "Les pavés et les escaliers exigent de bonnes chaussures toute l’année.",
+        "Les matinées tôt et les soirées réduisent la congestion piétonne à l’intérieur des murs.",
+        "L’hiver redéfinit les priorités de déplacement : la chaleur et l’adhérence comptent davantage que la vitesse.",
+        "Les repas structurent naturellement les déplacements ; les transports doivent servir le rythme des repas, et non l’interrompre.",
+        "Québec récompense ceux qui restent à l’intérieur de son enceinte — multiplier les trajets en transport affaiblit sa continuité."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Poutine à la québécoise, avec du fromage en grains frais",
+        "Tourtière québécoise",
+        "Grands classiques des bistrots français, comme le confit de canard et le steak-frites",
+        "Desserts au sirop d’érable",
+        "Croissants et viennoiseries",
+        "Fromages du Québec"
+      ],
+      "areas": [
+        {
+          "name": "Haute-Ville (Vieux-Québec)",
+          "note": "Bistrots classiques et cafés à l’intérieur de la ville fortifiée — un cadre idéal pour des dîners sans hâte et des déjeuners contemplatifs après avoir parcouru les remparts."
+        },
+        {
+          "name": "Basse-Ville (Petit-Champlain)",
+          "note": "Des rues resserrées bordées de petits restaurants et de boulangeries — parfaites pour des repas intimes entre deux montées d’escaliers et des pauses au bord du fleuve."
+        },
+        {
+          "name": "Saint-Roch",
+          "note": "Une offre plus contemporaine et des adresses appréciées des habitants juste à l’extérieur des murs — pratique pour varier les expériences sans quitter le rythme de la ville."
+        }
+      ],
+      "places": [
+        {
+          "name": "Aux Anciens Canadiens",
+          "area": "Haute-Ville (Vieux-Québec)",
+          "reason": "Restaurant québécois historique installé dans l’un des plus anciens bâtiments de la ville, servant des plats régionaux classiques dans un cadre profondément évocateur.",
+          "imageUrl": "/src/assets/itineraries/canada/quebec-city-food/aux-anciens-canadiens.jpg",
+          "lat": 46.8136,
+          "lng": -71.2086
+        },
+        {
+          "name": "Le Chic Shack",
+          "area": "Haute-Ville (Vieux-Québec)",
+          "reason": "Adresse décontractée bien connue près du Château Frontenac, spécialisée dans une cuisine réconfortante revisitée et proposant notamment l’une des poutines les plus populaires de la ville.",
+          "imageUrl": "/src/assets/itineraries/canada/quebec-city-food/le-chic-shack.jpg",
+          "lat": 46.8116,
+          "lng": -71.2075
+        },
+        {
+          "name": "Restaurant Initiale",
+          "area": "Saint-Roch",
+          "reason": "Une cuisine québécoise contemporaine et raffinée qui met à l’honneur les ingrédients locaux — un contraste marqué avec les traditions de la vieille ville tout en restant profondément ancré dans son territoire.",
+          "imageUrl": "/src/assets/itineraries/canada/quebec-city-food/restaurant-initiale.jpg",
+          "lat": 46.8203,
+          "lng": -71.227
+        },
+        {
+          "name": "La Buche",
+          "area": "Basse-Ville (Petit-Champlain)",
+          "reason": "Restaurant québécois traditionnel et animé, centré sur des classiques généreux et des saveurs où l’érable occupe une place importante — idéal après une exploration riche en escaliers.",
+          "imageUrl": "/src/assets/itineraries/canada/quebec-city-food/la-buche.jpg",
+          "lat": 46.8147,
+          "lng": -71.2059
+        },
+        {
+          "name": "Paillard",
+          "area": "Haute-Ville (Vieux-Québec)",
+          "reason": "Boulangerie-café populaire pour ses croissants, ses pâtisseries et ses repas légers — particulièrement adaptée au petit-déjeuner ou à une pause tranquille en milieu de matinée.",
+          "imageUrl": "/src/assets/itineraries/canada/quebec-city-food/paillard.jpg",
+          "lat": 46.8143,
+          "lng": -71.2079
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-toronto-many-voices-one-ground",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Toronto",
+    "title": "Toronto en 4 jours : de nombreuses voix, un même territoire",
+    "days": 4,
+    "priceFrom": 255,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/4-days-toronto-many-voices-one-ground.jpg",
+    "summary": "Cet itinéraire de 4 jours à Toronto explore la plus grande ville du Canada comme un lieu de dialogue entre cultures, langues, quartiers et ambitions. Conçu pour équilibrer l’ouverture du front de lac, la personnalité de chaque quartier et le rythme quotidien de la ville, il présente Toronto comme une destination qui se comprend par les contrastes et la répétition. Toronto ne demande pas à être résumée ; elle demande à être parcourue à pied.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "Promenades sur le Harbourfront et équilibre de la skyline",
+      "Kensington Market et sa vie de rue multicouche",
+      "Le patrimoine de briques du Distillery District",
+      "Les îles de Toronto et une nouvelle perspective sur la ville",
+      "Les cultures culinaires des quartiers",
+      "Une ville façonnée par la coexistence et l’échelle"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, front de lac et premiers repères",
+        "summary": "Découvrir la ville sans conclusions hâtives.",
+        "details": "Arrivez à Toronto et commencez le long du Harbourfront, où le lac, la skyline et les espaces piétons s’alignent harmonieusement. Marchez sans vous presser et laissez la ville se révéler progressivement. Dans l’après-midi, poursuivez vers le centre-ville en observant la densité qui augmente peu à peu. Faites souvent une pause : Toronto se révèle par accumulation plus que par des instants spectaculaires. Terminez la journée par un dîner près de l’eau ou dans un quartier voisin."
+      },
+      {
+        "day": 2,
+        "title": "Texture des quartiers et rencontre des cultures",
+        "summary": "Comprendre Toronto par ses rues.",
+        "details": "Commencez à Kensington Market, entre échoppes, fresques et identités multiples. L’après-midi, explorez les quartiers voisins et observez comme l’atmosphère change d’un pâté de maisons à l’autre. Le soir, choisissez un restaurant reflétant la diversité culinaire de la ville."
+      },
+      {
+        "day": 3,
+        "title": "Patrimoine, réinvention et ambition discrète",
+        "summary": "Voir la continuité derrière le changement.",
+        "details": "Passez la matinée dans le Distillery District, où le patrimoine industriel a été soigneusement réinventé. L’après-midi, retournez vers le centre ou découvrez un autre quartier à un rythme tranquille. Terminez par une promenade dans des rues déjà familières."
+      },
+      {
+        "day": 4,
+        "title": "Distance, eau et départ",
+        "summary": "Voir la ville depuis l’extérieur.",
+        "details": "Prenez le ferry vers les îles de Toronto le matin. Depuis l’eau, la skyline paraît équilibrée plutôt qu’imposante. Promenez-vous ou asseyez-vous tranquillement avant de revenir pour un dernier déjeuner. Toronto laisse une impression qui s’approfondit avec le temps plutôt qu’avec le spectacle."
+      }
+    ],
+    "planning": {
+      "city": "Toronto, Canada",
+      "bestTime": {
+        "months": "Mai–juin, sept.–oct.",
+        "note": "Des températures agréables et de longues journées sont idéales pour explorer les quartiers et le front de lac."
+      },
+      "worstTime": {
+        "months": "Janv.–févr., juil.–août",
+        "note": "Le froid hivernal et l’humidité estivale rendent les longues promenades plus fatigantes."
+      },
+      "tips": [
+        "Pensez par quartiers plutôt que par monuments.",
+        "Profitez chaque jour du front de lac ou des îles.",
+        "Marchez d’abord, utilisez la TTC ensuite.",
+        "Découvrez la ville à travers ses cuisines.",
+        "Un grand point d’intérêt culturel par jour suffit.",
+        "Prévoyez des couches de vêtements, même en été."
+      ],
+      "withKids": [
+        "Le Harbourfront et les îles offrent de grands espaces.",
+        "Les ferries sont une activité appréciée.",
+        "Les marchés permettent des repas flexibles.",
+        "Les tramways sont pratiques avec une poussette."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": "L’aéroport principal est situé à l’extérieur du centre, si bien que la ville se révèle progressivement."
+        },
+        {
+          "title": "Aéroport → Centre-ville",
+          "note": "Le train et les liaisons rapides reflètent le rythme quotidien de Toronto : fonctionnel et régulier."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale pour découvrir les quartiers.",
+        "Les tramways permettent d’observer la vie urbaine.",
+        "Le métro est efficace pour les longues distances.",
+        "Les bus complètent le réseau.",
+        "Le vélo convient au front de lac et aux pistes vertes."
+      ],
+      "dayTrips": [
+        {
+          "title": "",
+          "note": "Une courte traversée en ferry offre une nouvelle perspective sur la skyline."
+        }
+      ],
+      "dayMoves": [
+        {
+          "title": "Le front de lac d’abord",
+          "note": "Commencer par le Harbourfront établit une impression de calme."
+        },
+        {
+          "title": "Transitions entre quartiers",
+          "note": "Les courtes marches entre Kensington, Chinatown et les environs révèlent la diversité culturelle."
+        },
+        {
+          "title": "Le rythme du tramway",
+          "note": "Les lignes de Queen et King Street permettent de découvrir la ville comme les habitants."
+        },
+        {
+          "title": "La répétition",
+          "note": "Revenir dans les mêmes rues le soir fait apparaître une autre atmosphère."
+        }
+      ],
+      "practical": [
+        "Combinez marche et transports.",
+        "Les tramways sont fiables mais plus lents aux heures de pointe.",
+        "Le vent du lac peut rafraîchir les soirées.",
+        "L’hiver demande une bonne préparation.",
+        "Laissez du temps aux détours.",
+        "Toronto se lit horizontalement plutôt que verticalement."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Poutine",
+        "Sandwich au peameal bacon",
+        "Butter tart",
+        "Bagel à la torontoise",
+        "Pizza sushi",
+        "Street food multiculturelle"
+      ],
+      "areas": [
+        {
+          "name": "St. Lawrence Market",
+          "note": "Marché historique idéal pour goûter les spécialités canadiennes."
+        },
+        {
+          "name": "Kensington Market & Chinatown",
+          "note": "Quartier dense rempli de restaurants indépendants reflétant la diversité de Toronto."
+        },
+        {
+          "name": "Downtown Core / Queen West",
+          "note": "Mélange de cuisine canadienne moderne et de restaurants internationaux."
+        }
+      ],
+      "places": [
+        {
+          "name": "Richmond Station",
+          "area": "Downtown Core / Queen West",
+          "reason": "L'un des meilleurs restaurants de cuisine canadienne moderne de Toronto.",
+          "imageUrl": "/src/assets/itineraries/canada/toronto-food/richmond-station.jpg",
+          "lat": 43.6507,
+          "lng": -79.383
+        },
+        {
+          "name": "St. Lawrence Market",
+          "area": "St. Lawrence Market",
+          "reason": "Destination gastronomique emblématique, célèbre pour ses sandwichs au peameal bacon.",
+          "imageUrl": "/src/assets/itineraries/canada/toronto-food/st-lawrence-market.jpg",
+          "lat": 43.6487,
+          "lng": -79.3716
+        },
+        {
+          "name": "Grey Gardens",
+          "area": "Kensington Market & Chinatown",
+          "reason": "Restaurant réputé proposant une cuisine créative et de saison.",
+          "imageUrl": "/src/assets/itineraries/canada/toronto-food/grey-gardens.jpg",
+          "lat": 43.6538,
+          "lng": -79.4015
+        },
+        {
+          "name": "Seven Lives Tacos y Mariscos",
+          "area": "Kensington Market & Chinatown",
+          "reason": "Adresse incontournable pour les tacos à Toronto.",
+          "imageUrl": "/src/assets/itineraries/canada/toronto-food/seven-lives-tacos.jpg",
+          "lat": 43.6543,
+          "lng": -79.4006
+        },
+        {
+          "name": "Jaffna Street Food",
+          "area": "Downtown Core / Queen West",
+          "reason": "Cuisine de rue inspirée du Sri Lanka dans une ambiance décontractée.",
+          "imageUrl": "/src/assets/itineraries/canada/toronto-food/jaffna-street-food.jpg",
+          "lat": 43.6542,
+          "lng": -79.3906
+        }
+      ]
+    }
+  },
+  {
+    "slug": "4-days-vancouver-edges-of-city-and-wild",
+    "region": "americas",
+    "country": "Canada",
+    "city": "Vancouver",
+    "title": "Vancouver en 4 jours : aux frontières de la ville et de la nature",
+    "days": 4,
+    "priceFrom": 260,
+    "priceUnit": "per_person",
+    "hero": "/src/assets/itineraries/canada/4-days-vancouver-edges-of-city-and-wild.jpg",
+    "summary": "Cet itinéraire de 4 jours à Vancouver explore une ville construite à la frontière entre l’urbain et la nature. Les tours de verre côtoient l’océan, les forêts sont toutes proches et les montagnes accompagnent le quotidien sans le dominer. L’itinéraire équilibre promenades au bord de l’eau, quartiers vivants et nature facilement accessible.",
+    "priceNote": "Budget estimé par personne. Vols et hébergement non compris.",
+    "highlights": [
+      "La promenade du Stanley Park Seawall et sa forêt",
+      "Le front de mer et la skyline",
+      "Les marchés de Granville Island",
+      "English Bay et les couchers de soleil sur le Pacifique",
+      "Les cafés de quartier",
+      "Une ville façonnée par la proximité et la retenue"
+    ],
+    "schedule": [
+      {
+        "day": 1,
+        "title": "Arrivée, front de mer et premiers repères",
+        "summary": "Découvrir la ville au bord de l’eau.",
+        "details": "Arrivez à Vancouver et commencez le long du front de mer en suivant une partie du Seawall. Le port, la skyline et les montagnes s’alignent naturellement. L’après-midi, explorez les rues voisines en prenant le temps de faire des pauses dans les cafés. Terminez la journée devant le coucher du soleil à English Bay."
+      },
+      {
+        "day": 2,
+        "title": "Forêt, eau et équilibre urbain",
+        "summary": "Comprendre la proximité.",
+        "details": "Passez la matinée à Stanley Park en parcourant le Seawall à pied ou à vélo avant d’entrer dans la forêt. Alternez les espaces ouverts du rivage et les sentiers ombragés. Reposez-vous ensuite près du parc ou revenez vers le centre-ville avant un dîner décontracté."
+      },
+      {
+        "day": 3,
+        "title": "Marchés, quartiers et textures",
+        "summary": "Voir la ville vivre.",
+        "details": "Découvrez Granville Island, ses étals, ateliers et son rythme quotidien. Explorez ensuite les quartiers voisins avant de revenir tranquillement vers le front de mer."
+      },
+      {
+        "day": 4,
+        "title": "Répétition, air et départ",
+        "summary": "Partir sans rupture.",
+        "details": "Revenez sur votre promenade préférée, que ce soit le Seawall, un café ou un sentier ombragé. Déjeunez près de l’eau avant le départ. Vancouver laisse une impression discrète mais durable."
+      }
+    ],
+    "planning": {
+      "city": "Vancouver, Canada",
+      "bestTime": {
+        "months": "Juin–sept.",
+        "note": "Le temps plus sec et les longues journées sont idéaux pour profiter du Seawall, des quartiers et des espaces naturels."
+      },
+      "worstTime": {
+        "months": "Nov.–mars",
+        "note": "La pluie persistante et les nuages limitent parfois les panoramas."
+      },
+      "tips": [
+        "Pensez en zones : centre-ville, Seawall et forêt.",
+        "Profitez de l’eau chaque jour.",
+        "Adaptez-vous à la météo.",
+        "La nature est proche mais demande de la préparation.",
+        "Le vélo est idéal sur le Seawall.",
+        "Les couchers de soleil remplacent souvent la vie nocturne."
+      ],
+      "withKids": [
+        "Le Seawall est plat et accessible.",
+        "Les parcs et plages offrent beaucoup d’espace.",
+        "Les courtes excursions nature conviennent bien aux familles.",
+        "Des vêtements imperméables sont utiles toute l’année."
+      ]
+    },
+    "transport": {
+      "arrival": [
+        {
+          "title": "Arrivée en avion",
+          "note": " se trouve exceptionnellement près du centre-ville, ce qui rend l’arrivée presque immédiate."
+        },
+        {
+          "title": "Aéroport → Ville",
+          "note": "La liaison ferroviaire rapide reflète le rythme quotidien de Vancouver : efficace, calme et orientée vers les déplacements locaux."
+        }
+      ],
+      "gettingAround": [
+        "La marche est idéale.",
+        "Le vélo est excellent sur le Seawall et autour de False Creek.",
+        "Le SkyTrain convient aux longues distances.",
+        "Les bus complètent le réseau.",
+        "Les navettes fluviales de False Creek servent autant à admirer la ville qu’à se déplacer."
+      ],
+      "dayTrips": [],
+      "dayMoves": [
+        {
+          "title": "",
+          "note": "Accessible naturellement à pied ou à vélo depuis le centre-ville."
+        },
+        {
+          "title": "",
+          "note": "Accessible par la marche ou de courtes traversées sur l’eau."
+        },
+        {
+          "title": "",
+          "note": "Le soir, venir à pied ou à vélo s’accorde parfaitement avec le rythme local."
+        },
+        {
+          "title": "Le rythme du Seawall",
+          "note": "Revenir plusieurs fois sur le Seawall reflète la manière dont les habitants vivent Vancouver."
+        }
+      ],
+      "natureAccess": [
+        "La nature urbaine est accessible sans transport particulier.",
+        "Les parcs de la rive nord sont facilement accessibles en bus.",
+        "La météo influence davantage les sorties que les distances."
+      ],
+      "practical": [
+        "Les distances paraissent plus courtes qu’elles ne le sont.",
+        "La pluie est fréquente hors été.",
+        "Les pistes cyclables sont excellentes le long du front de mer.",
+        "Les soirées sont fraîches près de l’eau.",
+        "Revenir sur les mêmes itinéraires enrichit l’expérience.",
+        "Vancouver se découvre à la frontière entre la ville et la nature."
+      ]
+    },
+    "foodRecommendation": {
+      "mustTry": [
+        "Saumon sauvage de Colombie-Britannique",
+        "Crevettes tachetées de C.-B. (de saison)",
+        "Sushi Aburi",
+        "Japadog",
+        "Chowder aux fruits de mer",
+        "Barre Nanaimo"
+      ],
+      "areas": [
+        {
+          "name": "Granville Island",
+          "note": "Grignotages au marché et fruits de mer au bord de l’eau."
+        },
+        {
+          "name": "Downtown Waterfront / Coal Harbour",
+          "note": "Restaurants raffinés avec vue sur le port."
+        },
+        {
+          "name": "Fairview / West Broadway",
+          "note": "Secteur plus calme avec d’excellentes adresses indépendantes."
+        }
+      ],
+      "places": [
+        {
+          "name": "Lee's Donuts (Granville Island)",
+          "area": "Granville Island",
+          "reason": "Institution locale idéale pour une pause gourmande.",
+          "imageUrl": "/src/assets/itineraries/canada/vancouver-food/lees-donuts-granville-island.jpg",
+          "lat": 49.2722501,
+          "lng": -123.1352766
+        },
+        {
+          "name": "Go Fish",
+          "area": "Granville Island",
+          "reason": "Adresse emblématique pour déguster du poisson au bord de l’eau.",
+          "imageUrl": "/src/assets/itineraries/canada/vancouver-food/go-fish.jpg",
+          "lat": 49.2712981,
+          "lng": -123.1395281
+        },
+        {
+          "name": "JAPADOG (530 Robson St)",
+          "area": "Downtown Waterfront / Coal Harbour",
+          "reason": "Expérience emblématique de street food à Vancouver.",
+          "imageUrl": "/src/assets/itineraries/canada/vancouver-food/japadog-530-robson.jpg",
+          "lat": 49.2802419,
+          "lng": -123.1183716
+        },
+        {
+          "name": "Miku",
+          "area": "Downtown Waterfront / Coal Harbour",
+          "reason": "Référence incontournable pour les sushis Aburi avec vue sur le port.",
+          "imageUrl": "/src/assets/itineraries/canada/vancouver-food/miku.jpg",
+          "lat": 49.28694,
+          "lng": -123.1125
+        },
+        {
+          "name": "Salmon n' Bannock",
+          "area": "Fairview / West Broadway",
+          "reason": "Restaurant autochtone réputé offrant une expérience locale unique.",
+          "imageUrl": "/src/assets/itineraries/canada/vancouver-food/salmon-n-bannock.jpg",
+          "lat": 49.2633,
+          "lng": -123.1298
+        }
+      ]
+    }
+  }
