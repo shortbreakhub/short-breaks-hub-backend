@@ -34,7 +34,8 @@ public class SecurityConfig {
                                 "/api/itineraries/**",
                                 "/api/regions/**",
                                 "/api/auth/**",
-                                "/api/community-itineraries/**"
+                                "/api/community-itineraries/**",
+                                "/api/health"
                         ).permitAll()
 
                         .requestMatchers(

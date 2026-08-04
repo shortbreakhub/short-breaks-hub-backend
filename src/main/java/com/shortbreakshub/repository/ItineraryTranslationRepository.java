@@ -22,4 +22,6 @@ public interface ItineraryTranslationRepository
             Long itineraryId,
             String locale
     );
+
+    long countByLocale(String locale);
 }
