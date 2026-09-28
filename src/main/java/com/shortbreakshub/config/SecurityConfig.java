@@ -31,6 +31,7 @@ public class SecurityConfig {
 
                         .requestMatchers(
                                 HttpMethod.GET,
+                                "/sitemap.xml",
                                 "/api/itineraries/**",
                                 "/api/regions/**",
                                 "/api/auth/**",
