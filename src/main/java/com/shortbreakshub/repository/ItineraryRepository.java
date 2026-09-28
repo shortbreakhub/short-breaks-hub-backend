@@ -13,6 +13,9 @@ import java.util.Optional;
 public interface ItineraryRepository extends JpaRepository<Itinerary, Long> {
     Optional<Itinerary> findBySlug(String slug);
 
+    @Query("select i.slug as slug, i.region as region, i.country as country from Itinerary i")
+    List<ItinerarySitemapProjection> findSitemapLocations();
+
     @Query("select distinct i.country from Itinerary i where LOWER(i.region) = lower(:region) ")
     List<String> findDistinctCountryByRegion(@Param("region") String region);
 
