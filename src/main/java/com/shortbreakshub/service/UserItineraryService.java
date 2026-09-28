@@ -25,7 +25,7 @@ public class UserItineraryService {
     }
 
     public UserItineraryRes getBySlug(String slug) {
-        return userItineraryRepo.findBySlug(slug).map(UserItineraryRes::toRes)
+        return userItineraryRepo.findBySlugAndVisibility(slug, Visibility.PUBLIC).map(UserItineraryRes::toRes)
                 .orElseThrow(()-> new ResponseStatusException(HttpStatus.NOT_FOUND,"User Itinerary not found"));
     }
 
@@ -57,11 +57,12 @@ public class UserItineraryService {
     }
 
     public List<String> getDistinctCountryByRegion(String region) {
-        return userItineraryRepo.findDistinctCountryByRegion(region);
+        return userItineraryRepo.findDistinctCountryByRegionAndVisibility(region, Visibility.PUBLIC);
     }
 
     public List<UserItineraryRes> getByRegion(String region) {
-        return userItineraryRepo.findItinerariesByRegion(region).stream().map(UserItineraryRes::toRes).toList();
+        return userItineraryRepo.findItinerariesByRegionAndVisibility(region, Visibility.PUBLIC)
+                .stream().map(UserItineraryRes::toRes).toList();
     }
 
 }
