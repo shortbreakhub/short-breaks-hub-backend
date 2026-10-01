@@ -2,7 +2,6 @@ package com.shortbreakshub.service;
 
 import com.shortbreakshub.repository.ItineraryRepository;
 import com.shortbreakshub.repository.ItinerarySitemapProjection;
-import org.apache.commons.lang3.text.WordUtils;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.util.UriUtils;
@@ -47,8 +46,7 @@ public class SitemapService {
         byCountry.keySet().stream()
                 .filter(SitemapService::isUsableSegment)
                 .filter(country -> allRowsForCountryHaveUsableSlugs(country, byCountry))
-                .map(SitemapService::countryPathIfResolvable)
-                .filter(Objects::nonNull)
+                .map(SitemapService::countryPath)
                 .forEach(paths::add);
 
         itineraries.stream()
@@ -60,9 +58,9 @@ public class SitemapService {
         return writeXml(paths);
     }
 
-    private static String countryPathIfResolvable(String country) {
-        String backendCountry = WordUtils.capitalizeFully(country.replaceFirst("-", " "));
-        return country.equals(backendCountry) ? "/browse/" + encodeSegment(country) : null;
+    private static String countryPath(String country) {
+        String slug = country.toLowerCase(Locale.ROOT).replaceAll("\\s+", "-");
+        return "/browse/" + encodeSegment(slug);
     }
 
     private static boolean allRowsForCountryHaveUsableSlugs(
