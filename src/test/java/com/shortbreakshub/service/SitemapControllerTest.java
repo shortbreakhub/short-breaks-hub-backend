@@ -6,6 +6,8 @@ import com.shortbreakshub.repository.ItinerarySitemapProjection;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.http.MediaType;
@@ -74,22 +76,42 @@ class SitemapControllerTest {
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/privacy"));
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/terms"));
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/europe"));
-        assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/France"));
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/france"));
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/browse/France"));
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/itinerary/paris-weekend"));
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/itinerary/lyon-weekend"));
         assertFalse(urls.contains(CANONICAL_ORIGIN + "/itinerary/../bad-slug"));
-        assertFalse(urls.contains(CANONICAL_ORIGIN + "/browse/Brokenland"));
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/browse/brokenland"));
     }
 
     @Test
-    void countryRoutesThatTheFrontendCannotResolveAreExcluded() throws Exception {
+    void hyphenatedCountryRoutesUseCanonicalSlugs() throws Exception {
         Row hyphenatedCountry = new Row("timor-trip", "asia", "Timor-Leste");
         when(itineraryRepository.findSitemapLocations()).thenReturn(List.of(hyphenatedCountry));
 
         Set<String> urls = sitemapUrls();
 
         assertTrue(urls.contains(CANONICAL_ORIGIN + "/itinerary/timor-trip"));
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/timor-leste"));
         assertFalse(urls.contains(CANONICAL_ORIGIN + "/browse/Timor-Leste"));
+    }
+
+    @ParameterizedTest
+    @CsvSource({
+            "Italy, italy, Italy",
+            "United States, united-states, United%20States",
+            "South Korea, south-korea, South%20Korea",
+            "Papua New Guinea, papua-new-guinea, Papua%20New%20Guinea",
+            "United  States, united-states, United%20%20States"
+    })
+    void countryRoutesUseCanonicalSlugs(String country, String slug, String legacySegment) throws Exception {
+        when(itineraryRepository.findSitemapLocations())
+                .thenReturn(List.of(new Row("country-trip", "europe", country)));
+
+        Set<String> urls = sitemapUrls();
+
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/" + slug));
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/browse/" + legacySegment));
     }
 
     @Test
