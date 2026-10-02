@@ -21,7 +21,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 @Component
-@Profile("!prod")
+@Profile("!prod & !destination-import")
 public class ItinerarySeeder implements CommandLineRunner {
 
     private final ItineraryRepository itineraryRepository;

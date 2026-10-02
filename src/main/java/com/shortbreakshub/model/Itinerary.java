@@ -1,6 +1,7 @@
 package com.shortbreakshub.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.CollectionTable;
@@ -23,6 +24,11 @@ public class Itinerary {
 
     @Column(nullable = false, unique = true)
     private String slug;
+
+    @JsonIgnore
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "destination_id", foreignKey = @ForeignKey(name = "fk_itinerary_destination"))
+    private Destination destination;
 
     @Column(nullable = false)
     private String region;
