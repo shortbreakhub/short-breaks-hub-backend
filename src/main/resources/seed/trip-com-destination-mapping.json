@@ -1,0 +1,2035 @@
+{
+  "schemaVersion": 1,
+  "provider": "TRIP_COM",
+  "expectedOfficialDestinationCount": 201,
+  "mappings": [
+    {
+      "destinationName": "Amsterdam",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "176",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Athens",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "710",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Auckland",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "678",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bagan",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3687",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bali",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "723",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Barcelona",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "40795",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Berlin",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "193",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bogotá",
+      "tripDisplayName": "Bogota",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "824",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bohol",
+      "tripDisplayName": "Bohol Island",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4257",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bordeaux",
+      "tripDisplayName": "Bordeaux",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "776",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Boston",
+      "tripDisplayName": "Boston",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "26848",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Brisbane",
+      "tripDisplayName": "Brisbane",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "680",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bristol",
+      "tripDisplayName": "Bristol",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "838",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Buenos Aires",
+      "tripDisplayName": "Buenos Aires",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "807",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Busan",
+      "tripDisplayName": "Busan",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "253",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cairo, Giza & Nile Corridor",
+      "tripDisplayName": "Cairo",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "332",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Calgary",
+      "tripDisplayName": "Calgary",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "761",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cambridge",
+      "tripDisplayName": "Cambridge, UK",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1194",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Canberra",
+      "tripDisplayName": "Canberra",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "679",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cape Town, Winelands & Cape Peninsula",
+      "tripDisplayName": "Cape Town",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "683",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cartagena",
+      "tripDisplayName": "Cartagena, Colombia",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "5123",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cebu",
+      "tripDisplayName": "Cebu",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1239",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Changzhou",
+      "tripDisplayName": "Changzhou",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "213",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Chengdu",
+      "tripDisplayName": "Chengdu",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "28",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Chiang Mai",
+      "tripDisplayName": "Chiang Mai",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "623",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Chiang Rai",
+      "tripDisplayName": "Chiang Rai",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "647",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Chicago",
+      "tripDisplayName": "Chicago",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "549",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Christchurch",
+      "tripDisplayName": "Christchurch",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "7505",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cologne",
+      "tripDisplayName": "Cologne",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "709",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Córdoba",
+      "tripDisplayName": "Cordoba",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3854",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Crete (Chania)",
+      "tripDisplayName": "Crete",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "43032",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Cusco",
+      "tripDisplayName": "Cusco",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "813",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Dakar & Gorée",
+      "tripDisplayName": "Dakar",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "856",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Dengfeng",
+      "tripDisplayName": "Dengfeng",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "222",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Dresden",
+      "tripDisplayName": "Dresden",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1412",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Edinburgh",
+      "tripDisplayName": "Edinburgh",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "706",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Efate & Tanna",
+      "tripDisplayName": "Efate",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "684400",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "El Calafate & El Chaltén",
+      "tripDisplayName": "El Calafate",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "6767",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Faro",
+      "tripDisplayName": "Faro",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "840",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Florence",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "687",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Fujiyoshida",
+      "tripDisplayName": "Fujiyoshida",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "50161",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Fukuoka",
+      "tripDisplayName": "Fukuoka",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "248",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Geneva",
+      "tripDisplayName": "Geneva",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "666",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "George Town",
+      "tripDisplayName": "George Town",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "35926",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Glasgow",
+      "tripDisplayName": "Glasgow",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "780",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Granada",
+      "tripDisplayName": "Granada",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "717",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Guanajuato",
+      "tripDisplayName": "Guanajuato City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9674",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Guangzhou",
+      "tripDisplayName": "Guangzhou",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "32",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Guilin",
+      "tripDisplayName": "Guilin",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "33",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Gyeongju",
+      "tripDisplayName": "Gyeongju",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3675",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Haarlem",
+      "tripDisplayName": "Haarlem",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9681",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hakone",
+      "tripDisplayName": "Hakone",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1165",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hamburg",
+      "tripDisplayName": "Hamburg",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "763",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hangzhou",
+      "tripDisplayName": "Hangzhou",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "17",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hanoi",
+      "tripDisplayName": "Hanoi",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "286",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Heidelberg",
+      "tripDisplayName": "Heidelberg",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3333",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hiroshima",
+      "tripDisplayName": "Hiroshima City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "262",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Ho Chi Minh City",
+      "tripDisplayName": "Ho Chi Minh City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "301",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hong Kong",
+      "tripDisplayName": "Hong Kong",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "58",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Hualien",
+      "tripDisplayName": "Hualien",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "6954",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Huế",
+      "tripDisplayName": "Hue",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1776",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Interlaken",
+      "tripDisplayName": "Interlaken",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3167",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Ipoh",
+      "tripDisplayName": "Ipoh",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1375",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Jakarta",
+      "tripDisplayName": "Jakarta",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "524",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Jeonju",
+      "tripDisplayName": "Jeonju",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "61380",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Johor Bahru",
+      "tripDisplayName": "Johor Bahru",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1376",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kampot",
+      "tripDisplayName": "Kampot",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "36149",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kaohsiung",
+      "tripDisplayName": "Kaohsiung",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "720",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kigali & Northern Highlands",
+      "tripDisplayName": "Kigali",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1277",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kuala Lumpur",
+      "tripDisplayName": "Kuala Lumpur",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "315",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kyoto",
+      "tripDisplayName": "Kyoto",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "734",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "La Fortuna & Arenal",
+      "tripDisplayName": "La Fortuna",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "60661",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lagos",
+      "tripDisplayName": "Lagos, Nigeria",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "783",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lake District",
+      "tripDisplayName": "Windermere Town",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3565",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Lake Louise",
+      "tripDisplayName": "Lake Louise",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3435",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Langkawi",
+      "tripDisplayName": "Langkawi",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1225",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Las Vegas",
+      "tripDisplayName": "Las Vegas",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "26282",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lima",
+      "tripDisplayName": "Lima, Peru",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "837",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lisbon",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1231",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "London",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "338",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Los Angeles",
+      "tripDisplayName": "Los Angeles",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "347",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Luang Prabang",
+      "tripDisplayName": "Luang Prabang",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3677",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lucerne",
+      "tripDisplayName": "Lucerne",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "40039",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Lyon",
+      "tripDisplayName": "Lyon",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "713",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Macau",
+      "tripDisplayName": "Macau",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "59",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Madrid",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "357",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Málaga",
+      "tripDisplayName": "Malaga",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1268",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Manaus & Amazon Rainforest",
+      "tripDisplayName": "Manaus",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1256",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Mandalay",
+      "tripDisplayName": "Mandalay",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4080",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Manila",
+      "tripDisplayName": "City of Manila",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "364",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Manuel Antonio",
+      "tripDisplayName": "Manuel Antonio",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "36425",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Marrakech",
+      "tripDisplayName": "Marrakech",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1360",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Marseille",
+      "tripDisplayName": "Marseille",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "712",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Medellín",
+      "tripDisplayName": "Medellin",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "7434",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Melbourne",
+      "tripDisplayName": "Melbourne",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "358",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Mendoza",
+      "tripDisplayName": "Mendoza",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3397",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Mérida",
+      "tripDisplayName": "Merida",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3696",
+      "status": "MAPPED",
+      "country": "Mexico",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Mexico City",
+      "tripDisplayName": "Mexico City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "691",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Milan",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "361",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Monteverde",
+      "tripDisplayName": "Monteverde",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "60669",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Montréal",
+      "tripDisplayName": "Montreal",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "759",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Munich",
+      "tripDisplayName": "Munich",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "363",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Nairobi, Rift Valley & Maasai Mara",
+      "tripDisplayName": "Nairobi",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "825",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Naples",
+      "tripDisplayName": "Naples",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1262",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Nara",
+      "tripDisplayName": "Nara City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1175",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "New Orleans",
+      "tripDisplayName": "New Orleans",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1186",
+      "status": "MAPPED",
+      "country": "United States",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "New York City",
+      "tripDisplayName": "New York",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "633",
+      "status": "MAPPED",
+      "country": "United States",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Nice",
+      "tripDisplayName": "Nice",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "775",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Nicoya Peninsula",
+      "tripDisplayName": "Nicoya",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "86932",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "regional itinerary → Trip.com regional accommodation base"
+    },
+    {
+      "destinationName": "Nouméa & Outer Lagoons",
+      "tripDisplayName": "Noumea",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4086",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Oaxaca",
+      "tripDisplayName": "Oaxaca",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "36449",
+      "status": "MAPPED",
+      "country": "Mexico",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Osaka",
+      "tripDisplayName": "Osaka",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "219",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Ottawa",
+      "tripDisplayName": "Ottawa",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "760",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Oxford",
+      "tripDisplayName": "Oxford",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "721",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Pai",
+      "tripDisplayName": "Pai",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "35981",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Palawan",
+      "tripDisplayName": "Palawan",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4089",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Paris",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "192",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Pattaya",
+      "tripDisplayName": "Pattaya",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "622",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Perth",
+      "tripDisplayName": "Perth",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "681",
+      "status": "MAPPED",
+      "country": "Australia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Phnom Penh",
+      "tripDisplayName": "Phnom Penh",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "303",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Porto",
+      "tripDisplayName": "Porto",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "826",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Québec City",
+      "tripDisplayName": "Quebec City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3441",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Queenstown",
+      "tripDisplayName": "Queenstown",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3860",
+      "status": "MAPPED",
+      "country": "New Zealand",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Rhodes",
+      "tripDisplayName": "Rhodes",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3570",
+      "status": "MAPPED",
+      "country": "Greece",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Rio de Janeiro",
+      "tripDisplayName": "Rio de Janeiro",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "769",
+      "status": "MAPPED",
+      "country": "Brazil",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Rome",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "343",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Rotorua",
+      "tripDisplayName": "Rotorua",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1807",
+      "status": "MAPPED",
+      "country": "New Zealand",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Rotterdam",
+      "tripDisplayName": "Rotterdam",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "718",
+      "status": "MAPPED",
+      "country": "Netherlands",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Sacred Valley (Pisac, Ollantaytambo, Moray)",
+      "tripDisplayName": "Urubamba",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9170",
+      "status": "MAPPED",
+      "country": null,
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Salento & Cocora Valley",
+      "tripDisplayName": "Salento",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "59419",
+      "status": "MAPPED",
+      "country": "Colombia",
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Salvador",
+      "tripDisplayName": "Salvador",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3434",
+      "status": "MAPPED",
+      "country": "Brazil",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "San Francisco",
+      "tripDisplayName": "San Francisco",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "313",
+      "status": "MAPPED",
+      "country": "USA",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "San Pedro de Atacama",
+      "tripDisplayName": "San Pedro De Atacama",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "10214",
+      "status": "MAPPED",
+      "country": "Chile",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Santiago",
+      "tripDisplayName": "Santiago",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "852",
+      "status": "MAPPED",
+      "country": "Chile",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Santorini",
+      "tripDisplayName": "Santorini",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3576",
+      "status": "MAPPED",
+      "country": "Greece",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "São Paulo",
+      "tripDisplayName": "Sao Paulo",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "415",
+      "status": "MAPPED",
+      "country": "Brazil",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Seattle",
+      "tripDisplayName": "Seattle",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "511",
+      "status": "MAPPED",
+      "country": "USA",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Seoul",
+      "tripDisplayName": "Seoul",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "274",
+      "status": "MAPPED",
+      "country": "South Korea",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Seville",
+      "tripDisplayName": "Seville",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1350",
+      "status": "MAPPED",
+      "country": "Spain",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Shanghai",
+      "tripDisplayName": "Shanghai",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "2",
+      "status": "MAPPED",
+      "country": "China",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Sicily (Palermo)",
+      "tripDisplayName": "Palermo",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3640",
+      "status": "MAPPED",
+      "country": "Italy",
+      "mappingType": "regional itinerary → named accommodation base"
+    },
+    {
+      "destinationName": "Siem Reap",
+      "tripDisplayName": "Siem Reap",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1369",
+      "status": "MAPPED",
+      "country": "Cambodia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Singapore",
+      "tripDisplayName": "Singapore",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "73",
+      "status": "MAPPED",
+      "country": "Singapore",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Sintra",
+      "tripDisplayName": "Sintra",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9059",
+      "status": "MAPPED",
+      "country": "Portugal",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Strasbourg",
+      "tripDisplayName": "Strasbourg",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1354",
+      "status": "MAPPED",
+      "country": "France",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Sukhothai",
+      "tripDisplayName": "Sukhothai",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "6045",
+      "status": "MAPPED",
+      "country": "Thailand",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Sydney",
+      "tripDisplayName": "Sydney",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "501",
+      "status": "MAPPED",
+      "country": "Australia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Tahiti & Bora Bora",
+      "tripDisplayName": "Tahiti",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "61672",
+      "status": "MAPPED",
+      "country": "French Polynesia",
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Taichung",
+      "tripDisplayName": "Taichung",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3849",
+      "status": "MAPPED",
+      "country": "Taiwan",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Tainan",
+      "tripDisplayName": "Tainan",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3847",
+      "status": "MAPPED",
+      "country": "Taiwan",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Taipei",
+      "tripDisplayName": "Taipei",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "617",
+      "status": "MAPPED",
+      "country": "Taiwan",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "The Hague",
+      "tripDisplayName": "Hague",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "715",
+      "status": "MAPPED",
+      "country": "Netherlands",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Thessaloniki",
+      "tripDisplayName": "Thessaloniki",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3584",
+      "status": "MAPPED",
+      "country": "Greece",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Tokyo",
+      "tripDisplayName": "Tokyo",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "228",
+      "status": "MAPPED",
+      "country": "Japan",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Tongatapu & Outer Islands",
+      "tripDisplayName": "Tongatapu",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "703530",
+      "status": "MAPPED",
+      "country": "Tonga",
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Toronto",
+      "tripDisplayName": "Toronto",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "461",
+      "status": "MAPPED",
+      "country": "Canada",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Torres del Paine National Park",
+      "tripDisplayName": "Torres del Paine",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "60605",
+      "status": "MAPPED",
+      "country": "Chile",
+      "mappingType": "regional / national park destination → City-level destination"
+    },
+    {
+      "destinationName": "Tortuguero",
+      "tripDisplayName": "Tortuguero",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "60710",
+      "status": "MAPPED",
+      "country": "Costa Rica",
+      "mappingType": "regional / nature destination → City-level destination"
+    },
+    {
+      "destinationName": "Tulum",
+      "tripDisplayName": "Tulum",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9153",
+      "status": "MAPPED",
+      "country": "Mexico",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Ulaanbaatar",
+      "tripDisplayName": "Ulaanbaatar",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "483",
+      "status": "MAPPED",
+      "country": "Mongolia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Utrecht",
+      "tripDisplayName": "Utrecht",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "719",
+      "status": "MAPPED",
+      "country": "Netherlands",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Valencia",
+      "tripDisplayName": "Valencia",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1351",
+      "status": "MAPPED",
+      "country": "Spain",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Valparaíso",
+      "tripDisplayName": "Valparaiso",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "9178",
+      "status": "MAPPED",
+      "country": "Chile",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Vancouver",
+      "tripDisplayName": "Vancouver",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "476",
+      "status": "MAPPED",
+      "country": "Canada",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Vang Vieng",
+      "tripDisplayName": "Vang Vieng",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "35797",
+      "status": "MAPPED",
+      "country": "Laos",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Venice",
+      "tripDisplayName": "Venice",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "688",
+      "status": "MAPPED",
+      "country": "Italy",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Vientiane",
+      "tripDisplayName": "Vientiane",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "486",
+      "status": "MAPPED",
+      "country": "Laos",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Wellington",
+      "tripDisplayName": "Wellington",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "843",
+      "status": "MAPPED",
+      "country": "New Zealand",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Windhoek, Sossusvlei & Namib Desert",
+      "tripDisplayName": "Windhoek",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "862",
+      "status": "MAPPED",
+      "country": "Namibia",
+      "mappingType": "regional itinerary → primary accommodation base"
+    },
+    {
+      "destinationName": "Xi’an",
+      "tripDisplayName": "Xi'an",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "10",
+      "status": "MAPPED",
+      "country": "China",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Yangon",
+      "tripDisplayName": "Yangon",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "522",
+      "status": "MAPPED",
+      "country": "Myanmar",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Puerto Iguazú",
+      "tripDisplayName": "Puerto Iguazu",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "36549",
+      "status": "MAPPED",
+      "country": "Argentina",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Tasmania",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Australia",
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Barreirinhas & Atins",
+      "tripDisplayName": "Barreirinhas",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4842",
+      "status": "MAPPED",
+      "country": "Brazil",
+      "mappingType": "regional accommodation base"
+    },
+    {
+      "destinationName": "Mondulkiri",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Cambodia",
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Beijing",
+      "tripDisplayName": "Beijing",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1",
+      "status": "MAPPED",
+      "country": "China",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Fiji Islands",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Fiji",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Accra, Cape Coast & Inland Communities",
+      "tripDisplayName": "Accra",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1274",
+      "status": "MAPPED",
+      "country": "Ghana",
+      "mappingType": "regional accommodation base"
+    },
+    {
+      "destinationName": "Bandung",
+      "tripDisplayName": "Bandung City",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "740",
+      "status": "MAPPED",
+      "country": "Indonesia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Yogyakarta",
+      "tripDisplayName": "Yogyakarta",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "741",
+      "status": "MAPPED",
+      "country": "Indonesia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Kanazawa",
+      "tripDisplayName": "Kanazawa",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3663",
+      "status": "MAPPED",
+      "country": "Japan",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Malacca",
+      "tripDisplayName": "Malacca / Melaka",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "62",
+      "status": "MAPPED",
+      "country": "Malaysia",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "San Miguel de Allende",
+      "tripDisplayName": "San Miguel de Allende",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "36445",
+      "status": "MAPPED",
+      "country": "Mexico",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Gorkhi–Terelj National Park",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Mongolia",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Karakorum",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Mongolia",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Fiordland",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "New Zealand",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "South Island",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "New Zealand",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Port Moresby & Highlands",
+      "tripDisplayName": "Port Moresby",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "859",
+      "status": "MAPPED",
+      "country": "Papua New Guinea",
+      "mappingType": "regional accommodation base"
+    },
+    {
+      "destinationName": "Arequipa",
+      "tripDisplayName": "Arequipa",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3718",
+      "status": "MAPPED",
+      "country": "Peru",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Machu Picchu",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Peru",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Upolu & Savai'i",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Samoa",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Bern",
+      "tripDisplayName": "Bern",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "834",
+      "status": "MAPPED",
+      "country": "Switzerland",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Zermatt",
+      "tripDisplayName": "Zermatt",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3157",
+      "status": "MAPPED",
+      "country": "Switzerland",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Zurich",
+      "tripDisplayName": "Zurich",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "434",
+      "status": "MAPPED",
+      "country": "Switzerland",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Arusha, Serengeti & Ngorongoro",
+      "tripDisplayName": "Arusha",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "4387",
+      "status": "MAPPED",
+      "country": "Tanzania",
+      "mappingType": "regional accommodation base"
+    },
+    {
+      "destinationName": "Bangkok",
+      "tripDisplayName": "Bangkok",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "359",
+      "status": "MAPPED",
+      "country": "Thailand",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Bath",
+      "tripDisplayName": "Bath",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "1190",
+      "status": "MAPPED",
+      "country": "United Kingdom",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "York",
+      "tripDisplayName": "York",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "3566",
+      "status": "MAPPED",
+      "country": "United Kingdom",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Washington, D.C.",
+      "tripDisplayName": "Washington D.C.",
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": "26363",
+      "status": "MAPPED",
+      "country": "United States",
+      "mappingType": "City"
+    },
+    {
+      "destinationName": "Ha Long Bay",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Vietnam",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    },
+    {
+      "destinationName": "Hoi An",
+      "tripDisplayName": null,
+      "provider": "TRIP_COM",
+      "entityType": "CITY",
+      "externalId": null,
+      "status": "SKIPPED",
+      "country": "Vietnam",
+      "mappingType": null,
+      "reason": "No reliable Trip.com City mapping found",
+      "fallback": "DEFAULT_AFFILIATE_LINK"
+    }
+  ]
+}

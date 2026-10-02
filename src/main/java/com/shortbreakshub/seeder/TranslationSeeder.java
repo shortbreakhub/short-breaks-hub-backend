@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.util.List;
 
 @Configuration
-@Profile("!prod")
+@Profile("!prod & !destination-import")
 public class TranslationSeeder{
 
     @Bean

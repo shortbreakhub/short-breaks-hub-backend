@@ -1,0 +1,3247 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "issue-14-v1",
+  "expectedDestinationCount": 201,
+  "expectedTripComMappedCount": 190,
+  "expectedTripComSkippedCount": 11,
+  "destinations": [
+    {
+      "destinationKey": "argentina--buenos-aires",
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "itinerarySlugs": [
+        "4-days-buenos-aires-gesture-heat-and-memory"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "807"
+        }
+      ]
+    },
+    {
+      "destinationKey": "argentina--el-calafate-el-chalten",
+      "name": "El Calafate & El Chaltén",
+      "country": "Argentina",
+      "itinerarySlugs": [
+        "5-days-patagonia-wind-distance-and-truth"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "6767"
+        }
+      ]
+    },
+    {
+      "destinationKey": "argentina--mendoza",
+      "name": "Mendoza",
+      "country": "Argentina",
+      "itinerarySlugs": [
+        "3-days-mendoza-patience-poured-under-the-andes"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3397"
+        }
+      ]
+    },
+    {
+      "destinationKey": "argentina--puerto-iguazu",
+      "name": "Puerto Iguazú",
+      "country": "Argentina",
+      "itinerarySlugs": [
+        "2-days-iguazu-inevitability-in-motion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "36549"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--brisbane",
+      "name": "Brisbane",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "3-days-brisbane-river-light-and-easy-growth"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "680"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--canberra",
+      "name": "Canberra",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "3-days-canberra-intention-space-and-quiet-thought"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "679"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--melbourne",
+      "name": "Melbourne",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "4-days-melbourne-lanes-ideas-and-everyday-culture"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "358"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--perth",
+      "name": "Perth",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "3-days-perth-distance-sun-and-quiet-confidence"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "681"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--sydney",
+      "name": "Sydney",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "4-days-sydney-light-water-and-open-living"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "501"
+        }
+      ]
+    },
+    {
+      "destinationKey": "australia--tasmania",
+      "name": "Tasmania",
+      "country": "Australia",
+      "itinerarySlugs": [
+        "5-days-tasmania-isolation-weather-and-attention"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "brazil--barreirinhas-atins",
+      "name": "Barreirinhas & Atins",
+      "country": "Brazil",
+      "itinerarySlugs": [
+        "3-days-lencois-impermanence-in-light-and-water"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4842"
+        }
+      ]
+    },
+    {
+      "destinationKey": "brazil--manaus-amazon-rainforest",
+      "name": "Manaus & Amazon Rainforest",
+      "country": "Brazil",
+      "itinerarySlugs": [
+        "4-days-amazon-life-beyond-scale-and-control"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1256"
+        }
+      ]
+    },
+    {
+      "destinationKey": "brazil--rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "itinerarySlugs": [
+        "4-days-rio-release-between-mountain-and-sea"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "769"
+        }
+      ]
+    },
+    {
+      "destinationKey": "brazil--salvador",
+      "name": "Salvador",
+      "country": "Brazil",
+      "itinerarySlugs": [
+        "4-days-salvador-rhythm-faith-and-atlantic-memory"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3434"
+        }
+      ]
+    },
+    {
+      "destinationKey": "brazil--sao-paulo",
+      "name": "São Paulo",
+      "country": "Brazil",
+      "itinerarySlugs": [
+        "4-days-sao-paulo-density-appetite-and-collision"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "415"
+        }
+      ]
+    },
+    {
+      "destinationKey": "cambodia--kampot",
+      "name": "Kampot",
+      "country": "Cambodia",
+      "itinerarySlugs": [
+        "3-days-kampot-where-river-time-drifts"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "36149"
+        }
+      ]
+    },
+    {
+      "destinationKey": "cambodia--mondulkiri",
+      "name": "Mondulkiri",
+      "country": "Cambodia",
+      "itinerarySlugs": [
+        "3-days-mondulkiri-where-the-land-opens-wide"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "cambodia--phnom-penh",
+      "name": "Phnom Penh",
+      "country": "Cambodia",
+      "itinerarySlugs": [
+        "3-days-phnom-penh-where-history-speaks-softly"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "303"
+        }
+      ]
+    },
+    {
+      "destinationKey": "cambodia--siem-reap",
+      "name": "Siem Reap",
+      "country": "Cambodia",
+      "itinerarySlugs": [
+        "4-days-siem-reap-where-stone-remembers-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1369"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--calgary",
+      "name": "Calgary",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "3-days-calgary-between-prairie-and-ascent"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "761"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--lake-louise",
+      "name": "Lake Louise",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "2-days-lake-louise-clarity-at-altitude"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3435"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--montreal",
+      "name": "Montréal",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "4-days-montreal-between-language-and-desire"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "759"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--ottawa",
+      "name": "Ottawa",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "3-days-ottawa-civic-calm-and-quiet-edges"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "760"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--quebec-city",
+      "name": "Québec City",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "3-days-quebec-city-enclosure-memory-and-continuity"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3441"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--toronto",
+      "name": "Toronto",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "4-days-toronto-many-voices-one-ground"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "461"
+        }
+      ]
+    },
+    {
+      "destinationKey": "canada--vancouver",
+      "name": "Vancouver",
+      "country": "Canada",
+      "itinerarySlugs": [
+        "4-days-vancouver-edges-of-city-and-wild"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "476"
+        }
+      ]
+    },
+    {
+      "destinationKey": "chile--san-pedro-de-atacama",
+      "name": "San Pedro de Atacama",
+      "country": "Chile",
+      "itinerarySlugs": [
+        "3-days-atacama-absolute-dryness-and-sky"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "10214"
+        }
+      ]
+    },
+    {
+      "destinationKey": "chile--santiago",
+      "name": "Santiago",
+      "country": "Chile",
+      "itinerarySlugs": [
+        "4-days-santiago-length-light-and-discipline"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "852"
+        }
+      ]
+    },
+    {
+      "destinationKey": "chile--torres-del-paine-national-park",
+      "name": "Torres del Paine National Park",
+      "country": "Chile",
+      "itinerarySlugs": [
+        "4-days-torres-del-paine-form-wind-and-exposure"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "60605"
+        }
+      ]
+    },
+    {
+      "destinationKey": "chile--valparaiso",
+      "name": "Valparaíso",
+      "country": "Chile",
+      "itinerarySlugs": [
+        "3-days-valparaiso-vertical-life-in-colour"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9178"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--beijing",
+      "name": "Beijing",
+      "country": "China",
+      "itinerarySlugs": [
+        "4-days-beijing-where-history-sets-the-measure"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--changzhou",
+      "name": "Changzhou",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-day-changzhou-alley-lanterns-and-pagoda-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "213"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--chengdu",
+      "name": "Chengdu",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-days-chengdu-where-life-slows-to-stay"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "28"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--dengfeng",
+      "name": "Dengfeng",
+      "country": "China",
+      "itinerarySlugs": [
+        "2-days-dengfeng-where-discipline-finds-stillness"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "222"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--guangzhou",
+      "name": "Guangzhou",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-days-guangzhou-where-rivers-carry-everyday-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "32"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--guilin",
+      "name": "Guilin",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-days-guilin-where-the-land-leans-into-water"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "33"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--hangzhou",
+      "name": "Hangzhou",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-days-hangzhou-where-water-teaches-patience"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "17"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--shanghai",
+      "name": "Shanghai",
+      "country": "China",
+      "itinerarySlugs": [
+        "4-days-shanghai-where-the-future-never-waits"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "2"
+        }
+      ]
+    },
+    {
+      "destinationKey": "china--xi-an",
+      "name": "Xi’an",
+      "country": "China",
+      "itinerarySlugs": [
+        "3-days-xian-where-the-road-begins-inward"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "10"
+        }
+      ]
+    },
+    {
+      "destinationKey": "colombia--bogota",
+      "name": "Bogotá",
+      "country": "Colombia",
+      "itinerarySlugs": [
+        "4-days-bogota-altitude-ideas-and-renewal"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "824"
+        }
+      ]
+    },
+    {
+      "destinationKey": "colombia--cartagena",
+      "name": "Cartagena",
+      "country": "Colombia",
+      "itinerarySlugs": [
+        "3-days-cartagena-walls-heat-and-caribbean-memory"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "5123"
+        }
+      ]
+    },
+    {
+      "destinationKey": "colombia--medellin",
+      "name": "Medellín",
+      "country": "Colombia",
+      "itinerarySlugs": [
+        "4-days-medellin-stitching-a-city-back-together"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "7434"
+        }
+      ]
+    },
+    {
+      "destinationKey": "colombia--salento-cocora-valley",
+      "name": "Salento & Cocora Valley",
+      "country": "Colombia",
+      "itinerarySlugs": [
+        "3-days-coffee-region-worked-land-and-green-rhythm"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "59419"
+        }
+      ]
+    },
+    {
+      "destinationKey": "costa-rica--la-fortuna-arenal",
+      "name": "La Fortuna & Arenal",
+      "country": "Costa Rica",
+      "itinerarySlugs": [
+        "4-days-arenal-living-inside-green-motion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "60661"
+        }
+      ]
+    },
+    {
+      "destinationKey": "costa-rica--manuel-antonio",
+      "name": "Manuel Antonio",
+      "country": "Costa Rica",
+      "itinerarySlugs": [
+        "3-days-manuel-antonio-when-forest-meets-the-tide"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "36425"
+        }
+      ]
+    },
+    {
+      "destinationKey": "costa-rica--monteverde",
+      "name": "Monteverde",
+      "country": "Costa Rica",
+      "itinerarySlugs": [
+        "3-days-monteverde-living-above-the-canopy"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "60669"
+        }
+      ]
+    },
+    {
+      "destinationKey": "costa-rica--nicoya-peninsula",
+      "name": "Nicoya Peninsula",
+      "country": "Costa Rica",
+      "itinerarySlugs": [
+        "4-days-nicoya-peninsula-living-long-and-slow"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "86932"
+        }
+      ]
+    },
+    {
+      "destinationKey": "costa-rica--tortuguero",
+      "name": "Tortuguero",
+      "country": "Costa Rica",
+      "itinerarySlugs": [
+        "3-days-tortuguero-waterways-waiting-and-return"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "60710"
+        }
+      ]
+    },
+    {
+      "destinationKey": "egypt--cairo-giza-nile-corridor",
+      "name": "Cairo, Giza & Nile Corridor",
+      "country": "Egypt",
+      "itinerarySlugs": [
+        "5-days-egypt-stone-time-and-living-river"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "332"
+        }
+      ]
+    },
+    {
+      "destinationKey": "fiji--fiji-islands",
+      "name": "Fiji Islands",
+      "country": "Fiji",
+      "itinerarySlugs": [
+        "4-days-fiji-water-warmth-and-unhurried-time"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--bordeaux",
+      "name": "Bordeaux",
+      "country": "France",
+      "itinerarySlugs": [
+        "3-days-bordeaux-where-the-river-teaches-patience"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "776"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--lyon",
+      "name": "Lyon",
+      "country": "France",
+      "itinerarySlugs": [
+        "3-days-lyon-where-food-gives-structure-to-time"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "713"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--marseille",
+      "name": "Marseille",
+      "country": "France",
+      "itinerarySlugs": [
+        "3-days-marseille-where-the-sea-refuses-to-be-quiet"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "712"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--nice",
+      "name": "Nice",
+      "country": "France",
+      "itinerarySlugs": [
+        "3-days-nice-where-light-teaches-you-to-slow"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "775"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--paris",
+      "name": "Paris",
+      "country": "France",
+      "itinerarySlugs": [
+        "4-days-paris-where-icons-meet-everyday-grace"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "192"
+        }
+      ]
+    },
+    {
+      "destinationKey": "france--strasbourg",
+      "name": "Strasbourg",
+      "country": "France",
+      "itinerarySlugs": [
+        "3-days-strasbourg-where-borders-learn-to-breathe"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1354"
+        }
+      ]
+    },
+    {
+      "destinationKey": "french-polynesia--tahiti-bora-bora",
+      "name": "Tahiti & Bora Bora",
+      "country": "French Polynesia",
+      "itinerarySlugs": [
+        "5-days-french-polynesia-light-water-and-quiet-luxury"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "61672"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--berlin",
+      "name": "Berlin",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "4-days-berlin-where-history-refuses-to-stay-silent"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "193"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--cologne",
+      "name": "Cologne",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "3-days-cologne-where-continuity-outlasts-destruction"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "709"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--dresden",
+      "name": "Dresden",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "3-days-dresden-where-rebuilding-became-remembrance"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1412"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--hamburg",
+      "name": "Hamburg",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "3-days-hamburg-where-distance-creates-clarity"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "763"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--heidelberg",
+      "name": "Heidelberg",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "2-days-heidelberg-where-romance-learns-restraint"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3333"
+        }
+      ]
+    },
+    {
+      "destinationKey": "germany--munich",
+      "name": "Munich",
+      "country": "Germany",
+      "itinerarySlugs": [
+        "3-days-munich-where-tradition-makes-room-to-breathe"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "363"
+        }
+      ]
+    },
+    {
+      "destinationKey": "ghana--accra-cape-coast-inland-communities",
+      "name": "Accra, Cape Coast & Inland Communities",
+      "country": "Ghana",
+      "itinerarySlugs": [
+        "5-days-ghana-coast-memory-and-living-welcome"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1274"
+        }
+      ]
+    },
+    {
+      "destinationKey": "greece--athens",
+      "name": "Athens",
+      "country": "Greece",
+      "itinerarySlugs": [
+        "4-days-athens-where-every-road-begins"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "710"
+        }
+      ]
+    },
+    {
+      "destinationKey": "greece--crete-chania",
+      "name": "Crete (Chania)",
+      "country": "Greece",
+      "itinerarySlugs": [
+        "4-days-crete-where-the-land-remembers-longer"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "43032"
+        }
+      ]
+    },
+    {
+      "destinationKey": "greece--rhodes",
+      "name": "Rhodes",
+      "country": "Greece",
+      "itinerarySlugs": [
+        "3-days-rhodes-where-walls-learned-to-endure"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3570"
+        }
+      ]
+    },
+    {
+      "destinationKey": "greece--santorini",
+      "name": "Santorini",
+      "country": "Greece",
+      "itinerarySlugs": [
+        "3-days-santorini-where-light-erases-the-clock"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3576"
+        }
+      ]
+    },
+    {
+      "destinationKey": "greece--thessaloniki",
+      "name": "Thessaloniki",
+      "country": "Greece",
+      "itinerarySlugs": [
+        "3-days-thessaloniki-where-layers-gather-around-the-table"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3584"
+        }
+      ]
+    },
+    {
+      "destinationKey": "hong-kong--hong-kong",
+      "name": "Hong Kong",
+      "country": "Hong Kong",
+      "itinerarySlugs": [
+        "4-days-hong-kong-where-the-city-rises-and-folds-back"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "58"
+        }
+      ]
+    },
+    {
+      "destinationKey": "indonesia--bali",
+      "name": "Bali",
+      "country": "Indonesia",
+      "itinerarySlugs": [
+        "5-days-bali-where-rituals-meet-the-tide"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "723"
+        }
+      ]
+    },
+    {
+      "destinationKey": "indonesia--bandung",
+      "name": "Bandung",
+      "country": "Indonesia",
+      "itinerarySlugs": [
+        "3-days-bandung-where-cool-air-carries-ideas"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "740"
+        }
+      ]
+    },
+    {
+      "destinationKey": "indonesia--jakarta",
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "itinerarySlugs": [
+        "3-days-jakarta-beneath-the-surface-rhythm"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "524"
+        }
+      ]
+    },
+    {
+      "destinationKey": "indonesia--yogyakarta",
+      "name": "Yogyakarta",
+      "country": "Indonesia",
+      "itinerarySlugs": [
+        "4-days-yogyakarta-where-ancient-stories-still-walk"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "741"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--florence",
+      "name": "Florence",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "3-days-florence-where-proportion-teaches-calm"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "687"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--milan",
+      "name": "Milan",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "3-days-milan-where-precision-sets-the-tone"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "361"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--naples",
+      "name": "Naples",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "3-days-naples-where-life-stands-too-close"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1262"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--rome",
+      "name": "Rome",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "4-days-rome-where-time-refuses-to-move-on"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "343"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--sicily-palermo",
+      "name": "Sicily (Palermo)",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "4-days-sicily-where-every-civilization-stayed-awhile"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3640"
+        }
+      ]
+    },
+    {
+      "destinationKey": "italy--venice",
+      "name": "Venice",
+      "country": "Italy",
+      "itinerarySlugs": [
+        "3-days-venice-where-the-city-floats-on-patience"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "688"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--fujiyoshida",
+      "name": "Fujiyoshida",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "2-days-fujiyoshida-where-the-mountain-sets-the-distance"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "50161"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--fukuoka",
+      "name": "Fukuoka",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "3-days-fukuoka-where-the-city-feeds-you-gently"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "248"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--hakone",
+      "name": "Hakone",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "2-days-hakone-where-steam-slows-the-thoughts"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1165"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--hiroshima",
+      "name": "Hiroshima",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "3-days-hiroshima-where-memory-makes-space-for-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "262"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--kanazawa",
+      "name": "Kanazawa",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "3-days-kanazawa-where-craft-sets-the-pace"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3663"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--kyoto",
+      "name": "Kyoto",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "3-days-kyoto-where-quiet-learns-to-last"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "734"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--nara",
+      "name": "Nara",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "2-days-nara-where-history-walks-beside-you"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1175"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--osaka",
+      "name": "Osaka",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "3-days-osaka-where-appetite-leads-the-way"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "219"
+        }
+      ]
+    },
+    {
+      "destinationKey": "japan--tokyo",
+      "name": "Tokyo",
+      "country": "Japan",
+      "itinerarySlugs": [
+        "4-days-tokyo-where-order-holds-the-motion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "228"
+        }
+      ]
+    },
+    {
+      "destinationKey": "kenya--nairobi-rift-valley-maasai-mara",
+      "name": "Nairobi, Rift Valley & Maasai Mara",
+      "country": "Kenya",
+      "itinerarySlugs": [
+        "5-days-kenya-horizon-land-and-shared-movement"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "825"
+        }
+      ]
+    },
+    {
+      "destinationKey": "laos--luang-prabang",
+      "name": "Luang Prabang",
+      "country": "Laos",
+      "itinerarySlugs": [
+        "4-days-luang-prabang-where-mornings-arrive-quietly"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3677"
+        }
+      ]
+    },
+    {
+      "destinationKey": "laos--vang-vieng",
+      "name": "Vang Vieng",
+      "country": "Laos",
+      "itinerarySlugs": [
+        "3-days-vang-vieng-where-the-land-breathes-wide"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "35797"
+        }
+      ]
+    },
+    {
+      "destinationKey": "laos--vientiane",
+      "name": "Vientiane",
+      "country": "Laos",
+      "itinerarySlugs": [
+        "3-days-vientiane-where-capital-life-moves-softly"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "486"
+        }
+      ]
+    },
+    {
+      "destinationKey": "macau--macau",
+      "name": "Macau",
+      "country": "Macau",
+      "itinerarySlugs": [
+        "3-days-macau-where-time-changes-language"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "59"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--george-town",
+      "name": "George Town",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "3-days-penang-heritage-lanes-and-hawker-smoke"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "35926"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--ipoh",
+      "name": "Ipoh",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "2-days-ipoh-white-coffee-and-limestone-quiet"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1375"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--johor-bahru",
+      "name": "Johor Bahru",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "2-days-johor-bahru-food-malls-and-border-energy"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1376"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "3-days-kuala-lumpur-towers-temples-and-street-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "315"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--langkawi",
+      "name": "Langkawi",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "4-days-langkawi-sea-breezes-and-slow-horizons"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1225"
+        }
+      ]
+    },
+    {
+      "destinationKey": "malaysia--malacca",
+      "name": "Malacca",
+      "country": "Malaysia",
+      "itinerarySlugs": [
+        "2-days-malacca-river-stories-and-colonial-echoes"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "62"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--guanajuato",
+      "name": "Guanajuato",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "3-days-guanajuato-colour-below-and-above"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9674"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--mexico-city",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "4-days-mexico-city-ancient-ground-living-density"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "691"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--merida",
+      "name": "Mérida",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "4-days-merida-stone-shade-and-maya-continuity"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3696"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--oaxaca",
+      "name": "Oaxaca",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "4-days-oaxaca-ritual-flavour-and-continuity"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "36449"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--san-miguel-de-allende",
+      "name": "San Miguel de Allende",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "3-days-san-miguel-held-by-light-and-craft"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "36445"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mexico--tulum",
+      "name": "Tulum",
+      "country": "Mexico",
+      "itinerarySlugs": [
+        "3-days-tulum-ruins-light-and-fragile-balance"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9153"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mongolia--gorkhi-terelj-national-park",
+      "name": "Gorkhi–Terelj National Park",
+      "country": "Mongolia",
+      "itinerarySlugs": [
+        "2-days-terelj-where-the-land-opens-you"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mongolia--karakorum",
+      "name": "Karakorum",
+      "country": "Mongolia",
+      "itinerarySlugs": [
+        "2-days-karakorum-where-empire-left-no-walls"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "mongolia--ulaanbaatar",
+      "name": "Ulaanbaatar",
+      "country": "Mongolia",
+      "itinerarySlugs": [
+        "3-days-ulaanbaatar-where-the-city-meets-the-steppe"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "483"
+        }
+      ]
+    },
+    {
+      "destinationKey": "morocco--marrakech",
+      "name": "Marrakech",
+      "country": "Morocco",
+      "itinerarySlugs": [
+        "5-days-morocco-pattern-ritual-and-warm-shadow"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1360"
+        }
+      ]
+    },
+    {
+      "destinationKey": "myanmar--bagan",
+      "name": "Bagan",
+      "country": "Myanmar",
+      "itinerarySlugs": [
+        "3-days-bagan-where-the-earth-holds-the-sky"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3687"
+        }
+      ]
+    },
+    {
+      "destinationKey": "myanmar--mandalay",
+      "name": "Mandalay",
+      "country": "Myanmar",
+      "itinerarySlugs": [
+        "4-days-mandalay-where-tradition-stands-its-ground"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4080"
+        }
+      ]
+    },
+    {
+      "destinationKey": "myanmar--yangon",
+      "name": "Yangon",
+      "country": "Myanmar",
+      "itinerarySlugs": [
+        "4-days-yangon-where-gold-catches-the-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "522"
+        }
+      ]
+    },
+    {
+      "destinationKey": "namibia--windhoek-sossusvlei-namib-desert",
+      "name": "Windhoek, Sossusvlei & Namib Desert",
+      "country": "Namibia",
+      "itinerarySlugs": [
+        "5-days-namibia-silence-shadow-and-absolute-space"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "862"
+        }
+      ]
+    },
+    {
+      "destinationKey": "netherlands--amsterdam",
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "itinerarySlugs": [
+        "4-days-amsterdam-where-water-teaches-balance"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "176"
+        }
+      ]
+    },
+    {
+      "destinationKey": "netherlands--haarlem",
+      "name": "Haarlem",
+      "country": "Netherlands",
+      "itinerarySlugs": [
+        "2-days-haarlem-where-craft-feels-enough"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9681"
+        }
+      ]
+    },
+    {
+      "destinationKey": "netherlands--rotterdam",
+      "name": "Rotterdam",
+      "country": "Netherlands",
+      "itinerarySlugs": [
+        "3-days-rotterdam-where-the-city-decided-to-start-again"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "718"
+        }
+      ]
+    },
+    {
+      "destinationKey": "netherlands--the-hague",
+      "name": "The Hague",
+      "country": "Netherlands",
+      "itinerarySlugs": [
+        "3-days-the-hague-where-power-speaks-softly"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "715"
+        }
+      ]
+    },
+    {
+      "destinationKey": "netherlands--utrecht",
+      "name": "Utrecht",
+      "country": "Netherlands",
+      "itinerarySlugs": [
+        "2-days-utrecht-where-closeness-creates-clarity"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "719"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-caledonia--noumea-outer-lagoons",
+      "name": "Nouméa & Outer Lagoons",
+      "country": "New Caledonia",
+      "itinerarySlugs": [
+        "4-days-new-caledonia-lagoon-depth-and-quiet-duality"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4086"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--auckland",
+      "name": "Auckland",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "4-days-auckland-between-harbours-and-volcanic-ground"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "678"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--christchurch",
+      "name": "Christchurch",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "3-days-christchurch-resilience-space-and-quiet-renewal"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "7505"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--fiordland",
+      "name": "Fiordland",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "3-days-fiordland-water-rock-and-restraint"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--queenstown",
+      "name": "Queenstown",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "4-days-queenstown-scale-motion-and-earned-stillness"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3860"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--rotorua",
+      "name": "Rotorua",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "3-days-rotorua-steam-ground-and-living-culture"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1807"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--south-island",
+      "name": "South Island",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "7-days-south-island-distance-silence-and-unfolding-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "new-zealand--wellington",
+      "name": "Wellington",
+      "country": "New Zealand",
+      "itinerarySlugs": [
+        "3-days-wellington-wind-ideas-and-compact-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "843"
+        }
+      ]
+    },
+    {
+      "destinationKey": "papua-new-guinea--port-moresby-highlands",
+      "name": "Port Moresby & Highlands",
+      "country": "Papua New Guinea",
+      "itinerarySlugs": [
+        "4-days-papua-new-guinea-land-ancestry-and-presence"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "859"
+        }
+      ]
+    },
+    {
+      "destinationKey": "peru--arequipa",
+      "name": "Arequipa",
+      "country": "Peru",
+      "itinerarySlugs": [
+        "3-days-arequipa-white-stone-and-volcanic-order"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3718"
+        }
+      ]
+    },
+    {
+      "destinationKey": "peru--cusco",
+      "name": "Cusco",
+      "country": "Peru",
+      "itinerarySlugs": [
+        "4-days-cusco-stone-altitude-and-ritual"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "813"
+        }
+      ]
+    },
+    {
+      "destinationKey": "peru--lima",
+      "name": "Lima",
+      "country": "Peru",
+      "itinerarySlugs": [
+        "4-days-lima-ocean-memory-and-living-flavour"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "837"
+        }
+      ]
+    },
+    {
+      "destinationKey": "peru--machu-picchu",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "itinerarySlugs": [
+        "2-days-machu-picchu-exposure-effort-and-awe"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "peru--sacred-valley-pisac-ollantaytambo-moray",
+      "name": "Sacred Valley (Pisac, Ollantaytambo, Moray)",
+      "country": "Peru",
+      "itinerarySlugs": [
+        "3-days-sacred-valley-alignment-work-and-breath"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9170"
+        }
+      ]
+    },
+    {
+      "destinationKey": "philippines--bohol",
+      "name": "Bohol",
+      "country": "Philippines",
+      "itinerarySlugs": [
+        "3-days-bohol-where-the-land-shifts-softly"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4257"
+        }
+      ]
+    },
+    {
+      "destinationKey": "philippines--cebu",
+      "name": "Cebu",
+      "country": "Philippines",
+      "itinerarySlugs": [
+        "4-days-cebu-where-journeys-branch-outward"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1239"
+        }
+      ]
+    },
+    {
+      "destinationKey": "philippines--manila",
+      "name": "Manila",
+      "country": "Philippines",
+      "itinerarySlugs": [
+        "4-days-manila-where-history-refuses-to-fade"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "364"
+        }
+      ]
+    },
+    {
+      "destinationKey": "philippines--palawan",
+      "name": "Palawan",
+      "country": "Philippines",
+      "itinerarySlugs": [
+        "4-days-palawan-where-water-forgets-the-world"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4089"
+        }
+      ]
+    },
+    {
+      "destinationKey": "portugal--faro",
+      "name": "Faro",
+      "country": "Portugal",
+      "itinerarySlugs": [
+        "3-days-faro-where-the-land-learns-to-rest"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "840"
+        }
+      ]
+    },
+    {
+      "destinationKey": "portugal--lagos",
+      "name": "Lagos",
+      "country": "Portugal",
+      "itinerarySlugs": [
+        "3-days-lagos-where-the-coast-lets-go"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "783"
+        }
+      ]
+    },
+    {
+      "destinationKey": "portugal--lisbon",
+      "name": "Lisbon",
+      "country": "Portugal",
+      "itinerarySlugs": [
+        "4-days-lisbon-where-light-carries-memory"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1231"
+        }
+      ]
+    },
+    {
+      "destinationKey": "portugal--porto",
+      "name": "Porto",
+      "country": "Portugal",
+      "itinerarySlugs": [
+        "3-days-porto-where-the-river-keeps-its-word"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "826"
+        }
+      ]
+    },
+    {
+      "destinationKey": "portugal--sintra",
+      "name": "Sintra",
+      "country": "Portugal",
+      "itinerarySlugs": [
+        "2-days-sintra-where-forests-hold-the-dream"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "9059"
+        }
+      ]
+    },
+    {
+      "destinationKey": "rwanda--kigali-northern-highlands",
+      "name": "Kigali & Northern Highlands",
+      "country": "Rwanda",
+      "itinerarySlugs": [
+        "5-days-rwanda-intention-memory-and-gentle-order"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1277"
+        }
+      ]
+    },
+    {
+      "destinationKey": "samoa--upolu-savai-i",
+      "name": "Upolu & Savai'i",
+      "country": "Samoa",
+      "itinerarySlugs": [
+        "4-days-samoa-community-rhythm-and-shared-ground"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "senegal--dakar-goree",
+      "name": "Dakar & Gorée",
+      "country": "Senegal",
+      "itinerarySlugs": [
+        "5-days-senegal-voice-rhythm-and-atlantic-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "856"
+        }
+      ]
+    },
+    {
+      "destinationKey": "singapore--singapore",
+      "name": "Singapore",
+      "country": "Singapore",
+      "itinerarySlugs": [
+        "4-days-singapore-where-the-city-breathes-in-layers"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "73"
+        }
+      ]
+    },
+    {
+      "destinationKey": "south-africa--cape-town-winelands-cape-peninsula",
+      "name": "Cape Town, Winelands & Cape Peninsula",
+      "country": "South Africa",
+      "itinerarySlugs": [
+        "6-days-south-africa-contrast-memory-and-open-futures"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "683"
+        }
+      ]
+    },
+    {
+      "destinationKey": "south-korea--busan",
+      "name": "Busan",
+      "country": "South Korea",
+      "itinerarySlugs": [
+        "3-days-busan-where-the-city-breathes-outward"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "253"
+        }
+      ]
+    },
+    {
+      "destinationKey": "south-korea--gyeongju",
+      "name": "Gyeongju",
+      "country": "South Korea",
+      "itinerarySlugs": [
+        "3-days-gyeongju-where-history-rests-in-the-open"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3675"
+        }
+      ]
+    },
+    {
+      "destinationKey": "south-korea--jeonju",
+      "name": "Jeonju",
+      "country": "South Korea",
+      "itinerarySlugs": [
+        "2-days-jeonju-where-flavor-keeps-history-close"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "61380"
+        }
+      ]
+    },
+    {
+      "destinationKey": "south-korea--seoul",
+      "name": "Seoul",
+      "country": "South Korea",
+      "itinerarySlugs": [
+        "4-days-seoul-where-history-keeps-up-with-speed"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "274"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--barcelona",
+      "name": "Barcelona",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "4-days-barcelona-between-order-and-instinct"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "40795"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--cordoba",
+      "name": "Córdoba",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "2-days-cordoba-enclosure-shade-and-proportion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3854"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--granada",
+      "name": "Granada",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "3-days-granada-water-shadow-and-patience"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "717"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--madrid",
+      "name": "Madrid",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "4-days-madrid-after-dark-the-city-wakes"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "357"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--malaga",
+      "name": "Málaga",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "3-days-malaga-sun-ground-and-everyday-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1268"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--seville",
+      "name": "Seville",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "4-days-seville-living-by-ritual-and-heat"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1350"
+        }
+      ]
+    },
+    {
+      "destinationKey": "spain--valencia",
+      "name": "Valencia",
+      "country": "Spain",
+      "itinerarySlugs": [
+        "3-days-valencia-light-space-and-forward-motion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1351"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--bern",
+      "name": "Bern",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "2-days-bern-continuity-along-the-bend"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "834"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--geneva",
+      "name": "Geneva",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "3-days-geneva-water-diplomacy-and-balance"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "666"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--interlaken",
+      "name": "Interlaken",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "3-days-interlaken-exposed-to-scale"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3167"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--lucerne",
+      "name": "Lucerne",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "2-days-lucerne-lake-bridge-and-alignment"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "40039"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--zermatt",
+      "name": "Zermatt",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "3-days-zermatt-altitude-silence-and-effort"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3157"
+        }
+      ]
+    },
+    {
+      "destinationKey": "switzerland--zurich",
+      "name": "Zurich",
+      "country": "Switzerland",
+      "itinerarySlugs": [
+        "3-days-zurich-precision-without-coldness"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "434"
+        }
+      ]
+    },
+    {
+      "destinationKey": "taiwan--hualien",
+      "name": "Hualien",
+      "country": "Taiwan",
+      "itinerarySlugs": [
+        "3-days-hualien-where-the-land-speaks-first"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "6954"
+        }
+      ]
+    },
+    {
+      "destinationKey": "taiwan--kaohsiung",
+      "name": "Kaohsiung",
+      "country": "Taiwan",
+      "itinerarySlugs": [
+        "3-days-kaohsiung-where-the-city-turns-toward-the-light"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "720"
+        }
+      ]
+    },
+    {
+      "destinationKey": "taiwan--taichung",
+      "name": "Taichung",
+      "country": "Taiwan",
+      "itinerarySlugs": [
+        "3-days-taichung-where-balance-finds-its-form"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3849"
+        }
+      ]
+    },
+    {
+      "destinationKey": "taiwan--tainan",
+      "name": "Tainan",
+      "country": "Taiwan",
+      "itinerarySlugs": [
+        "3-days-tainan-where-time-stays-to-eat-and-remember"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3847"
+        }
+      ]
+    },
+    {
+      "destinationKey": "taiwan--taipei",
+      "name": "Taipei",
+      "country": "Taiwan",
+      "itinerarySlugs": [
+        "4-days-taipei-where-everyday-life-feels-kind"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "617"
+        }
+      ]
+    },
+    {
+      "destinationKey": "tanzania--arusha-serengeti-ngorongoro",
+      "name": "Arusha, Serengeti & Ngorongoro",
+      "country": "Tanzania",
+      "itinerarySlugs": [
+        "6-days-tanzania-migration-patience-and-endless-return"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "4387"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "4-days-bangkok-temples-markets-and-city-life"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "359"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--chiang-mai",
+      "name": "Chiang Mai",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "4-days-chiang-mai-temples-mountains-and-slow-north"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "623"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--chiang-rai",
+      "name": "Chiang Rai",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "3-days-chiang-rai-where-art-meets-stillness"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "647"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--pai",
+      "name": "Pai",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "3-days-pai-where-the-road-slows-down"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "35981"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--pattaya",
+      "name": "Pattaya",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "3-days-pattaya-coastlines-islands-and-evening-lights"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "622"
+        }
+      ]
+    },
+    {
+      "destinationKey": "thailand--sukhothai",
+      "name": "Sukhothai",
+      "country": "Thailand",
+      "itinerarySlugs": [
+        "2-days-sukhothai-where-kingdoms-breathe-again"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "6045"
+        }
+      ]
+    },
+    {
+      "destinationKey": "tonga--tongatapu-outer-islands",
+      "name": "Tongatapu & Outer Islands",
+      "country": "Tonga",
+      "itinerarySlugs": [
+        "4-days-tonga-kingdom-sea-and-living-tradition"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "703530"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--bath",
+      "name": "Bath",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "2-days-bath-stone-curves-and-roman-roots"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1190"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--bristol",
+      "name": "Bristol",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "2-days-bristol-where-creativity-meets-the-harbour"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "838"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--cambridge",
+      "name": "Cambridge",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "3-day-cambridge-colleges-and-river-cam"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1194"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--edinburgh",
+      "name": "Edinburgh",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "3-days-edinburgh-stone-stories-and-high-ground"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "706"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--glasgow",
+      "name": "Glasgow",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "2-days-glasgow-grit-geometry-and-great-museums"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "780"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--lake-district",
+      "name": "Lake District",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "3-days-lake-district-water-stone-and-open-skies"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3565"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--london",
+      "name": "London",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "4-days-london-beyond-the-postcards"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "338"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--oxford",
+      "name": "Oxford",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "2-days-oxford-spires-courtyards-and-slow-thoughts"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "721"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-kingdom--york",
+      "name": "York",
+      "country": "United Kingdom",
+      "itinerarySlugs": [
+        "2-days-york-walls-and-whispering-streets"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "3566"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--boston",
+      "name": "Boston",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-boston-ideas-stone-and-walked-time"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "26848"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--chicago",
+      "name": "Chicago",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-chicago-lines-water-and-calm-strength"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "549"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--las-vegas",
+      "name": "Las Vegas",
+      "country": "United States",
+      "itinerarySlugs": [
+        "2-days-las-vegas-controlled-excess-and-illusion"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "26282"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--los-angeles",
+      "name": "Los Angeles",
+      "country": "United States",
+      "itinerarySlugs": [
+        "4-days-los-angeles-distance-light-and-image"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "347"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--new-orleans",
+      "name": "New Orleans",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-new-orleans-rhythm-memory-and-survival"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1186"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--new-york-city",
+      "name": "New York City",
+      "country": "United States",
+      "itinerarySlugs": [
+        "4-days-new-york-city-moving-through-everything"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "633"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--san-francisco",
+      "name": "San Francisco",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-san-francisco-living-on-the-edge"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "313"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--seattle",
+      "name": "Seattle",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-seattle-rain-water-and-quiet-work"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "511"
+        }
+      ]
+    },
+    {
+      "destinationKey": "united-states--washington-d-c",
+      "name": "Washington, D.C.",
+      "country": "United States",
+      "itinerarySlugs": [
+        "3-days-washington-dc-power-memory-and-measured-steps"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "26363"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vanuatu--efate-tanna",
+      "name": "Efate & Tanna",
+      "country": "Vanuatu",
+      "itinerarySlugs": [
+        "4-days-vanuatu-fire-water-and-everyday-earth"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "684400"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vietnam--ha-long-bay",
+      "name": "Ha Long Bay",
+      "country": "Vietnam",
+      "itinerarySlugs": [
+        "3-days-ha-long-bay-where-stone-rises-from-water"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vietnam--hanoi",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "itinerarySlugs": [
+        "4-days-hanoi-where-stories-circle-back"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "286"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vietnam--ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "itinerarySlugs": [
+        "4-days-ho-chi-minh-city-where-the-city-never-settles"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "301"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vietnam--hoi-an",
+      "name": "Hoi An",
+      "country": "Vietnam",
+      "itinerarySlugs": [
+        "4-days-hoi-an-where-lanterns-hold-the-evening"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "SKIPPED",
+          "externalId": null,
+          "reason": "No reliable Trip.com City mapping found",
+          "fallback": "DEFAULT_AFFILIATE_LINK"
+        }
+      ]
+    },
+    {
+      "destinationKey": "vietnam--hue",
+      "name": "Huế",
+      "country": "Vietnam",
+      "itinerarySlugs": [
+        "3-days-hue-where-empires-linger-in-silence"
+      ],
+      "providerDecisions": [
+        {
+          "provider": "TRIP_COM",
+          "entityType": "CITY",
+          "status": "MAPPED",
+          "externalId": "1776"
+        }
+      ]
+    }
+  ]
+}
