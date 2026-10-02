@@ -1,10 +1,12 @@
 package com.shortbreakshub.service;
 
 import com.shortbreakshub.dto.ItineraryRes;
-import com.shortbreakshub.model.Itinerary;
-import com.shortbreakshub.model.ItineraryFoodRecommendation;
-import com.shortbreakshub.model.ItineraryPlanningSnapshot;
-import com.shortbreakshub.model.ItineraryTransportTip;
+import com.shortbreakshub.dto.HotelDestinationRes;
+import com.shortbreakshub.model.*;
+import com.shortbreakshub.repository.ExternalDestinationMappingRepository;
+import com.shortbreakshub.repository.DestinationMappingReviewRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import com.shortbreakshub.repository.ItineraryFoodRecommendationRepository;
 import com.shortbreakshub.repository.ItineraryPlanningSnapshotRepository;
 import com.shortbreakshub.repository.ItineraryRepository;
@@ -15,15 +17,16 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.server.ResponseStatusException;
-import com.shortbreakshub.model.ItineraryTranslation;
 import com.shortbreakshub.repository.ItineraryTranslationRepository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class ItineraryService {
 
+    private static final Logger log = LoggerFactory.getLogger(ItineraryService.class);
+    private final ExternalDestinationMappingRepository mappingRepo;
+    private final DestinationMappingReviewRepository reviewRepo;
     private final ItineraryRepository itineraryRepo;
     private final ItineraryPlanningSnapshotRepository planningRepo;
     private final ItineraryTransportTipRepository transportTipRepo;
@@ -34,7 +37,11 @@ public class ItineraryService {
                             ItineraryPlanningSnapshotRepository planningRepo,
                             ItineraryTransportTipRepository transportTipRepo,
                             ItineraryFoodRecommendationRepository foodRecommendationRepo,
-                            ItineraryTranslationRepository translationRepo) {
+                            ItineraryTranslationRepository translationRepo,
+                            ExternalDestinationMappingRepository mappingRepo,
+                            DestinationMappingReviewRepository reviewRepo) {
+        this.mappingRepo = mappingRepo;
+        this.reviewRepo = reviewRepo;
         this.itineraryRepo = itineraryRepo;
         this.planningRepo = planningRepo;
         this.transportTipRepo = transportTipRepo;
@@ -43,6 +50,7 @@ public class ItineraryService {
     }
 
 
+    @Transactional(readOnly = true)
     public ItineraryRes getBySlug(String slug, String locale) {
         Itinerary itinerary = itineraryRepo.findBySlug(slug).orElse(null);
         if (itinerary == null) {
@@ -64,7 +72,31 @@ public class ItineraryService {
                 .findByItineraryIdAndLocale(itinerary.getId(), locale)
                 .orElse(null);
 
-        return ItineraryRes.toRes(itinerary,planning,transportTip,foodRecommendation,translation);
+        return ItineraryRes.toRes(itinerary,planning,transportTip,foodRecommendation,translation,resolveHotelDestination(itinerary));
+    }
+
+    private HotelDestinationRes resolveHotelDestination(Itinerary itinerary) {
+        Destination destination = itinerary.getDestination();
+        if (destination == null) return null;
+        var review = reviewRepo.findByDestination_IdAndProviderAndEntityType(
+                destination.getId(), ExternalProvider.TRIP_COM, ExternalEntityType.CITY).orElse(null);
+        var mapping = mappingRepo.findByDestination_IdAndProviderAndEntityType(
+                destination.getId(), ExternalProvider.TRIP_COM, ExternalEntityType.CITY).orElse(null);
+        if (review == null && mapping == null) return null;
+        boolean validMapped = review != null && review.getStatus() == DestinationMappingStatus.MAPPED
+                && review.getFallback() == null && mapping != null
+                && mapping.getExternalId() != null && !mapping.getExternalId().isBlank();
+        boolean validSkipped = review != null && review.getStatus() == DestinationMappingStatus.SKIPPED
+                && mapping == null && review.getReason() != null && !review.getReason().isBlank()
+                && review.getFallback() == DestinationMappingFallback.DEFAULT_AFFILIATE_LINK;
+        if (!validMapped && !validSkipped) {
+            log.warn("Inconsistent TRIP_COM/CITY destination decision for itinerary {} and destination {}",
+                    itinerary.getSlug(), destination.getDestinationKey());
+            return null;
+        }
+        return new HotelDestinationRes(destination.getDestinationKey(), destination.getName(),
+                ExternalProvider.TRIP_COM, ExternalEntityType.CITY, review.getStatus(),
+                validMapped ? mapping.getExternalId() : null);
     }
 
     public List<String> getDistinctCountryByRegion(String region) {
