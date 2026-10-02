@@ -32,7 +32,8 @@ public record ItineraryRes(
         List<String> practical,
         List<String> mustTry,
         List<Map<String, String>> areas,
-        List<Map<String, Object>> places
+        List<Map<String, Object>> places,
+        HotelDestinationRes hotelDestination
 ) {
 
     public static ItineraryRes toRes(
@@ -40,7 +41,8 @@ public record ItineraryRes(
             ItineraryPlanningSnapshot planning,
             ItineraryTransportTip transportTip,
             ItineraryFoodRecommendation foodRecommendation,
-            ItineraryTranslation translation
+            ItineraryTranslation translation,
+            HotelDestinationRes hotelDestination
     ) {
         String responseTitle = itinerary.getTitle();
         String responseSummary = itinerary.getSummary();
@@ -101,7 +103,8 @@ public record ItineraryRes(
 
                 foodRecommendation.getMustTry(),
                 foodRecommendation.getAreas(),
-                foodRecommendation.getPlaces()
+                foodRecommendation.getPlaces(),
+                hotelDestination
         );
     }
 
