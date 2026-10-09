@@ -1,6 +1,7 @@
 package com.shortbreakshub.service;
 
 import com.shortbreakshub.controller.CommunityItineraryController;
+import com.shortbreakshub.config.GlobalExceptionHandler;
 import com.shortbreakshub.model.CommunityItinerary;
 import com.shortbreakshub.model.Region;
 import com.shortbreakshub.model.User;
@@ -26,6 +27,7 @@ import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.ArgumentMatchers.eq;
 import static org.mockito.Mockito.lenient;
 import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.never;
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
@@ -49,6 +51,7 @@ class UserItineraryVisibilityTest {
         UserItineraryService service = new UserItineraryService(userRepository, communityItineraryRepository);
         CommunityItineraryController controller = new CommunityItineraryController(service, null);
         mockMvc = MockMvcBuilders.standaloneSetup(controller)
+                .setControllerAdvice(new GlobalExceptionHandler())
                 .setCustomArgumentResolvers(new PageableHandlerMethodArgumentResolver())
                 .build();
     }
@@ -102,16 +105,58 @@ class UserItineraryVisibilityTest {
 
     @Test
     void anonymousCountryDiscoveryDoesNotReturnCountryFromPrivateOnlyRegion() throws Exception {
-        lenient().when(communityItineraryRepository.findDistinctCountryByRegionAndVisibility("OCEANIA", Visibility.PRIVATE))
-                .thenReturn(List.of("Australia"));
-        when(communityItineraryRepository.findDistinctCountryByRegionAndVisibility("OCEANIA", Visibility.PUBLIC))
+        lenient().when(communityItineraryRepository.findItinerariesByRegionAndVisibility("OCEANIA", Visibility.PRIVATE))
+                .thenReturn(List.of(itinerary(9L, "private-australia", "Australia", Visibility.PRIVATE)));
+        when(communityItineraryRepository.findItinerariesByRegionAndVisibility("OCEANIA", Visibility.PUBLIC))
                 .thenReturn(List.of());
 
         mockMvc.perform(get("/api/community-itineraries/region/OCEANIA"))
-                .andExpect(status().isNotFound());
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.length()").value(0));
 
         verify(communityItineraryRepository)
-                .findDistinctCountryByRegionAndVisibility("OCEANIA", Visibility.PUBLIC);
+                .findItinerariesByRegionAndVisibility("OCEANIA", Visibility.PUBLIC);
+    }
+
+    @Test
+    void validEmptyRegionListingReturnsEmptyArray() throws Exception {
+        when(communityItineraryRepository.findItinerariesByRegionAndVisibility("EUROPE", Visibility.PUBLIC))
+                .thenReturn(List.of());
+        mockMvc.perform(get("/api/community-itineraries/europe"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.length()").value(0));
+        verify(communityItineraryRepository).findItinerariesByRegionAndVisibility("EUROPE", Visibility.PUBLIC);
+    }
+
+    @Test
+    void nonEmptyCountryDiscoveryReturnsPublicCountries() throws Exception {
+        when(communityItineraryRepository.findItinerariesByRegionAndVisibility("EUROPE", Visibility.PUBLIC))
+                .thenReturn(List.of(itinerary(10L, "spain", "Spain", Visibility.PUBLIC), itinerary(11L, "france", "France", Visibility.PUBLIC)));
+        mockMvc.perform(get("/api/community-itineraries/region/EUROPE"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.length()").value(2))
+                .andExpect(jsonPath("$[0]").value("Spain"))
+                .andExpect(jsonPath("$[1]").value("France"));
+        verify(communityItineraryRepository).findItinerariesByRegionAndVisibility("EUROPE", Visibility.PUBLIC);
+    }
+
+    @Test
+    void unsupportedRegionRemainsNotFoundOnBothCollections() throws Exception {
+        for (String path : List.of("/api/community-itineraries/UNKNOWN", "/api/community-itineraries/region/UNKNOWN")) {
+            mockMvc.perform(get(path)).andExpect(status().isNotFound())
+                    .andExpect(jsonPath("$.status").value(404));
+        }
+        verify(communityItineraryRepository, never()).findItinerariesByRegionAndVisibility("UNKNOWN", Visibility.PUBLIC);
+    }
+
+    @Test
+    void serverFailuresRemainErrorsOnBothCollections() throws Exception {
+        when(communityItineraryRepository.findItinerariesByRegionAndVisibility("EUROPE", Visibility.PUBLIC))
+                .thenThrow(new IllegalStateException("Synthetic repository failure"));
+        for (String path : List.of("/api/community-itineraries/EUROPE", "/api/community-itineraries/region/EUROPE")) {
+            mockMvc.perform(get(path)).andExpect(status().isInternalServerError())
+                    .andExpect(jsonPath("$.status").value(500));
+        }
     }
 
     @Test
