@@ -4,6 +4,7 @@ import com.shortbreakshub.dto.PublishUserItineraryReq;
 import com.shortbreakshub.dto.UserItineraryRes;
 import com.shortbreakshub.model.CommunityItinerary;
 import com.shortbreakshub.model.Itinerary;
+import com.shortbreakshub.service.CommunityRegionResolver;
 import com.shortbreakshub.service.CloudinaryService;
 import com.shortbreakshub.service.UserItineraryService;
 import jakarta.servlet.http.HttpServletRequest;
@@ -51,29 +52,25 @@ public class CommunityItineraryController {
 
     @GetMapping("/region/{region}")
     public ResponseEntity<Object> getFindDistinctCountryByRegion(@PathVariable String region) {
-        List<String> result = userItineraryService.getDistinctCountryByRegion(region);
-        if (result.isEmpty()) {
-            Map<String, Object> body = Map.of(
-                    "status", 404,
-                    "error", "No countries found for region: " + region
-            );
-            return ResponseEntity.status(404).body(body);
-        } else {
-            return ResponseEntity.ok(result);
-        }
+        if (!isSupportedRegion(region)) return unsupportedRegion(region);
+        return ResponseEntity.ok(userItineraryService.getDistinctCountryByRegion(region));
     }
 
     @GetMapping("/{region}")
     public ResponseEntity<Object> getByRegion(@PathVariable String region) {
-        List<UserItineraryRes> result = userItineraryService.getByRegion(region);
-        if (result.isEmpty()) {
-            Map<String, Object> body = Map.of(
-                    "status", 404,
-                    "error", "No countries found for region: " + region
-            );
-            return ResponseEntity.status(404).body(body);
-        }
-        return ResponseEntity.ok(result);
+        if (!isSupportedRegion(region)) return unsupportedRegion(region);
+        return ResponseEntity.ok(userItineraryService.getByRegion(region));
+    }
+
+    private boolean isSupportedRegion(String region) {
+        return CommunityRegionResolver.resolve(region).isPresent();
+    }
+
+    private ResponseEntity<Object> unsupportedRegion(String region) {
+        return ResponseEntity.status(404).body(Map.of(
+                "status", 404,
+                "error", "No countries found for region: " + region
+        ));
     }
 
     @PostMapping(path = "/upload-itinerary-cover-photo",consumes = MediaType.MULTIPART_FORM_DATA_VALUE)

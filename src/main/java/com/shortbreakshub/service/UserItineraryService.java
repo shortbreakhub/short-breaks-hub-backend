@@ -57,12 +57,20 @@ public class UserItineraryService {
     }
 
     public List<String> getDistinctCountryByRegion(String region) {
-        return userItineraryRepo.findDistinctCountryByRegionAndVisibility(region, Visibility.PUBLIC);
+        return communityResults(region).stream().map(CommunityItinerary::getCountry).distinct().toList();
     }
 
     public List<UserItineraryRes> getByRegion(String region) {
-        return userItineraryRepo.findItinerariesByRegionAndVisibility(region, Visibility.PUBLIC)
-                .stream().map(UserItineraryRes::toRes).toList();
+        return communityResults(region).stream().map(UserItineraryRes::toRes).toList();
     }
 
+    private List<CommunityItinerary> communityResults(String identifier) {
+        var selection = CommunityRegionResolver.resolve(identifier)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Unsupported community region"));
+        return userItineraryRepo.findItinerariesByRegionAndVisibility(selection.region().name(), Visibility.PUBLIC)
+                .stream()
+                .filter(item -> item.getVisibility() == Visibility.PUBLIC && item.getRegion() == selection.region())
+                .filter(item -> selection.includesCountry(item.getCountry()))
+                .toList();
+    }
 }
