@@ -3,6 +3,8 @@
 !pom.xml
 !src/
 !src/**
+!docker/
+!docker/entrypoint.sh
 
 # Local configuration and credentials remain excluded inside src.
 src/main/resources/application.properties

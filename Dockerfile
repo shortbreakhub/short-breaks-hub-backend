@@ -7,11 +7,12 @@ RUN mvn -q -DskipTests package
 
 FROM eclipse-temurin:21-jre
 RUN useradd -ms /bin/bash appuser
+COPY --chmod=0555 docker/entrypoint.sh /app/entrypoint.sh
 USER appuser
 WORKDIR /app
 COPY --from=build /app/target/*-SNAPSHOT.jar app.jar
 EXPOSE 8080
 ENV SPRING_PROFILES_ACTIVE=prod
-ENTRYPOINT ["java","-jar","/app/app.jar"]
+ENTRYPOINT ["/app/entrypoint.sh"]
 
 
