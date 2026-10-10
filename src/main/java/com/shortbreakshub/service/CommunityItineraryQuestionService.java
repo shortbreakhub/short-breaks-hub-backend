@@ -12,6 +12,7 @@ import com.shortbreakshub.repository.CommunityItineraryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
@@ -42,6 +43,8 @@ public class CommunityItineraryQuestionService {
                         HttpStatus.NOT_FOUND,
                         "Community itinerary not found"
                 ));
+
+        requireVisibleItinerary(itinerary.getId(), currentUser.getId());
 
         // 3) Prevent creator from asking themselves a question
         if (itinerary.getUser().getId().equals(currentUser.getId())) {
@@ -113,6 +116,8 @@ public class CommunityItineraryQuestionService {
         }
 
 
+        requireVisibleItinerary(thread.getCommunityItinerary().getId(), currentUser.getId());
+
         if (thread.isClosed()) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Thread is closed");
         }
@@ -159,19 +164,34 @@ public class CommunityItineraryQuestionService {
         return CommunityItineraryQuestionThreadDto.from(saved);
     }
 
-    public List<CommunityItineraryQuestionThreadSummaryDto> getThreadsForItinerary(Long itineraryId) {
+    @Transactional(readOnly = true)
+    public List<CommunityItineraryQuestionThreadSummaryDto> getThreadsForItinerary(Long itineraryId, Long userId) {
+        requireVisibleItinerary(itineraryId, userId);
         return threadRepository.findByCommunityItineraryId(itineraryId)
                 .stream()
                 .map(CommunityItineraryQuestionThreadSummaryDto::from)
                 .toList();
     }
 
-    public CommunityItineraryQuestionThreadDto getThreadById(Long threadId) {
+    @Transactional(readOnly = true)
+    public CommunityItineraryQuestionThreadDto getThreadById(Long itineraryId, Long threadId, Long userId) {
+        requireVisibleItinerary(itineraryId, userId);
         var thread = threadRepository.findById(threadId)
                 .orElseThrow(() ->
                         new ResponseStatusException(HttpStatus.NOT_FOUND, "Thread not found"));
 
+        if (!thread.getCommunityItinerary().getId().equals(itineraryId)) {
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Thread not found");
+        }
         return CommunityItineraryQuestionThreadDto.from(thread);
+    }
+
+    private void requireVisibleItinerary(Long itineraryId, Long userId) {
+        var itinerary = communityItineraryRepository.findById(itineraryId)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Itinerary not found"));
+        if (itinerary.getVisibility() != Visibility.PUBLIC && !itinerary.getUser().getId().equals(userId)) {
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Itinerary not found");
+        }
     }
 
     private void ensureCorrectTurn(

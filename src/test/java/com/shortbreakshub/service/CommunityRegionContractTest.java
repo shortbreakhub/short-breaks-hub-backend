@@ -32,7 +32,7 @@ class CommunityRegionContractTest {
     @BeforeEach
     void setup() {
         repository = mock(CommunityItineraryRepository.class);
-        var service = new UserItineraryService(mock(UserRepository.class), repository);
+        var service = new UserItineraryService(mock(UserRepository.class), repository, mock(DraftCoverUploadService.class));
         mvc = MockMvcBuilders.standaloneSetup(new CommunityItineraryController(service, null))
                 .setControllerAdvice(new GlobalExceptionHandler()).build();
     }

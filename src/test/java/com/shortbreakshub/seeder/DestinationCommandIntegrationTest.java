@@ -26,6 +26,7 @@ class DestinationCommandIntegrationTest extends PostgresTestSupport {
         var source = new DriverManagerDataSource(url, "postgres", "");
         Flyway.configure().dataSource(source).load().migrate();
         var jdbc = new JdbcTemplate(source);
+        int migrationCount = jdbc.queryForObject("select count(*) from flyway_schema_history where success", Integer.class);
         var catalog = new DestinationCatalogLoader(new DefaultResourceLoader()).load("classpath:seed/destinations.json");
         for (var entry : catalog.destinations()) for (var slug : entry.itinerarySlugs()) {
             jdbc.update("insert into itineraries(slug,country,city,region,title,days,price_from) values (?,?,?,?,?,3,0)",
@@ -45,7 +46,7 @@ class DestinationCommandIntegrationTest extends PostgresTestSupport {
                 assertFalse(context instanceof org.springframework.boot.web.context.WebServerApplicationContext);
             }
             assertEquals(mode.equals("apply") ? 201 : 0, jdbc.queryForObject("select count(*) from destinations", Integer.class));
-            assertEquals(9, jdbc.queryForObject("select count(*) from flyway_schema_history where success", Integer.class));
+            assertEquals(migrationCount, jdbc.queryForObject("select count(*) from flyway_schema_history where success", Integer.class));
         }
         assertEquals(190, jdbc.queryForObject("select count(*) from external_destination_mappings", Integer.class));
         assertEquals(11, jdbc.queryForObject("select count(*) from destination_mapping_reviews where status='SKIPPED'", Integer.class));

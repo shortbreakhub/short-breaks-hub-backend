@@ -1,6 +1,6 @@
 package com.shortbreakshub.controller;
 
-import com.shortbreakshub.model.Itinerary;
+import com.shortbreakshub.dto.CommunityFavoriteRes;
 import com.shortbreakshub.service.CommunityItineraryFavoriteService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.data.domain.Page;
@@ -39,8 +39,8 @@ public class CommunityItineraryFavoriteController {
     }
 
     @GetMapping("/{itineraryId}/favorites/count")
-    public Map<String,Long> count(@PathVariable Long itineraryId) {
-        return Map.of("count", communityItineraryFavoriteService.countItineraryFavorites(itineraryId));
+    public Map<String,Long> count(@PathVariable Long itineraryId, HttpServletRequest req) {
+        return Map.of("count", communityItineraryFavoriteService.countItineraryFavorites(itineraryId, (Long) req.getAttribute("authUserId")));
     }
 
     @GetMapping("/{itineraryId}/favorites/me")
@@ -52,7 +52,7 @@ public class CommunityItineraryFavoriteController {
     }
 
     @GetMapping("/me/favorites")
-    public ResponseEntity <Page<Itinerary>> myFavorites(
+    public ResponseEntity <Page<CommunityFavoriteRes>> myFavorites(
             @PageableDefault(size = 12,sort = "createdAt", direction = Sort.Direction.DESC) Pageable pageable,
             HttpServletRequest req
     ) {
