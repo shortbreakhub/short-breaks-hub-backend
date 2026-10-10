@@ -1,7 +1,7 @@
 # Docker build secret exclusion
 
 Build from a checkout with the committed `.dockerignore`. Its allowlist admits
-only `pom.xml` and `src`; explicit exclusions within `src` remove properties files,
+only `pom.xml`, `src` and the specific `docker/entrypoint.sh`; explicit exclusions within `src` remove properties files,
 local/production profile configuration, environment files, credential files,
 private-key/keystore files and nested build/editor output. The legitimate
 `application-destination-import.yml`, migrations, templates and seed data remain.
@@ -33,7 +33,9 @@ credential-like environment variables baked into the final image.
 
 The Dockerfile continues to set `SPRING_PROFILES_ACTIVE=prod`. Spring Boot can bind
 the existing properties from runtime environment variables; no credentials are
-needed to compile the image. Confirm the existing ECS environment supplies:
+needed to compile the image. Alternatively, ECS can inject the complete properties
+document as described in [ECS bootstrap](ecs-properties-bootstrap.md). Confirm the
+existing ECS environment or injected document supplies the equivalent settings:
 
 - `SPRING_DATASOURCE_URL`, `SPRING_DATASOURCE_USERNAME`, `SPRING_DATASOURCE_PASSWORD`
 - `SECURITY_JWT_SECRET`, `SECURITY_JWT_EXPIRYMS`

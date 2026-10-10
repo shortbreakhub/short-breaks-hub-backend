@@ -54,6 +54,12 @@ def check_context(work):
         destination = fixture / name
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_bytes(subprocess.check_output(["git", "show", "HEAD:" + name], cwd=ROOT))
+    entrypoint = ROOT / "docker/entrypoint.sh"
+    if entrypoint.exists():
+        (fixture / "docker").mkdir()
+        (fixture / "docker/entrypoint.sh").write_bytes(entrypoint.read_bytes())
+    (fixture / "docker/.env").parent.mkdir(exist_ok=True)
+    (fixture / "docker/.env").write_bytes(CANARY)
     (fixture / ".dockerignore").write_bytes((ROOT / ".dockerignore").read_bytes())
     for name in FORBIDDEN:
         destination = fixture / name
@@ -64,6 +70,9 @@ def check_context(work):
         str(fixture), input=b"FROM scratch\nCOPY . /\n")
     for name in FORBIDDEN:
         assert not (exported / name).exists(), "Sensitive/unnecessary path entered context: " + name
+    assert not (exported / "docker/.env").exists(), "Entrypoint exception admitted a secret sibling"
+    if entrypoint.exists():
+        assert (exported / "docker/entrypoint.sh").is_file(), "Entrypoint excluded"
     for name in ("pom.xml", "src/main/java/com/shortbreakshub/ShortbreakhubApplication.java",
                  "src/main/resources/db/migration/V10__add_draft_cover_upload_ownership.sql",
                  "src/main/resources/application-destination-import.yml"):
@@ -117,7 +126,7 @@ def check_image(work, image):
     assert CANARY not in metadata, "Synthetic secret in image metadata"
     for variable in json.loads(metadata)[0]["Config"].get("Env", []):
         name, _, value = variable.partition("=")
-        if any(marker in name.upper() for marker in ("PASSWORD", "SECRET", "TOKEN", "API_KEY", "ACCESS_KEY")):
+        if name == "APP_CONFIG_PROPERTIES" or any(marker in name.upper() for marker in ("PASSWORD", "SECRET", "TOKEN", "API_KEY", "ACCESS_KEY")):
             assert not value, "Credential-like environment variable baked into image: " + name
     print("PASS: all final-image layers and application JAR exclude sensitive configuration")
 
