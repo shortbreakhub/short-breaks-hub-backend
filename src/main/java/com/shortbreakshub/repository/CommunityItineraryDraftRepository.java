@@ -14,4 +14,6 @@ public interface CommunityItineraryDraftRepository extends JpaRepository<Communi
 
     Optional<CommunityItineraryDraft> findByIdAndUser_Id(long id,long userId);
 
+    boolean existsByUser_IdAndCoverPhoto(Long userId, String coverPhoto);
+
 }

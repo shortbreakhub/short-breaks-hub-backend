@@ -24,7 +24,7 @@ class DestinationMigrationTest extends PostgresTestSupport {
         jdbc.update("insert into itineraries(slug,country,city,region,title,days) values ('existing-trip','Country','City','region','Original title',3)");
         Long id = jdbc.queryForObject("select id from itineraries where slug='existing-trip'", Long.class);
         assertEquals(0, jdbc.queryForObject("select count(*) from information_schema.columns where table_name='itineraries' and column_name='destination_id'", Integer.class));
-        var migrated = Flyway.configure().dataSource(source).load().migrate();
+        var migrated = Flyway.configure().dataSource(source).target("9").load().migrate();
         assertEquals(1, migrated.migrationsExecuted);
         assertEquals(id, jdbc.queryForObject("select id from itineraries where slug='existing-trip'", Long.class));
         assertEquals("Original title", jdbc.queryForObject("select title from itineraries where slug='existing-trip'", String.class));
@@ -45,7 +45,7 @@ class DestinationMigrationTest extends PostgresTestSupport {
             statement.execute("CREATE DATABASE " + database);
         }
         var source = new DriverManagerDataSource("jdbc:postgresql://localhost:" + POSTGRES.getPort() + "/" + database, "postgres", "");
-        var result = Flyway.configure().dataSource(source).load().migrate();
+        var result = Flyway.configure().dataSource(source).target("9").load().migrate();
         assertEquals(9, result.migrationsExecuted);
         var jdbc = new JdbcTemplate(source);
         assertEquals(0, jdbc.queryForObject("select count(*) from destinations", Integer.class));

@@ -4,7 +4,7 @@ package com.shortbreakshub.controller;
 import com.shortbreakshub.dto.CommunityItineraryDraftRes;
 import com.shortbreakshub.dto.DraftUserItineraryReq;
 import com.shortbreakshub.model.CommunityItineraryDraft;
-import com.shortbreakshub.service.CloudinaryService;
+import com.shortbreakshub.service.DraftCoverUploadService;
 import com.shortbreakshub.service.CommunityItineraryDraftService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
@@ -23,7 +23,7 @@ import java.util.Map;
 public class CommunityItineraryDraftController {
 
     private final CommunityItineraryDraftService draftService;
-    private final CloudinaryService cloudinaryService;
+    private final DraftCoverUploadService coverUploads;
 
     private String generateSlug(String title) {
         String slug = "";
@@ -58,9 +58,9 @@ public class CommunityItineraryDraftController {
     }
 
 
-    public CommunityItineraryDraftController(CommunityItineraryDraftService draftService, CloudinaryService cloudinaryService) {
+    public CommunityItineraryDraftController(CommunityItineraryDraftService draftService, DraftCoverUploadService coverUploads) {
         this.draftService = draftService;
-        this.cloudinaryService = cloudinaryService;
+        this.coverUploads = coverUploads;
     }
 
     @GetMapping(path = "/count")
@@ -79,7 +79,7 @@ public class CommunityItineraryDraftController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
 
-        String itineraryPhotoUrl = cloudinaryService.uploadImage(file);
+        String itineraryPhotoUrl = coverUploads.upload(userId, file);
         return ResponseEntity.ok(itineraryPhotoUrl);
     }
 
@@ -92,15 +92,7 @@ public class CommunityItineraryDraftController {
         if (userId == null) {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
-        System.out.println(photoCoverUrl);
-        if (photoCoverUrl != null && !photoCoverUrl.isEmpty() && cloudinaryService.isCloudinaryFileExists(photoCoverUrl)) {
-            cloudinaryService.deleteImage(photoCoverUrl);
-        }
-        else{
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
-        }
-
-        String draftPhotoUrl = cloudinaryService.uploadImage(file);
+        String draftPhotoUrl = coverUploads.replace(userId, photoCoverUrl, file);
         return ResponseEntity.ok(draftPhotoUrl);
     }
 
@@ -129,7 +121,7 @@ public class CommunityItineraryDraftController {
         if (userId == null) {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
-        return ResponseEntity.ok(draftService.getDraftByDraftId(draftId));
+        return ResponseEntity.ok(draftService.getOwnedDraft(draftId, userId));
     }
 
     @PutMapping(path = "/{draftId}")
@@ -141,16 +133,9 @@ public class CommunityItineraryDraftController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
 
-        if(!draftService.isDraftExist(draftId)){
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
-        }
-
-        if(!draftService.isDraftBelongsToUser(draftId,userId)){
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
-        }
-
         draftService.updateDraft(
                 draftId,
+                userId,
                 generateSlug(draft.title()),
                 draft.country(),
                 draft.region(),
@@ -176,24 +161,7 @@ public class CommunityItineraryDraftController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
 
-        if(!draftService.isDraftExist(draftId)){
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
-        }
-
-
-        if(!draftService.isDraftBelongsToUser(draftId,userId)){
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
-        }
-
-        String existingCoverUrl = draftService.getDraftByDraftId(draftId).coverPhoto();
-        if(cloudinaryService.isCloudinaryFileExists(existingCoverUrl)){
-            cloudinaryService.deleteImage(existingCoverUrl);
-        }
-        else {
-            throw new IOException("Cloudinary file could not be deleted.");
-        }
-
-        draftService.deleteDraft(draftId);
+        draftService.deleteOwnedDraft(draftId, userId);
 
         return ResponseEntity.ok(Map.of("msg","Draft has been deleted."));
     }

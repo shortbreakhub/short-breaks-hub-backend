@@ -5,7 +5,7 @@ import com.shortbreakshub.dto.UserItineraryRes;
 import com.shortbreakshub.model.CommunityItinerary;
 import com.shortbreakshub.model.Itinerary;
 import com.shortbreakshub.service.CommunityRegionResolver;
-import com.shortbreakshub.service.CloudinaryService;
+import com.shortbreakshub.service.DraftCoverUploadService;
 import com.shortbreakshub.service.UserItineraryService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
@@ -28,11 +28,11 @@ import java.util.Map;
 public class CommunityItineraryController {
 
     private final UserItineraryService userItineraryService;
-    private final CloudinaryService cloudinaryService;
+    private final DraftCoverUploadService coverUploads;
 
-    public CommunityItineraryController(UserItineraryService userItineraryService, CloudinaryService cloudinaryService) {
+    public CommunityItineraryController(UserItineraryService userItineraryService, DraftCoverUploadService coverUploads) {
         this.userItineraryService = userItineraryService;
-        this.cloudinaryService = cloudinaryService;
+        this.coverUploads = coverUploads;
     }
 
     @GetMapping("/slug/{slug}")
@@ -80,7 +80,7 @@ public class CommunityItineraryController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
 
-        String itineraryPhotoUrl = cloudinaryService.uploadImage(file);
+        String itineraryPhotoUrl = coverUploads.upload(userId, file);
         return ResponseEntity.ok(itineraryPhotoUrl);
     }
 

@@ -68,17 +68,17 @@ public class CommunityItineraryQuestionController {
 
     @GetMapping("/{itineraryId}/question-threads")
     public ResponseEntity<List<CommunityItineraryQuestionThreadSummaryDto>> getThreads(
-            @PathVariable Long itineraryId
+            @PathVariable Long itineraryId, HttpServletRequest request
     ) {
-        return ResponseEntity.ok(questionService.getThreadsForItinerary(itineraryId));
+        return ResponseEntity.ok(questionService.getThreadsForItinerary(itineraryId, (Long) request.getAttribute("authUserId")));
     }
 
     @GetMapping("/{itineraryId}/question-threads/{threadId}")
     public ResponseEntity<CommunityItineraryQuestionThreadDto> getThread(
             @PathVariable Long itineraryId,
-            @PathVariable Long threadId
+            @PathVariable Long threadId, HttpServletRequest request
     ) {
-        return ResponseEntity.ok(questionService.getThreadById(threadId));
+        return ResponseEntity.ok(questionService.getThreadById(itineraryId, threadId, (Long) request.getAttribute("authUserId")));
     }
 
 }

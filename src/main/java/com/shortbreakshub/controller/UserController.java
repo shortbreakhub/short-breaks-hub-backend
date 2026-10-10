@@ -2,7 +2,7 @@ package com.shortbreakshub.controller;
 
 import com.shortbreakshub.dto.*;
 import com.shortbreakshub.model.User;
-import com.shortbreakshub.service.CloudinaryService;
+import com.shortbreakshub.service.DraftCoverUploadService;
 import com.shortbreakshub.service.UserService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
@@ -19,11 +19,11 @@ import java.io.IOException;
 @RequestMapping("/api/auth")
 public class UserController {
     private final UserService userService;
-    private final CloudinaryService cloudinaryService;
+    private final DraftCoverUploadService coverUploads;
 
-    public UserController(UserService userService, CloudinaryService cloudinaryService) {
+    public UserController(UserService userService, DraftCoverUploadService coverUploads) {
         this.userService = userService;
-        this.cloudinaryService = cloudinaryService;
+        this.coverUploads = coverUploads;
     }
 
     @PostMapping("/register")
@@ -40,7 +40,7 @@ public class UserController {
         if (userId == null) {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
         }
-        String avatarUrl = cloudinaryService.uploadImage(file);
+        String avatarUrl = coverUploads.upload(userId, file);
         return ResponseEntity.ok(avatarUrl);
     }
 

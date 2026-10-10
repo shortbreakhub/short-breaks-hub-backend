@@ -18,10 +18,12 @@ public class UserItineraryService {
 
     private final UserRepository userRepo;
     private final CommunityItineraryRepository userItineraryRepo;
+    private final DraftCoverUploadService coverUploads;
 
-    public UserItineraryService(UserRepository userRepo, CommunityItineraryRepository userItineraryRepo) {
+    public UserItineraryService(UserRepository userRepo, CommunityItineraryRepository userItineraryRepo, DraftCoverUploadService coverUploads) {
         this.userRepo = userRepo;
         this.userItineraryRepo = userItineraryRepo;
+        this.coverUploads = coverUploads;
     }
 
     public UserItineraryRes getBySlug(String slug) {
@@ -40,6 +42,7 @@ public class UserItineraryService {
                                 Region region, int days, String title,
                                 String summary, String coverPhoto, String highlights,
                                 Visibility visibility, Float estimatedCost, List<UserDayPlan> dayPlans) {
+        coverUploads.validateReference(userId, coverPhoto);
         CommunityItinerary communityItinerary = new CommunityItinerary();
         communityItinerary.setUser(userRepo.getReferenceById(userId));
         communityItinerary.setSlug(slug);

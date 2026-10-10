@@ -48,7 +48,7 @@ class UserItineraryVisibilityTest {
 
     @BeforeEach
     void setUp() {
-        UserItineraryService service = new UserItineraryService(userRepository, communityItineraryRepository);
+        UserItineraryService service = new UserItineraryService(userRepository, communityItineraryRepository, org.mockito.Mockito.mock(DraftCoverUploadService.class));
         CommunityItineraryController controller = new CommunityItineraryController(service, null);
         mockMvc = MockMvcBuilders.standaloneSetup(controller)
                 .setControllerAdvice(new GlobalExceptionHandler())

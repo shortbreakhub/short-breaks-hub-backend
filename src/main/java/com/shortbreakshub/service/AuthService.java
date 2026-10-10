@@ -48,7 +48,10 @@ public class AuthService {
             throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "Missing token");
         }
 
-        Long userId = (long) request.getAttribute("authUserId");
+        Long userId = (Long) request.getAttribute("authUserId");
+        if (userId == null) {
+            throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "Invalid token");
+        }
 
         var user = users.findById(userId)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.UNAUTHORIZED, "User not found"));

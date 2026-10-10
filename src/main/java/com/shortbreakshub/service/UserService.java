@@ -18,17 +18,17 @@ import java.io.IOException;
 public class UserService {
     private final UserRepository repo;
     private final BCryptPasswordEncoder enc = new BCryptPasswordEncoder();
-    private final CloudinaryService cloudinaryService;
+    private final DraftCoverUploadService coverUploads;
     private final EmailService emailService;
     private final EmailVerificationService token;
 
     @Value("${app.public-base-url}")
     private String publicBaseUrl;
 
-    public UserService(UserRepository repo, CloudinaryService cloudinaryService,
+    public UserService(UserRepository repo, DraftCoverUploadService coverUploads,
                        EmailService emailService, EmailVerificationService token) {
         this.repo = repo;
-        this.cloudinaryService = cloudinaryService;
+        this.coverUploads = coverUploads;
         this.emailService = emailService;
         this.token = token;
     }
@@ -73,12 +73,12 @@ public class UserService {
     public MeResponse updateOwnAvatarById(Long userId, UpdateAvatarReq req) throws IOException {
         var user = repo.findById(userId)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.UNAUTHORIZED, "User not found"));
-        if ((!req.avatarUrl().isBlank()) && cloudinaryService.isCloudinaryFileExists(req.avatarUrl()))  {
-            if (!(user.getAvatarUrl() == null)){
-                cloudinaryService.deleteImage(user.getAvatarUrl());
-            }
-            user.setAvatarUrl(req.avatarUrl());
+        if (req.avatarUrl() == null || req.avatarUrl().isBlank()) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Avatar URL required");
         }
+        coverUploads.validateAssignment(userId, req.avatarUrl(), user.getAvatarUrl());
+        user.setAvatarUrl(req.avatarUrl());
+        // Preserve all previous assets; avatar replacement must not bypass cover retention.
         repo.save(user);
         return MeResponse.from(user);
     }
