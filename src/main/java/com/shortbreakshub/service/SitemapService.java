@@ -36,7 +36,8 @@ public class SitemapService {
         itineraries.stream()
                 .map(ItinerarySitemapProjection::getRegion)
                 .filter(SitemapService::isUsableSegment)
-                .map(region -> "/" + encodeSegment(region.toLowerCase(Locale.ROOT)))
+                .map(SitemapService::regionPath)
+                .filter(Objects::nonNull)
                 .forEach(paths::add);
 
         Map<String, List<ItinerarySitemapProjection>> byCountry = itineraries.stream()
@@ -56,6 +57,14 @@ public class SitemapService {
                 .forEach(paths::add);
 
         return writeXml(paths);
+    }
+
+    private static String regionPath(String region) {
+        return switch (region.toLowerCase(Locale.ROOT)) {
+            case "oceania" -> "/Oceania";
+            case "south_america" -> null; // No approved canonical destination for this obsolete alias.
+            default -> "/" + encodeSegment(region.toLowerCase(Locale.ROOT));
+        };
     }
 
     private static String countryPath(String country) {

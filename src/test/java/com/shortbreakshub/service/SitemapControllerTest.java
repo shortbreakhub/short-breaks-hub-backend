@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
+import org.junit.jupiter.params.provider.ValueSource;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.http.MediaType;
@@ -170,6 +171,64 @@ class SitemapControllerTest {
 
         assertEquals(urls.stream().sorted().toList(), urls);
         assertEquals(urls.size(), new HashSet<>(urls).size());
+    }
+
+    @ParameterizedTest
+    @ValueSource(strings = {"oceania", "Oceania", "OCEANIA"})
+    void oceaniaUsesExactCanonicalCasing(String region) throws Exception {
+        when(itineraryRepository.findSitemapLocations())
+                .thenReturn(List.of(new Row("australia-trip", region, "Australia")));
+
+        Set<String> urls = sitemapUrls();
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/Oceania"));
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/oceania"));
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/australia"));
+        assertTrue(urls.contains(CANONICAL_ORIGIN + "/itinerary/australia-trip"));
+    }
+
+    @ParameterizedTest
+    @ValueSource(strings = {"south_america", "South_America", "SOUTH_AMERICA"})
+    void obsoleteSouthAmericaRegionIsExcludedWithoutRemovingCountryOrItinerary(String region) throws Exception {
+        when(itineraryRepository.findSitemapLocations())
+                .thenReturn(List.of(new Row("brazil-trip", region, "Brazil")));
+
+        assertEquals(Set.of(CANONICAL_ORIGIN + "/", CANONICAL_ORIGIN + "/contact",
+                CANONICAL_ORIGIN + "/privacy", CANONICAL_ORIGIN + "/terms",
+                CANONICAL_ORIGIN + "/browse/brazil", CANONICAL_ORIGIN + "/itinerary/brazil-trip"), sitemapUrls());
+    }
+
+    @Test
+    void canonicalRegionAliasesAreDeduplicatedAndOtherEntriesRemainIntact() throws Exception {
+        when(itineraryRepository.findSitemapLocations()).thenReturn(List.of(
+                new Row("australia-trip", "oceania", "Australia"),
+                new Row("australia-trip", "Oceania", "Australia"),
+                new Row("new-zealand-trip", "OCEANIA", "New Zealand"),
+                new Row("france-trip", "europe", "France"),
+                new Row("japan-trip", "asia", "Japan"),
+                new Row("kenya-trip", "africa", "Kenya"),
+                new Row("canada-trip", "americas", "Canada"),
+                new Row("brazil-trip", "south_america", "Brazil")));
+
+        List<String> urls = parseUrlList(responseXml()); // Also verifies well-formed XML and sitemap namespace.
+        assertEquals(1, urls.stream().filter(url -> url.equals(CANONICAL_ORIGIN + "/Oceania")).count());
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/oceania"));
+        assertFalse(urls.contains(CANONICAL_ORIGIN + "/south_america"));
+        for (String region : List.of("europe", "asia", "africa", "americas")) {
+            assertTrue(urls.contains(CANONICAL_ORIGIN + "/" + region));
+        }
+        for (String country : List.of("australia", "new-zealand", "france", "japan", "kenya", "canada", "brazil")) {
+            assertTrue(urls.contains(CANONICAL_ORIGIN + "/browse/" + country));
+        }
+        for (String slug : List.of("australia-trip", "new-zealand-trip", "france-trip", "japan-trip", "kenya-trip", "canada-trip", "brazil-trip")) {
+            assertTrue(urls.contains(CANONICAL_ORIGIN + "/itinerary/" + slug));
+        }
+        assertEquals(urls.size(), new HashSet<>(urls).size());
+        for (String url : urls) {
+            var uri = java.net.URI.create(url);
+            assertTrue(uri.isAbsolute());
+            assertEquals("https", uri.getScheme());
+            assertEquals("www.shortbreakhub.com", uri.getHost());
+        }
     }
 
     private String responseXml() throws Exception {
