@@ -258,4 +258,24 @@ class UserPrivacyOwnershipTest {
         draftService.updateDraft(9L,1L,"private","Synthetic","EUROPE",2,"Private","Summary",d.getCoverPhoto(),null,Visibility.PRIVATE,1f,List.of());verify(drafts).save(d);verifyNoInteractions(cloudinary);
     }
 
+    @ParameterizedTest
+    @org.junit.jupiter.params.provider.ValueSource(strings = {
+            "https://res.cloudinary.com/synthetic/image/upload/v1/legacy-cover.jpg",
+            "https://legacy.invalid/cover.jpg"
+    })
+    void legacyPublicationReturnsSafe404BeforeAnyItineraryWrite(String legacyUrl) throws Exception {
+        String payload = json.writeValueAsString(Map.of(
+                "title", "Legacy itinerary title", "country", "Synthetic", "region", "EUROPE", "days", 2,
+                "summary", "A sufficiently long summary for a valid publication request.",
+                "coverPhoto", legacyUrl, "userDayPlan", List.of(), "visibility", "PUBLIC"));
+        mvc.perform(post("/api/community-itineraries/publish-itinerary")
+                .header("Authorization", bearer(1)).contentType("application/json").content(payload))
+                .andExpect(status().isNotFound())
+                .andExpect(jsonPath("$.status").value(404))
+                .andExpect(jsonPath("$.message").value("Image unavailable"));
+        verify(itineraries, never()).save(any());
+        verifyNoInteractions(users, cloudinary);
+        verify(uploads, never()).saveAndFlush(any());
+    }
+
 }

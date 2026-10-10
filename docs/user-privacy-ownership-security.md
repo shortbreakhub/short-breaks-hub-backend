@@ -45,6 +45,86 @@ legacy, including encoded variants. Unknown pending uploads without a trusted
 record or existing owned legacy reference must be uploaded again. Publishing a
 legacy draft requires a fresh verified upload; a legacy URL is not ownership proof.
 
+## PR #21 legacy-cover compatibility review
+
+The restrictive publication behavior implements the approved fail-closed asset
+identity requirement. It does not infer asset ownership from an owned draft,
+published itinerary, avatar or client URL. The prior approval required preserving
+legacy references where possible; it did not approve an ownership backfill or a
+new published-itinerary update contract. Frontend readiness is a separate release
+condition and has not been established by backend tests.
+
+### Existing published itineraries
+
+Existing published rows and cover URLs remain readable and are not rewritten or
+deleted. `UserItineraryService.publishOrUpdate()` (lines 41–61) creates a new entity
+without an ID, slug lookup or owner-scoped update. This behavior predates P0.
+Despite its name, it is not a supported update operation. Submitting an existing
+slug with a verified cover can hit the existing unique constraint (HTTP 400);
+submitting an unknown legacy cover is rejected first (HTTP 404). Neither path
+updates the existing published image. An actual update endpoint would require a
+separate approved resource identity/owner design; do not work around this by
+trusting a submitted slug or cover URL.
+
+### User-facing legacy limitation
+
+An existing owned legacy draft can be read, saved with its exact unchanged cover,
+replaced using a new uploaded file, or deleted without physical image deletion.
+It cannot be published using the legacy URL alone. The user needs the image file
+again, or must choose a different image, and upload it through the authenticated
+cover endpoint before publication. A previous preview or URL is insufficient.
+Suggested user message: “Please upload a cover image before publishing this older
+draft. Your existing draft and image will remain available.”
+
+Unknown legacy references, foreign managed images and failed identity verification
+return the existing generic HTTP 404 ApiError with message `Image unavailable`.
+This avoids disclosing asset existence or ownership. Missing/invalid credentials
+return 401. No new API error contract or automatic legacy ownership is introduced.
+The client must not equate this publication 404 with a missing/deleted draft.
+
+### Required frontend handling (not implemented in this backend PR)
+
+Review of the available frontend checkout found:
+
+- `src/components/CreateItineraryForm.jsx:207–218` always calls photo upload before
+  publication, even when resuming a draft without selecting a new file. The nested
+  publication promise is not returned/awaited, so its rejection bypasses the
+  outer catch. Upload errors are only logged; no actionable legacy guidance is
+  shown. A fresh selected file supplies the trusted URL and can satisfy the
+  backend policy, but failure recovery is incomplete.
+- `src/components/CreateItineraryForm.jsx:160–170` ignores the replacement URL
+  returned by the backend and then saves the old payload URL. It also does not
+  return/await the nested update or catch failures. The newly uploaded cover may
+  become an orphan while the old reference remains, even when success is shown.
+- `src/components/CreateItineraryForm.jsx:277–282` restores the legacy preview
+  when loading a draft; that preview is not a selected upload file.
+- `src/api.js:136–145,171–178` already returns the uploaded URL/publication promise;
+  existing helper contracts can support the required correction.
+
+Before release, the frontend owner must require a fresh file for an older draft
+(or use a previously verified new upload), await the upload and subsequent save/
+publish in one error-handled chain, put the returned URL into both the outgoing
+payload and form state, and show success only after persistence succeeds. On 404
+show safe re-upload/retry guidance and preserve the draft, fields, selected file
+and preview. Reset loading in finally; do not clear previews on a failed publish.
+Never try to claim a legacy asset by changing its URL or passing a user ID.
+
+The smallest secure correction is this frontend workflow/error-handling change.
+Backend ownership validation stays intact. No frontend files were changed here,
+and no browser or production workflow test was performed. Releasing without that
+handling leaves a known legacy-draft usability limitation.
+
+### Regression evidence
+
+`UserPrivacyOwnershipTest.legacyPublicationReturnsSafe404BeforeAnyItineraryWrite`
+checks generic 404 responses for old Cloudinary and external legacy URLs, with no
+itinerary write or provider call. The two new integration cases verify existing
+published legacy covers remain readable after rejection and an owned legacy draft
+can publish only after a new verified upload, while its old reference is retained.
+Existing tests cover unchanged legacy draft/avatar retention, safe legacy
+replacement, foreign URL variants and migration legacy preservation. All database
+checks use embedded PostgreSQL; Cloudinary calls are mocked.
+
 ## Physical deletion is intentionally deferred
 
 No draft replacement, draft deletion or avatar replacement calls Cloudinary
@@ -80,8 +160,8 @@ No production migration or deployment was performed in this completion.
 
 ## Validation and exact changed-file inventory
 
-Focused security/migration and dependent regression run: 130 tests passed.
-Full backend suite: 192 tests passed, zero failures/errors/skips. Migration coverage includes the new V9-to-V10
+Focused security/migration, compatibility and dependent regression run: 134 tests passed.
+Full backend suite: 196 tests passed, zero failures/errors/skips. Migration coverage includes the new V9-to-V10
 legacy-preservation test and the two historical migration tests. Provider calls
 are mocked and persistence uses embedded PostgreSQL only. No production calls,
 frontend changes or deployment were performed. Delivery commits these P0 files

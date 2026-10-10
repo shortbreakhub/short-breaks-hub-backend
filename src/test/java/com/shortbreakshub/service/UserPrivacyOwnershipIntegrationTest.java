@@ -199,4 +199,47 @@ class UserPrivacyOwnershipIntegrationTest extends PostgresTestSupport {
         assertFalse(comments.existsById(comment.getId()));
     }
 
+    @Autowired UserItineraryService publishing;
+
+    @Test void publishedLegacyCoverRemainsReadableAndCannotBeClaimedThroughPublication() throws Exception {
+        var owner = user(); var existing = itinerary(owner, Visibility.PUBLIC);
+        String originalCover = existing.getCoverPhoto();
+        assertEquals(originalCover, publishing.getBySlug(existing.getSlug()).coverPhoto());
+        mvc.perform(org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post("/api/community-itineraries/publish-itinerary")
+                .header("Authorization", bearer(owner)).contentType("application/json")
+                .content("{\"title\":\"Existing legacy itinerary\",\"country\":\"Synthetic\",\"region\":\"EUROPE\",\"days\":2,\"visibility\":\"PUBLIC\",\"summary\":\"A sufficiently long summary for a valid publication request.\",\"coverPhoto\":\"legacy.jpg\",\"userDayPlan\":[]}"))
+                .andExpect(org.springframework.test.web.servlet.result.MockMvcResultMatchers.status().isNotFound());
+        assertEquals(1, itineraries.findUserItinerariesByUser_Id(owner.getId(), PageRequest.of(0, 12)).getTotalElements());
+        assertEquals(originalCover, publishing.getBySlug(existing.getSlug()).coverPhoto());
+        assertEquals(0, uploads.count());
+        verifyNoInteractions(cloudinary);
+    }
+
+    @Test void legacyDraftMustUseFreshVerifiedUploadBeforePublication() throws Exception {
+        var owner = user(); String suffix = UUID.randomUUID().toString();
+        var draft = new CommunityItineraryDraft(); draft.setUser(owner); draft.setSlug("legacy-" + suffix);
+        draft.setTitle("Legacy title"); draft.setCountry("Synthetic"); draft.setRegion("EUROPE"); draft.setDays(2);
+        draft.setSummary("Legacy summary"); draft.setVisibility(Visibility.PRIVATE); draft.setEstimatedCost(1f);
+        draft.setCoverPhoto("https://legacy.invalid/cover.jpg"); drafts.saveAndFlush(draft);
+        assertEquals(404, assertThrows(ResponseStatusException.class, () -> publishing.publishOrUpdate(
+                owner.getId(), "publication-" + suffix, "Synthetic", Region.EUROPE, 2, "Publication title",
+                "Publication summary", draft.getCoverPhoto(), null, Visibility.PUBLIC, 1f, List.of())).getStatusCode().value());
+        assertEquals(0, itineraries.findUserItinerariesByUser_Id(owner.getId(), PageRequest.of(0, 12)).getTotalElements());
+        assertEquals("https://legacy.invalid/cover.jpg", draftService.getOwnedDraft(draft.getId(), owner.getId()).coverPhoto());
+        var file = new MockMultipartFile("file", "cover.png", "image/png", new byte[]{1});
+        String publicId = "community-draft-covers/" + suffix;
+        String freshUrl = "https://res.cloudinary.com/synthetic/image/upload/v1/" + publicId + ".png";
+        when(cloudinary.uploadDraftCover(file)).thenReturn(new CloudinaryService.UploadedDraftCover("asset-" + suffix, publicId, freshUrl));
+        assertEquals(freshUrl, coverService.replace(owner.getId(), draft.getCoverPhoto(), file));
+        publishing.publishOrUpdate(owner.getId(), "publication-" + suffix, "Synthetic", Region.EUROPE, 2,
+                "Publication title", "Publication summary", freshUrl, null, Visibility.PUBLIC, 1f, List.of());
+        itineraries.flush();
+        assertEquals(freshUrl, publishing.getBySlug("publication-" + suffix).coverPhoto());
+        assertEquals("https://legacy.invalid/cover.jpg", draftService.getOwnedDraft(draft.getId(), owner.getId()).coverPhoto());
+        assertEquals(1, uploads.count());
+        verify(cloudinary).uploadDraftCover(file);
+        verify(cloudinary).matchesDraftCoverAsset(publicId, "asset-" + suffix);
+        verifyNoMoreInteractions(cloudinary);
+    }
+
 }
