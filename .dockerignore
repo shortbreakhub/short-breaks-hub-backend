@@ -1,0 +1,33 @@
+# Only Maven inputs enter the build context.
+**
+!pom.xml
+!src/
+!src/**
+
+# Local configuration and credentials remain excluded inside src.
+src/main/resources/application.properties
+**/*.properties
+**/application-local.*
+**/application-prod.*
+**/application-production.*
+**/.env*
+**/.aws
+**/.ssh
+**/credentials*
+**/secrets*
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.jks
+
+# Nested build output and editor metadata are not Maven inputs.
+**/target
+**/build
+**/node_modules
+**/.idea
+**/.vscode
+**/.settings
+**/*.iml
+**/*.swp
+**/*~
